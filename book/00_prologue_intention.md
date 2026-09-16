@@ -1,4 +1,26 @@
-# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
+# أَلْفُ حَدِيثٍ وَحَدِيثٌ — 1001 Authentic Hadith
+### A Definitive Thematic Compendium of Strictly Authentic Prophetic Traditions
+
+---
+
+### **بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ**
+### **In the Name of Allah, the Entirely Merciful, the Especially Merciful**
+
+**Author & Compiler (المؤلف والجامع والمحقق):**  
+## **Ibrahim Sharif Abubakar (إِبْرَاهِيم شَرِيف أَبُوبَكْر)**
+
+---
+
+## 📖 مُقَدِّمَةُ الْمُؤَلِّفِ (Author's Preface)
+
+> *"All praise is due to Allah, the Lord of the worlds, and may peace and blessings be upon the Messenger of Allah, Muhammad ﷺ, his family, and companions."*
+>
+> This work, **أَلْفُ حَدِيثٍ وَحَدِيثٌ (1001 Authentic Hadith)**, has been prepared as a structured, accessible, and rigorously verified compendium of authentic prophetic wisdom for every student of knowledge, family, and seeker of guidance.
+>
+> Following the tradition of the great hadith scholars of Islam, we inaugurate this collection with the foundational hadith of sincerity and intention (*Hadith al-Niyyah*), asking Allah to accept this work and make it of immense benefit.
+
+---
+
 ## مُقَدِّمَةٌ فِي الْإِخْلَاصِ وَإِحْضَارِ النِّيَّةِ
 ### Prologue: Sincerity & Rectification of Intention
 
