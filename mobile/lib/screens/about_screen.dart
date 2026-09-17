@@ -1,13 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import '../providers/app_provider.dart';
 
 class AboutScreen extends StatelessWidget {
   const AboutScreen({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    final provider = Provider.of<AppProvider>(context);
     final isDark = Theme.of(context).brightness == Brightness.dark;
 
     return Scaffold(
@@ -180,70 +177,6 @@ My Personal Advice to You, Dear Reader:
 4. Steadfastness: Hold fast to the Sunnah in all circumstances.
 
 O Allah, make this work purely for Your Noble Countenance, forgive me, my parents, my teachers, and every reader who learns and practices this light. Amin.''',
-              ),
-            ),
-
-            const SizedBox(height: 24),
-
-            // Typography & Appearance Settings
-            Container(
-              padding: const EdgeInsets.all(18),
-              decoration: BoxDecoration(
-                color: isDark ? const Color(0xFF162238) : Colors.white,
-                borderRadius: BorderRadius.circular(18),
-                border: Border.all(
-                  color: isDark ? Colors.white.withOpacity(0.08) : Colors.black.withOpacity(0.06),
-                ),
-              ),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  const Text(
-                    'Appearance & Typography',
-                    style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
-                  ),
-                  const SizedBox(height: 16),
-
-                  // Arabic Font Size Slider
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      const Text('Arabic Font Size'),
-                      Text(
-                        '${provider.arabicFontSize.toInt()} px',
-                        style: const TextStyle(fontWeight: FontWeight.bold, color: Color(0xFF14B8A6)),
-                      ),
-                    ],
-                  ),
-                  Slider(
-                    value: provider.arabicFontSize,
-                    min: 18,
-                    max: 34,
-                    activeColor: const Color(0xFF0D9488),
-                    onChanged: (val) => provider.setArabicFontSize(val),
-                  ),
-
-                  const SizedBox(height: 10),
-
-                  // English Font Size Slider
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      const Text('English Font Size'),
-                      Text(
-                        '${provider.englishFontSize.toInt()} px',
-                        style: const TextStyle(fontWeight: FontWeight.bold, color: Color(0xFF14B8A6)),
-                      ),
-                    ],
-                  ),
-                  Slider(
-                    value: provider.englishFontSize,
-                    min: 13,
-                    max: 22,
-                    activeColor: const Color(0xFF0D9488),
-                    onChanged: (val) => provider.setEnglishFontSize(val),
-                  ),
-                ],
               ),
             ),
 

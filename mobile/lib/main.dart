@@ -6,6 +6,7 @@ import 'screens/home_screen.dart';
 import 'screens/search_screen.dart';
 import 'screens/bookmarks_screen.dart';
 import 'screens/about_screen.dart';
+import 'screens/settings_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -83,6 +84,7 @@ class _MainTabNavigatorState extends State<MainTabNavigator> {
     SearchScreen(),
     BookmarksScreen(),
     AboutScreen(),
+    SettingsScreen(),
   ];
 
   @override
@@ -116,6 +118,11 @@ class _MainTabNavigatorState extends State<MainTabNavigator> {
             icon: Icon(Icons.info_outline),
             selectedIcon: Icon(Icons.info, color: Color(0xFF14B8A6)),
             label: 'About',
+          ),
+          NavigationDestination(
+            icon: Icon(Icons.tune_outlined),
+            selectedIcon: Icon(Icons.tune_rounded, color: Color(0xFF14B8A6)),
+            label: 'Settings',
           ),
         ],
       ),
