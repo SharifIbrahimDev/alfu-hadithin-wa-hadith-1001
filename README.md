@@ -1,28 +1,28 @@
 # أَلْفُ حَدِيثٍ وَحَدِيثٌ (1001 Authentic Hadith)
 ### A Definitive Thematic Compendium of Strictly Authentic Prophetic Traditions (الْأَحَادِيثُ الصَّحِيحَةُ)
 
-**Author & Compiler (المؤلف والجامع):** **Ibrahim Sharif Abubakar** (*إبراهيم شريف أبوبكر*)  
+**Author & Compiler (المؤلف والجامع والمحقق):** **Ibrahim Sharif Abubakar** (*إبراهيم شريف أبوبكر*)  
 **Source Methodology:** Strictly authentic traditions sourced from Canonical Sunnah Collections (*Sahih al-Bukhari*, *Sahih Muslim*, *Sunan*, *Muwatta Malik*, *Musnad Ahmad*) indexed via *Maktaba Shamela*.
 
 ---
 
-## ✍️ Author's Preface (مقدمة المؤلف)
+## ✍️ Author's Preface & Methodology (مقدمة المؤلف وتوطئة الكتاب)
 
 > *"In the Name of Allah, the Entirely Merciful, the Especially Merciful. All praise is due to Allah, Lord of the worlds, and peace and blessings be upon the final Messenger Muhammad, his family, and companions."*
 > 
-> **أَلْفُ حَدِيثٍ وَحَدِيثٌ (1001 Authentic Hadith)** is a comprehensive thematic encyclopedia meticulously compiled by **Ibrahim Sharif Abubakar**. It presents **1001 rigorously verified, authentic prophetic traditions (*Hadith Sahih*)** arranged across 20 distinct life and spiritual disciplines, preceded by a foundational prologue on intention and sincerity.
+> **أَلْفُ حَدِيثٍ وَحَدِيثٌ (1001 Authentic Hadith)** is a comprehensive thematic encyclopedia that I, **Ibrahim Sharif Abubakar**, have compiled, verified, and annotated to serve as an enduring, accessible treasury of authentic prophetic wisdom. In this work, I present **1001 strictly authenticated traditions (*Hadith Sahih*)** arranged across 20 distinct life and spiritual disciplines, preceded by an author's introduction, methodology, and intention prologue, and concluded with a personal epilogue (*Al-Khatimah*).
 > 
-> Each entry is furnished with full Arabic vocalization (*Tashkeel*), primary narrator, faithful English translation, canonical reference (*Takhrij*), scholarly grading, and practical takeaways for daily life.
+> I have ensured that every single entry is furnished with complete Arabic vocalization (*Tashkeel*), primary narrator, faithful English translation, canonical reference (*Takhrij*), scholarly grading, and practical takeaways for daily life.
 
 ---
 
 ## 📖 Book Structure & Master Table of Contents
 
-The compendium is structured around a foundational **Prologue** on Intention followed by **20 thematic chapters**, each comprising **exactly 50 authentic Hadiths**, culminating in precisely **1001 Hadiths**:
+The compendium is structured around an opening **Muqaddimah, Tamheed & Prologue** on Intention, followed by **20 thematic chapters** (each comprising **exactly 50 authentic Hadiths**), and sealed with the **Author's Khatimah (Epilogue)**:
 
 | # | Chapter / File | Arabic Title | English Title | Hadith Range | Count |
 |---|---|---|---|:---:|:---:|
-| 00 | [`book/00_prologue_intention.md`](./book/00_prologue_intention.md) | مُقَدِّمَةُ الْكِتَابِ: الإِخْلَاصُ وَالنِّيَّةُ | Prologue: Sincerity & Intention | `#0001` | 1 |
+| 00 | [`book/00_prologue_intention.md`](./book/00_prologue_intention.md) | مُقَدِّمَةُ الْكِتَابِ، التَّمْهِيدُ، وَالإِخْلَاصُ وَالنِّيَّةُ | Muqaddimah, Tamheed & Intention Prologue | `#0001` | 1 |
 | 01 | [`book/01_iman_and_creed.md`](./book/01_iman_and_creed.md) | كِتَابُ الإِيمَانِ وَالْعَقِيدَةِ | Book of Faith & Creed | `#0002` – `#0051` | 50 |
 | 02 | [`book/02_purification.md`](./book/02_purification.md) | كِتَابُ الطَّهَارَةِ | Book of Purification | `#0052` – `#0101` | 50 |
 | 03 | [`book/03_prayer.md`](./book/03_prayer.md) | كِتَابُ الصَّلَاةِ | Book of Prayer | `#0102` – `#0151` | 50 |
@@ -43,7 +43,8 @@ The compendium is structured around a foundational **Prologue** on Intention fol
 | 18 | [`book/18_transactions_and_halal_earning.md`](./book/18_transactions_and_halal_earning.md) | كِتَابُ الْمُعَامَلَاتِ وَالْبُيُوعِ وَالْكَسْبِ الْحَلَالِ | Book of Transactions & Halal Earning | `#0852` – `#0901` | 50 |
 | 19 | [`book/19_virtues_and_merits.md`](./book/19_virtues_and_merits.md) | كِتَابُ الْفَضَائِلِ وَالْمَنَاقِبِ | Book of Virtues & Merits | `#0902` – `#0951` | 50 |
 | 20 | [`book/20_tribulations_and_signs_of_hour.md`](./book/20_tribulations_and_signs_of_hour.md) | كِتَابُ الْفِتَنِ وَأَشْرَاطِ السَّاعَةِ وَالْبَعْثِ | Book of Tribulations & Signs of the Hour | `#0952` – `#1001` | 50 |
-| **Total** | **All 21 Sections** | **أَلْفُ حَدِيثٍ وَحَدِيثٌ** | **1001 Authentic Hadiths Complete** | **`#0001` – `#1001`** | **1001** |
+| 21 | [`book/21_epilogue_khatimah.md`](./book/21_epilogue_khatimah.md) | خَاتِمَةُ الْكِتَابِ وَوَصِيَّةُ الْمُؤَلِّفِ | Book Epilogue & Author's Testament | Epilogue | Concluding Text |
+| **Total** | **All 22 Files** | **أَلْفُ حَدِيثٍ وَحَدِيثٌ** | **1001 Authentic Hadiths Complete** | **`#0001` – `#1001`** | **1001 Hadiths** |
 
 ---
 

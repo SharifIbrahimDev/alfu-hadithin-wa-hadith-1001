@@ -228,25 +228,80 @@
 
       <!-- 6. ABOUT VIEW -->
       <section id="view-about" class="view-section">
-        <div class="daily-hero-card" style="text-align: center; padding: 28px 20px;">
+        <div class="daily-hero-card" style="text-align: center; padding: 24px 18px;">
           <div style="font-size: 2.2rem; margin-bottom: 8px;">📖</div>
           <h1 style="font-size: 1.4rem; font-weight: 800; margin-bottom: 4px;">أَلْفُ حَدِيثٍ وَحَدِيثٌ</h1>
-          <div style="font-size: 1.05rem; font-weight: 700; color: var(--accent-primary); margin-bottom: 12px;">1001 Authentic Hadith Compendium</div>
+          <div style="font-size: 1.05rem; font-weight: 700; color: var(--accent-primary); margin-bottom: 14px;">1001 Authentic Hadith Compendium</div>
           
-          <div style="background: rgba(0,0,0,0.2); padding: 12px; border-radius: var(--radius-md); border: 1px solid var(--border-color); margin-bottom: 16px;">
-            <div style="font-size: 0.8rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px;">Author & Compiler</div>
-            <div style="font-size: 1.15rem; font-weight: 800; color: var(--gold-accent); margin-top: 2px;">Ibrahim Sharif Abubakar</div>
-            <div style="font-family: var(--arabic-font); font-size: 1.1rem; color: var(--text-primary);">إِبْرَاهِيم شَرِيف أَبُوبَكْر</div>
+          <!-- Author Card -->
+          <div style="background: rgba(0,0,0,0.2); padding: 14px; border-radius: var(--radius-md); border: 1px solid var(--border-color); margin-bottom: 16px;">
+            <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; font-weight: 700;">AUTHOR & COMPILER • الْمُؤَلِّفُ وَالْجَامِعُ وَالْمُحَقِّقُ</div>
+            <div style="font-size: 1.2rem; font-weight: 800; color: var(--gold-accent); margin-top: 4px;">Ibrahim Sharif Abubakar</div>
+            <div style="font-family: var(--arabic-font); font-size: 1.25rem; font-weight: bold; color: var(--text-primary);">إِبْرَاهِيم شَرِيف أَبُوبَكْر</div>
           </div>
 
-          <p style="font-size: 0.88rem; color: var(--text-secondary); line-height: 1.7; text-align: left; margin-bottom: 14px;">
-            A definitive thematic compendium of <strong>1001 strictly authentic prophetic traditions</strong> (*al-Ahadith as-Sahihah*), curated and verified against canonical Sunnah collections (*Sahih al-Bukhari*, *Sahih Muslim*, *Sunan*, *Muwatta Malik*, *Musnad Ahmad*) indexed via *Maktaba Shamela*.
-          </p>
+          <!-- Scholarly Sections (Muqaddimah, Tamheed, Khatimah) -->
+          <div style="display: flex; flex-direction: column; gap: 10px; margin-bottom: 16px; text-align: left;">
+            
+            <details style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-md); padding: 12px; cursor: pointer;">
+              <summary style="font-weight: 700; color: var(--text-primary); outline: none; display: flex; justify-content: space-between; align-items: center;">
+                <span>📜 Author's Preface (مُقَدِّمَةُ الْمُؤَلِّفِ)</span>
+                <span style="font-size: 0.75rem; color: var(--accent-primary);">Began: 12/03/2024</span>
+              </summary>
+              <div style="margin-top: 12px; font-size: 0.85rem; line-height: 1.7; color: var(--text-secondary); border-top: 1px solid var(--border-color); padding-top: 10px;">
+                <div style="font-family: var(--arabic-font); font-size: 1.05rem; line-height: 1.8; color: var(--text-primary); margin-bottom: 10px;" dir="rtl">
+                  إِنَّ الْحَمْدَ لِلَّهِ، نَحْمَدُهُ وَنَسْتَعِينُهُ وَنَسْتَغْفِرُهُ، وَنَعُوذُ بِاللَّهِ مِنْ شُرُورِ أَنْفُسِنَا وَمِنْ سَيِّئَاتِ أَعْمَالِنَا...<br/>
+                  قَصَدْتُ فِي جَمْعِي لِهَذَا الْكِتَابِ «أَلْفُ حَدِيثٍ وَحَدِيثٌ» أَنْ أُقَدِّمَ لِكُلِّ بَيْتٍ مُسْلِمٍ مَوْسُوعَةً حَدِيثِيَّةً مُهَذَّبَةً تَضُمُّ 1001 حَدِيثٍ صَحِيحٍ مُبَوَّبَةً عَلَى عِشْرِينَ بَابًا.<br/>
+                  وَقَدْ شَرَعْتُ فِي جَمْعِ هَذَا الْكِتَابِ فِي: 12/03/2024م.
+                </div>
+                <p>
+                  <em>"All praise is due to Allah; I praise Him, seek His aid, and ask His forgiveness. I commenced the research and compilation of this compendium—1001 Authentic Hadith (أَلْفُ حَدِيثٍ وَحَدِيثٌ)—on 12/03/2024 (12 March 2024) to provide every Muslim family with an accessible, authenticated treasury of prophetic guidance."</em>
+                </p>
+              </div>
+            </details>
 
-          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; text-align: left; font-size: 0.82rem; margin-top: 16px;">
+            <details style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-md); padding: 12px; cursor: pointer;">
+              <summary style="font-weight: 700; color: var(--text-primary); outline: none; display: flex; justify-content: space-between; align-items: center;">
+                <span>🏛️ My Methodology (تَمْهِيدُ الْكِتَابِ وَمَنْهَجِي)</span>
+                <span style="font-size: 0.8rem; color: var(--accent-primary);">Read</span>
+              </summary>
+              <div style="margin-top: 12px; font-size: 0.85rem; line-height: 1.7; color: var(--text-secondary); border-top: 1px solid var(--border-color); padding-top: 10px;">
+                <div style="font-family: var(--arabic-font); font-size: 1rem; line-height: 1.8; color: var(--text-primary); margin-bottom: 8px;" dir="rtl">
+                  1. اقْتَصَرْتُ حَصْرِيًّا عَلَى الْأَحَادِيثِ الصَّحِيحَةِ وَالثَّابِتَةِ.<br/>
+                  2. قَسَّمْتُ الْكِتَابَ إِلَى 20 بَابًا مَوْضُوعِيًّا مَعَ حَدِيثِ النِّيَّةِ (1001 حَدِيثٍ).<br/>
+                  3. ضَبَطْتُ الْمُتُونَ بِالتَّشْكِيلِ التَّامِّ وَعَزَوْتُ كُلَّ حَدِيثٍ لِمَصَادِرِهِ.
+                </div>
+                <p>
+                  1. I have restricted myself strictly to authenticated (Sahih) narrations.<br/>
+                  2. I have organized 20 thematic chapters of 50 hadiths each + intention prologue (1001 total).<br/>
+                  3. I have fully vocalized Arabic texts, verified canonical references, and derived practical benefits.
+                </p>
+              </div>
+            </details>
+
+            <details style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-md); padding: 12px; cursor: pointer;">
+              <summary style="font-weight: 700; color: var(--text-primary); outline: none; display: flex; justify-content: space-between; align-items: center;">
+                <span>🌟 Author's Epilogue & Testament (خَاتِمَةُ الْكِتَابِ وَوَصِيَّتِي)</span>
+                <span style="font-size: 0.75rem; color: var(--accent-primary);">Completed: 25/06/2026</span>
+              </summary>
+              <div style="margin-top: 12px; font-size: 0.85rem; line-height: 1.7; color: var(--text-secondary); border-top: 1px solid var(--border-color); padding-top: 10px;">
+                <div style="font-family: var(--arabic-font); font-size: 1.05rem; line-height: 1.8; color: var(--text-primary); margin-bottom: 8px;" dir="rtl">
+                  الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ. تَمَّ الْفَرَاغُ مِنْ جَمْعِ الْكِتَابِ وَتَحْرِيرِهِ فِي: 25/06/2026م.<br/>
+                  وَصِيَّتِي لَكَ أَخِي الْقَارِئَ: إِخْلَاصُ النِّيَّةِ، الْعَمَلُ بِالسُّنَّةِ، تَعْلِيمُ الْأَهْلِ وَالْأَبْنَاءِ، وَالِاعْتِصَامُ بِالْوَحْيِ الْمُطَهَّرِ.<br/>
+                  اللَّهُمَّ اجْعَلْ عَمَلِي خَالِصًا لِوَجْهِكَ، وَاغْفِرْ لِي وَلِوَالِدَيَّ وَلِكُلِّ مَنْ قَرَأَ هَذَا الْكِتَابَ.
+                </div>
+                <p>
+                  <em>"All praise belongs to Allah upon completing this work on 25/06/2026 (25 June 2026), begun on 12/03/2024. I counsel all readers to practice what they learn, establish family study circles, and hold firmly to the authentic Sunnah."</em>
+                </p>
+              </div>
+            </details>
+
+          </div>
+
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; text-align: left; font-size: 0.82rem; margin-top: 8px;">
             <div style="background: var(--bg-card); padding: 10px; border-radius: var(--radius-sm); border: 1px solid var(--border-color);">
-              <strong style="color: var(--text-primary); display: block;">21 Chapters</strong>
-              <span style="color: var(--text-muted);">Thematic Classification</span>
+              <strong style="color: var(--text-primary); display: block;">20 Thematic Chapters</strong>
+              <span style="color: var(--text-muted);">+ Prologue & Epilogue</span>
             </div>
             <div style="background: var(--bg-card); padding: 10px; border-radius: var(--radius-sm); border: 1px solid var(--border-color);">
               <strong style="color: var(--text-primary); display: block;">1001 Hadiths</strong>
