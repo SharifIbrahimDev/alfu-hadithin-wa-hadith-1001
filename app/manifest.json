@@ -1,0 +1,22 @@
+{
+  "name": "1001 Authentic Hadith - أَلْفُ حَدِيثٍ وَحَدِيثٌ",
+  "short_name": "1001 Hadith",
+  "description": "A Definitive Thematic Compendium of Strictly Authentic Prophetic Traditions by Ibrahim Sharif Abubakar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B131E",
+  "theme_color": "#0D9488",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

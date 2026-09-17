@@ -1,4 +1,4 @@
-﻿[
+﻿window.BUNDLED_HADITHS = [
 
   {
     "id": 1,
@@ -17018,3 +17018,207 @@
     "benefits_en": "Concluding our compilation of 1001 authentic Prophetic traditions with the timeless glorification and praise of Allah Almighty—the supreme key to filling the Scales of Eternity with boundless light and divine love."
   }
 ]
+;
+window.BUNDLED_CHAPTERS = {
+
+  "book_title": "ألف حديث وحديث - 1001 Authentic Hadith",
+  "author": "Ibrahim Sharif Abubakar",
+  "author_ar": "إبراهيم شريف أبوبكر",
+  "compiler": "Ibrahim Sharif Abubakar",
+  "compiler_ar": "إبراهيم شريف أبوبكر",
+  "edition": "1st Complete Scholarly Edition",
+  "total_hadiths": 1001,
+  "chapters_count": 21,
+  "chapters": [
+    {
+      "id": 0,
+      "filename": "00_prologue_intention.md",
+      "arabic_title": "مُقَدِّمَةٌ فِي الْإِخْلَاصِ وَإِحْضَارِ النِّيَّةِ",
+      "english_title": "Prologue: Sincerity & Intention",
+      "hadith_count": 1,
+      "start_id": 1,
+      "end_id": 1
+    },
+    {
+      "id": 1,
+      "filename": "01_iman_and_creed.md",
+      "arabic_title": "كِتَابُ الْإِيمَانِ وَالْعَقِيدَةِ",
+      "english_title": "Book of Faith & Creed (Hadiths #0002 – #0051)",
+      "hadith_count": 50,
+      "start_id": 2,
+      "end_id": 51
+    },
+    {
+      "id": 2,
+      "filename": "02_purification.md",
+      "arabic_title": "كِتَابُ الطَّهَارَةِ",
+      "english_title": "Book of Purification (Hadiths #0052 – #0101)",
+      "hadith_count": 50,
+      "start_id": 52,
+      "end_id": 101
+    },
+    {
+      "id": 3,
+      "filename": "03_prayer.md",
+      "arabic_title": "كِتَابُ الصَّلَاةِ",
+      "english_title": "Book of Prayer (Hadiths #0102 – #0151)",
+      "hadith_count": 50,
+      "start_id": 102,
+      "end_id": 151
+    },
+    {
+      "id": 4,
+      "filename": "04_zakah_and_charity.md",
+      "arabic_title": "كِتَابُ الزَّكَاةِ وَالصَّدَقَاتِ",
+      "english_title": "Book of Zakah & Charity (Hadiths #0152 – #0201)",
+      "hadith_count": 50,
+      "start_id": 152,
+      "end_id": 201
+    },
+    {
+      "id": 5,
+      "filename": "05_fasting.md",
+      "arabic_title": "كِتَابُ الصِّيَامِ",
+      "english_title": "Book of Fasting (Hadiths #0202 – #0251)",
+      "hadith_count": 50,
+      "start_id": 202,
+      "end_id": 251
+    },
+    {
+      "id": 6,
+      "filename": "06_hajj_and_umrah.md",
+      "arabic_title": "كِتَابُ الْحَجِّ وَالْعُمْرَةِ",
+      "english_title": "Book of Hajj & Umrah (Hadiths #0252 – #0301)",
+      "hadith_count": 50,
+      "start_id": 252,
+      "end_id": 301
+    },
+    {
+      "id": 7,
+      "filename": "07_knowledge.md",
+      "arabic_title": "كِتَابُ الْعِلْمِ",
+      "english_title": "Book of Knowledge (Hadiths #0302 – #0351)",
+      "hadith_count": 50,
+      "start_id": 302,
+      "end_id": 351
+    },
+    {
+      "id": 8,
+      "filename": "08_virtues_of_quran.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0352 | الحديث رقم: 0352",
+      "hadith_count": 50,
+      "start_id": 352,
+      "end_id": 401
+    },
+    {
+      "id": 9,
+      "filename": "09_adhkar_and_supplications.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0402 | الحديث رقم: 0402",
+      "hadith_count": 50,
+      "start_id": 402,
+      "end_id": 451
+    },
+    {
+      "id": 10,
+      "filename": "10_prophetic_invocations.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0452 | الحديث رقم: 0452",
+      "hadith_count": 50,
+      "start_id": 452,
+      "end_id": 501
+    },
+    {
+      "id": 11,
+      "filename": "11_seeking_refuge.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0502 | الحديث رقم: 0502",
+      "hadith_count": 50,
+      "start_id": 502,
+      "end_id": 551
+    },
+    {
+      "id": 12,
+      "filename": "12_repentance_and_istighfar.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0552 | الحديث رقم: 0552",
+      "hadith_count": 50,
+      "start_id": 552,
+      "end_id": 601
+    },
+    {
+      "id": 13,
+      "filename": "13_piety_and_kinship.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0602 | الحديث رقم: 0602",
+      "hadith_count": 50,
+      "start_id": 602,
+      "end_id": 651
+    },
+    {
+      "id": 14,
+      "filename": "14_manners_and_etiquette.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0652 | الحديث رقم: 0652",
+      "hadith_count": 50,
+      "start_id": 652,
+      "end_id": 701
+    },
+    {
+      "id": 15,
+      "filename": "15_forbearance_and_character.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0702 | الحديث رقم: 0702",
+      "hadith_count": 50,
+      "start_id": 702,
+      "end_id": 751
+    },
+    {
+      "id": 16,
+      "filename": "16_asceticism_and_heart_softeners.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0752 | الحديث رقم: 0752",
+      "hadith_count": 50,
+      "start_id": 752,
+      "end_id": 801
+    },
+    {
+      "id": 17,
+      "filename": "17_marriage_and_family.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0802 | الحديث رقم: 0802",
+      "hadith_count": 50,
+      "start_id": 802,
+      "end_id": 851
+    },
+    {
+      "id": 18,
+      "filename": "18_transactions_and_halal_earning.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0852 | الحديث رقم: 0852",
+      "hadith_count": 50,
+      "start_id": 852,
+      "end_id": 901
+    },
+    {
+      "id": 19,
+      "filename": "19_virtues_and_merits.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0902 | الحديث رقم: 0902",
+      "hadith_count": 50,
+      "start_id": 902,
+      "end_id": 951
+    },
+    {
+      "id": 20,
+      "filename": "20_tribulations_and_signs_of_hour.md",
+      "arabic_title": "",
+      "english_title": "Hadith #0952 | الحديث رقم: 0952",
+      "hadith_count": 50,
+      "start_id": 952,
+      "end_id": 1001
+    }
+  ]
+}
+;
