@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import '../models/hadith.dart';
+import '../providers/app_provider.dart';
 import '../screens/hadith_reader_screen.dart';
 
 class HadithListCard extends StatelessWidget {
@@ -10,6 +12,18 @@ class HadithListCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
+
+    // Resolve chapter title from authoritative chapters.json via the provider
+    // so even if chapter_title_en in hadiths.json is stale or wrong, we display
+    // the correct name.
+    final provider = Provider.of<AppProvider>(context, listen: false);
+    final chapter = provider.service.allChapters
+        .where((c) => c.id == hadith.chapterId)
+        .firstOrNull;
+    final chapterLabel = chapter?.englishTitle ??
+        (hadith.chapterTitleEn.isNotEmpty
+            ? hadith.chapterTitleEn
+            : 'Chapter ${hadith.chapterId}');
 
     return Card(
       margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 6),
@@ -84,11 +98,15 @@ class HadithListCard extends StatelessWidget {
                     const SizedBox(height: 6),
                     Row(
                       children: [
-                        Text(
-                          hadith.chapterTitleEn,
-                          style: TextStyle(
-                            fontSize: 11,
-                            color: isDark ? Colors.grey[500] : Colors.grey[600],
+                        Expanded(
+                          child: Text(
+                            chapterLabel,
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                            style: TextStyle(
+                              fontSize: 11,
+                              color: isDark ? Colors.grey[500] : Colors.grey[600],
+                            ),
                           ),
                         ),
                         const SizedBox(width: 8),
