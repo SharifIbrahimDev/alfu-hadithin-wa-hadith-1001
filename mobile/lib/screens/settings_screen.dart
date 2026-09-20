@@ -219,6 +219,125 @@ class SettingsScreen extends StatelessWidget {
             ),
           ),
 
+          // ── AUDIO & VOICE (TTS) ─────────────────────────────────────
+          _SectionHeader(label: 'Audio & Voice (TTS)'),
+
+          SliverToBoxAdapter(
+            child: _SettingsCard(
+              isDark: isDark,
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  _SettingsTileLabel(
+                    icon: Icons.record_voice_over_rounded,
+                    label: 'Default Audio Mode',
+                    subtitle: 'Choose what plays when tapping the Audio button',
+                  ),
+                  const SizedBox(height: 14),
+                  Row(
+                    children: [
+                      Expanded(
+                        child: _TtsModeChip(
+                          label: 'Both (Ar + En)',
+                          icon: Icons.sync_alt_rounded,
+                          selected: provider.ttsMode == TtsPlaybackMode.both,
+                          color: const Color(0xFF0D9488),
+                          onTap: () => provider.setTtsMode(TtsPlaybackMode.both),
+                        ),
+                      ),
+                      const SizedBox(width: 8),
+                      Expanded(
+                        child: _TtsModeChip(
+                          label: 'Arabic 🇸🇦',
+                          icon: Icons.translate_rounded,
+                          selected: provider.ttsMode == TtsPlaybackMode.arabicOnly,
+                          color: const Color(0xFF10B981),
+                          onTap: () => provider.setTtsMode(TtsPlaybackMode.arabicOnly),
+                        ),
+                      ),
+                      const SizedBox(width: 8),
+                      Expanded(
+                        child: _TtsModeChip(
+                          label: 'English 🇬🇧',
+                          icon: Icons.volume_up_rounded,
+                          selected: provider.ttsMode == TtsPlaybackMode.englishOnly,
+                          color: const Color(0xFFF59E0B),
+                          onTap: () => provider.setTtsMode(TtsPlaybackMode.englishOnly),
+                        ),
+                      ),
+                    ],
+                  ),
+
+                  const Divider(height: 24),
+
+                  // Arabic Speech Rate
+                  _SettingsTileLabel(
+                    icon: Icons.speed_rounded,
+                    label: 'Arabic Speech Speed',
+                    subtitle: 'Adjust recitation pace for Arabic text',
+                    trailing: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF10B981).withOpacity(0.15),
+                        borderRadius: BorderRadius.circular(8),
+                      ),
+                      child: Text(
+                        '${provider.arabicSpeechRate.toStringAsFixed(2)}x',
+                        style: const TextStyle(
+                          fontWeight: FontWeight.bold,
+                          color: Color(0xFF10B981),
+                          fontSize: 13,
+                        ),
+                      ),
+                    ),
+                  ),
+                  Slider(
+                    value: provider.arabicSpeechRate,
+                    min: 0.25,
+                    max: 0.85,
+                    divisions: 12,
+                    activeColor: const Color(0xFF10B981),
+                    inactiveColor: const Color(0xFF10B981).withOpacity(0.2),
+                    onChanged: (val) => provider.setArabicSpeechRate(val),
+                  ),
+
+                  const Divider(height: 24),
+
+                  // English Speech Rate
+                  _SettingsTileLabel(
+                    icon: Icons.speed_rounded,
+                    label: 'English Speech Speed',
+                    subtitle: 'Adjust narration pace for English translation',
+                    trailing: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFFF59E0B).withOpacity(0.15),
+                        borderRadius: BorderRadius.circular(8),
+                      ),
+                      child: Text(
+                        '${provider.englishSpeechRate.toStringAsFixed(2)}x',
+                        style: const TextStyle(
+                          fontWeight: FontWeight.bold,
+                          color: Color(0xFFF59E0B),
+                          fontSize: 13,
+                        ),
+                      ),
+                    ),
+                  ),
+                  Slider(
+                    value: provider.englishSpeechRate,
+                    min: 0.25,
+                    max: 0.85,
+                    divisions: 12,
+                    activeColor: const Color(0xFFF59E0B),
+                    inactiveColor: const Color(0xFFF59E0B).withOpacity(0.2),
+                    onChanged: (val) => provider.setEnglishSpeechRate(val),
+                  ),
+                ],
+              ),
+            ),
+          ),
+
           // ── READING PREFERENCES ─────────────────────────────────────
           _SectionHeader(label: 'Reading Preferences'),
 
@@ -352,7 +471,7 @@ class SettingsScreen extends StatelessWidget {
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)),
         title: const Text('Reset Settings?'),
         content: const Text(
-          'This will restore the default theme, font sizes, and all appearance settings.',
+          'This will restore the default theme, font sizes, audio recitation modes, and all appearance settings.',
         ),
         actions: [
           TextButton(
@@ -364,6 +483,9 @@ class SettingsScreen extends StatelessWidget {
               provider.setThemeMode(AppThemeMode.dark);
               provider.setArabicFontSize(22.0);
               provider.setEnglishFontSize(15.0);
+              provider.setTtsMode(TtsPlaybackMode.both);
+              provider.setArabicSpeechRate(0.45);
+              provider.setEnglishSpeechRate(0.50);
               Navigator.pop(ctx);
               ScaffoldMessenger.of(context).showSnackBar(
                 const SnackBar(
@@ -382,6 +504,57 @@ class SettingsScreen extends StatelessWidget {
 }
 
 // ─── Helper Widgets ──────────────────────────────────────────────────────────
+
+class _TtsModeChip extends StatelessWidget {
+  final String label;
+  final IconData icon;
+  final bool selected;
+  final Color color;
+  final VoidCallback onTap;
+
+  const _TtsModeChip({
+    required this.label,
+    required this.icon,
+    required this.selected,
+    required this.color,
+    required this.onTap,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    return GestureDetector(
+      onTap: onTap,
+      child: AnimatedContainer(
+        duration: const Duration(milliseconds: 200),
+        padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 8),
+        decoration: BoxDecoration(
+          color: selected ? color.withOpacity(0.2) : (isDark ? const Color(0xFF0A101D) : const Color(0xFFF1F5F9)),
+          borderRadius: BorderRadius.circular(12),
+          border: Border.all(
+            color: selected ? color : (isDark ? Colors.white.withOpacity(0.06) : Colors.black.withOpacity(0.06)),
+            width: selected ? 2 : 1,
+          ),
+        ),
+        child: Column(
+          children: [
+            Icon(icon, size: 18, color: selected ? color : (isDark ? Colors.grey[400] : Colors.grey[700])),
+            const SizedBox(height: 4),
+            Text(
+              label,
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                fontSize: 11,
+                fontWeight: FontWeight.bold,
+                color: selected ? color : (isDark ? Colors.grey[300] : Colors.grey[800]),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
 
 class _SectionHeader extends StatelessWidget {
   final String label;

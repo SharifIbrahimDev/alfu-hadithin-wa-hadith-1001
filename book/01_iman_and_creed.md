@@ -9,6 +9,8 @@
 
 ---
 
+---
+
 ### Hadith #0002 | الحديث رقم: 0002
 
 #### 🇸🇦 القسم العربي (Arabic Text & Takhrij)
@@ -30,17 +32,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Hadith of Gabriel on Islam, Iman, and Ihsan]**
-**English Translation:**  
-*"Umar ibn al-Khattab (RA) narrated: One day while we were sitting with the Messenger of Allah ﷺ, there appeared before us a man whose clothes were exceedingly white and whose hair was exceedingly black; no signs of travel were visible upon him and none of us knew him. He sat down before the Prophet ﷺ, resting his knees against his and placing his hands on his thighs, saying: "O Muhammad, tell me about Islam." The Messenger of Allah ﷺ replied: *"Islam is to testify that there is no god worthy of worship except Allah and that Muhammad is the Messenger of Allah, to establish the prayer, to give the Zakah, to fast Ramadan, and to perform the pilgrimage to the House if you are able."* The man said: "You have spoken the truth." We were astonished that he asked and then confirmed it. He then asked: "Tell me about Iman (Faith)." The Prophet replied: *"That you believe in Allah, His angels, His books, His messengers, the Last Day, and that you believe in Divine Destiny, both its good and its evil."* He said: "You have spoken the truth. Tell me about Ihsan (Excellence)." The Prophet replied: *"That you worship Allah as though you see Him; and if you cannot see Him, know that He surely sees you."* ... Later the Prophet ﷺ said: *"O Umar, do you know who the questioner was? It was Gabriel, who came to teach you your religion."*
 
-* **Companion Narrator:** عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح مسلم (رقم 8) — الشاملة، وصحيح البخاري بنحوه (رقم 50).
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Hadith of Gabriel on Islam, Iman, and Ihsan]**
+> **English Translation:**  
+> *"Umar ibn al-Khattab (RA) narrated: One day while we were sitting with the Messenger of Allah ﷺ, there appeared before us a man whose clothes were exceedingly white and whose hair was exceedingly black; no signs of travel were visible upon him and none of us knew him. He sat down before the Prophet ﷺ, resting his knees against his and placing his hands on his thighs, saying: "O Muhammad, tell me about Islam." The Messenger of Allah ﷺ replied: *"Islam is to testify that there is no god worthy of worship except Allah and that Muhammad is the Messenger of Allah, to establish the prayer, to give the Zakah, to fast Ramadan, and to perform the pilgrimage to the House if you are able."* The man said: "You have spoken the truth." We were astonished that he asked and then confirmed it. He then asked: "Tell me about Iman (Faith)." The Prophet replied: *"That you believe in Allah, His angels, His books, His messengers, the Last Day, and that you believe in Divine Destiny, both its good and its evil."* He said: "You have spoken the truth. Tell me about Ihsan (Excellence)." The Prophet replied: *"That you worship Allah as though you see Him; and if you cannot see Him, know that He surely sees you."* ... Later the Prophet ﷺ said: *"O Umar, do you know who the questioner was? It was Gabriel, who came to teach you your religion."*
 
 * **Companion Narrator:** عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 8) — الشاملة، وصحيح البخاري بنحوه (رقم 50).
@@ -68,17 +62,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Islam is Built upon Five Pillars]**
-**English Translation:**  
-*"Ibn 'Umar (RA) narrated that the Messenger of Allah ﷺ said: *"Islam is built upon five [pillars]: testifying that there is no god worthy of worship except Allah and that Muhammad is the Messenger of Allah, establishing the prayer, paying the Zakah, performing Hajj, and fasting Ramadan."*
 
-* **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُمَا.
-* **Canonical Reference:** صحيح البخاري (رقم 8)، صحيح مسلم (رقم 16) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Islam is Built upon Five Pillars]**
+> **English Translation:**  
+> *"Ibn 'Umar (RA) narrated that the Messenger of Allah ﷺ said: *"Islam is built upon five [pillars]: testifying that there is no god worthy of worship except Allah and that Muhammad is the Messenger of Allah, establishing the prayer, paying the Zakah, performing Hajj, and fasting Ramadan."*
 
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 8)، صحيح مسلم (رقم 16) — المكتبة الشاملة.
@@ -107,17 +93,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Branches of Faith and the Merit of Modesty]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Faith has over seventy—or over sixty—branches. The highest of them is the declaration: 'There is no god worthy of worship except Allah,' and the lowest is removing a harmful obstacle from the road; and modesty (Haya') is a branch of faith."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 9)، صحيح مسلم (رقم 35) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Branches of Faith and the Merit of Modesty]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Faith has over seventy—or over sixty—branches. The highest of them is the declaration: 'There is no god worthy of worship except Allah,' and the lowest is removing a harmful obstacle from the road; and modesty (Haya') is a branch of faith."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 9)، صحيح مسلم (رقم 35) — المكتبة الشاملة.
@@ -145,17 +123,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Tasting the Sweetness of Faith]**
-**English Translation:**  
-*"Anas ibn Malik (RA) narrated that the Prophet ﷺ said: *"Whoever possesses three qualities will experience the sweetness of faith: that Allah and His Messenger are more beloved to him than anything else; that he loves a person solely for the sake of Allah; and that he hates to return to disbelief just as he would hate to be cast into the Fire."*
 
-* **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 16)، صحيح مسلم (رقم 43) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Tasting the Sweetness of Faith]**
+> **English Translation:**  
+> *"Anas ibn Malik (RA) narrated that the Prophet ﷺ said: *"Whoever possesses three qualities will experience the sweetness of faith: that Allah and His Messenger are more beloved to him than anything else; that he loves a person solely for the sake of Allah; and that he hates to return to disbelief just as he would hate to be cast into the Fire."*
 
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 16)، صحيح مسلم (رقم 43) — المكتبة الشاملة.
@@ -183,17 +153,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Obligation of Loving the Prophet ﷺ Above All Creation]**
-**English Translation:**  
-*"Anas (RA) reported that the Prophet ﷺ said: *"None of you truly believes until I am more beloved to him than his father, his child, and all of mankind."*
 
-* **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 15)، صحيح مسلم (رقم 44) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Obligation of Loving the Prophet ﷺ Above All Creation]**
+> **English Translation:**  
+> *"Anas (RA) reported that the Prophet ﷺ said: *"None of you truly believes until I am more beloved to him than his father, his child, and all of mankind."*
 
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 15)، صحيح مسلم (رقم 44) — المكتبة الشاملة.
@@ -221,17 +183,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Loving for One's Brother What One Loves for Oneself]**
-**English Translation:**  
-*"Anas (RA) reported that the Prophet ﷺ said: *"None of you truly believes until he loves for his brother what he loves for himself."*
 
-* **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 13)، صحيح مسلم (رقم 45) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Loving for One's Brother What One Loves for Oneself]**
+> **English Translation:**  
+> *"Anas (RA) reported that the Prophet ﷺ said: *"None of you truly believes until he loves for his brother what he loves for himself."*
 
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 13)، صحيح مسلم (رقم 45) — المكتبة الشاملة.
@@ -259,17 +213,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Definition of the True Muslim and Emigrant]**
-**English Translation:**  
-*"Abdullah ibn 'Amr (RA) reported that the Prophet ﷺ said: *"The true Muslim is the one from whose tongue and hands the Muslims are safe, and the true emigrant (Muhajir) is the one who abandons what Allah has forbidden."*
 
-* **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
-* **Canonical Reference:** صحيح البخاري (رقم 10)، صحيح مسلم (رقم 40) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Definition of the True Muslim and Emigrant]**
+> **English Translation:**  
+> *"Abdullah ibn 'Amr (RA) reported that the Prophet ﷺ said: *"The true Muslim is the one from whose tongue and hands the Muslims are safe, and the true emigrant (Muhajir) is the one who abandons what Allah has forbidden."*
 
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 10)، صحيح مسلم (رقم 40) — المكتبة الشاملة.
@@ -297,17 +243,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Characteristics of the Hypocrite]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Prophet ﷺ said: *"The signs of the hypocrite are three: when he speaks he lies, when he makes a promise he breaks it, and when he is entrusted he betrays."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 33)، صحيح مسلم (رقم 59) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Characteristics of the Hypocrite]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Prophet ﷺ said: *"The signs of the hypocrite are three: when he speaks he lies, when he makes a promise he breaks it, and when he is entrusted he betrays."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 33)، صحيح مسلم (رقم 59) — المكتبة الشاملة.
@@ -335,17 +273,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Seven Destructive Major Sins]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Prophet ﷺ said: *"Avoid the seven destructive sins."* They asked: "O Messenger of Allah, what are they?" He replied: *"Associating partners with Allah (Shirk), sorcery (Sihr), taking a life which Allah has forbidden except by right of law, consuming usury (Riba), devouring the wealth of orphans, fleeing from the battlefield, and slandering chaste, innocent, believing women."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 2766)، صحيح مسلم (رقم 89) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Seven Destructive Major Sins]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Prophet ﷺ said: *"Avoid the seven destructive sins."* They asked: "O Messenger of Allah, what are they?" He replied: *"Associating partners with Allah (Shirk), sorcery (Sihr), taking a life which Allah has forbidden except by right of law, consuming usury (Riba), devouring the wealth of orphans, fleeing from the battlefield, and slandering chaste, innocent, believing women."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 2766)، صحيح مسلم (رقم 89) — المكتبة الشاملة.
@@ -373,17 +303,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Honoring Neighbors, Guests, and Speaking Good]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Whoever believes in Allah and the Last Day should speak good or remain silent; whoever believes in Allah and the Last Day should honor his neighbor; and whoever believes in Allah and the Last Day should honor his guest."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 6018)، صحيح مسلم (رقم 47) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Honoring Neighbors, Guests, and Speaking Good]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Whoever believes in Allah and the Last Day should speak good or remain silent; whoever believes in Allah and the Last Day should honor his neighbor; and whoever believes in Allah and the Last Day should honor his guest."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 6018)، صحيح مسلم (رقم 47) — المكتبة الشاملة.
@@ -411,17 +333,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The 99 Beautiful Names of Allah]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Indeed, Allah has ninety-nine Names—one hundred minus one—whoever enumerates and comprehends them (Ahsaha) will enter Paradise."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 2736)، صحيح مسلم (رقم 2677) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The 99 Beautiful Names of Allah]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Indeed, Allah has ninety-nine Names—one hundred minus one—whoever enumerates and comprehends them (Ahsaha) will enter Paradise."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 2736)، صحيح مسلم (رقم 2677) — المكتبة الشاملة.
@@ -449,17 +363,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Allah's Mercy Overcomes His Wrath]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"When Allah decreed creation, He wrote in His Book which is with Him above the Throne: 'Indeed, My mercy overcomes My wrath."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 3194)، صحيح مسلم (رقم 2751) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Allah's Mercy Overcomes His Wrath]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"When Allah decreed creation, He wrote in His Book which is with Him above the Throne: 'Indeed, My mercy overcomes My wrath."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 3194)، صحيح مسلم (رقم 2751) — المكتبة الشاملة.
@@ -487,17 +393,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: "I am as My Servant Thinks of Me" — Hadith Qudsi]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Prophet ﷺ said: Allah the Exalted says: *"I am as My servant thinks of Me, and I am with him when he remembers Me. If he remembers Me within himself, I remember him within Myself; and if he remembers Me in a gathering, I remember him in a gathering better than them. If he draws near to Me by a handspan, I draw near to him by an arm's length; if he draws near to Me by an arm's length, I draw near to him by a fathom; and if he comes to Me walking, I come to him with speed."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 7405)، صحيح مسلم (رقم 2675) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: "I am as My Servant Thinks of Me" — Hadith Qudsi]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Prophet ﷺ said: Allah the Exalted says: *"I am as My servant thinks of Me, and I am with him when he remembers Me. If he remembers Me within himself, I remember him within Myself; and if he remembers Me in a gathering, I remember him in a gathering better than them. If he draws near to Me by a handspan, I draw near to him by an arm's length; if he draws near to Me by an arm's length, I draw near to him by a fathom; and if he comes to Me walking, I come to him with speed."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 7405)، صحيح مسلم (رقم 2675) — المكتبة الشاملة.
@@ -526,17 +424,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Descent of Allah in the Last Third of the Night]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Our Lord, Blessed and Exalted is He, descends every night to the lowest heaven when the last third of the night remains, saying: 'Who calls upon Me so that I may answer him? Who asks of Me so that I may give him? Who seeks My forgiveness so that I may forgive him?"*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 1145)، صحيح مسلم (رقم 758) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Descent of Allah in the Last Third of the Night]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Our Lord, Blessed and Exalted is He, descends every night to the lowest heaven when the last third of the night remains, saying: 'Who calls upon Me so that I may answer him? Who asks of Me so that I may give him? Who seeks My forgiveness so that I may forgive him?"*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1145)، صحيح مسلم (رقم 758) — المكتبة الشاملة.
@@ -564,17 +454,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Safeguarding Allah's Commandments & Belief in Destiny]**
-**English Translation:**  
-*"Ibn 'Abbas (RA) narrated: One day I was riding behind the Prophet ﷺ when he said: *"O young man, I shall teach you some words: Safeguard the commandments of Allah and He will protect you. Safeguard Allah's rights and you will find Him before you. When you ask, ask of Allah; and when you seek assistance, seek it from Allah. And know that if the entire nation were to gather together to benefit you with something, they could not benefit you except with something that Allah had already decreed for you; and if they gathered together to harm you with something, they could not harm you except with something that Allah had already decreed against you. The pens have been lifted and the pages have dried."*
 
-* **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
-* **Canonical Reference:** جامع الترمذي (رقم 2516)، مسند أحمد (رقم 2669) — المكتبة الشاملة.
-* **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Safeguarding Allah's Commandments & Belief in Destiny]**
+> **English Translation:**  
+> *"Ibn 'Abbas (RA) narrated: One day I was riding behind the Prophet ﷺ when he said: *"O young man, I shall teach you some words: Safeguard the commandments of Allah and He will protect you. Safeguard Allah's rights and you will find Him before you. When you ask, ask of Allah; and when you seek assistance, seek it from Allah. And know that if the entire nation were to gather together to benefit you with something, they could not benefit you except with something that Allah had already decreed for you; and if they gathered together to harm you with something, they could not harm you except with something that Allah had already decreed against you. The pens have been lifted and the pages have dried."*
 
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** جامع الترمذي (رقم 2516)، مسند أحمد (رقم 2669) — المكتبة الشاملة.
@@ -602,17 +484,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Strong Believer & Contentment with Decree]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"The strong believer is better and more beloved to Allah than the weak believer, while there is good in both. Strive eagerly for that which benefits you, seek help from Allah, and do not lose heart. If something befalls you, do not say: 'If only I had done such and such, it would have been so and so,' but rather say: 'It is the decree of Allah and what He willed He did,' for saying 'if' opens the door to the works of Satan."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح مسلم (رقم 2664) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Strong Believer & Contentment with Decree]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"The strong believer is better and more beloved to Allah than the weak believer, while there is good in both. Strive eagerly for that which benefits you, seek help from Allah, and do not lose heart. If something befalls you, do not say: 'If only I had done such and such, it would have been so and so,' but rather say: 'It is the decree of Allah and what He willed He did,' for saying 'if' opens the door to the works of Satan."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2664) — المكتبة الشاملة.
@@ -640,17 +514,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Stages of Human Creation and Written Destiny]**
-**English Translation:**  
-*"Abdullah ibn Mas'ud (RA) narrated: The Messenger of Allah ﷺ, who is the truthful and believed, said to us: *"Indeed, the creation of each one of you is assembled in his mother's womb for forty days, then he becomes a clinging clot for a like period, then a lump of flesh for a like period. Then Allah sends an angel who is commanded with four words: he is told to write down his deeds, his provision, his lifespan, and whether he will be wretched or blessed. Then the soul is breathed into him..."*
 
-* **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 3208)، صحيح مسلم (رقم 2643) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Stages of Human Creation and Written Destiny]**
+> **English Translation:**  
+> *"Abdullah ibn Mas'ud (RA) narrated: The Messenger of Allah ﷺ, who is the truthful and believed, said to us: *"Indeed, the creation of each one of you is assembled in his mother's womb for forty days, then he becomes a clinging clot for a like period, then a lump of flesh for a like period. Then Allah sends an angel who is commanded with four words: he is told to write down his deeds, his provision, his lifespan, and whether he will be wretched or blessed. Then the soul is breathed into him..."*
 
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 3208)، صحيح مسلم (رقم 2643) — المكتبة الشاملة.
@@ -679,17 +545,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Believers Seeing Their Lord on the Day of Resurrection]**
-**English Translation:**  
-*"Jarir ibn 'Abdullah (RA) narrated: We were sitting with the Prophet ﷺ on the night of the full moon. He looked up at the moon and said: *"Indeed, you will see your Lord with your own eyes just as you see this moon, having no difficulty or dispute in seeing Him. So if you are able not to be overcome from performing a prayer before sunrise (Fajr) and a prayer before sunset ('Asr), then do so."* Then he recited: *{And glorify the praise of your Lord before the rising of the sun and before its setting}* [Qaf: 39]."*
 
-* **Companion Narrator:** جَرِيرُ بْنُ عَبْدِ اللَّهِ الْبَجَلِيُّ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 554)، صحيح مسلم (رقم 633) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Believers Seeing Their Lord on the Day of Resurrection]**
+> **English Translation:**  
+> *"Jarir ibn 'Abdullah (RA) narrated: We were sitting with the Prophet ﷺ on the night of the full moon. He looked up at the moon and said: *"Indeed, you will see your Lord with your own eyes just as you see this moon, having no difficulty or dispute in seeing Him. So if you are able not to be overcome from performing a prayer before sunrise (Fajr) and a prayer before sunset ('Asr), then do so."* Then he recited: *{And glorify the praise of your Lord before the rising of the sun and before its setting}* [Qaf: 39]."*
 
 * **Companion Narrator:** جَرِيرُ بْنُ عَبْدِ اللَّهِ الْبَجَلِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 554)، صحيح مسلم (رقم 633) — المكتبة الشاملة.
@@ -717,17 +575,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Great Intercession (Ash-Shafa'ah al-Udhma)]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"I am the leader of the children of Adam on the Day of Resurrection, the first for whom the grave will be split open, the first to intercede, and the first whose intercession will be accepted."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح مسلم (رقم 2278) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Great Intercession (Ash-Shafa'ah al-Udhma)]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"I am the leader of the children of Adam on the Day of Resurrection, the first for whom the grave will be split open, the first to intercede, and the first whose intercession will be accepted."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2278) — المكتبة الشاملة.
@@ -755,17 +605,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Every Newborn is Born upon Natural Monotheistic Disposition]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Every child is born upon the natural disposition (Fitrah: pure monotheism), then his parents make him a Jew, a Christian, or a Magian..."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 1385)، صحيح مسلم (رقم 2658) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Every Newborn is Born upon Natural Monotheistic Disposition]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Every child is born upon the natural disposition (Fitrah: pure monotheism), then his parents make him a Jew, a Christian, or a Magian..."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1385)، صحيح مسلم (رقم 2658) — المكتبة الشاملة.
@@ -793,17 +635,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Contentment with Allah as Lord and Islam as Religion]**
-**English Translation:**  
-*"Al-'Abbas ibn 'Abd al-Muttalib (RA) reported that he heard the Messenger of Allah ﷺ say: *"He has tasted the sweetness of faith who is pleased with Allah as his Lord, with Islam as his religion, and with Muhammad as his Messenger."*
 
-* **Companion Narrator:** الْعَبَّاسُ بْنُ عَبْدِ الْمُطَّلِبِ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح مسلم (رقم 34) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Contentment with Allah as Lord and Islam as Religion]**
+> **English Translation:**  
+> *"Al-'Abbas ibn 'Abd al-Muttalib (RA) reported that he heard the Messenger of Allah ﷺ say: *"He has tasted the sweetness of faith who is pleased with Allah as his Lord, with Islam as his religion, and with Muhammad as his Messenger."*
 
 * **Companion Narrator:** الْعَبَّاسُ بْنُ عَبْدِ الْمُطَّلِبِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 34) — المكتبة الشاملة.
@@ -831,17 +665,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Levels of Rectifying Evil]**
-**English Translation:**  
-*"Abu Sa'id al-Khudri (RA) reported: I heard the Messenger of Allah ﷺ say: *"Whoever among you sees an evil, let him change it with his hand; and if he cannot, then with his tongue; and if he cannot, then with his heart—and that is the weakest of faith."*
 
-* **Companion Narrator:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح مسلم (رقم 49) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Levels of Rectifying Evil]**
+> **English Translation:**  
+> *"Abu Sa'id al-Khudri (RA) reported: I heard the Messenger of Allah ﷺ say: *"Whoever among you sees an evil, let him change it with his hand; and if he cannot, then with his tongue; and if he cannot, then with his heart—and that is the weakest of faith."*
 
 * **Companion Narrator:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 49) — المكتبة الشاملة.
@@ -869,17 +695,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Religion is Sincerity & Wise Counsel]**
-**English Translation:**  
-*"Tamim ad-Dari (RA) reported that the Prophet ﷺ said: *"The religion is sincerity (an-Nasiha)."* We asked: "To whom?" He replied: *"To Allah, to His Book, to His Messenger, and to the leaders of the Muslims and their common folk."*
 
-* **Companion Narrator:** تَمِيمُ بْنُ أَوْسٍ الدَّارِيُّ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح مسلم (رقم 55) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Religion is Sincerity & Wise Counsel]**
+> **English Translation:**  
+> *"Tamim ad-Dari (RA) reported that the Prophet ﷺ said: *"The religion is sincerity (an-Nasiha)."* We asked: "To whom?" He replied: *"To Allah, to His Book, to His Messenger, and to the leaders of the Muslims and their common folk."*
 
 * **Companion Narrator:** تَمِيمُ بْنُ أَوْسٍ الدَّارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 55) — المكتبة الشاملة.
@@ -907,17 +725,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Merit of Monotheism and Dying upon La Ilaha Illa Allah]**
-**English Translation:**  
-*"Abu Dharr (RA) reported that the Messenger of Allah ﷺ said: *"There is no servant who declares that there is no god worthy of worship except Allah, and then dies upon that, except that he will enter Paradise."*
 
-* **Companion Narrator:** أَبُو ذَرٍّ الْغِفَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 5827)، صحيح مسلم (رقم 94) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Merit of Monotheism and Dying upon La Ilaha Illa Allah]**
+> **English Translation:**  
+> *"Abu Dharr (RA) reported that the Messenger of Allah ﷺ said: *"There is no servant who declares that there is no god worthy of worship except Allah, and then dies upon that, except that he will enter Paradise."*
 
 * **Companion Narrator:** أَبُو ذَرٍّ الْغِفَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 5827)، صحيح مسلم (رقم 94) — المكتبة الشاملة.
@@ -945,17 +755,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Right of Allah over Servants and the Right of Servants upon Allah]**
-**English Translation:**  
-*"Mu'adh ibn Jabal (RA) reported: I was riding behind the Prophet ﷺ on a donkey, and he said: *"O Mu'adh, do you know what the right of Allah upon His servants is, and what the right of the servants upon Allah is?"* I said: "Allah and His Messenger know best." He said: *"The right of Allah upon the servants is that they worship Him alone and do not associate anything with Him; and the right of the servants upon Allah is that He will not punish whoever does not associate any partner with Him."*
 
-* **Companion Narrator:** مُعَاذُ بْنُ جَبَلٍ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 2856)، صحيح مسلم (رقم 30) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Right of Allah over Servants and the Right of Servants upon Allah]**
+> **English Translation:**  
+> *"Mu'adh ibn Jabal (RA) reported: I was riding behind the Prophet ﷺ on a donkey, and he said: *"O Mu'adh, do you know what the right of Allah upon His servants is, and what the right of the servants upon Allah is?"* I said: "Allah and His Messenger know best." He said: *"The right of Allah upon the servants is that they worship Him alone and do not associate anything with Him; and the right of the servants upon Allah is that He will not punish whoever does not associate any partner with Him."*
 
 * **Companion Narrator:** مُعَاذُ بْنُ جَبَلٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 2856)، صحيح مسلم (رقم 30) — المكتبة الشاملة.
@@ -983,17 +785,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Shirk is the Greatest Injustice]**
-**English Translation:**  
-*"Abdullah ibn Mas'ud (RA) narrated: When the verse: *{Those who have believed and did not mix their belief with injustice (Zulm)}* [Al-An'am: 82] was revealed, it was hard on the Companions, and they said: "Which of us has not wronged himself?" The Messenger of Allah ﷺ said: *"It is not as you think; it is rather as Luqman said to his son: {O my son, do not associate anything with Allah; indeed, associating [others with Him] is a great injustice} [Luqman: 13]."*
 
-* **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 32)، صحيح مسلم (رقم 124) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Shirk is the Greatest Injustice]**
+> **English Translation:**  
+> *"Abdullah ibn Mas'ud (RA) narrated: When the verse: *{Those who have believed and did not mix their belief with injustice (Zulm)}* [Al-An'am: 82] was revealed, it was hard on the Companions, and they said: "Which of us has not wronged himself?" The Messenger of Allah ﷺ said: *"It is not as you think; it is rather as Luqman said to his son: {O my son, do not associate anything with Allah; indeed, associating [others with Him] is a great injustice} [Luqman: 13]."*
 
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 32)، صحيح مسلم (رقم 124) — المكتبة الشاملة.
@@ -1021,17 +815,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Warning Against Showing Off (Minor Shirk)]**
-**English Translation:**  
-*"Mahmud ibn Labid (RA) reported that the Messenger of Allah ﷺ said: *"What I fear for you most is the minor shirk."* They asked: "What is the minor shirk, O Messenger of Allah?" He replied: *"Showing off (Riya'). Allah, the Mighty and Majestic, will say to them on the Day of Resurrection when people are rewarded for their deeds: 'Go to those before whom you showed off in the world and see if you find any reward with them!' "*
 
-* **Companion Narrator:** مَحْمُودُ بْنُ لَبِيدٍ الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** مسند أحمد (رقم 23630) — المكتبة الشاملة، وصححه الألباني في السلسلة الصحيحة (رقم 951).
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Warning Against Showing Off (Minor Shirk)]**
+> **English Translation:**  
+> *"Mahmud ibn Labid (RA) reported that the Messenger of Allah ﷺ said: *"What I fear for you most is the minor shirk."* They asked: "What is the minor shirk, O Messenger of Allah?" He replied: *"Showing off (Riya'). Allah, the Mighty and Majestic, will say to them on the Day of Resurrection when people are rewarded for their deeds: 'Go to those before whom you showed off in the world and see if you find any reward with them!'"*
 
 * **Companion Narrator:** مَحْمُودُ بْنُ لَبِيدٍ الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** مسند أحمد (رقم 23630) — المكتبة الشاملة، وصححه الألباني في السلسلة الصحيحة (رقم 951).
@@ -1059,17 +845,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Prohibition of Wearing Amulets and Charms]**
-**English Translation:**  
-*"Uqbah ibn 'Amir (RA) reported that the Prophet ﷺ said: *"Whoever hangs an amulet, may Allah not fulfill his wish; and whoever hangs a seashell [for protection], may Allah not grant him peace."* And in another narration: *"Whoever hangs an amulet has committed Shirk."*
 
-* **Companion Narrator:** عُقْبَةُ بْنُ عَامِرٍ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** مسند أحمد (رقم 17404، 17422) — المكتبة الشاملة، وصححه الألباني في السلسلة الصحيحة (رقم 492).
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Prohibition of Wearing Amulets and Charms]**
+> **English Translation:**  
+> *"Uqbah ibn 'Amir (RA) reported that the Prophet ﷺ said: *"Whoever hangs an amulet, may Allah not fulfill his wish; and whoever hangs a seashell [for protection], may Allah not grant him peace."* And in another narration: *"Whoever hangs an amulet has committed Shirk."*
 
 * **Companion Narrator:** عُقْبَةُ بْنُ عَامِرٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** مسند أحمد (رقم 17404، 17422) — المكتبة الشاملة، وصححه الألباني في السلسلة الصحيحة (رقم 492).
@@ -1097,17 +875,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Prohibition of Swearing by Other Than Allah]**
-**English Translation:**  
-*"Ibn 'Umar (RA) narrated that the Prophet ﷺ said: *"Lo! Whoever swears an oath, let him swear only by Allah or remain silent."* And from him, the Prophet ﷺ said: *"Whoever swears by other than Allah has committed an act of disbelief or Shirk."*
 
-* **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
-* **Canonical Reference:** صحيح البخاري (رقم 2679)، سنن الترمذي (رقم 1535) — المكتبة الشاملة، وصححه الترمذي والألباني.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Prohibition of Swearing by Other Than Allah]**
+> **English Translation:**  
+> *"Ibn 'Umar (RA) narrated that the Prophet ﷺ said: *"Lo! Whoever swears an oath, let him swear only by Allah or remain silent."* And from him, the Prophet ﷺ said: *"Whoever swears by other than Allah has committed an act of disbelief or Shirk."*
 
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 2679)، سنن الترمذي (رقم 1535) — المكتبة الشاملة، وصححه الترمذي والألباني.
@@ -1135,17 +905,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Invalidation of Bad Omens & Superstitions]**
-**English Translation:**  
-*"Anas ibn Malik (RA) reported that the Prophet ﷺ said: *"There is no contagious disease [acting independently of Allah's will] nor any bad omen (Tiyarah), and I am pleased by good optimism: a pleasant word."*
 
-* **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 5756)، صحيح مسلم (رقم 2224) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Invalidation of Bad Omens & Superstitions]**
+> **English Translation:**  
+> *"Anas ibn Malik (RA) reported that the Prophet ﷺ said: *"There is no contagious disease [acting independently of Allah's will] nor any bad omen (Tiyarah), and I am pleased by good optimism: a pleasant word."*
 
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 5756)، صحيح مسلم (رقم 2224) — المكتبة الشاملة.
@@ -1173,17 +935,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Warning Against Visiting Fortune-tellers and Soothsayers]**
-**English Translation:**  
-*"Safiyyah narrated from one of the wives of the Prophet ﷺ (Hafsah RA) that the Prophet ﷺ said: *"Whoever goes to a fortune-teller (soothsayer) and asks him about anything, his prayer will not be accepted for forty nights."*
 
-* **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ حَفْصَةُ بِنْتُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
-* **Canonical Reference:** صحيح مسلم (رقم 2230) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Warning Against Visiting Fortune-tellers and Soothsayers]**
+> **English Translation:**  
+> *"Safiyyah narrated from one of the wives of the Prophet ﷺ (Hafsah RA) that the Prophet ﷺ said: *"Whoever goes to a fortune-teller (soothsayer) and asks him about anything, his prayer will not be accepted for forty nights."*
 
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ حَفْصَةُ بِنْتُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 2230) — المكتبة الشاملة.
@@ -1211,17 +965,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Merit of True Reliance upon Allah (Tawakkul)]**
-**English Translation:**  
-*"Umar ibn al-Khattab (RA) reported: I heard the Messenger of Allah ﷺ say: *"If you were to rely upon Allah with true reliance, He would provide for you just as He provides for the birds: they depart in the morning empty-bellied and return in the evening full."*
 
-* **Companion Narrator:** عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** سنن الترمذي (رقم 2344)، مسند أحمد (رقم 205) — المكتبة الشاملة، وقال الترمذي: حسن صحيح.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Merit of True Reliance upon Allah (Tawakkul)]**
+> **English Translation:**  
+> *"Umar ibn al-Khattab (RA) reported: I heard the Messenger of Allah ﷺ say: *"If you were to rely upon Allah with true reliance, He would provide for you just as He provides for the birds: they depart in the morning empty-bellied and return in the evening full."*
 
 * **Companion Narrator:** عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 2344)، مسند أحمد (رقم 205) — المكتبة الشاملة، وقال الترمذي: حسن صحيح.
@@ -1249,17 +995,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Taking Practical Means Alongside Relying on Allah]**
-**English Translation:**  
-*"Anas ibn Malik (RA) narrated: A man asked: "O Messenger of Allah, should I tie my camel and rely on Allah, or leave it untied and rely on Allah?" The Prophet ﷺ replied: *"Tie it and rely on Allah."*
 
-* **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** سنن الترمذي (رقم 2517) — المكتبة الشاملة، وحسنه الألباني في صحيح الترمذي.
-* **Scholarly Grading:** **حَسَنٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Taking Practical Means Alongside Relying on Allah]**
+> **English Translation:**  
+> *"Anas ibn Malik (RA) narrated: A man asked: "O Messenger of Allah, should I tie my camel and rely on Allah, or leave it untied and rely on Allah?" The Prophet ﷺ replied: *"Tie it and rely on Allah."*
 
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 2517) — المكتبة الشاملة، وحسنه الألباني في صحيح الترمذي.
@@ -1287,17 +1025,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Balance of Fear and Hope in the Believer's Heart]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"If the believer knew the punishment that is with Allah, none would hope for His Paradise; and if the disbeliever knew the mercy that is with Allah, none would despair of His Paradise."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح مسلم (رقم 2755)، صحيح البخاري بنحوه (رقم 6469) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Balance of Fear and Hope in the Believer's Heart]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"If the believer knew the punishment that is with Allah, none would hope for His Paradise; and if the disbeliever knew the mercy that is with Allah, none would despair of His Paradise."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2755)، صحيح البخاري بنحوه (رقم 6469) — المكتبة الشاملة.
@@ -1325,17 +1055,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Amazing Affair of the Believer in Ease and Hardship]**
-**English Translation:**  
-*"Suhayb (RA) reported that the Messenger of Allah ﷺ said: *"How wonderful is the affair of the believer, for all his affairs are good, and this is for none except the believer: if prosperity comes to him he is grateful and that is good for him, and if adversity touches him he is patient and that is good for him."*
 
-* **Companion Narrator:** صُهَيْبُ بْنُ سِنَانٍ الرُّومِيُّ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح مسلم (رقم 2999) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Amazing Affair of the Believer in Ease and Hardship]**
+> **English Translation:**  
+> *"Suhayb (RA) reported that the Messenger of Allah ﷺ said: *"How wonderful is the affair of the believer, for all his affairs are good, and this is for none except the believer: if prosperity comes to him he is grateful and that is good for him, and if adversity touches him he is patient and that is good for him."*
 
 * **Companion Narrator:** صُهَيْبُ بْنُ سِنَانٍ الرُّومِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2999) — المكتبة الشاملة.
@@ -1363,17 +1085,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Expiation of Sins Through Afflictions and Hardships]**
-**English Translation:**  
-*"Abu Sa'id al-Khudri and Abu Hurayrah (RA) reported that the Prophet ﷺ said: *"No fatigue, nor illness, nor anxiety, nor sorrow, nor harm, nor distress befalls a Muslim, even the prick of a thorn, except that Allah expiates some of his sins thereby."*
 
-* **Companion Narrator:** أَبُو سَعِيدٍ الْخُدْرِيُّ وَأَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُمَا.
-* **Canonical Reference:** صحيح البخاري (رقم 5641)، صحيح مسلم (رقم 2573) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Expiation of Sins Through Afflictions and Hardships]**
+> **English Translation:**  
+> *"Abu Sa'id al-Khudri and Abu Hurayrah (RA) reported that the Prophet ﷺ said: *"No fatigue, nor illness, nor anxiety, nor sorrow, nor harm, nor distress befalls a Muslim, even the prick of a thorn, except that Allah expiates some of his sins thereby."*
 
 * **Companion Narrator:** أَبُو سَعِيدٍ الْخُدْرِيُّ وَأَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 5641)، صحيح مسلم (رقم 2573) — المكتبة الشاملة.
@@ -1401,17 +1115,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Seven Whom Allah Shorter Under His Shade]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Prophet ﷺ said: *"Seven people will be shaded by Allah under His shade on the Day when there is no shade except His: a just leader; a youth who grew up in the worship of Allah; a person whose heart is attached to the mosques; two people who love each other for the sake of Allah, gathering upon that and parting upon that; a man who is invited by a woman of high status and beauty and says: 'I fear Allah'; a person who gives charity so secretly that his left hand does not know what his right hand has given; and a person who remembers Allah in solitude and his eyes overflow with tears."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 660)، صحيح مسلم (رقم 1031) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Seven Whom Allah Shorter Under His Shade]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Prophet ﷺ said: *"Seven people will be shaded by Allah under His shade on the Day when there is no shade except His: a just leader; a youth who grew up in the worship of Allah; a person whose heart is attached to the mosques; two people who love each other for the sake of Allah, gathering upon that and parting upon that; a man who is invited by a woman of high status and beauty and says: 'I fear Allah'; a person who gives charity so secretly that his left hand does not know what his right hand has given; and a person who remembers Allah in solitude and his eyes overflow with tears."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 660)، صحيح مسلم (رقم 1031) — المكتبة الشاملة.
@@ -1439,17 +1145,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Astuteness of the Believer (Not Being Stung Twice)]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Prophet ﷺ said: *"A believer is not stung from the same hole twice."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 6133)، صحيح مسلم (رقم 2998) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Astuteness of the Believer (Not Being Stung Twice)]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Prophet ﷺ said: *"A believer is not stung from the same hole twice."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 6133)، صحيح مسلم (رقم 2998) — المكتبة الشاملة.
@@ -1477,17 +1175,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Having a Good Opinion of Allah at Death]**
-**English Translation:**  
-*"Jabir ibn 'Abdullah (RA) narrated: I heard the Messenger of Allah ﷺ say three days before his death: *"Let none of you die except while maintaining a good opinion of Allah, the Mighty and Majestic."*
 
-* **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
-* **Canonical Reference:** صحيح مسلم (رقم 2877) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Having a Good Opinion of Allah at Death]**
+> **English Translation:**  
+> *"Jabir ibn 'Abdullah (RA) narrated: I heard the Messenger of Allah ﷺ say three days before his death: *"Let none of you die except while maintaining a good opinion of Allah, the Mighty and Majestic."*
 
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 2877) — المكتبة الشاملة.
@@ -1515,17 +1205,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Firmness of the Believer in the Grave upon Interrogation]**
-**English Translation:**  
-*"Al-Bara' ibn 'Azib (RA) reported that the Prophet ﷺ said: *"When the believer is made to sit in his grave, [the angels] come to him, and he testifies that there is no god worthy of worship except Allah and that Muhammad is the Messenger of Allah; and that is the meaning of Allah's word: {Allah keeps firm those who believe, with the firm word, in worldly life and in the Hereafter} [Ibrahim: 27]."*
 
-* **Companion Narrator:** الْبَرَاءُ بْنُ عَازِبٍ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 1369)، صحيح مسلم (رقم 2871) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Firmness of the Believer in the Grave upon Interrogation]**
+> **English Translation:**  
+> *"Al-Bara' ibn 'Azib (RA) reported that the Prophet ﷺ said: *"When the believer is made to sit in his grave, [the angels] come to him, and he testifies that there is no god worthy of worship except Allah and that Muhammad is the Messenger of Allah; and that is the meaning of Allah's word: {Allah keeps firm those who believe, with the firm word, in worldly life and in the Hereafter} [Ibrahim: 27]."*
 
 * **Companion Narrator:** الْبَرَاءُ بْنُ عَازِبٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1369)، صحيح مسلم (رقم 2871) — المكتبة الشاملة.
@@ -1553,17 +1235,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Prophet's Basin (Al-Hawd) on the Day of Resurrection]**
-**English Translation:**  
-*"Abdullah ibn 'Amr (RA) reported that the Prophet ﷺ said: *"My Basin (al-Hawd) is a month's journey in size; its water is whiter than milk, its fragrance is sweeter than musk, and its drinking cups are as numerous as the stars of the sky. Whoever drinks from it will never thirst thereafter."*
 
-* **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
-* **Canonical Reference:** صحيح البخاري (رقم 6579)، صحيح مسلم (رقم 2292) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Prophet's Basin (Al-Hawd) on the Day of Resurrection]**
+> **English Translation:**  
+> *"Abdullah ibn 'Amr (RA) reported that the Prophet ﷺ said: *"My Basin (al-Hawd) is a month's journey in size; its water is whiter than milk, its fragrance is sweeter than musk, and its drinking cups are as numerous as the stars of the sky. Whoever drinks from it will never thirst thereafter."*
 
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 6579)، صحيح مسلم (رقم 2292) — المكتبة الشاملة.
@@ -1591,17 +1265,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Two Light Words Heavy on the Scales (Al-Mizan)]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Two words are light on the tongue, heavy on the scale, and beloved to the Most Merciful: 'Subhan Allahi wa bihamdih, Subhan Allahil-'Azim' (Glory be to Allah and His is the praise; Glory be to Allah, the Supreme)."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 6406)، صحيح مسلم (رقم 2694) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Two Light Words Heavy on the Scales (Al-Mizan)]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Two words are light on the tongue, heavy on the scale, and beloved to the Most Merciful: 'Subhan Allahi wa bihamdih, Subhan Allahil-'Azim' (Glory be to Allah and His is the praise; Glory be to Allah, the Supreme)."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 6406)، صحيح مسلم (رقم 2694) — المكتبة الشاملة.
@@ -1629,17 +1295,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Bridge (As-Sirat) Set Across Hellfire]**
-**English Translation:**  
-*"Abu Hurayrah (RA) narrated in the long hadith of the Day of Resurrection that the Messenger of Allah ﷺ said: *"And the Bridge (as-Sirat) will be set across the expanse of Hellfire; so I and my nation will be the first to cross it. None will speak on that Day except the Messengers, and the prayer of the Messengers on that Day will be: 'O Allah, save! Save!"*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 806)، صحيح مسلم (رقم 182) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Bridge (As-Sirat) Set Across Hellfire]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) narrated in the long hadith of the Day of Resurrection that the Messenger of Allah ﷺ said: *"And the Bridge (as-Sirat) will be set across the expanse of Hellfire; so I and my nation will be the first to cross it. None will speak on that Day except the Messengers, and the prayer of the Messengers on that Day will be: 'O Allah, save! Save!"*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 806)، صحيح مسلم (رقم 182) — المكتبة الشاملة.
@@ -1667,17 +1325,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Degrees of Paradise and Asking for Al-Firdaws]**
-**English Translation:**  
-*"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Indeed, in Paradise there are one hundred levels which Allah has prepared for those who strive in His cause; between every two levels is a distance like that between the heavens and the earth. So when you ask Allah, ask Him for Al-Firdaws, for it is the middle of Paradise and the highest part of Paradise, above it is the Throne of the Most Merciful, and from it gush forth the rivers of Paradise."*
 
-* **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 2790) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Degrees of Paradise and Asking for Al-Firdaws]**
+> **English Translation:**  
+> *"Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: *"Indeed, in Paradise there are one hundred levels which Allah has prepared for those who strive in His cause; between every two levels is a distance like that between the heavens and the earth. So when you ask Allah, ask Him for Al-Firdaws, for it is the middle of Paradise and the highest part of Paradise, above it is the Throne of the Most Merciful, and from it gush forth the rivers of Paradise."*
 
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 2790) — المكتبة الشاملة.
@@ -1705,17 +1355,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Vast Generosity of Allah to the Last Person to Enter Paradise]**
-**English Translation:**  
-*"Abdullah ibn Mas'ud (RA) narrated that the Messenger of Allah ﷺ said concerning the last person to enter Paradise: Allah says to him: *"Go and enter Paradise, for you shall have the equivalent of the whole world and ten times as much again!"* The man will say: "Are You mocking me (or laughing at me) while You are the Sovereign King?!" Ibn Mas'ud said: "I saw the Messenger of Allah ﷺ laugh until his molar teeth were visible, and it was said: That is the lowest rank among the people of Paradise."*
 
-* **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح البخاري (رقم 6571)، صحيح مسلم (رقم 186) — المكتبة الشاملة.
-* **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Vast Generosity of Allah to the Last Person to Enter Paradise]**
+> **English Translation:**  
+> *"Abdullah ibn Mas'ud (RA) narrated that the Messenger of Allah ﷺ said concerning the last person to enter Paradise: Allah says to him: *"Go and enter Paradise, for you shall have the equivalent of the whole world and ten times as much again!"* The man will say: "Are You mocking me (or laughing at me) while You are the Sovereign King?!" Ibn Mas'ud said: "I saw the Messenger of Allah ﷺ laugh until his molar teeth were visible, and it was said: That is the lowest rank among the people of Paradise."*
 
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 6571)، صحيح مسلم (رقم 186) — المكتبة الشاملة.
@@ -1743,17 +1385,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Looking at the Face of Allah: The Ultimate Reward in Paradise]**
-**English Translation:**  
-*"Suhayb (RA) reported that the Prophet ﷺ said: *"When the people of Paradise enter Paradise, Allah Blessed and Exalted will say: 'Do you desire anything more that I may give you?' They will say: 'Have You not brightened our faces? Have You not admitted us to Paradise and saved us from the Fire?' Then He will remove the veil, and they will not have been given anything more beloved to them than gazing at their Lord, the Mighty and Majestic."* Then he recited this verse: *{For those who have done good is the best reward [Paradise] and even more [gazing upon Allah's Countenance]}* [Yunus: 26]."*
 
-* **Companion Narrator:** صُهَيْبُ بْنُ سِنَانٍ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح مسلم (رقم 181) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Looking at the Face of Allah: The Ultimate Reward in Paradise]**
+> **English Translation:**  
+> *"Suhayb (RA) reported that the Prophet ﷺ said: *"When the people of Paradise enter Paradise, Allah Blessed and Exalted will say: 'Do you desire anything more that I may give you?' They will say: 'Have You not brightened our faces? Have You not admitted us to Paradise and saved us from the Fire?' Then He will remove the veil, and they will not have been given anything more beloved to them than gazing at their Lord, the Mighty and Majestic."* Then he recited this verse: *{For those who have done good is the best reward [Paradise] and even more [gazing upon Allah's Countenance]}* [Yunus: 26]."*
 
 * **Companion Narrator:** صُهَيْبُ بْنُ سِنَانٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 181) — المكتبة الشاملة.
@@ -1781,17 +1415,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Pen Being the First Creation & The Writing of Destinies]**
-**English Translation:**  
-*"Ubadah ibn as-Samit (RA) said to his son: "O my son, you will never taste the reality of faith until you know that whatever has befallen you could never have missed you, and whatever has missed you could never have reached you. I heard the Messenger of Allah ﷺ say: *'Indeed, the first thing Allah created was the Pen, and He said to it: Write! It asked: My Lord, what shall I write? He said: Write the destinies of everything until the Hour is established.'*"*
 
-* **Companion Narrator:** عُبَادَةُ بْنُ الصَّامِتِ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** سنن أبي داود (رقم 4700)، سنن الترمذي (رقم 2155، 3319) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Pen Being the First Creation & The Writing of Destinies]**
+> **English Translation:**  
+> *"Ubadah ibn as-Samit (RA) said to his son: "O my son, you will never taste the reality of faith until you know that whatever has befallen you could never have missed you, and whatever has missed you could never have reached you. I heard the Messenger of Allah ﷺ say: *'Indeed, the first thing Allah created was the Pen, and He said to it: Write! It asked: My Lord, what shall I write? He said: Write the destinies of everything until the Hour is established."*
 
 * **Companion Narrator:** عُبَادَةُ بْنُ الصَّامِتِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 4700)، سنن الترمذي (رقم 2155، 3319) — المكتبة الشاملة.
@@ -1819,17 +1445,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Asking Allah to Renew Faith in the Heart]**
-**English Translation:**  
-*"Abdullah ibn 'Amr (RA) reported that the Messenger of Allah ﷺ said: *"Indeed, faith wears out in the heart of one of you just as a garment wears out; so ask Allah to renew faith in your hearts."*
 
-* **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
-* **Canonical Reference:** المستدرك على الصحيحين للحاكم (رقم 5)، المعجم الكبير للطبراني (رقم 14668) — المكتبة الشاملة، وصححه الألباني في السلسلة الصحيحة (رقم 1585).
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Asking Allah to Renew Faith in the Heart]**
+> **English Translation:**  
+> *"Abdullah ibn 'Amr (RA) reported that the Messenger of Allah ﷺ said: *"Indeed, faith wears out in the heart of one of you just as a garment wears out; so ask Allah to renew faith in your hearts."*
 
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** المستدرك على الصحيحين للحاكم (رقم 5)، المعجم الكبير للطبراني (رقم 14668) — المكتبة الشاملة، وصححه الألباني في السلسلة الصحيحة (رقم 1585).
@@ -1857,17 +1475,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: Hearts are Between the Fingers of the Most Merciful]**
-**English Translation:**  
-*"Abdullah ibn 'Amr (RA) reported that he heard the Messenger of Allah ﷺ say: *"Indeed, all the hearts of the children of Adam are between two fingers of the fingers of the Most Merciful like a single heart; He turns them wherever He wills."* Then the Messenger of Allah ﷺ supplicated: *"O Allah, Turner of the hearts, turn our hearts towards Your obedience!"*
 
-* **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
-* **Canonical Reference:** صحيح مسلم (رقم 2654) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: Hearts are Between the Fingers of the Most Merciful]**
+> **English Translation:**  
+> *"Abdullah ibn 'Amr (RA) reported that he heard the Messenger of Allah ﷺ say: *"Indeed, all the hearts of the children of Adam are between two fingers of the fingers of the Most Merciful like a single heart; He turns them wherever He wills."* Then the Messenger of Allah ﷺ supplicated: *"O Allah, Turner of the hearts, turn our hearts towards Your obedience!"*
 
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 2654) — المكتبة الشاملة.
@@ -1895,17 +1505,9 @@
 
 #### 🇬🇧 English Translation & Commentary
 ##### **[Topic: The Comprehensive Core of Faith: "Say I Believe in Allah, Then Remain Steadfast"]**
-**English Translation:**  
-*"Sufyan ibn 'Abdullah ath-Thaqafi (RA) said: I said: "O Messenger of Allah, tell me something about Islam so comprehensive that I shall not need to ask anyone else after you." The Prophet ﷺ replied: *"Say: 'I believe in Allah,' and then remain steadfast."*
 
-* **Companion Narrator:** سُفْيَانُ بْنُ عَبْدِ اللَّهِ الثَّقَفِيُّ رَضِيَ اللَّهُ عَنْهُ.
-* **Canonical Reference:** صحيح مسلم (رقم 38)، مسند أحمد (رقم 15416) — المكتبة الشاملة.
-* **Scholarly Grading:** **صَحِيحٌ.
-
-</div>
-
-#### 🇬🇧 English Translation & Commentary
-##### **[Topic: The Comprehensive Core of Faith: "Say I Believe in Allah, Then Remain Steadfast"]**
+> **English Translation:**  
+> *"Sufyan ibn 'Abdullah ath-Thaqafi (RA) said: I said: "O Messenger of Allah, tell me something about Islam so comprehensive that I shall not need to ask anyone else after you." The Prophet ﷺ replied: *"Say: 'I believe in Allah,' and then remain steadfast."*
 
 * **Companion Narrator:** سُفْيَانُ بْنُ عَبْدِ اللَّهِ الثَّقَفِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 38)، مسند أحمد (رقم 15416) — المكتبة الشاملة.

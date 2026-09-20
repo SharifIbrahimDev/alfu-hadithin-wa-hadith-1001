@@ -7,13 +7,13 @@
   "compiler_ar": "إبراهيم شريف أبوبكر",
   "edition": "1st Complete Scholarly Edition",
   "total_hadiths": 1001,
-  "chapters_count": 21,
+  "chapters_count": 22,
   "chapters": [
     {
       "id": 0,
       "filename": "00_prologue_intention.md",
       "arabic_title": "مُقَدِّمَةٌ فِي الْإِخْلَاصِ وَإِحْضَارِ النِّيَّةِ",
-      "english_title": "Prologue: Sincerity & Intention",
+      "english_title": "Prologue: Sincerity & Rectification of Intention",
       "hadith_count": 1,
       "start_id": 1,
       "end_id": 1
@@ -197,6 +197,15 @@
       "hadith_count": 50,
       "start_id": 952,
       "end_id": 1001
+    },
+    {
+      "id": 21,
+      "filename": "21_epilogue_khatimah.md",
+      "arabic_title": "🌟 حَمْدُ اللَّهِ وَالثَّنَاءُ عَلَيْهِ عَلَى إِتْمَامِ هَذَا الْمُصَنَّفِ",
+      "english_title": "By the Author & Compiler: Ibrahim Sharif Abubakar (إِبْرَاهِيم شَرِيف أَبُوبَكْر)",
+      "hadith_count": 0,
+      "start_id": 0,
+      "end_id": 0
     }
   ]
 }

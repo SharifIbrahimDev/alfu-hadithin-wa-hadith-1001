@@ -36,14 +36,32 @@ public class HadithDataExporter
         public int end_id { get; set; }
     }
 
+    public static void Main(string[] args)
+    {
+        string workspace = AppDomain.CurrentDomain.BaseDirectory;
+        if (args.Length > 0) workspace = args[0];
+        else
+        {
+            // Traverse up if inside scripts/
+            if (File.Exists(Path.Combine(workspace, "..", "book", "00_prologue_intention.md")))
+                workspace = Path.GetFullPath(Path.Combine(workspace, ".."));
+        }
+        ExportAll(workspace);
+    }
+
     public static void ExportAll(string workspaceDir)
     {
         string bookDir = Path.Combine(workspaceDir, "book");
         string dataDir = Path.Combine(workspaceDir, "data");
+        string mobileDataDir = Path.Combine(workspaceDir, "mobile", "assets", "data");
+
         Directory.CreateDirectory(dataDir);
+        Directory.CreateDirectory(mobileDataDir);
 
         string hadithsJsonFile = Path.Combine(dataDir, "hadiths.json");
         string chaptersJsonFile = Path.Combine(dataDir, "chapters.json");
+        string mobileHadithsFile = Path.Combine(mobileDataDir, "hadiths.json");
+        string mobileChaptersFile = Path.Combine(mobileDataDir, "chapters.json");
 
         string[] files = Directory.GetFiles(bookDir, "*.md");
         Array.Sort(files);
@@ -56,7 +74,6 @@ public class HadithDataExporter
             string fileName = Path.GetFileName(file);
             string content = File.ReadAllText(file, Encoding.UTF8);
 
-            // Determine chapter ID and titles
             int chapterId = 0;
             Match chNumMatch = Regex.Match(fileName, @"^(\d+)");
             if (chNumMatch.Success) chapterId = int.Parse(chNumMatch.Groups[1].Value);
@@ -64,14 +81,13 @@ public class HadithDataExporter
             string chapterTitleAr = "";
             string chapterTitleEn = "";
 
-            Match h1Match = Regex.Match(content, @"(?m)^#\s+(.+)");
             Match h2Match = Regex.Match(content, @"(?m)^##\s+(.+)");
             Match h3Match = Regex.Match(content, @"(?m)^###\s+(?:Chapter\s*\d+:|Prologue:)?\s*(.+)");
 
             if (chapterId == 0)
             {
                 chapterTitleAr = "مُقَدِّمَةٌ فِي الْإِخْلَاصِ وَإِحْضَارِ النِّيَّةِ";
-                chapterTitleEn = "Prologue: Sincerity & Intention";
+                chapterTitleEn = "Prologue: Sincerity & Rectification of Intention";
             }
             else
             {
@@ -79,7 +95,6 @@ public class HadithDataExporter
                 if (h3Match.Success) chapterTitleEn = h3Match.Groups[1].Value.Trim();
             }
 
-            // Extract Hadiths
             string hadithPattern = @"(?ms)^###\s+(?:Hadith\s+#|\*\*Hadith\s*#|\*\*\u0627\u0644\u062d\u062f\u064a\u062b\s*\u0631\u0642\u0645:\s*)(\d{1,4}).*?\n(.*?)(?=^###\s+(?:Hadith|\*\*Hadith|\*\*\u0627\u0644\u062d\u062f\u064a\u062b)|\Z)";
             MatchCollection hadithMatches = Regex.Matches(content, hadithPattern);
 
@@ -103,35 +118,55 @@ public class HadithDataExporter
                 string narrEn = "";
                 string enTrans = "";
                 string takhrij = "";
-                string grading = "صَحِيحٌ (Sahih)";
+                string grading = "";
                 string benefitsAr = "";
                 string benefitsEn = "";
 
-                // Arabic Topic
+                // Topics
                 Match topArMatch = Regex.Match(block, @"(?m)\[(?:\u0627\u0644\u0628\u0627\u0628|\u0628\u0627\u0628):\s*(.+?)\]");
                 if (topArMatch.Success) topicAr = Clean(topArMatch.Groups[1].Value);
 
-                // English Topic
                 Match topEnMatch = Regex.Match(block, @"(?m)\[(?:Topic|Chapter):\s*(.+?)\]");
                 if (topEnMatch.Success) topicEn = Clean(topEnMatch.Groups[1].Value);
 
                 // Arabic Matn
-                Match matnMatch = Regex.Match(block, @"(?ms)(?:\*\*\u0646\u064e\u0635\u064f\u0651\s*\u0627\u0644\u0652\u062d\u064e\u062f\u0650\u064a\u062b\u0650\s*\u0628\u0650\u0627\u0644\u062a\u064e\u0651\u0634\u0652\u0643\u0650\u064a\u0644\u0650:\*\*|#### \u0646\u064e\u0635\u064f\u0651\s*\u0627\u0644\u0652\u062d\u064e\u062f\u0650\u064a\u062b\u0650\s*\u0628\u0650\u0627\u0644\u062a\u064e\u0651\u0634\u0652\u0643\u0650\u064a\u0644\u0650)\s*\n*>\s*(.+?)(?=\n+\*\s*\*\*|\n+---|\n+####|</div>|\Z)");
-                if (matnMatch.Success) arMatn = CleanBlock(matnMatch.Groups[1].Value);
+                Match matnMatch1 = Regex.Match(block, @"(?ms)(?:\*\*\u0646\u064e\u0635\u064f\u0651\s*\u0627\u0644\u0652\u062d\u064e\u062f\u0650\u064a\u062b\u0650\s*\u0628\u0650\u0627\u0644\u062a\u064e\u0651\u0634\u0652\u0643\u0650\u064a\u0644\u0650:\*\*|#### \u0646\u064e\u0635\u064f\u0651\s*\u0627\u0644\u0652\u062d\u064e\u062f\u0650\u064a\u062b\u0650\s*\u0628\u0650\u0627\u0644\u062a\u064e\u0651\u0634\u0652\u0643\u0650\u064a\u0644\u0650)\s*\n*>\s*(.+?)(?=\n+\*\s*\*\*|\n+---|\n+####|</div>|\Z)");
+                if (matnMatch1.Success)
+                {
+                    arMatn = CleanBlock(matnMatch1.Groups[1].Value);
+                }
+                else
+                {
+                    Match matnMatch2 = Regex.Match(block, @"(?ms)>\s*([\u0600-\u06FF\s\«\»\.\،\:\;\!\؟\(\)\-\""\'\d\–\—\…]+?)(?=\n+\*\s*\*\*|\n+---|\n+####|</div>|\Z)");
+                    if (matnMatch2.Success) arMatn = CleanBlock(matnMatch2.Groups[1].Value);
+                }
 
-                // Arabic Narrator
+                // Narrators
                 Match narrArM = Regex.Match(block, @"(?m)^\*\s*\*\*\u0627\u0644\u0631\u064e\u0651\u0627\u0648\u0650\u064a:\*\*\s*(.+?)$");
                 if (narrArM.Success) narrAr = Clean(narrArM.Groups[1].Value);
 
-                // English Narrator
                 Match narrEnM = Regex.Match(block, @"(?m)(?:^\*\s*\*\*Companion Narrator:\*\*|#### \u0627\u0644\u0631\u064e\u0651\u0627\u0648\u0650\u064a\s*\(The Narrator\):\s*\n\*\*(?:Narrated by\s+)?)(.+?)(?:\*\*)?$");
                 if (narrEnM.Success) narrEn = Clean(narrEnM.Groups[1].Value);
 
                 // English Translation
-                Match transMatch = Regex.Match(block, @"(?ms)(?:\*\*English Translation:\*\*|#### \u0627\u0644\u062a\u064e\u0651\u0631\u0652\u062c\u064e\u0645\u064e\u0629\u064f\s*\u0627\u0644\u0625\u0650\u0646\u0652\u062c\u0650\u0644\u0650\u064a\u0632\u0650\u064a\u064e\u0651\u0629\u064f\s*\(English Translation\):)\s*\n*>\s*(.+?)(?=\n+\*\s*\*\*|\n+---|---|\Z)");
-                if (transMatch.Success) enTrans = CleanBlock(transMatch.Groups[1].Value).Trim('\"', '\'', ' ');
+                Match transMatch1 = Regex.Match(block, @"(?ms)(?:\*\*English Translation:?\*\*|#### \u0627\u0644\u062a\u064e\u0651\u0631\u0652\u062c\u064e\u0645\u064e\u0629\u064f\s*\u0627\u0644\u0625\u0650\u0646\u0652\u062c\u0650\u0644\u0650\u064a\u0632\u0650\u064a\u064e\u0651\u0629\u064f\s*\(English Translation\):?)\s*\n*(.+?)(?=\n+\*\s*\*\*|\n+<div|\n+---|---|\Z)");
+                if (transMatch1.Success)
+                {
+                    string rawTrans = transMatch1.Groups[1].Value;
+                    string[] transLines = rawTrans.Split('\n');
+                    List<string> cleanT = new List<string>();
+                    foreach (string tl in transLines)
+                    {
+                        string tTrim = tl.Trim();
+                        if (tTrim.StartsWith("* **") || tTrim.StartsWith("####") || tTrim.StartsWith("#####") || tTrim.StartsWith("<div") || tTrim.StartsWith("</div"))
+                            break;
+                        tTrim = Regex.Replace(tTrim, @"^[>\s\*]+", "").Trim();
+                        if (tTrim.Length > 0) cleanT.Add(tTrim);
+                    }
+                    enTrans = string.Join(" ", cleanT).Trim('\"', '\'', ' ', '“', '”', '*');
+                }
 
-                // References & Takhrij
+                // References
                 Match takhArM = Regex.Match(block, @"(?m)^\*\s*\*\*(?:\u0627\u0644\u062a\u064e\u0651\u062e\u0652\u0631\u0650\u064a\u062c\u064f|Source):\*\*\s*(.+?)$");
                 if (takhArM.Success) takhrij = Clean(takhArM.Groups[1].Value);
                 else
@@ -143,9 +178,10 @@ public class HadithDataExporter
                 // Grading
                 Match gradArM = Regex.Match(block, @"(?m)^\*\s*\*\*(?:\u0627\u0644\u0652\u062d\u064f\u0643\u0652\u0645\u064f|Scholarly Grading):\*\*\s*(.+?)$");
                 if (gradArM.Success) grading = Clean(gradArM.Groups[1].Value);
+                if (string.IsNullOrEmpty(grading)) grading = "صَحِيحٌ (Sahih)";
 
                 // Benefits
-                Match benArM = Regex.Match(block, @"(?ms)^\*\s*\*\*\u0627\u0644\u0652\u0641\u064e\u0648\u064e\u0627\u0626\u0650\u062f\u064f\s*\u0648\u064e\u0627\u0644\u0652\u0639\u0650\u0628\u064e\u0631\u064f:\*\*\s*\n*(.+?)(?=</div>|\Z)");
+                Match benArM = Regex.Match(block, @"(?ms)^\*\s*\*\*\u0627\u0644\u0652\u0641\u064e\u0648\u064e\u0627\u0626\u0650\u062f\u064f\s*\u0648\u064e\u0627\u0644\u0652\u0639\u0650\u0628\u064e\u0631\u064f:\*\*\s*\n*(.+?)(?=</div>|\n+####|\Z)");
                 if (benArM.Success) benefitsAr = CleanBlock(benArM.Groups[1].Value);
 
                 Match benEnM = Regex.Match(block, @"(?ms)(?:^\*\s*\*\*Key Lessons & Takeaways:\*\*|#### \u0627\u0644\u0652\u0641\u064e\u0648\u064e\u0627\u0626\u0650\u062f\u064f\s*\u0648\u064e\u0627\u0644\u0652\u0639\u0650\u0628\u064e\u0631\u064f\s*\(Key Takeaways & Reflections\):)\s*\n*(.+?)(?=---|---|\Z)");
@@ -159,6 +195,10 @@ public class HadithDataExporter
                     if (string.IsNullOrEmpty(narrEn)) narrEn = "Abu Hafs 'Umar ibn al-Khattab (RA)";
                     if (string.IsNullOrEmpty(takhrij)) takhrij = "صحيح البخاري (1)، صحيح مسلم (1907)";
                     if (string.IsNullOrEmpty(grading)) grading = "مُتَّفَقٌ عَلَيْهِ (صَحِيحٌ)";
+                    if (string.IsNullOrEmpty(enTrans))
+                    {
+                        enTrans = "On the authority of Amir al-Mu'minin, Abu Hafs 'Umar ibn al-Khattab (RA), who said: I heard the Messenger of Allah ﷺ say: 'Actions are judged only by intentions, and every person will have only what they intended. So whoever emigrated for the sake of Allah and His Messenger, their emigration is for Allah and His Messenger; and whoever emigrated for some worldly gain or to take a woman in marriage, their emigration is for whatever they emigrated for.'";
+                    }
                 }
 
                 allHadiths.Add(new HadithItem
@@ -195,12 +235,25 @@ public class HadithDataExporter
 
         allHadiths.Sort((a, b) => a.id.CompareTo(b.id));
 
-        // Serialize Hadiths JSON
+        string hadithsJsonContent = SerializeHadiths(allHadiths);
+        string chaptersJsonContent = SerializeChapters(allHadiths.Count, chaptersList);
+
+        File.WriteAllText(hadithsJsonFile, hadithsJsonContent, Encoding.UTF8);
+        File.WriteAllText(chaptersJsonFile, chaptersJsonContent, Encoding.UTF8);
+
+        File.WriteAllText(mobileHadithsFile, hadithsJsonContent, Encoding.UTF8);
+        File.WriteAllText(mobileChaptersFile, chaptersJsonContent, Encoding.UTF8);
+
+        Console.WriteLine("SUCCESSFULLY EXPORTED " + allHadiths.Count + " HADITHS ACROSS " + chaptersList.Count + " CHAPTERS!");
+    }
+
+    private static string SerializeHadiths(List<HadithItem> hadiths)
+    {
         StringBuilder jsonSb = new StringBuilder();
         jsonSb.AppendLine("[\n");
-        for (int i = 0; i < allHadiths.Count; i++)
+        for (int i = 0; i < hadiths.Count; i++)
         {
-            var h = allHadiths[i];
+            var h = hadiths[i];
             jsonSb.AppendLine("  {");
             jsonSb.AppendLine("    \"id\": " + h.id + ",");
             jsonSb.AppendLine("    \"id_str\": \"" + EscapeJson(h.id_str) + "\",");
@@ -217,12 +270,14 @@ public class HadithDataExporter
             jsonSb.AppendLine("    \"grading\": \"" + EscapeJson(h.grading) + "\",");
             jsonSb.AppendLine("    \"benefits_ar\": \"" + EscapeJson(h.benefits_ar) + "\",");
             jsonSb.AppendLine("    \"benefits_en\": \"" + EscapeJson(h.benefits_en) + "\"");
-            jsonSb.Append("  }" + (i < allHadiths.Count - 1 ? ",\n" : "\n"));
+            jsonSb.Append("  }" + (i < hadiths.Count - 1 ? ",\n" : "\n"));
         }
         jsonSb.AppendLine("]");
-        File.WriteAllText(hadithsJsonFile, jsonSb.ToString(), Encoding.UTF8);
+        return jsonSb.ToString();
+    }
 
-        // Serialize Chapters JSON
+    private static string SerializeChapters(int totalHadiths, List<ChapterItem> chapters)
+    {
         StringBuilder chapSb = new StringBuilder();
         chapSb.AppendLine("{\n");
         chapSb.AppendLine("  \"book_title\": \"ألف حديث وحديث - 1001 Authentic Hadith\",");
@@ -231,12 +286,12 @@ public class HadithDataExporter
         chapSb.AppendLine("  \"compiler\": \"Ibrahim Sharif Abubakar\",");
         chapSb.AppendLine("  \"compiler_ar\": \"إبراهيم شريف أبوبكر\",");
         chapSb.AppendLine("  \"edition\": \"1st Complete Scholarly Edition\",");
-        chapSb.AppendLine("  \"total_hadiths\": " + allHadiths.Count + ",");
-        chapSb.AppendLine("  \"chapters_count\": " + chaptersList.Count + ",");
+        chapSb.AppendLine("  \"total_hadiths\": " + totalHadiths + ",");
+        chapSb.AppendLine("  \"chapters_count\": " + chapters.Count + ",");
         chapSb.AppendLine("  \"chapters\": [");
-        for (int i = 0; i < chaptersList.Count; i++)
+        for (int i = 0; i < chapters.Count; i++)
         {
-            var c = chaptersList[i];
+            var c = chapters[i];
             chapSb.AppendLine("    {");
             chapSb.AppendLine("      \"id\": " + c.id + ",");
             chapSb.AppendLine("      \"filename\": \"" + EscapeJson(c.filename) + "\",");
@@ -245,12 +300,10 @@ public class HadithDataExporter
             chapSb.AppendLine("      \"hadith_count\": " + c.hadith_count + ",");
             chapSb.AppendLine("      \"start_id\": " + c.start_id + ",");
             chapSb.AppendLine("      \"end_id\": " + c.end_id);
-            chapSb.Append("    }" + (i < chaptersList.Count - 1 ? ",\n" : "\n"));
+            chapSb.Append("    }" + (i < chapters.Count - 1 ? ",\n" : "\n"));
         }
         chapSb.AppendLine("  ]\n}");
-        File.WriteAllText(chaptersJsonFile, chapSb.ToString(), Encoding.UTF8);
-
-        Console.WriteLine("SUCCESSFULLY EXPORTED " + allHadiths.Count + " HADITHS ACROSS " + chaptersList.Count + " CHAPTERS!");
+        return chapSb.ToString();
     }
 
     private static string Clean(string input)

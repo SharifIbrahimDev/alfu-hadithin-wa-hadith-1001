@@ -6,6 +6,8 @@ import 'package:flutter_tts/flutter_tts.dart';
 import '../models/hadith.dart';
 import '../providers/app_provider.dart';
 
+enum TtsPhase { idle, arabic, english }
+
 class HadithReaderScreen extends StatefulWidget {
   final int initialHadithId;
 
@@ -19,7 +21,8 @@ class _HadithReaderScreenState extends State<HadithReaderScreen> {
   late PageController _pageController;
   late int _currentIndex;
   late FlutterTts _flutterTts;
-  bool _isSpeaking = false;
+  TtsPhase _ttsPhase = TtsPhase.idle;
+  TtsPlaybackMode _currentPlayMode = TtsPlaybackMode.both;
 
   @override
   void initState() {
@@ -31,8 +34,32 @@ class _HadithReaderScreenState extends State<HadithReaderScreen> {
 
     _pageController = PageController(initialPage: _currentIndex);
     _flutterTts = FlutterTts();
-    _flutterTts.setCompletionHandler(() {
-      if (mounted) setState(() => _isSpeaking = false);
+
+    _flutterTts.setCompletionHandler(() async {
+      if (!mounted) return;
+      if (_ttsPhase == TtsPhase.arabic && _currentPlayMode == TtsPlaybackMode.both) {
+        // Transition from Arabic to English with smooth pause
+        await Future.delayed(const Duration(milliseconds: 600));
+        if (mounted && _ttsPhase == TtsPhase.arabic) {
+          final p = Provider.of<AppProvider>(context, listen: false);
+          final hadith = p.service.allHadiths[_currentIndex];
+          _playEnglish(hadith, p);
+        }
+      } else {
+        if (mounted) {
+          setState(() {
+            _ttsPhase = TtsPhase.idle;
+          });
+        }
+      }
+    });
+
+    _flutterTts.setErrorHandler((msg) {
+      if (mounted) {
+        setState(() {
+          _ttsPhase = TtsPhase.idle;
+        });
+      }
     });
   }
 
@@ -43,16 +70,262 @@ class _HadithReaderScreenState extends State<HadithReaderScreen> {
     super.dispose();
   }
 
-  void _toggleSpeak(Hadith hadith) async {
-    if (_isSpeaking) {
-      await _flutterTts.stop();
-      setState(() => _isSpeaking = false);
-    } else {
-      await _flutterTts.setLanguage("en-US");
-      await _flutterTts.setSpeechRate(0.5);
-      await _flutterTts.speak(hadith.englishTranslation);
-      setState(() => _isSpeaking = true);
+  String _cleanArabic(String text) {
+    return text.replaceAll('«', '').replaceAll('»', '').replaceAll('"', '').trim();
+  }
+
+  String _cleanEnglish(String text) {
+    return text.replaceAll('*', '').replaceAll('"', '').replaceAll('“', '').replaceAll('”', '').trim();
+  }
+
+  Future<void> _stopTts() async {
+    await _flutterTts.stop();
+    if (mounted) {
+      setState(() {
+        _ttsPhase = TtsPhase.idle;
+      });
     }
+  }
+
+  Future<void> _playArabic(Hadith hadith, AppProvider provider, {required bool continueToEnglish}) async {
+    await _flutterTts.stop();
+    setState(() {
+      _ttsPhase = TtsPhase.arabic;
+      _currentPlayMode = continueToEnglish ? TtsPlaybackMode.both : TtsPlaybackMode.arabicOnly;
+    });
+
+    try {
+      await _flutterTts.setLanguage("ar-SA");
+      await _flutterTts.setSpeechRate(provider.arabicSpeechRate);
+      final text = _cleanArabic(hadith.arabicMatn);
+      await _flutterTts.speak(text);
+    } catch (_) {
+      try {
+        await _flutterTts.setLanguage("ar");
+        await _flutterTts.setSpeechRate(provider.arabicSpeechRate);
+        final text = _cleanArabic(hadith.arabicMatn);
+        await _flutterTts.speak(text);
+      } catch (_) {
+        if (continueToEnglish) {
+          _playEnglish(hadith, provider);
+        } else {
+          _stopTts();
+        }
+      }
+    }
+  }
+
+  Future<void> _playEnglish(Hadith hadith, AppProvider provider) async {
+    await _flutterTts.stop();
+    setState(() {
+      _ttsPhase = TtsPhase.english;
+      if (_currentPlayMode != TtsPlaybackMode.both) {
+        _currentPlayMode = TtsPlaybackMode.englishOnly;
+      }
+    });
+
+    await _flutterTts.setLanguage("en-US");
+    await _flutterTts.setSpeechRate(provider.englishSpeechRate);
+    final text = _cleanEnglish(hadith.englishTranslation);
+    await _flutterTts.speak(text);
+  }
+
+  void _toggleGlobalSpeak(Hadith hadith, AppProvider provider) {
+    if (_ttsPhase != TtsPhase.idle) {
+      _stopTts();
+    } else {
+      switch (provider.ttsMode) {
+        case TtsPlaybackMode.both:
+          _playArabic(hadith, provider, continueToEnglish: true);
+          break;
+        case TtsPlaybackMode.arabicOnly:
+          _playArabic(hadith, provider, continueToEnglish: false);
+          break;
+        case TtsPlaybackMode.englishOnly:
+          _playEnglish(hadith, provider);
+          break;
+      }
+    }
+  }
+
+  void _showTtsOptionsSheet(BuildContext context, Hadith hadith, AppProvider provider) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    showModalBottomSheet(
+      context: context,
+      backgroundColor: isDark ? const Color(0xFF111B2D) : Colors.white,
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(24)),
+      ),
+      builder: (ctx) {
+        return SafeArea(
+          child: Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 20),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Center(
+                  child: Container(
+                    width: 40,
+                    height: 4,
+                    decoration: BoxDecoration(
+                      color: isDark ? Colors.grey[700] : Colors.grey[300],
+                      borderRadius: BorderRadius.circular(2),
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 16),
+                Row(
+                  children: [
+                    Container(
+                      padding: const EdgeInsets.all(8),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF0D9488).withOpacity(0.15),
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                      child: const Icon(Icons.volume_up, color: Color(0xFF14B8A6), size: 22),
+                    ),
+                    const SizedBox(width: 12),
+                    const Text(
+                      'Audio Recitation (TTS)',
+                      style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 18),
+                _buildTtsPlayTile(
+                  icon: Icons.sync_alt_rounded,
+                  title: 'Play Both (Arabic + English)',
+                  subtitle: 'Recites Arabic Matn first, then English translation',
+                  color: const Color(0xFF0D9488),
+                  isPlaying: _ttsPhase != TtsPhase.idle && _currentPlayMode == TtsPlaybackMode.both,
+                  onTap: () {
+                    Navigator.pop(ctx);
+                    _playArabic(hadith, provider, continueToEnglish: true);
+                  },
+                ),
+                const SizedBox(height: 8),
+                _buildTtsPlayTile(
+                  icon: Icons.translate_rounded,
+                  title: 'Recite Arabic Only 🇸🇦',
+                  subtitle: 'Vocalizes the original Arabic text with Tashkeel',
+                  color: const Color(0xFF10B981),
+                  isPlaying: _ttsPhase == TtsPhase.arabic && _currentPlayMode == TtsPlaybackMode.arabicOnly,
+                  onTap: () {
+                    Navigator.pop(ctx);
+                    _playArabic(hadith, provider, continueToEnglish: false);
+                  },
+                ),
+                const SizedBox(height: 8),
+                _buildTtsPlayTile(
+                  icon: Icons.record_voice_over_rounded,
+                  title: 'Read English Only 🇬🇧',
+                  subtitle: 'Speaks the verified English translation',
+                  color: const Color(0xFFF59E0B),
+                  isPlaying: _ttsPhase == TtsPhase.english && _currentPlayMode == TtsPlaybackMode.englishOnly,
+                  onTap: () {
+                    Navigator.pop(ctx);
+                    _playEnglish(hadith, provider);
+                  },
+                ),
+                if (_ttsPhase != TtsPhase.idle) ...[
+                  const SizedBox(height: 14),
+                  SizedBox(
+                    width: double.infinity,
+                    child: OutlinedButton.icon(
+                      onPressed: () {
+                        Navigator.pop(ctx);
+                        _stopTts();
+                      },
+                      icon: const Icon(Icons.stop_circle_outlined, color: Colors.redAccent),
+                      label: const Text('Stop Audio Playback', style: TextStyle(color: Colors.redAccent, fontWeight: FontWeight.bold)),
+                      style: OutlinedButton.styleFrom(
+                        side: const BorderSide(color: Colors.redAccent),
+                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                        padding: const EdgeInsets.symmetric(vertical: 12),
+                      ),
+                    ),
+                  ),
+                ],
+              ],
+            ),
+          ),
+        );
+      },
+    );
+  }
+
+  Widget _buildTtsPlayTile({
+    required IconData icon,
+    required String title,
+    required String subtitle,
+    required Color color,
+    required bool isPlaying,
+    required VoidCallback onTap,
+  }) {
+    return InkWell(
+      onTap: onTap,
+      borderRadius: BorderRadius.circular(14),
+      child: Container(
+        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+        decoration: BoxDecoration(
+          color: isPlaying ? color.withOpacity(0.18) : color.withOpacity(0.06),
+          borderRadius: BorderRadius.circular(14),
+          border: Border.all(
+            color: isPlaying ? color : color.withOpacity(0.18),
+            width: isPlaying ? 1.5 : 1,
+          ),
+        ),
+        child: Row(
+          children: [
+            Container(
+              padding: const EdgeInsets.all(8),
+              decoration: BoxDecoration(
+                color: color.withOpacity(0.2),
+                borderRadius: BorderRadius.circular(10),
+              ),
+              child: Icon(isPlaying ? Icons.stop_rounded : icon, color: color, size: 20),
+            ),
+            const SizedBox(width: 12),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    title,
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      fontSize: 14,
+                      color: isPlaying ? color : null,
+                    ),
+                  ),
+                  const SizedBox(height: 2),
+                  Text(
+                    subtitle,
+                    style: TextStyle(
+                      fontSize: 11,
+                      color: Colors.grey[500],
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            if (isPlaying)
+              Container(
+                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                decoration: BoxDecoration(
+                  color: color,
+                  borderRadius: BorderRadius.circular(6),
+                ),
+                child: const Text(
+                  'Playing',
+                  style: TextStyle(fontSize: 10, color: Colors.white, fontWeight: FontWeight.bold),
+                ),
+              ),
+          ],
+        ),
+      ),
+    );
   }
 
   void _copyHadith(Hadith hadith) {
@@ -97,42 +370,62 @@ class _HadithReaderScreenState extends State<HadithReaderScreen> {
       return const Scaffold(body: Center(child: Text('No hadiths found')));
     }
 
+    final currentHadith = allHadiths[_currentIndex];
+
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          allHadiths[_currentIndex].idStr,
+          currentHadith.idStr,
           style: const TextStyle(fontWeight: FontWeight.bold, color: Color(0xFFF59E0B)),
         ),
         actions: [
+          // Audio action with options on long press
           IconButton(
             icon: Icon(
-              _isSpeaking ? Icons.volume_up : Icons.volume_mute,
-              color: _isSpeaking ? const Color(0xFF14B8A6) : null,
+              _ttsPhase == TtsPhase.arabic
+                  ? Icons.volume_up
+                  : _ttsPhase == TtsPhase.english
+                      ? Icons.record_voice_over
+                      : Icons.volume_up_outlined,
+              color: _ttsPhase == TtsPhase.arabic
+                  ? const Color(0xFF14B8A6)
+                  : _ttsPhase == TtsPhase.english
+                      ? const Color(0xFFF59E0B)
+                      : null,
             ),
-            tooltip: 'Read Aloud (TTS)',
-            onPressed: () => _toggleSpeak(allHadiths[_currentIndex]),
+            tooltip: _ttsPhase == TtsPhase.arabic
+                ? 'Reciting Arabic... (Tap to stop)'
+                : _ttsPhase == TtsPhase.english
+                    ? 'Reading English... (Tap to stop)'
+                    : 'Read Aloud (TTS)',
+            onPressed: () => _toggleGlobalSpeak(currentHadith, provider),
+          ),
+          IconButton(
+            icon: const Icon(Icons.more_vert),
+            tooltip: 'Audio Options',
+            onPressed: () => _showTtsOptionsSheet(context, currentHadith, provider),
           ),
           IconButton(
             icon: const Icon(Icons.copy),
             tooltip: 'Copy Hadith',
-            onPressed: () => _copyHadith(allHadiths[_currentIndex]),
+            onPressed: () => _copyHadith(currentHadith),
           ),
           IconButton(
             icon: Icon(
-              provider.isBookmarked(allHadiths[_currentIndex].id)
+              provider.isBookmarked(currentHadith.id)
                   ? Icons.bookmark
                   : Icons.bookmark_border,
-              color: provider.isBookmarked(allHadiths[_currentIndex].id)
+              color: provider.isBookmarked(currentHadith.id)
                   ? const Color(0xFFF59E0B)
                   : null,
             ),
             tooltip: 'Bookmark',
-            onPressed: () => provider.toggleBookmark(allHadiths[_currentIndex].id),
+            onPressed: () => provider.toggleBookmark(currentHadith.id),
           ),
           IconButton(
             icon: const Icon(Icons.share),
             tooltip: 'Share',
-            onPressed: () => _shareHadith(allHadiths[_currentIndex]),
+            onPressed: () => _shareHadith(currentHadith),
           ),
         ],
       ),
@@ -142,9 +435,9 @@ class _HadithReaderScreenState extends State<HadithReaderScreen> {
         onPageChanged: (idx) {
           setState(() {
             _currentIndex = idx;
-            if (_isSpeaking) {
+            if (_ttsPhase != TtsPhase.idle) {
               _flutterTts.stop();
-              _isSpeaking = false;
+              _ttsPhase = TtsPhase.idle;
             }
           });
         },
@@ -213,35 +506,101 @@ class _HadithReaderScreenState extends State<HadithReaderScreen> {
 
   Widget _buildHadithReaderBody(
       BuildContext context, Hadith hadith, AppProvider provider, bool isDark) {
+    final isArabicPlaying = _ttsPhase == TtsPhase.arabic;
+    final isEnglishPlaying = _ttsPhase == TtsPhase.english;
+
     return SingleChildScrollView(
       padding: const EdgeInsets.all(16),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
           // 🇸🇦 ARABIC SECTION (RTL)
-          Container(
+          AnimatedContainer(
+            duration: const Duration(milliseconds: 300),
             padding: const EdgeInsets.all(18),
             decoration: BoxDecoration(
               color: isDark ? const Color(0xFF162238) : const Color(0xFFF1F5F9),
               borderRadius: BorderRadius.circular(18),
               border: Border.all(
-                color: isDark ? Colors.white.withOpacity(0.08) : Colors.black.withOpacity(0.06),
+                color: isArabicPlaying
+                    ? const Color(0xFF14B8A6)
+                    : (isDark ? Colors.white.withOpacity(0.08) : Colors.black.withOpacity(0.06)),
+                width: isArabicPlaying ? 2.0 : 1.0,
               ),
+              boxShadow: isArabicPlaying
+                  ? [
+                      BoxDecoration(
+                        color: const Color(0xFF14B8A6).withOpacity(0.12),
+                        borderRadius: BorderRadius.circular(18),
+                      ).boxShadow ?? const BoxShadow()
+                    ]
+                  : null,
             ),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
-                if (hadith.topicAr.isNotEmpty)
-                  Text(
-                    '[الباب: ${hadith.topicAr}]',
-                    textDirection: TextDirection.rtl,
-                    style: const TextStyle(
-                      fontFamily: 'Amiri',
-                      fontSize: 16,
-                      fontWeight: FontWeight.bold,
-                      color: Color(0xFFF59E0B),
+                // Topic & Arabic Recite Button Row
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    // Arabic Audio Pill Button
+                    InkWell(
+                      onTap: () {
+                        if (isArabicPlaying) {
+                          _stopTts();
+                        } else {
+                          _playArabic(hadith, provider, continueToEnglish: false);
+                        }
+                      },
+                      borderRadius: BorderRadius.circular(20),
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                        decoration: BoxDecoration(
+                          color: isArabicPlaying
+                              ? const Color(0xFF14B8A6)
+                              : const Color(0xFF14B8A6).withOpacity(0.12),
+                          borderRadius: BorderRadius.circular(20),
+                          border: Border.all(
+                            color: const Color(0xFF14B8A6).withOpacity(0.4),
+                          ),
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Icon(
+                              isArabicPlaying ? Icons.stop_rounded : Icons.volume_up_rounded,
+                              size: 14,
+                              color: isArabicPlaying ? Colors.white : const Color(0xFF14B8A6),
+                            ),
+                            const SizedBox(width: 4),
+                            Text(
+                              isArabicPlaying ? 'إيقاف' : '🇸🇦 استمع',
+                              style: TextStyle(
+                                fontSize: 11,
+                                fontWeight: FontWeight.bold,
+                                color: isArabicPlaying ? Colors.white : const Color(0xFF14B8A6),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
                     ),
-                  ),
+                    if (hadith.topicAr.isNotEmpty)
+                      Expanded(
+                        child: Text(
+                          '[الباب: ${hadith.topicAr}]',
+                          textDirection: TextDirection.rtl,
+                          textAlign: TextAlign.right,
+                          style: const TextStyle(
+                            fontFamily: 'Amiri',
+                            fontSize: 16,
+                            fontWeight: FontWeight.bold,
+                            color: Color(0xFFF59E0B),
+                          ),
+                        ),
+                      ),
+                  ],
+                ),
                 const SizedBox(height: 12),
                 Text(
                   hadith.arabicMatn,
@@ -307,26 +666,87 @@ class _HadithReaderScreenState extends State<HadithReaderScreen> {
           const SizedBox(height: 16),
 
           // 🇬🇧 ENGLISH SECTION (LTR)
-          Container(
+          AnimatedContainer(
+            duration: const Duration(milliseconds: 300),
             padding: const EdgeInsets.all(18),
             decoration: BoxDecoration(
               color: isDark ? const Color(0xFF111B2D) : Colors.white,
               borderRadius: BorderRadius.circular(18),
               border: Border.all(
-                color: isDark ? Colors.white.withOpacity(0.08) : Colors.black.withOpacity(0.06),
+                color: isEnglishPlaying
+                    ? const Color(0xFFF59E0B)
+                    : (isDark ? Colors.white.withOpacity(0.08) : Colors.black.withOpacity(0.06)),
+                width: isEnglishPlaying ? 2.0 : 1.0,
               ),
+              boxShadow: isEnglishPlaying
+                  ? [
+                      BoxDecoration(
+                        color: const Color(0xFFF59E0B).withOpacity(0.12),
+                        borderRadius: BorderRadius.circular(18),
+                      ).boxShadow ?? const BoxShadow()
+                    ]
+                  : null,
             ),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text(
-                  hadith.topicEn.toUpperCase(),
-                  style: const TextStyle(
-                    fontSize: 13,
-                    fontWeight: FontWeight.bold,
-                    color: Color(0xFF0D9488),
-                    letterSpacing: 0.5,
-                  ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Expanded(
+                      child: Text(
+                        hadith.topicEn.toUpperCase(),
+                        style: const TextStyle(
+                          fontSize: 13,
+                          fontWeight: FontWeight.bold,
+                          color: Color(0xFF0D9488),
+                          letterSpacing: 0.5,
+                        ),
+                      ),
+                    ),
+                    // English Audio Pill Button
+                    InkWell(
+                      onTap: () {
+                        if (isEnglishPlaying) {
+                          _stopTts();
+                        } else {
+                          _playEnglish(hadith, provider);
+                        }
+                      },
+                      borderRadius: BorderRadius.circular(20),
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                        decoration: BoxDecoration(
+                          color: isEnglishPlaying
+                              ? const Color(0xFFF59E0B)
+                              : const Color(0xFFF59E0B).withOpacity(0.12),
+                          borderRadius: BorderRadius.circular(20),
+                          border: Border.all(
+                            color: const Color(0xFFF59E0B).withOpacity(0.4),
+                          ),
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Icon(
+                              isEnglishPlaying ? Icons.stop_rounded : Icons.record_voice_over_rounded,
+                              size: 14,
+                              color: isEnglishPlaying ? Colors.white : const Color(0xFFF59E0B),
+                            ),
+                            const SizedBox(width: 4),
+                            Text(
+                              isEnglishPlaying ? 'Stop' : '🇬🇧 Listen',
+                              style: TextStyle(
+                                fontSize: 11,
+                                fontWeight: FontWeight.bold,
+                                color: isEnglishPlaying ? Colors.white : const Color(0xFFF59E0B),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ],
                 ),
                 const SizedBox(height: 10),
                 Text(
