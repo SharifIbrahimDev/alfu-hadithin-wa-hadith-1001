@@ -86,6 +86,7 @@ class AppProvider with ChangeNotifier {
 
       if (_dailyReminderEnabled && _service.allHadiths.isNotEmpty) {
         try {
+          await _notificationService.requestPermissions();
           await _notificationService.scheduleDailyHadithReminder(
             hour: _dailyReminderTime.hour,
             minute: _dailyReminderTime.minute,
