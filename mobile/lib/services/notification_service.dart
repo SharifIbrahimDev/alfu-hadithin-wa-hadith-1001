@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:timezone/data/latest_all.dart' as tz;
 import 'package:timezone/timezone.dart' as tz;
+import 'package:flutter_timezone/flutter_timezone.dart';
 import '../models/hadith.dart';
 
 class NotificationService {
@@ -15,7 +16,7 @@ class NotificationService {
 
   static const int dailyReminderNotificationId = 1001;
   static const int testNotificationId = 9999;
-  static const String channelId = 'daily_hadith_channel';
+  static const String channelId = 'daily_hadith_channel_v2';
   static const String channelName = 'Daily Hadith Reminder';
   static const String channelDescription =
       'Daily authentic Hadith reminders and notifications from 1001 Authentic Hadith';
@@ -26,10 +27,14 @@ class NotificationService {
     _onNotificationSelected = onSelectHadith;
 
     try {
-      // Initialize timezones
+      // Initialize timezones database
       tz.initializeTimeZones();
+      // Detect and set device local timezone
+      final String timeZoneName = await FlutterTimezone.getLocalTimezone();
+      tz.setLocalLocation(tz.getLocation(timeZoneName));
+      debugPrint('NotificationService: Local timezone initialized to $timeZoneName');
     } catch (e) {
-      debugPrint('Error initializing timezones: $e');
+      debugPrint('Error initializing local timezone with flutter_timezone: $e');
     }
 
     try {
@@ -40,9 +45,9 @@ class NotificationService {
       // iOS / macOS Darwin settings
       const DarwinInitializationSettings darwinSettings =
           DarwinInitializationSettings(
-        requestAlertPermission: false,
-        requestBadgePermission: false,
-        requestSoundPermission: false,
+        requestAlertPermission: true,
+        requestBadgePermission: true,
+        requestSoundPermission: true,
       );
 
       const InitializationSettings initSettings = InitializationSettings(
@@ -73,9 +78,11 @@ class NotificationService {
             channelId,
             channelName,
             description: channelDescription,
-            importance: Importance.high,
+            importance: Importance.max,
             playSound: true,
             enableVibration: true,
+            enableLights: true,
+            showBadge: true,
           ),
         );
       }
@@ -114,8 +121,9 @@ class NotificationService {
   }
 
   tz.TZDateTime _nextInstanceOfTime(int hour, int minute) {
-    final now = DateTime.now();
-    var scheduledDateTime = DateTime(
+    final tz.TZDateTime now = tz.TZDateTime.now(tz.local);
+    tz.TZDateTime scheduledDate = tz.TZDateTime(
+      tz.local,
       now.year,
       now.month,
       now.day,
@@ -124,17 +132,10 @@ class NotificationService {
       0,
     );
 
-    // If the scheduled time for today has already passed, schedule for tomorrow
-    if (scheduledDateTime.isBefore(now)) {
-      scheduledDateTime = scheduledDateTime.add(const Duration(days: 1));
+    if (scheduledDate.isBefore(now)) {
+      scheduledDate = scheduledDate.add(const Duration(days: 1));
     }
-
-    // Convert local DateTime to TZDateTime preserving the exact moment in time
-    try {
-      return tz.TZDateTime.from(scheduledDateTime, tz.local);
-    } catch (_) {
-      return tz.TZDateTime.from(scheduledDateTime, tz.UTC);
-    }
+    return scheduledDate;
   }
 
   NotificationDetails _buildNotificationDetails({
@@ -146,8 +147,11 @@ class NotificationService {
       channelId,
       channelName,
       channelDescription: channelDescription,
-      importance: Importance.high,
-      priority: Priority.high,
+      importance: Importance.max,
+      priority: Priority.max,
+      playSound: true,
+      enableVibration: true,
+      enableLights: true,
       icon: '@mipmap/ic_launcher',
       styleInformation: BigTextStyleInformation(
         body,
