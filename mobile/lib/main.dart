@@ -18,15 +18,19 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   // Initialize notifications with deep-link navigation
-  await NotificationService().initialize(
-    onSelectHadith: (hadithId) {
-      navigatorKey.currentState?.push(
-        MaterialPageRoute(
-          builder: (_) => HadithReaderScreen(initialHadithId: hadithId),
-        ),
-      );
-    },
-  );
+  try {
+    await NotificationService().initialize(
+      onSelectHadith: (hadithId) {
+        navigatorKey.currentState?.push(
+          MaterialPageRoute(
+            builder: (_) => HadithReaderScreen(initialHadithId: hadithId),
+          ),
+        );
+      },
+    );
+  } catch (e) {
+    debugPrint('NotificationService initialization error: $e');
+  }
 
   runApp(
     MultiProvider(

@@ -41,48 +41,66 @@ class AppProvider with ChangeNotifier {
     _init();
   }
 
-  Future<void> _init() async {
-    await _service.loadData();
-    final prefs = await SharedPreferences.getInstance();
-
-    final savedBookmarks = prefs.getStringList('saved_bookmarks') ?? [];
-    _bookmarks = savedBookmarks.map((s) => int.tryParse(s) ?? 0).where((id) => id > 0).toSet();
-
-    final themeStr = prefs.getString('theme_mode') ?? 'dark';
-    if (themeStr == 'sepia') _themeMode = AppThemeMode.sepia;
-    else if (themeStr == 'light') _themeMode = AppThemeMode.light;
-    else _themeMode = AppThemeMode.dark;
-
-    _arabicFontSize = prefs.getDouble('arabic_font_size') ?? 22.0;
-    _englishFontSize = prefs.getDouble('english_font_size') ?? 15.0;
-
-    final ttsModeStr = prefs.getString('tts_mode') ?? 'both';
-    if (ttsModeStr == 'arabicOnly') {
-      _ttsMode = TtsPlaybackMode.arabicOnly;
-    } else if (ttsModeStr == 'englishOnly') {
-      _ttsMode = TtsPlaybackMode.englishOnly;
-    } else {
-      _ttsMode = TtsPlaybackMode.both;
-    }
-
-    _arabicSpeechRate = prefs.getDouble('arabic_speech_rate') ?? 0.45;
-    _englishSpeechRate = prefs.getDouble('english_speech_rate') ?? 0.50;
-
-    _dailyReminderEnabled = prefs.getBool('daily_reminder_enabled') ?? true;
-    final hour = prefs.getInt('daily_reminder_hour') ?? 8;
-    final minute = prefs.getInt('daily_reminder_minute') ?? 0;
-    _dailyReminderTime = TimeOfDay(hour: hour, minute: minute);
-
-    if (_dailyReminderEnabled && _service.allHadiths.isNotEmpty) {
-      await _notificationService.scheduleDailyHadithReminder(
-        hour: _dailyReminderTime.hour,
-        minute: _dailyReminderTime.minute,
-        hadith: _service.getDailyHadith(),
-      );
-    }
-
-    _isLoading = false;
+  Future<void> reload() async {
+    _isLoading = true;
     notifyListeners();
+    await _init();
+  }
+
+  Future<void> _init() async {
+    try {
+      await _service.loadData();
+      final prefs = await SharedPreferences.getInstance();
+
+      final savedBookmarks = prefs.getStringList('saved_bookmarks') ?? [];
+      _bookmarks = savedBookmarks.map((s) => int.tryParse(s) ?? 0).where((id) => id > 0).toSet();
+
+      final themeStr = prefs.getString('theme_mode') ?? 'dark';
+      if (themeStr == 'sepia') {
+        _themeMode = AppThemeMode.sepia;
+      } else if (themeStr == 'light') {
+        _themeMode = AppThemeMode.light;
+      } else {
+        _themeMode = AppThemeMode.dark;
+      }
+
+      _arabicFontSize = prefs.getDouble('arabic_font_size') ?? 22.0;
+      _englishFontSize = prefs.getDouble('english_font_size') ?? 15.0;
+
+      final ttsModeStr = prefs.getString('tts_mode') ?? 'both';
+      if (ttsModeStr == 'arabicOnly') {
+        _ttsMode = TtsPlaybackMode.arabicOnly;
+      } else if (ttsModeStr == 'englishOnly') {
+        _ttsMode = TtsPlaybackMode.englishOnly;
+      } else {
+        _ttsMode = TtsPlaybackMode.both;
+      }
+
+      _arabicSpeechRate = prefs.getDouble('arabic_speech_rate') ?? 0.45;
+      _englishSpeechRate = prefs.getDouble('english_speech_rate') ?? 0.50;
+
+      _dailyReminderEnabled = prefs.getBool('daily_reminder_enabled') ?? true;
+      final hour = prefs.getInt('daily_reminder_hour') ?? 8;
+      final minute = prefs.getInt('daily_reminder_minute') ?? 0;
+      _dailyReminderTime = TimeOfDay(hour: hour, minute: minute);
+
+      if (_dailyReminderEnabled && _service.allHadiths.isNotEmpty) {
+        try {
+          await _notificationService.scheduleDailyHadithReminder(
+            hour: _dailyReminderTime.hour,
+            minute: _dailyReminderTime.minute,
+            hadith: _service.getDailyHadith(),
+          );
+        } catch (e) {
+          debugPrint('Error scheduling daily reminder during init: $e');
+        }
+      }
+    } catch (e, st) {
+      debugPrint('Error in AppProvider._init: $e\n$st');
+    } finally {
+      _isLoading = false;
+      notifyListeners();
+    }
   }
 
   void toggleBookmark(int hadithId) async {

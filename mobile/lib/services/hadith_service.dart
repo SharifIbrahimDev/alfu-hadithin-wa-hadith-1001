@@ -57,8 +57,17 @@ class HadithService {
         benefitsEn: '',
       );
     }
-    final dayOfYear = DateTime.now().difference(DateTime(DateTime.now().year, 1, 1)).inDays;
-    return _hadiths[dayOfYear % _hadiths.length];
+    final now = DateTime.now();
+    // Deterministic date key (YYYYMMDD) e.g., 20260922
+    final dayKey = now.year * 10000 + now.month * 100 + now.day;
+
+    // Fast, uniform 32-bit integer hash to select varied chapters across consecutive days
+    var hash = dayKey ^ 0x9e3779b9;
+    hash = ((hash ^ (hash >> 16)) * 0x85ebca6b) & 0xFFFFFFFF;
+    hash = ((hash ^ (hash >> 13)) * 0xc2b2ae35) & 0xFFFFFFFF;
+    hash = (hash ^ (hash >> 16)) & 0x7FFFFFFF;
+
+    return _hadiths[hash % _hadiths.length];
   }
 
   List<Hadith> search(String query) {

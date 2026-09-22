@@ -18,8 +18,47 @@ class HomeScreen extends StatelessWidget {
       return const Center(child: CircularProgressIndicator(color: Color(0xFF0D9488)));
     }
 
-    final daily = provider.service.getDailyHadith();
     final chapters = provider.service.allChapters;
+    if (chapters.isEmpty) {
+      return Center(
+        child: Padding(
+          padding: const EdgeInsets.all(24),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              const Icon(Icons.menu_book_rounded, size: 64, color: Color(0xFF0D9488)),
+              const SizedBox(height: 16),
+              const Text(
+                'Unable to load Hadith chapters',
+                style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+              ),
+              const SizedBox(height: 8),
+              Text(
+                'Please check app permissions or tap retry to reload the compendium.',
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 13, color: Colors.grey[500]),
+              ),
+              const SizedBox(height: 20),
+              ElevatedButton.icon(
+                onPressed: () => provider.reload(),
+                icon: const Icon(Icons.refresh_rounded),
+                label: const Text('Reload Compendium'),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: const Color(0xFF0D9488),
+                  foregroundColor: Colors.white,
+                  padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      );
+    }
+
+    final daily = provider.service.getDailyHadith();
 
     return Scaffold(
       body: CustomScrollView(

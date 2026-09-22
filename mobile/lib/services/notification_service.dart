@@ -25,91 +25,114 @@ class NotificationService {
   Future<void> initialize({Function(int hadithId)? onSelectHadith}) async {
     _onNotificationSelected = onSelectHadith;
 
-    // Initialize timezones
-    tz.initializeTimeZones();
+    try {
+      // Initialize timezones
+      tz.initializeTimeZones();
+    } catch (e) {
+      debugPrint('Error initializing timezones: $e');
+    }
 
-    // Android settings
-    const AndroidInitializationSettings androidSettings =
-        AndroidInitializationSettings('@mipmap/ic_launcher');
+    try {
+      // Android settings
+      const AndroidInitializationSettings androidSettings =
+          AndroidInitializationSettings('@mipmap/ic_launcher');
 
-    // iOS / macOS Darwin settings
-    const DarwinInitializationSettings darwinSettings =
-        DarwinInitializationSettings(
-      requestAlertPermission: false,
-      requestBadgePermission: false,
-      requestSoundPermission: false,
-    );
-
-    const InitializationSettings initSettings = InitializationSettings(
-      android: androidSettings,
-      iOS: darwinSettings,
-    );
-
-    await _notificationsPlugin.initialize(
-      initSettings,
-      onDidReceiveNotificationResponse: (NotificationResponse response) {
-        if (response.payload != null && response.payload!.isNotEmpty) {
-          final hadithId = int.tryParse(response.payload!);
-          if (hadithId != null && _onNotificationSelected != null) {
-            _onNotificationSelected!(hadithId);
-          }
-        }
-      },
-    );
-
-    // Create High-Priority Notification Channel for Android
-    final androidNotificationPlugin = _notificationsPlugin
-        .resolvePlatformSpecificImplementation<
-            AndroidFlutterLocalNotificationsPlugin>();
-
-    if (androidNotificationPlugin != null) {
-      await androidNotificationPlugin.createNotificationChannel(
-        const AndroidNotificationChannel(
-          channelId,
-          channelName,
-          description: channelDescription,
-          importance: Importance.high,
-          playSound: true,
-          enableVibration: true,
-        ),
+      // iOS / macOS Darwin settings
+      const DarwinInitializationSettings darwinSettings =
+          DarwinInitializationSettings(
+        requestAlertPermission: false,
+        requestBadgePermission: false,
+        requestSoundPermission: false,
       );
+
+      const InitializationSettings initSettings = InitializationSettings(
+        android: androidSettings,
+        iOS: darwinSettings,
+      );
+
+      await _notificationsPlugin.initialize(
+        initSettings,
+        onDidReceiveNotificationResponse: (NotificationResponse response) {
+          if (response.payload != null && response.payload!.isNotEmpty) {
+            final hadithId = int.tryParse(response.payload!);
+            if (hadithId != null && _onNotificationSelected != null) {
+              _onNotificationSelected!(hadithId);
+            }
+          }
+        },
+      );
+
+      // Create High-Priority Notification Channel for Android
+      final androidNotificationPlugin = _notificationsPlugin
+          .resolvePlatformSpecificImplementation<
+              AndroidFlutterLocalNotificationsPlugin>();
+
+      if (androidNotificationPlugin != null) {
+        await androidNotificationPlugin.createNotificationChannel(
+          const AndroidNotificationChannel(
+            channelId,
+            channelName,
+            description: channelDescription,
+            importance: Importance.high,
+            playSound: true,
+            enableVibration: true,
+          ),
+        );
+      }
+    } catch (e) {
+      debugPrint('Error during NotificationService initialize: $e');
     }
   }
 
   Future<bool> requestPermissions() async {
-    if (Platform.isAndroid) {
-      final androidImplementation = _notificationsPlugin
-          .resolvePlatformSpecificImplementation<
-              AndroidFlutterLocalNotificationsPlugin>();
-      if (androidImplementation != null) {
-        final granted = await androidImplementation.requestNotificationsPermission();
-        await androidImplementation.requestExactAlarmsPermission();
-        return granted ?? false;
+    try {
+      if (Platform.isAndroid) {
+        final androidImplementation = _notificationsPlugin
+            .resolvePlatformSpecificImplementation<
+                AndroidFlutterLocalNotificationsPlugin>();
+        if (androidImplementation != null) {
+          final granted = await androidImplementation.requestNotificationsPermission();
+          return granted ?? false;
+        }
+      } else if (Platform.isIOS || Platform.isMacOS) {
+        final darwinImplementation = _notificationsPlugin
+            .resolvePlatformSpecificImplementation<
+                IOSFlutterLocalNotificationsPlugin>();
+        if (darwinImplementation != null) {
+          final granted = await darwinImplementation.requestPermissions(
+            alert: true,
+            badge: true,
+            sound: true,
+          );
+          return granted ?? false;
+        }
       }
-    } else if (Platform.isIOS || Platform.isMacOS) {
-      final darwinImplementation = _notificationsPlugin
-          .resolvePlatformSpecificImplementation<
-              IOSFlutterLocalNotificationsPlugin>();
-      if (darwinImplementation != null) {
-        final granted = await darwinImplementation.requestPermissions(
-          alert: true,
-          badge: true,
-          sound: true,
-        );
-        return granted ?? false;
-      }
+    } catch (e) {
+      debugPrint('Error requesting notification permissions: $e');
     }
     return true;
   }
 
   tz.TZDateTime _nextInstanceOfTime(int hour, int minute) {
-    final tz.TZDateTime now = tz.TZDateTime.now(tz.local);
-    tz.TZDateTime scheduledDate =
-        tz.TZDateTime(tz.local, now.year, now.month, now.day, hour, minute);
-    if (scheduledDate.isBefore(now)) {
-      scheduledDate = scheduledDate.add(const Duration(days: 1));
+    try {
+      final tz.TZDateTime now = tz.TZDateTime.now(tz.local);
+      tz.TZDateTime scheduledDate =
+          tz.TZDateTime(tz.local, now.year, now.month, now.day, hour, minute);
+      if (scheduledDate.isBefore(now)) {
+        scheduledDate = scheduledDate.add(const Duration(days: 1));
+      }
+      return scheduledDate;
+    } catch (_) {
+      final now = DateTime.now();
+      var scheduledDate = tz.TZDateTime.from(
+        DateTime(now.year, now.month, now.day, hour, minute),
+        tz.UTC,
+      );
+      if (scheduledDate.isBefore(tz.TZDateTime.now(tz.UTC))) {
+        scheduledDate = scheduledDate.add(const Duration(days: 1));
+      }
+      return scheduledDate;
     }
-    return scheduledDate;
   }
 
   NotificationDetails _buildNotificationDetails({
@@ -150,67 +173,83 @@ class NotificationService {
     required int minute,
     required Hadith hadith,
   }) async {
-    // Cancel existing scheduled daily reminder
-    await cancelDailyReminder();
+    try {
+      // Cancel existing scheduled daily reminder
+      await cancelDailyReminder();
 
-    final scheduledDate = _nextInstanceOfTime(hour, minute);
-    final title = '📖 Daily Hadith: ${hadith.topicEn}';
-    final previewText = hadith.englishTranslation.isNotEmpty
-        ? (hadith.englishTranslation.length > 200
-            ? '${hadith.englishTranslation.substring(0, 197)}...'
-            : hadith.englishTranslation)
-        : hadith.arabicMatn;
-    final subText = 'Hadith #${hadith.id} • ${hadith.chapterTitleEn}';
+      final scheduledDate = _nextInstanceOfTime(hour, minute);
+      final title = '📖 Daily Hadith: ${hadith.topicEn}';
+      final previewText = hadith.englishTranslation.isNotEmpty
+          ? (hadith.englishTranslation.length > 200
+              ? '${hadith.englishTranslation.substring(0, 197)}...'
+              : hadith.englishTranslation)
+          : hadith.arabicMatn;
+      final subText = 'Hadith #${hadith.id} • ${hadith.chapterTitleEn}';
 
-    final details = _buildNotificationDetails(
-      title: title,
-      body: previewText,
-      subText: subText,
-    );
+      final details = _buildNotificationDetails(
+        title: title,
+        body: previewText,
+        subText: subText,
+      );
 
-    await _notificationsPlugin.zonedSchedule(
-      dailyReminderNotificationId,
-      title,
-      previewText,
-      scheduledDate,
-      details,
-      androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
-      uiLocalNotificationDateInterpretation:
-          UILocalNotificationDateInterpretation.absoluteTime,
-      matchDateTimeComponents: DateTimeComponents.time,
-      payload: hadith.id.toString(),
-    );
+      await _notificationsPlugin.zonedSchedule(
+        dailyReminderNotificationId,
+        title,
+        previewText,
+        scheduledDate,
+        details,
+        androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
+        uiLocalNotificationDateInterpretation:
+            UILocalNotificationDateInterpretation.absoluteTime,
+        matchDateTimeComponents: DateTimeComponents.time,
+        payload: hadith.id.toString(),
+      );
+    } catch (e) {
+      debugPrint('Error scheduling daily reminder: $e');
+    }
   }
 
   Future<void> showInstantTestNotification({required Hadith hadith}) async {
-    final title = '📖 Daily Hadith: ${hadith.topicEn}';
-    final previewText = hadith.englishTranslation.isNotEmpty
-        ? (hadith.englishTranslation.length > 200
-            ? '${hadith.englishTranslation.substring(0, 197)}...'
-            : hadith.englishTranslation)
-        : hadith.arabicMatn;
-    final subText = 'Hadith #${hadith.id} • ${hadith.chapterTitleEn}';
+    try {
+      final title = '📖 Daily Hadith: ${hadith.topicEn}';
+      final previewText = hadith.englishTranslation.isNotEmpty
+          ? (hadith.englishTranslation.length > 200
+              ? '${hadith.englishTranslation.substring(0, 197)}...'
+              : hadith.englishTranslation)
+          : hadith.arabicMatn;
+      final subText = 'Hadith #${hadith.id} • ${hadith.chapterTitleEn}';
 
-    final details = _buildNotificationDetails(
-      title: title,
-      body: previewText,
-      subText: subText,
-    );
+      final details = _buildNotificationDetails(
+        title: title,
+        body: previewText,
+        subText: subText,
+      );
 
-    await _notificationsPlugin.show(
-      testNotificationId,
-      title,
-      previewText,
-      details,
-      payload: hadith.id.toString(),
-    );
+      await _notificationsPlugin.show(
+        testNotificationId,
+        title,
+        previewText,
+        details,
+        payload: hadith.id.toString(),
+      );
+    } catch (e) {
+      debugPrint('Error showing instant test notification: $e');
+    }
   }
 
   Future<void> cancelDailyReminder() async {
-    await _notificationsPlugin.cancel(dailyReminderNotificationId);
+    try {
+      await _notificationsPlugin.cancel(dailyReminderNotificationId);
+    } catch (e) {
+      debugPrint('Error cancelling daily reminder: $e');
+    }
   }
 
   Future<void> cancelAll() async {
-    await _notificationsPlugin.cancelAll();
+    try {
+      await _notificationsPlugin.cancelAll();
+    } catch (e) {
+      debugPrint('Error cancelling all notifications: $e');
+    }
   }
 }
