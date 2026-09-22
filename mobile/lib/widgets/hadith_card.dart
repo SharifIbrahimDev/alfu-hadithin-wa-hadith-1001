@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 import '../models/hadith.dart';
 import '../providers/app_provider.dart';
 import '../screens/hadith_reader_screen.dart';
+import '../widgets/share_card_dialog.dart';
 
 class HadithListCard extends StatelessWidget {
   final Hadith hadith;
@@ -44,6 +45,9 @@ class HadithListCard extends StatelessWidget {
               builder: (_) => HadithReaderScreen(initialHadithId: hadith.id),
             ),
           );
+        },
+        onLongPress: () {
+          ShareCardDialog.show(context, hadith);
         },
         child: Padding(
           padding: const EdgeInsets.all(16),

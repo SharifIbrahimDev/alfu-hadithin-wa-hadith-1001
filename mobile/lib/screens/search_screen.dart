@@ -34,9 +34,6 @@ class _SearchScreenState extends State<SearchScreen> {
     final isDark = Theme.of(context).brightness == Brightness.dark;
 
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Search 1001 Hadiths'),
-      ),
       body: Column(
         children: [
           Padding(

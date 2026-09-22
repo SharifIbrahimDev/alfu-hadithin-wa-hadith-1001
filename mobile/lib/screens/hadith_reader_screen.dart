@@ -5,6 +5,7 @@ import 'package:share_plus/share_plus.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 import '../models/hadith.dart';
 import '../providers/app_provider.dart';
+import '../widgets/share_card_dialog.dart';
 
 enum TtsPhase { idle, arabic, english }
 
@@ -351,13 +352,7 @@ class _HadithReaderScreenState extends State<HadithReaderScreen> {
   }
 
   void _shareHadith(Hadith hadith) {
-    Share.share(
-      '"${hadith.englishTranslation}"\n\n'
-      '${hadith.arabicMatn}\n\n'
-      '— 1001 Authentic Hadith (${hadith.idStr})\n'
-      'Compiled by Ibrahim Sharif Abubakar',
-      subject: '1001 Authentic Hadith ${hadith.idStr}',
-    );
+    ShareCardDialog.show(context, hadith);
   }
 
   @override
@@ -529,10 +524,11 @@ class _HadithReaderScreenState extends State<HadithReaderScreen> {
               ),
               boxShadow: isArabicPlaying
                   ? [
-                      BoxDecoration(
-                        color: const Color(0xFF14B8A6).withOpacity(0.12),
-                        borderRadius: BorderRadius.circular(18),
-                      ).boxShadow ?? const BoxShadow()
+                      BoxShadow(
+                        color: const Color(0xFF14B8A6).withOpacity(0.25),
+                        blurRadius: 12,
+                        offset: const Offset(0, 4),
+                      ),
                     ]
                   : null,
             ),
@@ -680,10 +676,11 @@ class _HadithReaderScreenState extends State<HadithReaderScreen> {
               ),
               boxShadow: isEnglishPlaying
                   ? [
-                      BoxDecoration(
-                        color: const Color(0xFFF59E0B).withOpacity(0.12),
-                        borderRadius: BorderRadius.circular(18),
-                      ).boxShadow ?? const BoxShadow()
+                      BoxShadow(
+                        color: const Color(0xFFF59E0B).withOpacity(0.25),
+                        blurRadius: 12,
+                        offset: const Offset(0, 4),
+                      ),
                     ]
                   : null,
             ),

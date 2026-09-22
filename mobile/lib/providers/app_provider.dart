@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/hadith.dart';
 import '../services/hadith_service.dart';
+import '../services/notification_service.dart';
 
 enum AppThemeMode { dark, sepia, light }
 
@@ -9,6 +10,7 @@ enum TtsPlaybackMode { both, arabicOnly, englishOnly }
 
 class AppProvider with ChangeNotifier {
   final HadithService _service = HadithService();
+  final NotificationService _notificationService = NotificationService();
   bool _isLoading = true;
   Set<int> _bookmarks = {};
   AppThemeMode _themeMode = AppThemeMode.dark;
@@ -18,7 +20,12 @@ class AppProvider with ChangeNotifier {
   double _arabicSpeechRate = 0.45;
   double _englishSpeechRate = 0.50;
 
+  // Notification Preferences
+  bool _dailyReminderEnabled = true;
+  TimeOfDay _dailyReminderTime = const TimeOfDay(hour: 8, minute: 0);
+
   HadithService get service => _service;
+  NotificationService get notificationService => _notificationService;
   bool get isLoading => _isLoading;
   Set<int> get bookmarks => _bookmarks;
   AppThemeMode get themeMode => _themeMode;
@@ -27,6 +34,8 @@ class AppProvider with ChangeNotifier {
   TtsPlaybackMode get ttsMode => _ttsMode;
   double get arabicSpeechRate => _arabicSpeechRate;
   double get englishSpeechRate => _englishSpeechRate;
+  bool get dailyReminderEnabled => _dailyReminderEnabled;
+  TimeOfDay get dailyReminderTime => _dailyReminderTime;
 
   AppProvider() {
     _init();
@@ -58,6 +67,19 @@ class AppProvider with ChangeNotifier {
 
     _arabicSpeechRate = prefs.getDouble('arabic_speech_rate') ?? 0.45;
     _englishSpeechRate = prefs.getDouble('english_speech_rate') ?? 0.50;
+
+    _dailyReminderEnabled = prefs.getBool('daily_reminder_enabled') ?? true;
+    final hour = prefs.getInt('daily_reminder_hour') ?? 8;
+    final minute = prefs.getInt('daily_reminder_minute') ?? 0;
+    _dailyReminderTime = TimeOfDay(hour: hour, minute: minute);
+
+    if (_dailyReminderEnabled && _service.allHadiths.isNotEmpty) {
+      await _notificationService.scheduleDailyHadithReminder(
+        hour: _dailyReminderTime.hour,
+        minute: _dailyReminderTime.minute,
+        hadith: _service.getDailyHadith(),
+      );
+    }
 
     _isLoading = false;
     notifyListeners();
@@ -122,4 +144,50 @@ class AppProvider with ChangeNotifier {
     final prefs = await SharedPreferences.getInstance();
     prefs.setDouble('english_speech_rate', rate);
   }
+
+  Future<void> setDailyReminderEnabled(bool enabled) async {
+    _dailyReminderEnabled = enabled;
+    notifyListeners();
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setBool('daily_reminder_enabled', enabled);
+
+    if (enabled) {
+      await _notificationService.requestPermissions();
+      if (_service.allHadiths.isNotEmpty) {
+        await _notificationService.scheduleDailyHadithReminder(
+          hour: _dailyReminderTime.hour,
+          minute: _dailyReminderTime.minute,
+          hadith: _service.getDailyHadith(),
+        );
+      }
+    } else {
+      await _notificationService.cancelDailyReminder();
+    }
+  }
+
+  Future<void> setDailyReminderTime(TimeOfDay time) async {
+    _dailyReminderTime = time;
+    notifyListeners();
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setInt('daily_reminder_hour', time.hour);
+    await prefs.setInt('daily_reminder_minute', time.minute);
+
+    if (_dailyReminderEnabled && _service.allHadiths.isNotEmpty) {
+      await _notificationService.scheduleDailyHadithReminder(
+        hour: time.hour,
+        minute: time.minute,
+        hadith: _service.getDailyHadith(),
+      );
+    }
+  }
+
+  Future<void> sendTestNotification() async {
+    await _notificationService.requestPermissions();
+    if (_service.allHadiths.isNotEmpty) {
+      await _notificationService.showInstantTestNotification(
+        hadith: _service.getDailyHadith(),
+      );
+    }
+  }
 }
+

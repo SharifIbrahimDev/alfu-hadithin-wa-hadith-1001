@@ -338,6 +338,190 @@ class SettingsScreen extends StatelessWidget {
             ),
           ),
 
+          // ── DAILY HADITH REMINDER ──────────────────────────────────
+          _SectionHeader(label: 'Daily Hadith Reminder'),
+
+          SliverToBoxAdapter(
+            child: _SettingsCard(
+              isDark: isDark,
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  // Switch Tile
+                  Row(
+                    children: [
+                      Container(
+                        width: 38,
+                        height: 38,
+                        decoration: BoxDecoration(
+                          color: const Color(0xFF14B8A6).withOpacity(0.12),
+                          borderRadius: BorderRadius.circular(10),
+                        ),
+                        child: const Icon(
+                          Icons.notifications_active_rounded,
+                          color: Color(0xFF14B8A6),
+                          size: 20,
+                        ),
+                      ),
+                      const SizedBox(width: 14),
+                      Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            const Text(
+                              'Daily Hadith Notification',
+                              style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold),
+                            ),
+                            const SizedBox(height: 2),
+                            Text(
+                              'Receive a blessed Hadith every day',
+                              style: TextStyle(fontSize: 12, color: Colors.grey[500]),
+                            ),
+                          ],
+                        ),
+                      ),
+                      Switch.adaptive(
+                        value: provider.dailyReminderEnabled,
+                        activeColor: const Color(0xFF14B8A6),
+                        onChanged: (val) => provider.setDailyReminderEnabled(val),
+                      ),
+                    ],
+                  ),
+
+                  if (provider.dailyReminderEnabled) ...[
+                    const Divider(height: 24),
+
+                    // Time Picker Row
+                    InkWell(
+                      onTap: () async {
+                        final picked = await showTimePicker(
+                          context: context,
+                          initialTime: provider.dailyReminderTime,
+                          builder: (context, child) {
+                            return Theme(
+                              data: isDark
+                                  ? ThemeData.dark().copyWith(
+                                      colorScheme: const ColorScheme.dark(
+                                        primary: Color(0xFF14B8A6),
+                                        onPrimary: Colors.white,
+                                        surface: Color(0xFF162238),
+                                        onSurface: Colors.white,
+                                      ),
+                                    )
+                                  : ThemeData.light().copyWith(
+                                      colorScheme: const ColorScheme.light(
+                                        primary: Color(0xFF0D9488),
+                                        onPrimary: Colors.white,
+                                      ),
+                                    ),
+                              child: child!,
+                            );
+                          },
+                        );
+                        if (picked != null) {
+                          provider.setDailyReminderTime(picked);
+                        }
+                      },
+                      borderRadius: BorderRadius.circular(12),
+                      child: Padding(
+                        padding: const EdgeInsets.symmetric(vertical: 4),
+                        child: Row(
+                          children: [
+                            Container(
+                              width: 38,
+                              height: 38,
+                              decoration: BoxDecoration(
+                                color: const Color(0xFFF59E0B).withOpacity(0.12),
+                                borderRadius: BorderRadius.circular(10),
+                              ),
+                              child: const Icon(
+                                Icons.access_time_filled_rounded,
+                                color: Color(0xFFF59E0B),
+                                size: 20,
+                              ),
+                            ),
+                            const SizedBox(width: 14),
+                            Expanded(
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  const Text(
+                                    'Reminder Time',
+                                    style: TextStyle(fontSize: 14, fontWeight: FontWeight.w600),
+                                  ),
+                                  const SizedBox(height: 2),
+                                  Text(
+                                    'Tap to change scheduled notification time',
+                                    style: TextStyle(fontSize: 12, color: Colors.grey[500]),
+                                  ),
+                                ],
+                              ),
+                            ),
+                            Container(
+                              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                              decoration: BoxDecoration(
+                                color: const Color(0xFFF59E0B).withOpacity(0.15),
+                                borderRadius: BorderRadius.circular(10),
+                                border: Border.all(
+                                  color: const Color(0xFFF59E0B).withOpacity(0.4),
+                                ),
+                              ),
+                              child: Text(
+                                provider.dailyReminderTime.format(context),
+                                style: const TextStyle(
+                                  fontWeight: FontWeight.bold,
+                                  color: Color(0xFFF59E0B),
+                                  fontSize: 14,
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+
+                    const Divider(height: 24),
+
+                    // Test Notification Button
+                    SizedBox(
+                      width: double.infinity,
+                      child: OutlinedButton.icon(
+                        onPressed: () async {
+                          await provider.sendTestNotification();
+                          if (context.mounted) {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              const SnackBar(
+                                content: Text('✨ Test Hadith notification sent! Check your notification bar.'),
+                                backgroundColor: Color(0xFF0D9488),
+                                behavior: SnackBarBehavior.floating,
+                                duration: Duration(seconds: 3),
+                              ),
+                            );
+                          }
+                        },
+                        style: OutlinedButton.styleFrom(
+                          foregroundColor: const Color(0xFF14B8A6),
+                          side: BorderSide(
+                            color: const Color(0xFF14B8A6).withOpacity(0.4),
+                          ),
+                          padding: const EdgeInsets.symmetric(vertical: 12),
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(12),
+                          ),
+                        ),
+                        icon: const Icon(Icons.send_rounded, size: 18),
+                        label: const Text(
+                          'Send Test Notification Now',
+                          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13),
+                        ),
+                      ),
+                    ),
+                  ],
+                ],
+              ),
+            ),
+          ),
+
           // ── READING PREFERENCES ─────────────────────────────────────
           _SectionHeader(label: 'Reading Preferences'),
 

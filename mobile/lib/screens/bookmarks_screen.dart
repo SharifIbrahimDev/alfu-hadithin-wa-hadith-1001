@@ -12,9 +12,6 @@ class BookmarksScreen extends StatelessWidget {
     final bookmarked = provider.bookmarkedHadiths;
 
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Saved Bookmarks'),
-      ),
       body: bookmarked.isEmpty
           ? Center(
               child: Padding(

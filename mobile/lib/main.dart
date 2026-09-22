@@ -2,14 +2,32 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'providers/app_provider.dart';
+import 'screens/splash_screen.dart';
 import 'screens/home_screen.dart';
 import 'screens/search_screen.dart';
 import 'screens/bookmarks_screen.dart';
 import 'screens/about_screen.dart';
 import 'screens/settings_screen.dart';
+import 'screens/hadith_reader_screen.dart';
+import 'widgets/app_drawer.dart';
+import 'services/notification_service.dart';
 
-void main() {
+final GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
+
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
+  // Initialize notifications with deep-link navigation
+  await NotificationService().initialize(
+    onSelectHadith: (hadithId) {
+      navigatorKey.currentState?.push(
+        MaterialPageRoute(
+          builder: (_) => HadithReaderScreen(initialHadithId: hadithId),
+        ),
+      );
+    },
+  );
+
   runApp(
     MultiProvider(
       providers: [
@@ -28,6 +46,7 @@ class AlfuHadithApp extends StatelessWidget {
     final provider = Provider.of<AppProvider>(context);
 
     return MaterialApp(
+      navigatorKey: navigatorKey,
       title: '1001 Authentic Hadith',
       debugShowCheckedModeBanner: false,
       themeMode: provider.themeMode == AppThemeMode.light
@@ -64,7 +83,7 @@ class AlfuHadithApp extends StatelessWidget {
           surface: Color(0xFF111B2D),
         ),
       ),
-      home: const MainTabNavigator(),
+      home: const SplashScreen(),
     );
   }
 }
@@ -78,6 +97,7 @@ class MainTabNavigator extends StatefulWidget {
 
 class _MainTabNavigatorState extends State<MainTabNavigator> {
   int _currentIndex = 0;
+  final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();
 
   final List<Widget> _screens = const [
     HomeScreen(),
@@ -87,9 +107,67 @@ class _MainTabNavigatorState extends State<MainTabNavigator> {
     SettingsScreen(),
   ];
 
+  final List<String> _titles = const [
+    'أَلْفُ حَدِيثٍ وَحَدِيثٌ',
+    'Search Hadiths',
+    'Bookmarks',
+    'About Compendium',
+    'Settings',
+  ];
+
   @override
   Widget build(BuildContext context) {
+    final provider = Provider.of<AppProvider>(context);
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+
     return Scaffold(
+      key: _scaffoldKey,
+      appBar: AppBar(
+        leading: IconButton(
+          icon: const Icon(Icons.menu_rounded, size: 24),
+          tooltip: 'Open Menu',
+          onPressed: () => _scaffoldKey.currentState?.openDrawer(),
+        ),
+        title: Text(
+          _titles[_currentIndex],
+          style: TextStyle(
+            fontFamily: _currentIndex == 0 ? 'Amiri' : null,
+            fontSize: _currentIndex == 0 ? 22 : 18,
+            fontWeight: FontWeight.bold,
+            color: _currentIndex == 0 ? const Color(0xFF14B8A6) : null,
+          ),
+        ),
+        actions: [
+          if (_currentIndex == 0) ...[
+            IconButton(
+              icon: const Icon(Icons.search_rounded),
+              tooltip: 'Search',
+              onPressed: () => setState(() => _currentIndex = 1),
+            ),
+            IconButton(
+              icon: const Icon(Icons.bookmark_outline_rounded),
+              tooltip: 'Bookmarks',
+              onPressed: () => setState(() => _currentIndex = 2),
+            ),
+          ] else if (_currentIndex != 4) ...[
+            IconButton(
+              icon: Icon(
+                isDark ? Icons.light_mode_outlined : Icons.dark_mode_outlined,
+              ),
+              tooltip: 'Toggle Theme',
+              onPressed: () {
+                provider.setThemeMode(
+                  isDark ? AppThemeMode.light : AppThemeMode.dark,
+                );
+              },
+            ),
+          ],
+        ],
+      ),
+      drawer: AppDrawer(
+        currentTabIndex: _currentIndex,
+        onSelectTab: (idx) => setState(() => _currentIndex = idx),
+      ),
       body: IndexedStack(
         index: _currentIndex,
         children: _screens,
