@@ -419,7 +419,17 @@ class SettingsScreen extends StatelessWidget {
                           },
                         );
                         if (picked != null) {
-                          provider.setDailyReminderTime(picked);
+                          await provider.setDailyReminderTime(picked);
+                          if (context.mounted) {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              SnackBar(
+                                content: Text('⏰ Daily reminder set for ${picked.format(context)}'),
+                                backgroundColor: const Color(0xFF0D9488),
+                                behavior: SnackBarBehavior.floating,
+                                duration: const Duration(seconds: 3),
+                              ),
+                            );
+                          }
                         }
                       },
                       borderRadius: BorderRadius.circular(12),

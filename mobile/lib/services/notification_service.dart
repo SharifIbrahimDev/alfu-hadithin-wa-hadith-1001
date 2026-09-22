@@ -114,24 +114,26 @@ class NotificationService {
   }
 
   tz.TZDateTime _nextInstanceOfTime(int hour, int minute) {
+    final now = DateTime.now();
+    var scheduledDateTime = DateTime(
+      now.year,
+      now.month,
+      now.day,
+      hour,
+      minute,
+      0,
+    );
+
+    // If the scheduled time for today has already passed, schedule for tomorrow
+    if (scheduledDateTime.isBefore(now)) {
+      scheduledDateTime = scheduledDateTime.add(const Duration(days: 1));
+    }
+
+    // Convert local DateTime to TZDateTime preserving the exact moment in time
     try {
-      final tz.TZDateTime now = tz.TZDateTime.now(tz.local);
-      tz.TZDateTime scheduledDate =
-          tz.TZDateTime(tz.local, now.year, now.month, now.day, hour, minute);
-      if (scheduledDate.isBefore(now)) {
-        scheduledDate = scheduledDate.add(const Duration(days: 1));
-      }
-      return scheduledDate;
+      return tz.TZDateTime.from(scheduledDateTime, tz.local);
     } catch (_) {
-      final now = DateTime.now();
-      var scheduledDate = tz.TZDateTime.from(
-        DateTime(now.year, now.month, now.day, hour, minute),
-        tz.UTC,
-      );
-      if (scheduledDate.isBefore(tz.TZDateTime.now(tz.UTC))) {
-        scheduledDate = scheduledDate.add(const Duration(days: 1));
-      }
-      return scheduledDate;
+      return tz.TZDateTime.from(scheduledDateTime, tz.UTC);
     }
   }
 
@@ -192,18 +194,37 @@ class NotificationService {
         subText: subText,
       );
 
-      await _notificationsPlugin.zonedSchedule(
-        dailyReminderNotificationId,
-        title,
-        previewText,
-        scheduledDate,
-        details,
-        androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
-        uiLocalNotificationDateInterpretation:
-            UILocalNotificationDateInterpretation.absoluteTime,
-        matchDateTimeComponents: DateTimeComponents.time,
-        payload: hadith.id.toString(),
-      );
+      try {
+        // Try exact alarm first for on-the-minute triggering
+        await _notificationsPlugin.zonedSchedule(
+          dailyReminderNotificationId,
+          title,
+          previewText,
+          scheduledDate,
+          details,
+          androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
+          uiLocalNotificationDateInterpretation:
+              UILocalNotificationDateInterpretation.absoluteTime,
+          matchDateTimeComponents: DateTimeComponents.time,
+          payload: hadith.id.toString(),
+        );
+        debugPrint('Scheduled exact daily reminder for $scheduledDate');
+      } catch (e) {
+        debugPrint('Exact alarm not permitted, falling back to inexact: $e');
+        await _notificationsPlugin.zonedSchedule(
+          dailyReminderNotificationId,
+          title,
+          previewText,
+          scheduledDate,
+          details,
+          androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
+          uiLocalNotificationDateInterpretation:
+              UILocalNotificationDateInterpretation.absoluteTime,
+          matchDateTimeComponents: DateTimeComponents.time,
+          payload: hadith.id.toString(),
+        );
+        debugPrint('Scheduled inexact daily reminder for $scheduledDate');
+      }
     } catch (e) {
       debugPrint('Error scheduling daily reminder: $e');
     }
