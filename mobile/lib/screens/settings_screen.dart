@@ -388,7 +388,7 @@ class SettingsScreen extends StatelessWidget {
                     ],
                   ),
 
-                  if (provider.dailyReminderEnabled) ...[
+                    if (provider.dailyReminderEnabled) ...[
                     const Divider(height: 24),
 
                     // Time Picker Row
@@ -421,12 +421,22 @@ class SettingsScreen extends StatelessWidget {
                         if (picked != null) {
                           await provider.setDailyReminderTime(picked);
                           if (context.mounted) {
+                            final now = DateTime.now();
+                            var target = DateTime(now.year, now.month, now.day, picked.hour, picked.minute);
+                            final isToday = target.isAfter(now);
+                            if (!isToday) target = target.add(const Duration(days: 1));
+                            final diff = target.difference(now);
+                            final hours = diff.inHours;
+                            final mins = diff.inMinutes % 60;
+                            final timeText = hours > 0 ? '${hours}h ${mins}m' : '${mins}m';
+                            final dayText = isToday ? 'today' : 'tomorrow';
+
                             ScaffoldMessenger.of(context).showSnackBar(
                               SnackBar(
-                                content: Text('⏰ Daily reminder set for ${picked.format(context)}'),
+                                content: Text('⏰ Reminder scheduled for $dayText at ${picked.format(context)} (in $timeText)'),
                                 backgroundColor: const Color(0xFF0D9488),
                                 behavior: SnackBarBehavior.floating,
-                                duration: const Duration(seconds: 3),
+                                duration: const Duration(seconds: 4),
                               ),
                             );
                           }
@@ -461,7 +471,7 @@ class SettingsScreen extends StatelessWidget {
                                   ),
                                   const SizedBox(height: 2),
                                   Text(
-                                    'Tap to change scheduled notification time',
+                                    'Tap to change daily notification time',
                                     style: TextStyle(fontSize: 12, color: Colors.grey[500]),
                                   ),
                                 ],
@@ -492,7 +502,43 @@ class SettingsScreen extends StatelessWidget {
 
                     const Divider(height: 24),
 
-                    // Test Notification Button
+                    // Test Scheduled Notification in 10 Seconds Button
+                    SizedBox(
+                      width: double.infinity,
+                      child: ElevatedButton.icon(
+                        onPressed: () async {
+                          await provider.scheduleTestNotification(seconds: 10);
+                          if (context.mounted) {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              const SnackBar(
+                                content: Text('⏱️ Alarm scheduled for 10 SECONDS from now!\n👉 Lock your screen or exit app to test real-time wake up.'),
+                                backgroundColor: Color(0xFF0D9488),
+                                behavior: SnackBarBehavior.floating,
+                                duration: Duration(seconds: 5),
+                              ),
+                            );
+                          }
+                        },
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: const Color(0xFF0D9488),
+                          foregroundColor: Colors.white,
+                          padding: const EdgeInsets.symmetric(vertical: 13),
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(12),
+                          ),
+                          elevation: 0,
+                        ),
+                        icon: const Icon(Icons.timer_outlined, size: 18),
+                        label: const Text(
+                          'Test Scheduled Alarm (in 10 Seconds)',
+                          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13),
+                        ),
+                      ),
+                    ),
+
+                    const SizedBox(height: 10),
+
+                    // Instant Test Notification Button
                     SizedBox(
                       width: double.infinity,
                       child: OutlinedButton.icon(
@@ -501,7 +547,7 @@ class SettingsScreen extends StatelessWidget {
                           if (context.mounted) {
                             ScaffoldMessenger.of(context).showSnackBar(
                               const SnackBar(
-                                content: Text('✨ Test Hadith notification sent! Check your notification bar.'),
+                                content: Text('✨ Test Hadith notification sent instantly! Check your notification bar.'),
                                 backgroundColor: Color(0xFF0D9488),
                                 behavior: SnackBarBehavior.floating,
                                 duration: Duration(seconds: 3),
@@ -519,9 +565,9 @@ class SettingsScreen extends StatelessWidget {
                             borderRadius: BorderRadius.circular(12),
                           ),
                         ),
-                        icon: const Icon(Icons.send_rounded, size: 18),
+                        icon: const Icon(Icons.notifications_none_rounded, size: 18),
                         label: const Text(
-                          'Send Test Notification Now',
+                          'Send Instant Notification Now',
                           style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13),
                         ),
                       ),

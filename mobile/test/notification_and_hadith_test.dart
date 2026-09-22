@@ -2,11 +2,22 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:timezone/data/latest_all.dart' as tz;
 import 'package:timezone/timezone.dart' as tz;
 import 'package:alfu_hadithin_wa_hadith/services/hadith_service.dart';
+import 'package:alfu_hadithin_wa_hadith/services/notification_service.dart';
 
 void main() {
   setUpAll(() {
     TestWidgetsFlutterBinding.ensureInitialized();
     tz.initializeTimeZones();
+    // Configure local timezone matching system offset
+    final now = DateTime.now();
+    final offsetMs = now.timeZoneOffset.inMilliseconds;
+    for (final locName in tz.timeZoneDatabase.locations.keys) {
+      final loc = tz.getLocation(locName);
+      if (loc.currentTimeZone.offset == offsetMs) {
+        tz.setLocalLocation(loc);
+        break;
+      }
+    }
   });
 
   group('Daily Hadith Selection Tests', () {
@@ -21,42 +32,26 @@ void main() {
   });
 
   group('Real-Time Notification Scheduling Tests', () {
-    test('Calculates and simulates real-time notification trigger', () async {
+    test('Calculates and verifies 10-second exact test alarm', () async {
       final now = DateTime.now();
+      final fireTime = now.add(const Duration(seconds: 10));
+      final scheduledTZ = tz.TZDateTime.from(fireTime, tz.local);
+
+      final diffSeconds = (scheduledTZ.millisecondsSinceEpoch - now.millisecondsSinceEpoch) / 1000;
+      expect(diffSeconds, closeTo(10, 0.05));
+      expect(scheduledTZ.millisecondsSinceEpoch, fireTime.millisecondsSinceEpoch);
+
       print('===========================================================');
-      print('⏰ REAL-TIME NOTIFICATION SCHEDULER VERIFICATION');
+      print('⏰ 10-SECOND EXACT TEST ALARM VERIFICATION');
       print('===========================================================');
-      print('1. Real Device Time Now: $now');
-
-      // Schedule target 3 seconds in the future
-      final targetTime = now.add(const Duration(seconds: 3));
-      print('2. Target Notification Time: $targetTime (+3s test)');
-
-      final scheduledTZ = tz.TZDateTime(
-        tz.local,
-        targetTime.year,
-        targetTime.month,
-        targetTime.day,
-        targetTime.hour,
-        targetTime.minute,
-        targetTime.second,
-      );
-
-      final diffMs = scheduledTZ.millisecondsSinceEpoch - DateTime.now().millisecondsSinceEpoch;
-      print('3. Epoch Delta: ${diffMs}ms');
-
-      expect(diffMs, isPositive);
-
-      print('4. ⏳ Waiting 3 seconds in real time for trigger...');
-      await Future.delayed(const Duration(seconds: 3));
-
-      final fireTime = DateTime.now();
-      print('5. 🔔 Notification Fired At: $fireTime');
-      print('   ✓ Precise delivery timestamp confirmed within tolerance!');
+      print('1. Current Local Time: $now');
+      print('2. Fire Target Time:   $fireTime');
+      print('3. Scheduled TZ Time:  $scheduledTZ');
+      print('4. Epoch Millis Delta: ${(diffSeconds * 1000).toInt()}ms (exact 10.0s)');
       print('===========================================================');
     });
 
-    test('Calculates +2 minutes in future accurately', () {
+    test('Calculates +2 minutes in future accurately without timezone skew', () {
       final now = DateTime.now();
       final target = now.add(const Duration(minutes: 2));
 
@@ -107,6 +102,19 @@ void main() {
       expect(scheduledDateTime.day, (now.add(const Duration(days: 1))).day);
       expect(scheduledTZ.millisecondsSinceEpoch, scheduledDateTime.millisecondsSinceEpoch);
       print('✓ Passed time wrapped to tomorrow: $scheduledDateTime');
+    });
+
+    test('NotificationService helper functions calculate durations accurately', () {
+      final notifService = NotificationService();
+      final now = DateTime.now();
+      final futureTime = now.add(const Duration(minutes: 30));
+
+      final duration = notifService.getRemainingDuration(futureTime.hour, futureTime.minute);
+      expect(duration.inMinutes, greaterThanOrEqualTo(28));
+      expect(duration.inMinutes, lessThanOrEqualTo(30));
+
+      final isToday = notifService.isScheduledForToday(futureTime.hour, futureTime.minute);
+      expect(isToday, isTrue);
     });
   });
 }

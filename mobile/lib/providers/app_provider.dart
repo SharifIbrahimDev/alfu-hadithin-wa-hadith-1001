@@ -208,5 +208,15 @@ class AppProvider with ChangeNotifier {
       );
     }
   }
+
+  Future<void> scheduleTestNotification({int seconds = 10}) async {
+    await _notificationService.requestPermissions();
+    if (_service.allHadiths.isNotEmpty) {
+      await _notificationService.scheduleTestNotification(
+        seconds: seconds,
+        hadith: _service.getDailyHadith(),
+      );
+    }
+  }
 }
 

@@ -16,26 +16,19 @@ class NotificationService {
 
   static const int dailyReminderNotificationId = 1001;
   static const int testNotificationId = 9999;
-  static const String channelId = 'daily_hadith_channel_v2';
+  static const String channelId = 'daily_hadith_reminder_channel_v3';
   static const String channelName = 'Daily Hadith Reminder';
   static const String channelDescription =
       'Daily authentic Hadith reminders and notifications from 1001 Authentic Hadith';
 
   Function(int hadithId)? _onNotificationSelected;
+  bool _initialized = false;
 
   Future<void> initialize({Function(int hadithId)? onSelectHadith}) async {
+    if (_initialized && onSelectHadith == null) return;
     _onNotificationSelected = onSelectHadith;
 
-    try {
-      // Initialize timezones database
-      tz.initializeTimeZones();
-      // Detect and set device local timezone
-      final String timeZoneName = await FlutterTimezone.getLocalTimezone();
-      tz.setLocalLocation(tz.getLocation(timeZoneName));
-      debugPrint('NotificationService: Local timezone initialized to $timeZoneName');
-    } catch (e) {
-      debugPrint('Error initializing local timezone with flutter_timezone: $e');
-    }
+    await _configureLocalTimeZone();
 
     try {
       // Android settings
@@ -86,8 +79,37 @@ class NotificationService {
           ),
         );
       }
+      _initialized = true;
     } catch (e) {
       debugPrint('Error during NotificationService initialize: $e');
+    }
+  }
+
+  static Future<void> _configureLocalTimeZone() async {
+    tz.initializeTimeZones();
+    try {
+      final String timeZoneName = await FlutterTimezone.getLocalTimezone();
+      tz.setLocalLocation(tz.getLocation(timeZoneName));
+      debugPrint('NotificationService: Local timezone initialized to $timeZoneName');
+      return;
+    } catch (e) {
+      debugPrint('NotificationService: Timezone lookup by name failed ($e). Attempting offset matching.');
+    }
+
+    // Offset-based fallback for OEM ROMs (Infinix/Transsion/Xiaomi) returning non-standard TZ strings
+    try {
+      final now = DateTime.now();
+      final offsetMs = now.timeZoneOffset.inMilliseconds;
+      for (final locName in tz.timeZoneDatabase.locations.keys) {
+        final loc = tz.getLocation(locName);
+        if (loc.currentTimeZone.offset == offsetMs) {
+          tz.setLocalLocation(loc);
+          debugPrint('NotificationService: Local timezone matched by offset ($offsetMs ms) -> $locName');
+          return;
+        }
+      }
+    } catch (e) {
+      debugPrint('NotificationService: Offset fallback error: $e');
     }
   }
 
@@ -98,8 +120,12 @@ class NotificationService {
             .resolvePlatformSpecificImplementation<
                 AndroidFlutterLocalNotificationsPlugin>();
         if (androidImplementation != null) {
-          final granted = await androidImplementation.requestNotificationsPermission();
-          return granted ?? false;
+          final notifGranted =
+              await androidImplementation.requestNotificationsPermission();
+          try {
+            await androidImplementation.requestExactAlarmsPermission();
+          } catch (_) {}
+          return notifGranted ?? false;
         }
       } else if (Platform.isIOS || Platform.isMacOS) {
         final darwinImplementation = _notificationsPlugin
@@ -121,9 +147,8 @@ class NotificationService {
   }
 
   tz.TZDateTime _nextInstanceOfTime(int hour, int minute) {
-    final tz.TZDateTime now = tz.TZDateTime.now(tz.local);
-    tz.TZDateTime scheduledDate = tz.TZDateTime(
-      tz.local,
+    final now = DateTime.now();
+    var scheduled = DateTime(
       now.year,
       now.month,
       now.day,
@@ -132,10 +157,40 @@ class NotificationService {
       0,
     );
 
-    if (scheduledDate.isBefore(now)) {
-      scheduledDate = scheduledDate.add(const Duration(days: 1));
+    // If the scheduled time is in the past or current second/minute that already started, wrap to tomorrow
+    if (scheduled.isBefore(now) || scheduled.isAtSameMomentAs(now)) {
+      scheduled = scheduled.add(const Duration(days: 1));
     }
-    return scheduledDate;
+    return tz.TZDateTime.from(scheduled, tz.local);
+  }
+
+  Duration getRemainingDuration(int hour, int minute) {
+    final now = DateTime.now();
+    var scheduled = DateTime(
+      now.year,
+      now.month,
+      now.day,
+      hour,
+      minute,
+      0,
+    );
+    if (scheduled.isBefore(now) || scheduled.isAtSameMomentAs(now)) {
+      scheduled = scheduled.add(const Duration(days: 1));
+    }
+    return scheduled.difference(now);
+  }
+
+  bool isScheduledForToday(int hour, int minute) {
+    final now = DateTime.now();
+    final scheduled = DateTime(
+      now.year,
+      now.month,
+      now.day,
+      hour,
+      minute,
+      0,
+    );
+    return scheduled.isAfter(now);
   }
 
   NotificationDetails _buildNotificationDetails({
@@ -152,6 +207,9 @@ class NotificationService {
       playSound: true,
       enableVibration: true,
       enableLights: true,
+      visibility: NotificationVisibility.public,
+      category: AndroidNotificationCategory.reminder,
+      ticker: 'Daily Hadith Reminder',
       icon: '@mipmap/ic_launcher',
       styleInformation: BigTextStyleInformation(
         body,
@@ -180,7 +238,6 @@ class NotificationService {
     required Hadith hadith,
   }) async {
     try {
-      // Cancel existing scheduled daily reminder
       await cancelDailyReminder();
 
       final scheduledDate = _nextInstanceOfTime(hour, minute);
@@ -199,7 +256,6 @@ class NotificationService {
       );
 
       try {
-        // Try exact alarm first for on-the-minute triggering
         await _notificationsPlugin.zonedSchedule(
           dailyReminderNotificationId,
           title,
@@ -212,9 +268,9 @@ class NotificationService {
           matchDateTimeComponents: DateTimeComponents.time,
           payload: hadith.id.toString(),
         );
-        debugPrint('Scheduled exact daily reminder for $scheduledDate');
+        debugPrint('Scheduled exact daily reminder for $scheduledDate (local: ${scheduledDate.toLocal()})');
       } catch (e) {
-        debugPrint('Exact alarm not permitted, falling back to inexact: $e');
+        debugPrint('Exact alarm fallback to inexact: $e');
         await _notificationsPlugin.zonedSchedule(
           dailyReminderNotificationId,
           title,
@@ -231,6 +287,66 @@ class NotificationService {
       }
     } catch (e) {
       debugPrint('Error scheduling daily reminder: $e');
+    }
+  }
+
+  Future<void> scheduleTestNotification({
+    int seconds = 10,
+    required Hadith hadith,
+  }) async {
+    try {
+      await requestPermissions();
+
+      final fireTime = DateTime.now().add(Duration(seconds: seconds));
+      final scheduledDate = tz.TZDateTime.from(fireTime, tz.local);
+
+      final title = '📖 Test Hadith (${seconds}s): ${hadith.topicEn}';
+      final previewText = hadith.englishTranslation.isNotEmpty
+          ? (hadith.englishTranslation.length > 200
+              ? '${hadith.englishTranslation.substring(0, 197)}...'
+              : hadith.englishTranslation)
+          : hadith.arabicMatn;
+      final subText = 'Hadith #${hadith.id} • ${hadith.chapterTitleEn}';
+
+      final details = _buildNotificationDetails(
+        title: title,
+        body: previewText,
+        subText: subText,
+      );
+
+      try {
+        await _notificationsPlugin.cancel(testNotificationId);
+      } catch (_) {}
+
+      try {
+        await _notificationsPlugin.zonedSchedule(
+          testNotificationId,
+          title,
+          previewText,
+          scheduledDate,
+          details,
+          androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
+          uiLocalNotificationDateInterpretation:
+              UILocalNotificationDateInterpretation.absoluteTime,
+          payload: hadith.id.toString(),
+        );
+        debugPrint('Scheduled exact test notification in $seconds seconds ($scheduledDate)');
+      } catch (e) {
+        debugPrint('Exact test alarm fallback to inexact: $e');
+        await _notificationsPlugin.zonedSchedule(
+          testNotificationId,
+          title,
+          previewText,
+          scheduledDate,
+          details,
+          androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
+          uiLocalNotificationDateInterpretation:
+              UILocalNotificationDateInterpretation.absoluteTime,
+          payload: hadith.id.toString(),
+        );
+      }
+    } catch (e) {
+      debugPrint('Error in scheduleTestNotification: $e');
     }
   }
 
