@@ -502,38 +502,73 @@ class SettingsScreen extends StatelessWidget {
 
                     const Divider(height: 24),
 
-                    // Test Scheduled Notification in 10 Seconds Button
-                    SizedBox(
-                      width: double.infinity,
-                      child: ElevatedButton.icon(
-                        onPressed: () async {
-                          await provider.scheduleTestNotification(seconds: 10);
-                          if (context.mounted) {
-                            ScaffoldMessenger.of(context).showSnackBar(
-                              const SnackBar(
-                                content: Text('⏱️ Alarm scheduled for 10 SECONDS from now!\n👉 Lock your screen or exit app to test real-time wake up.'),
-                                backgroundColor: Color(0xFF0D9488),
-                                behavior: SnackBarBehavior.floating,
-                                duration: Duration(seconds: 5),
+                    // Test Scheduled Notification in 15 Seconds Button
+                    Row(
+                      children: [
+                        Expanded(
+                          child: ElevatedButton.icon(
+                            onPressed: () async {
+                              await provider.scheduleTestNotification(seconds: 15);
+                              if (context.mounted) {
+                                ScaffoldMessenger.of(context).showSnackBar(
+                                  const SnackBar(
+                                    content: Text('⏱️ Alarm scheduled for 15 SECONDS!\n👉 Lock your phone or switch apps to test wake-up.'),
+                                    backgroundColor: Color(0xFF0D9488),
+                                    behavior: SnackBarBehavior.floating,
+                                    duration: Duration(seconds: 6),
+                                  ),
+                                );
+                              }
+                            },
+                            style: ElevatedButton.styleFrom(
+                              backgroundColor: const Color(0xFF0D9488),
+                              foregroundColor: Colors.white,
+                              padding: const EdgeInsets.symmetric(vertical: 12),
+                              shape: RoundedRectangleBorder(
+                                borderRadius: BorderRadius.circular(12),
                               ),
-                            );
-                          }
-                        },
-                        style: ElevatedButton.styleFrom(
-                          backgroundColor: const Color(0xFF0D9488),
-                          foregroundColor: Colors.white,
-                          padding: const EdgeInsets.symmetric(vertical: 13),
-                          shape: RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(12),
+                              elevation: 0,
+                            ),
+                            icon: const Icon(Icons.timer_outlined, size: 16),
+                            label: const Text(
+                              'Test in 15s',
+                              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12),
+                            ),
                           ),
-                          elevation: 0,
                         ),
-                        icon: const Icon(Icons.timer_outlined, size: 18),
-                        label: const Text(
-                          'Test Scheduled Alarm (in 10 Seconds)',
-                          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13),
+                        const SizedBox(width: 8),
+                        Expanded(
+                          child: ElevatedButton.icon(
+                            onPressed: () async {
+                              await provider.scheduleTestNotification(seconds: 60);
+                              if (context.mounted) {
+                                ScaffoldMessenger.of(context).showSnackBar(
+                                  const SnackBar(
+                                    content: Text('⏱️ Alarm scheduled for 1 MINUTE!\n👉 Lock your phone to test background wake-up.'),
+                                    backgroundColor: const Color(0xFF0D9488),
+                                    behavior: SnackBarBehavior.floating,
+                                    duration: Duration(seconds: 6),
+                                  ),
+                                );
+                              }
+                            },
+                            style: ElevatedButton.styleFrom(
+                              backgroundColor: const Color(0xFF0F766E),
+                              foregroundColor: Colors.white,
+                              padding: const EdgeInsets.symmetric(vertical: 12),
+                              shape: RoundedRectangleBorder(
+                                borderRadius: BorderRadius.circular(12),
+                              ),
+                              elevation: 0,
+                            ),
+                            icon: const Icon(Icons.alarm_on_rounded, size: 16),
+                            label: const Text(
+                              'Test in 1 min',
+                              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12),
+                            ),
+                          ),
                         ),
-                      ),
+                      ],
                     ),
 
                     const SizedBox(height: 10),
