@@ -33,9 +33,9 @@ class NotificationService {
     await _configureLocalTimeZone();
 
     try {
-      // Android settings
+      // Android settings - use valid drawable resource
       const AndroidInitializationSettings androidSettings =
-          AndroidInitializationSettings('@mipmap/ic_launcher');
+          AndroidInitializationSettings('ic_stat_hadith');
 
       // iOS / macOS Darwin settings
       const DarwinInitializationSettings darwinSettings =
@@ -212,7 +212,7 @@ class NotificationService {
       visibility: NotificationVisibility.public,
       category: AndroidNotificationCategory.reminder,
       ticker: 'Daily Hadith Reminder',
-      icon: '@mipmap/ic_launcher',
+      icon: 'ic_stat_hadith',
       styleInformation: BigTextStyleInformation(
         body,
         contentTitle: title,
