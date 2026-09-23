@@ -1,5 +1,4 @@
-﻿{
-
+{
   "book_title": "ألف حديث وحديث - 1001 Authentic Hadith",
   "author": "Ibrahim Sharif Abubakar",
   "author_ar": "إبراهيم شريف أبوبكر",
@@ -84,8 +83,8 @@
     {
       "id": 8,
       "filename": "08_virtues_of_quran.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0352 | الحديث رقم: 0352",
+      "arabic_title": "كِتَابُ فَضَائِلِ الْقُرْآنِ",
+      "english_title": "Book of Virtues of the Qur'an (Hadiths #0352 – #0401)",
       "hadith_count": 50,
       "start_id": 352,
       "end_id": 401
@@ -93,8 +92,8 @@
     {
       "id": 9,
       "filename": "09_adhkar_and_supplications.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0402 | الحديث رقم: 0402",
+      "arabic_title": "كِتَابُ الْأَذْكَارِ وَالدُّعَاءِ",
+      "english_title": "Book of Remembrance & Daily Dhikr (Hadiths #0402 – #0451)",
       "hadith_count": 50,
       "start_id": 402,
       "end_id": 451
@@ -102,8 +101,8 @@
     {
       "id": 10,
       "filename": "10_prophetic_invocations.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0452 | الحديث رقم: 0452",
+      "arabic_title": "كِتَابُ الدَّعَوَاتِ الْمَأْثُورَةِ",
+      "english_title": "Book of Prophetic Invocations (Hadiths #0452 – #0501)",
       "hadith_count": 50,
       "start_id": 452,
       "end_id": 501
@@ -111,8 +110,8 @@
     {
       "id": 11,
       "filename": "11_seeking_refuge.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0502 | الحديث رقم: 0502",
+      "arabic_title": "كِتَابُ الِاسْتِعَاذَاتِ",
+      "english_title": "Book of Seeking Refuge in Allah (Hadiths #0502 – #0551)",
       "hadith_count": 50,
       "start_id": 502,
       "end_id": 551
@@ -120,8 +119,8 @@
     {
       "id": 12,
       "filename": "12_repentance_and_istighfar.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0552 | الحديث رقم: 0552",
+      "arabic_title": "كِتَابُ التَّوْبَةِ وَالِاسْتِغْفَارِ",
+      "english_title": "Book of Repentance & Seeking Forgiveness (Hadiths #0552 – #0601)",
       "hadith_count": 50,
       "start_id": 552,
       "end_id": 601
@@ -129,8 +128,8 @@
     {
       "id": 13,
       "filename": "13_piety_and_kinship.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0602 | الحديث رقم: 0602",
+      "arabic_title": "كِتَابُ الْبِرِّ وَالصِّلَةِ",
+      "english_title": "Book of Piety, Goodness & Kinship (Hadiths #0602 – #0651)",
       "hadith_count": 50,
       "start_id": 602,
       "end_id": 651
@@ -138,8 +137,8 @@
     {
       "id": 14,
       "filename": "14_manners_and_etiquette.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0652 | الحديث رقم: 0652",
+      "arabic_title": "كِتَابُ الْآدَابِ",
+      "english_title": "Book of Manners & Etiquette (Hadiths #0652 – #0701)",
       "hadith_count": 50,
       "start_id": 652,
       "end_id": 701
@@ -147,8 +146,8 @@
     {
       "id": 15,
       "filename": "15_forbearance_and_character.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0702 | الحديث رقم: 0702",
+      "arabic_title": "كِتَابُ الْحِلْمِ وَحُسْنِ الْخُلُقِ",
+      "english_title": "Book of Forbearance & Moral Character (Hadiths #0702 – #0751)",
       "hadith_count": 50,
       "start_id": 702,
       "end_id": 751
@@ -156,8 +155,8 @@
     {
       "id": 16,
       "filename": "16_asceticism_and_heart_softeners.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0752 | الحديث رقم: 0752",
+      "arabic_title": "كِتَابُ الزُّهْدِ وَالرَّقَائِقِ",
+      "english_title": "Book of Asceticism & Heart-Softeners (Hadiths #0752 – #0801)",
       "hadith_count": 50,
       "start_id": 752,
       "end_id": 801
@@ -165,8 +164,8 @@
     {
       "id": 17,
       "filename": "17_marriage_and_family.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0802 | الحديث رقم: 0802",
+      "arabic_title": "كِتَابُ النِّكَاحِ وَحُقُوقِ الْأُسْرَةِ",
+      "english_title": "Book of Marriage & Family Rights (Hadiths #0802 – #0851)",
       "hadith_count": 50,
       "start_id": 802,
       "end_id": 851
@@ -174,8 +173,8 @@
     {
       "id": 18,
       "filename": "18_transactions_and_halal_earning.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0852 | الحديث رقم: 0852",
+      "arabic_title": "كِتَابُ الْمُعَامَلَاتِ وَالْبُيُوعِ وَالْكَسْبِ الْحَلَالِ",
+      "english_title": "Book of Transactions & Halal Earning (Hadiths #0852 – #0901)",
       "hadith_count": 50,
       "start_id": 852,
       "end_id": 901
@@ -183,8 +182,8 @@
     {
       "id": 19,
       "filename": "19_virtues_and_merits.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0902 | الحديث رقم: 0902",
+      "arabic_title": "كِتَابُ الْفَضَائِلِ وَالْمَنَاقِبِ",
+      "english_title": "Book of Virtues, Merits & Companions (Hadiths #0902 – #0951)",
       "hadith_count": 50,
       "start_id": 902,
       "end_id": 951
@@ -192,8 +191,8 @@
     {
       "id": 20,
       "filename": "20_tribulations_and_signs_of_hour.md",
-      "arabic_title": "",
-      "english_title": "Hadith #0952 | الحديث رقم: 0952",
+      "arabic_title": "كِتَابُ الْفِتَنِ وَأَشْرَاطِ السَّاعَةِ وَالْبَعْثِ",
+      "english_title": "Book of Tribulations & Signs of the Hour (Hadiths #0952 – #1001)",
       "hadith_count": 50,
       "start_id": 952,
       "end_id": 1001
@@ -201,8 +200,8 @@
     {
       "id": 21,
       "filename": "21_epilogue_khatimah.md",
-      "arabic_title": "🌟 حَمْدُ اللَّهِ وَالثَّنَاءُ عَلَيْهِ عَلَى إِتْمَامِ هَذَا الْمُصَنَّفِ",
-      "english_title": "By the Author & Compiler: Ibrahim Sharif Abubakar (إِبْرَاهِيم شَرِيف أَبُوبَكْر)",
+      "arabic_title": "خَاتِمَةُ الْكِتَابِ وَوَصِيَّتِي — حَمْدُ اللَّهِ عَلَى إِتْمَامِ الْمُصَنَّفِ",
+      "english_title": "Epilogue: Completion of Compendium & Author's Testament",
       "hadith_count": 0,
       "start_id": 0,
       "end_id": 0

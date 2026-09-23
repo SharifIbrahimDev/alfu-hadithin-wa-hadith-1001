@@ -12,12 +12,18 @@ enum ShareCardTheme {
   midnight,
   royalGold,
   parchment,
+  minimalist,
 }
 
 enum ShareCardLanguage {
   both,
   arabicOnly,
   englishOnly,
+}
+
+enum ShareCardFormat {
+  square, // 1:1 Post
+  story,  // 9:16 Status/Story
 }
 
 class ShareCardDialog extends StatefulWidget {
@@ -41,6 +47,7 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
   final GlobalKey _cardKey = GlobalKey();
   ShareCardTheme _selectedTheme = ShareCardTheme.emerald;
   ShareCardLanguage _selectedLanguage = ShareCardLanguage.both;
+  ShareCardFormat _selectedFormat = ShareCardFormat.square;
   bool _isGeneratingImage = false;
 
   Future<void> _shareImage() async {
@@ -49,13 +56,11 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
     setState(() => _isGeneratingImage = true);
 
     try {
-      // Find the render object
       final boundary = _cardKey.currentContext?.findRenderObject() as RenderRepaintBoundary?;
       if (boundary == null) {
         throw Exception('Could not capture widget image');
       }
 
-      // Render image at high resolution (pixelRatio 3.0 for crisp rendering)
       final ui.Image image = await boundary.toImage(pixelRatio: 3.0);
       final ByteData? byteData = await image.toByteData(format: ui.ImageByteFormat.png);
       if (byteData == null) {
@@ -64,7 +69,6 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
 
       final Uint8List pngBytes = byteData.buffer.asUint8List();
 
-      // Write to temp directory
       final tempDir = await getTemporaryDirectory();
       final file = File('${tempDir.path}/hadith_${widget.hadith.id.toString().padLeft(4, '0')}.png');
       await file.writeAsBytes(pngBytes);
@@ -100,11 +104,11 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
 
     return Dialog(
       backgroundColor: isDark ? const Color(0xFF0F172A) : Colors.white,
-      insetPadding: const EdgeInsets.symmetric(horizontal: 14, vertical: 20),
+      insetPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 16),
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
       child: Container(
         constraints: const BoxConstraints(maxWidth: 520),
-        padding: const EdgeInsets.all(18),
+        padding: const EdgeInsets.all(16),
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
@@ -137,12 +141,12 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
               ],
             ),
 
-            const SizedBox(height: 12),
+            const SizedBox(height: 10),
 
-            // Theme & Language Selectors
+            // Theme, Format & Language Controls
             _buildControlBar(isDark),
 
-            const SizedBox(height: 14),
+            const SizedBox(height: 12),
 
             // Scrollable Preview of the Card
             Flexible(
@@ -156,35 +160,32 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
               ),
             ),
 
-            const SizedBox(height: 16),
+            const SizedBox(height: 14),
 
-            // Action Buttons
-            Row(
-              children: [
-                Expanded(
-                  child: ElevatedButton.icon(
-                    onPressed: _isGeneratingImage ? null : _shareImage,
-                    icon: _isGeneratingImage
-                        ? const SizedBox(
-                            width: 18,
-                            height: 18,
-                            child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white),
-                          )
-                        : const Icon(Icons.image_outlined, size: 20),
-                    label: Text(
-                      _isGeneratingImage ? 'Creating Image…' : 'Share as Image',
-                      style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 15),
-                    ),
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: const Color(0xFF0D9488),
-                      foregroundColor: Colors.white,
-                      padding: const EdgeInsets.symmetric(vertical: 14),
-                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
-                      elevation: 0,
-                    ),
-                  ),
+            // Action Button
+            SizedBox(
+              width: double.infinity,
+              child: ElevatedButton.icon(
+                onPressed: _isGeneratingImage ? null : _shareImage,
+                icon: _isGeneratingImage
+                    ? const SizedBox(
+                        width: 18,
+                        height: 18,
+                        child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white),
+                      )
+                    : const Icon(Icons.share_outlined, size: 20),
+                label: Text(
+                  _isGeneratingImage ? 'Creating Image…' : 'Share Poster Image',
+                  style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 15),
                 ),
-              ],
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: const Color(0xFF0D9488),
+                  foregroundColor: Colors.white,
+                  padding: const EdgeInsets.symmetric(vertical: 14),
+                  shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
+                  elevation: 0,
+                ),
+              ),
             ),
           ],
         ),
@@ -195,40 +196,71 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
   Widget _buildControlBar(bool isDark) {
     return Column(
       children: [
-        // Language Selector Row
+        // Format & Language Row
         Row(
           children: [
-            const Text(
-              'Content:',
-              style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.grey),
-            ),
-            const SizedBox(width: 8),
+            // Format toggle
+            _buildFormatChip('1:1 Square', ShareCardFormat.square, Icons.crop_square_rounded),
+            const SizedBox(width: 6),
+            _buildFormatChip('9:16 Story', ShareCardFormat.story, Icons.crop_portrait_rounded),
+            const Spacer(),
+            // Language selector
             _buildLangChip('Both', ShareCardLanguage.both),
-            const SizedBox(width: 6),
-            _buildLangChip('Arabic 🇸🇦', ShareCardLanguage.arabicOnly),
-            const SizedBox(width: 6),
-            _buildLangChip('English 🇬🇧', ShareCardLanguage.englishOnly),
+            const SizedBox(width: 4),
+            _buildLangChip('🇸🇦 Ar', ShareCardLanguage.arabicOnly),
+            const SizedBox(width: 4),
+            _buildLangChip('🇬🇧 En', ShareCardLanguage.englishOnly),
           ],
         ),
-        const SizedBox(height: 10),
+        const SizedBox(height: 8),
         // Theme Selector Row
-        Row(
-          children: [
-            const Text(
-              'Theme:',
-              style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.grey),
-            ),
-            const SizedBox(width: 8),
-            _buildThemeChip('Emerald', ShareCardTheme.emerald, const Color(0xFF064E3B)),
-            const SizedBox(width: 6),
-            _buildThemeChip('Midnight', ShareCardTheme.midnight, const Color(0xFF0F172A)),
-            const SizedBox(width: 6),
-            _buildThemeChip('Royal Gold', ShareCardTheme.royalGold, const Color(0xFF18181B)),
-            const SizedBox(width: 6),
-            _buildThemeChip('Parchment', ShareCardTheme.parchment, const Color(0xFFFEF3C7)),
-          ],
+        SingleChildScrollView(
+          scrollDirection: Axis.horizontal,
+          child: Row(
+            children: [
+              _buildThemeChip('Emerald', ShareCardTheme.emerald, const Color(0xFF064E3B)),
+              const SizedBox(width: 6),
+              _buildThemeChip('Midnight', ShareCardTheme.midnight, const Color(0xFF0F172A)),
+              const SizedBox(width: 6),
+              _buildThemeChip('Royal Gold', ShareCardTheme.royalGold, const Color(0xFF18181B)),
+              const SizedBox(width: 6),
+              _buildThemeChip('Parchment', ShareCardTheme.parchment, const Color(0xFFFEF3C7)),
+              const SizedBox(width: 6),
+              _buildThemeChip('Minimalist', ShareCardTheme.minimalist, const Color(0xFFFFFFFF)),
+            ],
+          ),
         ),
       ],
+    );
+  }
+
+  Widget _buildFormatChip(String label, ShareCardFormat format, IconData icon) {
+    final selected = _selectedFormat == format;
+    return InkWell(
+      onTap: () => setState(() => _selectedFormat = format),
+      borderRadius: BorderRadius.circular(14),
+      child: Container(
+        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+        decoration: BoxDecoration(
+          color: selected ? const Color(0xFF0D9488) : const Color(0xFF0D9488).withOpacity(0.08),
+          borderRadius: BorderRadius.circular(14),
+        ),
+        child: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Icon(icon, size: 14, color: selected ? Colors.white : const Color(0xFF0D9488)),
+            const SizedBox(width: 4),
+            Text(
+              label,
+              style: TextStyle(
+                fontSize: 11,
+                fontWeight: FontWeight.bold,
+                color: selected ? Colors.white : const Color(0xFF0D9488),
+              ),
+            ),
+          ],
+        ),
+      ),
     );
   }
 
@@ -236,22 +268,19 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
     final selected = _selectedLanguage == lang;
     return InkWell(
       onTap: () => setState(() => _selectedLanguage = lang),
-      borderRadius: BorderRadius.circular(16),
+      borderRadius: BorderRadius.circular(14),
       child: Container(
-        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
         decoration: BoxDecoration(
-          color: selected ? const Color(0xFF0D9488) : const Color(0xFF0D9488).withOpacity(0.08),
-          borderRadius: BorderRadius.circular(16),
-          border: Border.all(
-            color: selected ? const Color(0xFF0D9488) : Colors.transparent,
-          ),
+          color: selected ? const Color(0xFFF59E0B) : const Color(0xFFF59E0B).withOpacity(0.1),
+          borderRadius: BorderRadius.circular(14),
         ),
         child: Text(
           label,
           style: TextStyle(
             fontSize: 11,
             fontWeight: FontWeight.bold,
-            color: selected ? Colors.white : const Color(0xFF0D9488),
+            color: selected ? Colors.white : const Color(0xFFF59E0B),
           ),
         ),
       ),
@@ -269,7 +298,7 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
           color: bg,
           borderRadius: BorderRadius.circular(16),
           border: Border.all(
-            color: selected ? const Color(0xFFF59E0B) : Colors.white24,
+            color: selected ? const Color(0xFFF59E0B) : Colors.grey.withOpacity(0.3),
             width: selected ? 2 : 1,
           ),
         ),
@@ -278,7 +307,9 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
           style: TextStyle(
             fontSize: 11,
             fontWeight: FontWeight.bold,
-            color: theme == ShareCardTheme.parchment ? const Color(0xFF291D11) : Colors.white,
+            color: (theme == ShareCardTheme.parchment || theme == ShareCardTheme.minimalist)
+                ? const Color(0xFF1E293B)
+                : Colors.white,
           ),
         ),
       ),
@@ -287,8 +318,8 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
 
   Widget _buildShareCard() {
     final hadith = widget.hadith;
+    final isStory = _selectedFormat == ShareCardFormat.story;
 
-    // Theme properties
     late final List<Color> gradientColors;
     late final Color borderColor;
     late final Color accentGold;
@@ -329,14 +360,25 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
         secondaryTextColor = const Color(0xFF78350F);
         cardBg = const Color(0xFFFFFDF5);
         break;
+      case ShareCardTheme.minimalist:
+        gradientColors = [const Color(0xFFFFFFFF), const Color(0xFFF8FAFC)];
+        borderColor = const Color(0xFF0D9488);
+        accentGold = const Color(0xFF0D9488);
+        primaryTextColor = const Color(0xFF0F172A);
+        secondaryTextColor = const Color(0xFF64748B);
+        cardBg = Colors.white;
+        break;
     }
 
     final showArabic = _selectedLanguage == ShareCardLanguage.both || _selectedLanguage == ShareCardLanguage.arabicOnly;
     final showEnglish = _selectedLanguage == ShareCardLanguage.both || _selectedLanguage == ShareCardLanguage.englishOnly;
 
     return Container(
-      width: 440,
-      padding: const EdgeInsets.all(22),
+      width: isStory ? 380 : 440,
+      constraints: BoxConstraints(
+        minHeight: isStory ? 640 : 0,
+      ),
+      padding: EdgeInsets.all(isStory ? 28 : 22),
       decoration: BoxDecoration(
         color: cardBg,
         gradient: LinearGradient(
@@ -356,66 +398,66 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
       ),
       child: Column(
         mainAxisSize: MainAxisSize.min,
+        mainAxisAlignment: isStory ? MainAxisAlignment.spaceBetween : MainAxisAlignment.start,
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
           // ── TOP HEADER ──────────────────────────────────────────────
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          Column(
             children: [
-              // Book Tag
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
-                decoration: BoxDecoration(
-                  color: accentGold.withOpacity(0.18),
-                  borderRadius: BorderRadius.circular(10),
-                  border: Border.all(color: accentGold.withOpacity(0.5)),
-                ),
-                child: Text(
-                  '1001 AUTHENTIC HADITH',
-                  style: TextStyle(
-                    color: accentGold,
-                    fontSize: 10,
-                    fontWeight: FontWeight.w900,
-                    letterSpacing: 0.8,
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: accentGold.withOpacity(0.18),
+                      borderRadius: BorderRadius.circular(10),
+                      border: Border.all(color: accentGold.withOpacity(0.5)),
+                    ),
+                    child: Text(
+                      '1001 AUTHENTIC HADITH',
+                      style: TextStyle(
+                        color: accentGold,
+                        fontSize: 10,
+                        fontWeight: FontWeight.w900,
+                        letterSpacing: 0.8,
+                      ),
+                    ),
                   ),
-                ),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: accentGold,
+                      borderRadius: BorderRadius.circular(10),
+                    ),
+                    child: Text(
+                      hadith.idStr,
+                      style: TextStyle(
+                        color: (_selectedTheme == ShareCardTheme.parchment || _selectedTheme == ShareCardTheme.minimalist)
+                            ? Colors.white
+                            : Colors.black,
+                        fontSize: 12,
+                        fontWeight: FontWeight.w900,
+                      ),
+                    ),
+                  ),
+                ],
               ),
-              // Hadith ID Badge
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
-                decoration: BoxDecoration(
+              const SizedBox(height: 12),
+              Text(
+                'بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ',
+                textDirection: TextDirection.rtl,
+                style: TextStyle(
+                  fontFamily: 'Amiri',
+                  fontSize: isStory ? 20 : 17,
                   color: accentGold,
-                  borderRadius: BorderRadius.circular(10),
-                ),
-                child: Text(
-                  hadith.idStr,
-                  style: TextStyle(
-                    color: _selectedTheme == ShareCardTheme.parchment ? Colors.white : Colors.black,
-                    fontSize: 12,
-                    fontWeight: FontWeight.w900,
-                  ),
+                  fontWeight: FontWeight.bold,
                 ),
               ),
             ],
           ),
 
-          const SizedBox(height: 12),
-
-          // Bismillah Calligraphy
-          Center(
-            child: Text(
-              'بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ',
-              textDirection: TextDirection.rtl,
-              style: TextStyle(
-                fontFamily: 'Amiri',
-                fontSize: 17,
-                color: accentGold,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-          ),
-
-          const SizedBox(height: 12),
+          if (isStory) const SizedBox(height: 20) else const SizedBox(height: 12),
 
           // ── ARABIC SECTION ──────────────────────────────────────────
           if (showArabic) ...[
@@ -439,7 +481,7 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
               textAlign: TextAlign.justify,
               style: TextStyle(
                 fontFamily: 'Amiri',
-                fontSize: 21,
+                fontSize: isStory ? 22 : 20,
                 fontWeight: FontWeight.w700,
                 color: primaryTextColor,
                 height: 2.1,
@@ -462,9 +504,9 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
               ),
           ],
 
-          // ── ORNATE DIVIDER (when showing both) ───────────────────────
+          // ── ORNATE DIVIDER ──────────────────────────────────────────
           if (showArabic && showEnglish) ...[
-            const SizedBox(height: 14),
+            SizedBox(height: isStory ? 20 : 14),
             Row(
               children: [
                 Expanded(child: Divider(color: accentGold.withOpacity(0.4), thickness: 1)),
@@ -478,7 +520,7 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
                 Expanded(child: Divider(color: accentGold.withOpacity(0.4), thickness: 1)),
               ],
             ),
-            const SizedBox(height: 14),
+            SizedBox(height: isStory ? 20 : 14),
           ],
 
           // ── ENGLISH SECTION ─────────────────────────────────────────
@@ -500,7 +542,7 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
               '"${hadith.englishTranslation}"',
               textAlign: TextAlign.center,
               style: TextStyle(
-                fontSize: 15,
+                fontSize: isStory ? 16 : 14,
                 fontStyle: FontStyle.italic,
                 fontWeight: FontWeight.w500,
                 color: primaryTextColor,
@@ -537,13 +579,13 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
             ),
           ],
 
-          const SizedBox(height: 14),
+          if (isStory) const SizedBox(height: 24) else const SizedBox(height: 14),
 
           // ── FOOTER BANNER ───────────────────────────────────────────
           Container(
             padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
             decoration: BoxDecoration(
-              color: Colors.black.withOpacity(0.2),
+              color: Colors.black.withOpacity(0.15),
               borderRadius: BorderRadius.circular(12),
               border: Border.all(color: accentGold.withOpacity(0.25)),
             ),
@@ -562,7 +604,7 @@ class _ShareCardDialogState extends State<ShareCardDialog> {
                       ),
                     ),
                     Text(
-                      'Author & Compiler • Maktaba Shamela Verified',
+                      'Author & Compiler • 1001 Authentic Hadith',
                       style: TextStyle(
                         fontSize: 9,
                         color: secondaryTextColor,

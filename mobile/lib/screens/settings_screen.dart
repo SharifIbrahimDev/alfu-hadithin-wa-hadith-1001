@@ -383,12 +383,99 @@ class SettingsScreen extends StatelessWidget {
                       Switch.adaptive(
                         value: provider.dailyReminderEnabled,
                         activeColor: const Color(0xFF14B8A6),
-                        onChanged: (val) => provider.setDailyReminderEnabled(val),
+                        onChanged: (val) async {
+                          await provider.setDailyReminderEnabled(val);
+                          if (val && context.mounted) {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              SnackBar(
+                                content: Text('🔔 Daily reminder active for ${provider.dailyReminderTime.format(context)}'),
+                                backgroundColor: const Color(0xFF0D9488),
+                                behavior: SnackBarBehavior.floating,
+                              ),
+                            );
+                          }
+                        },
                       ),
                     ],
                   ),
 
-                    if (provider.dailyReminderEnabled) ...[
+                  if (provider.dailyReminderEnabled) ...[
+                    const Divider(height: 24),
+
+                    // Permission Status Badge / Action
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+                      decoration: BoxDecoration(
+                        color: provider.notificationPermissionGranted
+                            ? const Color(0xFF10B981).withOpacity(0.1)
+                            : const Color(0xFFF59E0B).withOpacity(0.12),
+                        borderRadius: BorderRadius.circular(12),
+                        border: Border.all(
+                          color: provider.notificationPermissionGranted
+                              ? const Color(0xFF10B981).withOpacity(0.3)
+                              : const Color(0xFFF59E0B).withOpacity(0.4),
+                        ),
+                      ),
+                      child: Row(
+                        children: [
+                          Icon(
+                            provider.notificationPermissionGranted
+                                ? Icons.check_circle_rounded
+                                : Icons.warning_amber_rounded,
+                            size: 20,
+                            color: provider.notificationPermissionGranted
+                                ? const Color(0xFF10B981)
+                                : const Color(0xFFF59E0B),
+                          ),
+                          const SizedBox(width: 10),
+                          Expanded(
+                            child: Text(
+                              provider.notificationPermissionGranted
+                                  ? 'Notifications are enabled and working'
+                                  : 'Notification permission is required to receive daily alerts',
+                              style: TextStyle(
+                                fontSize: 12,
+                                fontWeight: FontWeight.w600,
+                                color: provider.notificationPermissionGranted
+                                    ? const Color(0xFF10B981)
+                                    : const Color(0xFFF59E0B),
+                              ),
+                            ),
+                          ),
+                          if (!provider.notificationPermissionGranted)
+                            TextButton(
+                              onPressed: () async {
+                                final granted = await provider.checkAndRequestNotificationPermissions();
+                                if (context.mounted) {
+                                  ScaffoldMessenger.of(context).showSnackBar(
+                                    SnackBar(
+                                      content: Text(granted
+                                          ? '✅ Notification permissions granted!'
+                                          : '⚠️ Please enable notifications in your device app settings.'),
+                                      backgroundColor: granted ? const Color(0xFF0D9488) : Colors.orange[800],
+                                      behavior: SnackBarBehavior.floating,
+                                    ),
+                                  );
+                                }
+                              },
+                              style: TextButton.styleFrom(
+                                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                                minimumSize: Size.zero,
+                                tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                              ),
+                              child: const Text(
+                                'Grant',
+                                style: TextStyle(
+                                  fontWeight: FontWeight.bold,
+                                  color: Color(0xFFF59E0B),
+                                  fontSize: 13,
+                                ),
+                              ),
+                            ),
+                        ],
+                      ),
+                    ),
+
                     const Divider(height: 24),
 
                     // Time Picker Row
@@ -496,114 +583,6 @@ class SettingsScreen extends StatelessWidget {
                               ),
                             ),
                           ],
-                        ),
-                      ),
-                    ),
-
-                    const Divider(height: 24),
-
-                    // Test Scheduled Notification in 15 Seconds Button
-                    Row(
-                      children: [
-                        Expanded(
-                          child: ElevatedButton.icon(
-                            onPressed: () async {
-                              await provider.scheduleTestNotification(seconds: 15);
-                              if (context.mounted) {
-                                ScaffoldMessenger.of(context).showSnackBar(
-                                  const SnackBar(
-                                    content: Text('⏱️ Alarm scheduled for 15 SECONDS!\n👉 Lock your phone or switch apps to test wake-up.'),
-                                    backgroundColor: Color(0xFF0D9488),
-                                    behavior: SnackBarBehavior.floating,
-                                    duration: Duration(seconds: 6),
-                                  ),
-                                );
-                              }
-                            },
-                            style: ElevatedButton.styleFrom(
-                              backgroundColor: const Color(0xFF0D9488),
-                              foregroundColor: Colors.white,
-                              padding: const EdgeInsets.symmetric(vertical: 12),
-                              shape: RoundedRectangleBorder(
-                                borderRadius: BorderRadius.circular(12),
-                              ),
-                              elevation: 0,
-                            ),
-                            icon: const Icon(Icons.timer_outlined, size: 16),
-                            label: const Text(
-                              'Test in 15s',
-                              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12),
-                            ),
-                          ),
-                        ),
-                        const SizedBox(width: 8),
-                        Expanded(
-                          child: ElevatedButton.icon(
-                            onPressed: () async {
-                              await provider.scheduleTestNotification(seconds: 60);
-                              if (context.mounted) {
-                                ScaffoldMessenger.of(context).showSnackBar(
-                                  const SnackBar(
-                                    content: Text('⏱️ Alarm scheduled for 1 MINUTE!\n👉 Lock your phone to test background wake-up.'),
-                                    backgroundColor: const Color(0xFF0D9488),
-                                    behavior: SnackBarBehavior.floating,
-                                    duration: Duration(seconds: 6),
-                                  ),
-                                );
-                              }
-                            },
-                            style: ElevatedButton.styleFrom(
-                              backgroundColor: const Color(0xFF0F766E),
-                              foregroundColor: Colors.white,
-                              padding: const EdgeInsets.symmetric(vertical: 12),
-                              shape: RoundedRectangleBorder(
-                                borderRadius: BorderRadius.circular(12),
-                              ),
-                              elevation: 0,
-                            ),
-                            icon: const Icon(Icons.alarm_on_rounded, size: 16),
-                            label: const Text(
-                              'Test in 1 min',
-                              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12),
-                            ),
-                          ),
-                        ),
-                      ],
-                    ),
-
-                    const SizedBox(height: 10),
-
-                    // Instant Test Notification Button
-                    SizedBox(
-                      width: double.infinity,
-                      child: OutlinedButton.icon(
-                        onPressed: () async {
-                          await provider.sendTestNotification();
-                          if (context.mounted) {
-                            ScaffoldMessenger.of(context).showSnackBar(
-                              const SnackBar(
-                                content: Text('✨ Test Hadith notification sent instantly! Check your notification bar.'),
-                                backgroundColor: Color(0xFF0D9488),
-                                behavior: SnackBarBehavior.floating,
-                                duration: Duration(seconds: 3),
-                              ),
-                            );
-                          }
-                        },
-                        style: OutlinedButton.styleFrom(
-                          foregroundColor: const Color(0xFF14B8A6),
-                          side: BorderSide(
-                            color: const Color(0xFF14B8A6).withOpacity(0.4),
-                          ),
-                          padding: const EdgeInsets.symmetric(vertical: 12),
-                          shape: RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(12),
-                          ),
-                        ),
-                        icon: const Icon(Icons.notifications_none_rounded, size: 18),
-                        label: const Text(
-                          'Send Instant Notification Now',
-                          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13),
                         ),
                       ),
                     ),

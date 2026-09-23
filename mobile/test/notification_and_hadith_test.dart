@@ -8,12 +8,12 @@ void main() {
   setUpAll(() {
     TestWidgetsFlutterBinding.ensureInitialized();
     tz.initializeTimeZones();
-    // Configure local timezone matching system offset
+    // Configure local timezone matching system offset accurately
     final now = DateTime.now();
     final offsetMs = now.timeZoneOffset.inMilliseconds;
     for (final locName in tz.timeZoneDatabase.locations.keys) {
       final loc = tz.getLocation(locName);
-      if (loc.currentTimeZone.offset == offsetMs) {
+      if (tz.TZDateTime.from(now, loc).timeZoneOffset.inMilliseconds == offsetMs) {
         tz.setLocalLocation(loc);
         break;
       }
@@ -33,29 +33,27 @@ void main() {
 
   group('Real-Time Notification Scheduling Tests', () {
     test('Calculates and verifies 10-second exact test alarm', () async {
-      final now = DateTime.now();
+      final now = tz.TZDateTime.now(tz.local);
       final fireTime = now.add(const Duration(seconds: 10));
-      final scheduledTZ = tz.TZDateTime.from(fireTime, tz.local);
 
-      final diffSeconds = (scheduledTZ.millisecondsSinceEpoch - now.millisecondsSinceEpoch) / 1000;
+      final diffSeconds = (fireTime.millisecondsSinceEpoch - now.millisecondsSinceEpoch) / 1000;
       expect(diffSeconds, closeTo(10, 0.05));
-      expect(scheduledTZ.millisecondsSinceEpoch, fireTime.millisecondsSinceEpoch);
 
       print('===========================================================');
       print('⏰ 10-SECOND EXACT TEST ALARM VERIFICATION');
       print('===========================================================');
       print('1. Current Local Time: $now');
       print('2. Fire Target Time:   $fireTime');
-      print('3. Scheduled TZ Time:  $scheduledTZ');
-      print('4. Epoch Millis Delta: ${(diffSeconds * 1000).toInt()}ms (exact 10.0s)');
+      print('3. Epoch Millis Delta: ${(diffSeconds * 1000).toInt()}ms (exact 10.0s)');
       print('===========================================================');
     });
 
-    test('Calculates +2 minutes in future accurately without timezone skew', () {
-      final now = DateTime.now();
+    test('Calculates +2 minutes in future accurately using TZDateTime', () {
+      final now = tz.TZDateTime.now(tz.local);
       final target = now.add(const Duration(minutes: 2));
 
-      var scheduledDateTime = DateTime(
+      var scheduledDateTime = tz.TZDateTime(
+        tz.local,
         now.year,
         now.month,
         now.day,
@@ -68,10 +66,9 @@ void main() {
         scheduledDateTime = scheduledDateTime.add(const Duration(days: 1));
       }
 
-      final scheduledTZ = tz.TZDateTime.from(scheduledDateTime, tz.local);
-
       expect(scheduledDateTime.isAfter(now), isTrue);
-      expect(scheduledTZ.millisecondsSinceEpoch, scheduledDateTime.millisecondsSinceEpoch);
+      expect(scheduledDateTime.hour, target.hour);
+      expect(scheduledDateTime.minute, target.minute);
 
       final diffSeconds = scheduledDateTime.difference(now).inSeconds;
       expect(diffSeconds, greaterThanOrEqualTo(60));
@@ -80,10 +77,11 @@ void main() {
     });
 
     test('Wraps around to tomorrow if scheduled time has already passed today', () {
-      final now = DateTime.now();
+      final now = tz.TZDateTime.now(tz.local);
       final past = now.subtract(const Duration(minutes: 10));
 
-      var scheduledDateTime = DateTime(
+      var scheduledDateTime = tz.TZDateTime(
+        tz.local,
         now.year,
         now.month,
         now.day,
@@ -92,21 +90,18 @@ void main() {
         0,
       );
 
-      if (scheduledDateTime.isBefore(now)) {
+      if (scheduledDateTime.isBefore(now) || scheduledDateTime.isAtSameMomentAs(now)) {
         scheduledDateTime = scheduledDateTime.add(const Duration(days: 1));
       }
 
-      final scheduledTZ = tz.TZDateTime.from(scheduledDateTime, tz.local);
-
       expect(scheduledDateTime.isAfter(now), isTrue);
       expect(scheduledDateTime.day, (now.add(const Duration(days: 1))).day);
-      expect(scheduledTZ.millisecondsSinceEpoch, scheduledDateTime.millisecondsSinceEpoch);
       print('✓ Passed time wrapped to tomorrow: $scheduledDateTime');
     });
 
     test('NotificationService helper functions calculate durations accurately', () {
       final notifService = NotificationService();
-      final now = DateTime.now();
+      final now = tz.TZDateTime.now(tz.local);
       final futureTime = now.add(const Duration(minutes: 30));
 
       final duration = notifService.getRemainingDuration(futureTime.hour, futureTime.minute);

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/hadith.dart';
+import '../models/category.dart';
 import '../services/hadith_service.dart';
 import '../services/notification_service.dart';
 
@@ -13,6 +14,9 @@ class AppProvider with ChangeNotifier {
   final NotificationService _notificationService = NotificationService();
   bool _isLoading = true;
   Set<int> _bookmarks = {};
+  Set<int> _readHadiths = {};
+  int? _lastReadHadithId;
+  List<String> _recentSearches = [];
   AppThemeMode _themeMode = AppThemeMode.dark;
   double _arabicFontSize = 22.0;
   double _englishFontSize = 15.0;
@@ -23,11 +27,15 @@ class AppProvider with ChangeNotifier {
   // Notification Preferences
   bool _dailyReminderEnabled = true;
   TimeOfDay _dailyReminderTime = const TimeOfDay(hour: 8, minute: 0);
+  bool _notificationPermissionGranted = false;
 
   HadithService get service => _service;
   NotificationService get notificationService => _notificationService;
   bool get isLoading => _isLoading;
   Set<int> get bookmarks => _bookmarks;
+  Set<int> get readHadiths => _readHadiths;
+  int? get lastReadHadithId => _lastReadHadithId;
+  List<String> get recentSearches => _recentSearches;
   AppThemeMode get themeMode => _themeMode;
   double get arabicFontSize => _arabicFontSize;
   double get englishFontSize => _englishFontSize;
@@ -36,6 +44,7 @@ class AppProvider with ChangeNotifier {
   double get englishSpeechRate => _englishSpeechRate;
   bool get dailyReminderEnabled => _dailyReminderEnabled;
   TimeOfDay get dailyReminderTime => _dailyReminderTime;
+  bool get notificationPermissionGranted => _notificationPermissionGranted;
 
   AppProvider() {
     _init();
@@ -54,6 +63,13 @@ class AppProvider with ChangeNotifier {
 
       final savedBookmarks = prefs.getStringList('saved_bookmarks') ?? [];
       _bookmarks = savedBookmarks.map((s) => int.tryParse(s) ?? 0).where((id) => id > 0).toSet();
+
+      final savedRead = prefs.getStringList('read_hadiths') ?? [];
+      _readHadiths = savedRead.map((s) => int.tryParse(s) ?? 0).where((id) => id > 0).toSet();
+
+      _lastReadHadithId = prefs.getInt('last_read_hadith_id');
+
+      _recentSearches = prefs.getStringList('recent_searches') ?? [];
 
       final themeStr = prefs.getString('theme_mode') ?? 'dark';
       if (themeStr == 'sepia') {
@@ -84,9 +100,10 @@ class AppProvider with ChangeNotifier {
       final minute = prefs.getInt('daily_reminder_minute') ?? 0;
       _dailyReminderTime = TimeOfDay(hour: hour, minute: minute);
 
+      _notificationPermissionGranted = await _notificationService.areNotificationsEnabled();
+
       if (_dailyReminderEnabled && _service.allHadiths.isNotEmpty) {
         try {
-          await _notificationService.requestPermissions();
           await _notificationService.scheduleDailyHadithReminder(
             hour: _dailyReminderTime.hour,
             minute: _dailyReminderTime.minute,
@@ -103,6 +120,103 @@ class AppProvider with ChangeNotifier {
       notifyListeners();
     }
   }
+
+  // ── READING PROGRESS & LAST READ ──────────────────────────────────────────
+
+  Hadith? get lastReadHadith {
+    if (_lastReadHadithId == null) return null;
+    return _service.getHadithById(_lastReadHadithId!);
+  }
+
+  int get totalReadCount => _readHadiths.length;
+
+  double get overallProgress {
+    if (_service.allHadiths.isEmpty) return 0.0;
+    return (_readHadiths.length / _service.allHadiths.length).clamp(0.0, 1.0);
+  }
+
+  bool isRead(int hadithId) => _readHadiths.contains(hadithId);
+
+  int getChapterReadCount(int chapterId) {
+    final chapterHadiths = _service.getHadithsForChapter(chapterId);
+    if (chapterHadiths.isEmpty) return 0;
+    return chapterHadiths.where((h) => _readHadiths.contains(h.id)).length;
+  }
+
+  double getChapterProgress(int chapterId) {
+    final chapterHadiths = _service.getHadithsForChapter(chapterId);
+    if (chapterHadiths.isEmpty) return 0.0;
+    final readCount = chapterHadiths.where((h) => _readHadiths.contains(h.id)).length;
+    return (readCount / chapterHadiths.length).clamp(0.0, 1.0);
+  }
+
+  void recordReadingPosition(int hadithId) async {
+    _lastReadHadithId = hadithId;
+    _readHadiths.add(hadithId);
+    notifyListeners();
+
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setInt('last_read_hadith_id', hadithId);
+    await prefs.setStringList('read_hadiths', _readHadiths.map((id) => id.toString()).toList());
+  }
+
+  void resetReadingProgress() async {
+    _readHadiths.clear();
+    _lastReadHadithId = null;
+    notifyListeners();
+
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove('last_read_hadith_id');
+    await prefs.remove('read_hadiths');
+  }
+
+  // ── RECENT SEARCHES ────────────────────────────────────────────────────────
+
+  void addRecentSearch(String query) async {
+    final clean = query.trim();
+    if (clean.isEmpty) return;
+
+    _recentSearches.remove(clean);
+    _recentSearches.insert(0, clean);
+    if (_recentSearches.length > 8) {
+      _recentSearches = _recentSearches.sublist(0, 8);
+    }
+    notifyListeners();
+
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('recent_searches', _recentSearches);
+  }
+
+  void clearRecentSearches() async {
+    _recentSearches.clear();
+    notifyListeners();
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove('recent_searches');
+  }
+
+  // ── NOTIFICATIONS & PERMISSIONS ───────────────────────────────────────────
+
+  Future<bool> checkAndRequestNotificationPermissions() async {
+    final granted = await _notificationService.requestPermissions();
+    _notificationPermissionGranted = granted;
+    notifyListeners();
+
+    if (granted && _dailyReminderEnabled && _service.allHadiths.isNotEmpty) {
+      await _notificationService.scheduleDailyHadithReminder(
+        hour: _dailyReminderTime.hour,
+        minute: _dailyReminderTime.minute,
+        hadith: _service.getDailyHadith(),
+      );
+    }
+    return granted;
+  }
+
+  Future<void> refreshNotificationPermissionStatus() async {
+    _notificationPermissionGranted = await _notificationService.areNotificationsEnabled();
+    notifyListeners();
+  }
+
+  // ── BOOKMARKS ─────────────────────────────────────────────────────────────
 
   void toggleBookmark(int hadithId) async {
     if (_bookmarks.contains(hadithId)) {
@@ -121,6 +235,8 @@ class AppProvider with ChangeNotifier {
   List<Hadith> get bookmarkedHadiths {
     return _service.allHadiths.where((h) => _bookmarks.contains(h.id)).toList();
   }
+
+  // ── THEME & TYPOGRAPHY ────────────────────────────────────────────────────
 
   void setThemeMode(AppThemeMode mode) async {
     _themeMode = mode;
@@ -171,7 +287,10 @@ class AppProvider with ChangeNotifier {
     await prefs.setBool('daily_reminder_enabled', enabled);
 
     if (enabled) {
-      await _notificationService.requestPermissions();
+      final granted = await _notificationService.requestPermissions();
+      _notificationPermissionGranted = granted;
+      notifyListeners();
+
       if (_service.allHadiths.isNotEmpty) {
         await _notificationService.scheduleDailyHadithReminder(
           hour: _dailyReminderTime.hour,
@@ -201,7 +320,10 @@ class AppProvider with ChangeNotifier {
   }
 
   Future<void> sendTestNotification() async {
-    await _notificationService.requestPermissions();
+    final granted = await _notificationService.requestPermissions();
+    _notificationPermissionGranted = granted;
+    notifyListeners();
+
     if (_service.allHadiths.isNotEmpty) {
       await _notificationService.showInstantTestNotification(
         hadith: _service.getDailyHadith(),
@@ -210,7 +332,10 @@ class AppProvider with ChangeNotifier {
   }
 
   Future<void> scheduleTestNotification({int seconds = 10}) async {
-    await _notificationService.requestPermissions();
+    final granted = await _notificationService.requestPermissions();
+    _notificationPermissionGranted = granted;
+    notifyListeners();
+
     if (_service.allHadiths.isNotEmpty) {
       await _notificationService.scheduleTestNotification(
         seconds: seconds,
@@ -219,4 +344,3 @@ class AppProvider with ChangeNotifier {
     }
   }
 }
-

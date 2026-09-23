@@ -36,6 +36,12 @@ class _HadithReaderScreenState extends State<HadithReaderScreen> {
     _pageController = PageController(initialPage: _currentIndex);
     _flutterTts = FlutterTts();
 
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (all.isNotEmpty && _currentIndex >= 0 && _currentIndex < all.length) {
+        provider.recordReadingPosition(all[_currentIndex].id);
+      }
+    });
+
     _flutterTts.setCompletionHandler(() async {
       if (!mounted) return;
       if (_ttsPhase == TtsPhase.arabic && _currentPlayMode == TtsPlaybackMode.both) {
@@ -435,6 +441,9 @@ class _HadithReaderScreenState extends State<HadithReaderScreen> {
               _ttsPhase = TtsPhase.idle;
             }
           });
+          if (idx >= 0 && idx < allHadiths.length) {
+            provider.recordReadingPosition(allHadiths[idx].id);
+          }
         },
         itemBuilder: (context, index) {
           final hadith = allHadiths[index];

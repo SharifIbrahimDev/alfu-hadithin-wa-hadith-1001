@@ -103,6 +103,15 @@ class _MainTabNavigatorState extends State<MainTabNavigator> {
   int _currentIndex = 0;
   final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();
 
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      final provider = Provider.of<AppProvider>(context, listen: false);
+      provider.refreshNotificationPermissionStatus();
+    });
+  }
+
   final List<Widget> _screens = const [
     HomeScreen(),
     SearchScreen(),

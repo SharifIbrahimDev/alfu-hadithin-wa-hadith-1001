@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'dart:io';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:timezone/data/latest_all.dart' as tz;
@@ -17,7 +18,7 @@ class NotificationService {
 
   static const int dailyReminderNotificationId = 1001;
   static const int testNotificationId = 9999;
-  static const String channelId = 'daily_hadith_reminder_channel_v3';
+  static const String channelId = 'daily_hadith_reminder_channel_v4';
   static const String channelName = 'Daily Hadith Reminder';
   static const String channelDescription =
       'Daily authentic Hadith reminders and notifications from 1001 Authentic Hadith';
@@ -28,21 +29,23 @@ class NotificationService {
 
   Future<void> initialize({Function(int hadithId)? onSelectHadith}) async {
     if (_initialized && onSelectHadith == null) return;
-    _onNotificationSelected = onSelectHadith;
+    if (onSelectHadith != null) {
+      _onNotificationSelected = onSelectHadith;
+    }
 
     await _configureLocalTimeZone();
 
     try {
-      // Android settings - use valid drawable resource
+      // Android settings - use standard app launcher icon
       const AndroidInitializationSettings androidSettings =
-          AndroidInitializationSettings('ic_stat_hadith');
+          AndroidInitializationSettings('@mipmap/ic_launcher');
 
       // iOS / macOS Darwin settings
       const DarwinInitializationSettings darwinSettings =
           DarwinInitializationSettings(
-        requestAlertPermission: true,
-        requestBadgePermission: true,
-        requestSoundPermission: true,
+        requestAlertPermission: false, // Explicitly requested via UI
+        requestBadgePermission: false,
+        requestSoundPermission: false,
       );
 
       const InitializationSettings initSettings = InitializationSettings(
@@ -62,12 +65,19 @@ class NotificationService {
         },
       );
 
-      // Create High-Priority Notification Channel for Android
+      // Create High-Priority Notification Channel for Android 8.0+
       final androidNotificationPlugin = _notificationsPlugin
           .resolvePlatformSpecificImplementation<
               AndroidFlutterLocalNotificationsPlugin>();
 
       if (androidNotificationPlugin != null) {
+        // Clean up legacy channel IDs if they exist
+        try {
+          await androidNotificationPlugin.deleteNotificationChannel('daily_hadith_reminder_channel_v1');
+          await androidNotificationPlugin.deleteNotificationChannel('daily_hadith_reminder_channel_v2');
+          await androidNotificationPlugin.deleteNotificationChannel('daily_hadith_reminder_channel_v3');
+        } catch (_) {}
+
         await androidNotificationPlugin.createNotificationChannel(
           const AndroidNotificationChannel(
             channelId,
@@ -82,6 +92,7 @@ class NotificationService {
         );
       }
       _initialized = true;
+      debugPrint('NotificationService: Initialized successfully with channel $channelId');
     } catch (e) {
       debugPrint('Error during NotificationService initialize: $e');
     }
@@ -91,20 +102,23 @@ class NotificationService {
     tz.initializeTimeZones();
     try {
       final String timeZoneName = await FlutterTimezone.getLocalTimezone();
-      tz.setLocalLocation(tz.getLocation(timeZoneName));
-      debugPrint('NotificationService: Local timezone initialized to $timeZoneName');
-      return;
+      if (tz.timeZoneDatabase.locations.containsKey(timeZoneName)) {
+        tz.setLocalLocation(tz.getLocation(timeZoneName));
+        debugPrint('NotificationService: Local timezone initialized to $timeZoneName');
+        return;
+      }
     } catch (e) {
       debugPrint('NotificationService: Timezone lookup by name failed ($e). Attempting offset matching.');
     }
 
-    // Offset-based fallback for OEM ROMs (Infinix/Transsion/Xiaomi) returning non-standard TZ strings
+    // Offset-based fallback for OEM ROMs (Samsung, Infinix, Xiaomi)
     try {
       final now = DateTime.now();
       final offsetMs = now.timeZoneOffset.inMilliseconds;
+
       for (final locName in tz.timeZoneDatabase.locations.keys) {
         final loc = tz.getLocation(locName);
-        if (loc.currentTimeZone.offset == offsetMs) {
+        if (tz.TZDateTime.from(now, loc).timeZoneOffset.inMilliseconds == offsetMs) {
           tz.setLocalLocation(loc);
           debugPrint('NotificationService: Local timezone matched by offset ($offsetMs ms) -> $locName');
           return;
@@ -113,8 +127,41 @@ class NotificationService {
     } catch (e) {
       debugPrint('NotificationService: Offset fallback error: $e');
     }
+
+    // Default to UTC location if all else fails
+    try {
+      tz.setLocalLocation(tz.getLocation('UTC'));
+    } catch (_) {}
   }
 
+  /// Checks whether notifications are currently allowed by the OS
+  Future<bool> areNotificationsEnabled() async {
+    try {
+      if (Platform.isAndroid) {
+        final androidImplementation = _notificationsPlugin
+            .resolvePlatformSpecificImplementation<
+                AndroidFlutterLocalNotificationsPlugin>();
+        if (androidImplementation != null) {
+          final areEnabled =
+              await androidImplementation.areNotificationsEnabled();
+          return areEnabled ?? false;
+        }
+      } else if (Platform.isIOS || Platform.isMacOS) {
+        final darwinImplementation = _notificationsPlugin
+            .resolvePlatformSpecificImplementation<
+                IOSFlutterLocalNotificationsPlugin>();
+        if (darwinImplementation != null) {
+          // Darwin doesn't have a direct check without requesting, assume granted if requested
+          return true;
+        }
+      }
+    } catch (e) {
+      debugPrint('Error checking notification status: $e');
+    }
+    return true;
+  }
+
+  /// Requests runtime notification and exact alarm permissions
   Future<bool> requestPermissions() async {
     try {
       if (Platform.isAndroid) {
@@ -124,9 +171,11 @@ class NotificationService {
         if (androidImplementation != null) {
           final notifGranted =
               await androidImplementation.requestNotificationsPermission();
+
           try {
             await androidImplementation.requestExactAlarmsPermission();
           } catch (_) {}
+
           return notifGranted ?? false;
         }
       } else if (Platform.isIOS || Platform.isMacOS) {
@@ -149,8 +198,9 @@ class NotificationService {
   }
 
   tz.TZDateTime _nextInstanceOfTime(int hour, int minute) {
-    final now = DateTime.now();
-    var scheduled = DateTime(
+    final now = tz.TZDateTime.now(tz.local);
+    var scheduledDate = tz.TZDateTime(
+      tz.local,
       now.year,
       now.month,
       now.day,
@@ -159,16 +209,17 @@ class NotificationService {
       0,
     );
 
-    // If the scheduled time is in the past or current second/minute that already started, wrap to tomorrow
-    if (scheduled.isBefore(now) || scheduled.isAtSameMomentAs(now)) {
-      scheduled = scheduled.add(const Duration(days: 1));
+    // If the scheduled time is in the past or current second, schedule for tomorrow
+    if (scheduledDate.isBefore(now) || scheduledDate.isAtSameMomentAs(now)) {
+      scheduledDate = scheduledDate.add(const Duration(days: 1));
     }
-    return tz.TZDateTime.from(scheduled, tz.local);
+    return scheduledDate;
   }
 
   Duration getRemainingDuration(int hour, int minute) {
-    final now = DateTime.now();
-    var scheduled = DateTime(
+    final now = tz.TZDateTime.now(tz.local);
+    var scheduled = tz.TZDateTime(
+      tz.local,
       now.year,
       now.month,
       now.day,
@@ -183,8 +234,9 @@ class NotificationService {
   }
 
   bool isScheduledForToday(int hour, int minute) {
-    final now = DateTime.now();
-    final scheduled = DateTime(
+    final now = tz.TZDateTime.now(tz.local);
+    final scheduled = tz.TZDateTime(
+      tz.local,
       now.year,
       now.month,
       now.day,
@@ -212,7 +264,7 @@ class NotificationService {
       visibility: NotificationVisibility.public,
       category: AndroidNotificationCategory.reminder,
       ticker: 'Daily Hadith Reminder',
-      icon: 'ic_stat_hadith',
+      icon: '@mipmap/ic_launcher',
       styleInformation: BigTextStyleInformation(
         body,
         contentTitle: title,
@@ -310,15 +362,14 @@ class NotificationService {
   }
 
   Future<void> scheduleTestNotification({
-    int seconds = 15,
+    int seconds = 10,
     required Hadith hadith,
   }) async {
     try {
       await requestPermissions();
 
       _testTimer?.cancel();
-      final fireTime = DateTime.now().add(Duration(seconds: seconds));
-      final scheduledDate = tz.TZDateTime.from(fireTime, tz.local);
+      final fireTime = tz.TZDateTime.now(tz.local).add(Duration(seconds: seconds));
 
       final title = '📖 Test Hadith (${seconds}s): ${hadith.topicEn}';
       final previewText = hadith.englishTranslation.isNotEmpty
@@ -349,14 +400,14 @@ class NotificationService {
           testNotificationId,
           title,
           previewText,
-          scheduledDate,
+          fireTime,
           details,
           androidScheduleMode: AndroidScheduleMode.alarmClock,
           uiLocalNotificationDateInterpretation:
               UILocalNotificationDateInterpretation.absoluteTime,
           payload: hadith.id.toString(),
         );
-        debugPrint('Scheduled alarmClock test notification in $seconds seconds ($scheduledDate)');
+        debugPrint('Scheduled alarmClock test notification in $seconds seconds ($fireTime)');
       } catch (e) {
         debugPrint('alarmClock failed, falling back to exactAllowWhileIdle: $e');
         try {
@@ -364,7 +415,7 @@ class NotificationService {
             testNotificationId,
             title,
             previewText,
-            scheduledDate,
+            fireTime,
             details,
             androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
             uiLocalNotificationDateInterpretation:
@@ -377,7 +428,7 @@ class NotificationService {
             testNotificationId,
             title,
             previewText,
-            scheduledDate,
+            fireTime,
             details,
             androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
             uiLocalNotificationDateInterpretation:
@@ -414,6 +465,7 @@ class NotificationService {
         details,
         payload: hadith.id.toString(),
       );
+      debugPrint('NotificationService: Instant notification sent');
     } catch (e) {
       debugPrint('Error showing instant test notification: $e');
     }

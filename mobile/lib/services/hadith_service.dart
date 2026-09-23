@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import '../models/hadith.dart';
 import '../models/chapter.dart';
+import '../models/category.dart';
 
 class HadithService {
   List<Hadith> _hadiths = [];
@@ -27,6 +28,21 @@ class HadithService {
 
   List<Hadith> getHadithsForChapter(int chapterId) {
     return _hadiths.where((h) => h.chapterId == chapterId).toList();
+  }
+
+  List<Hadith> getHadithsForCategory(ThematicCategory category) {
+    if (category.id == 'all' || category.chapterIds.isEmpty) {
+      return _hadiths;
+    }
+    return _hadiths.where((h) => category.chapterIds.contains(h.chapterId)).toList();
+  }
+
+  Chapter? getChapterById(int chapterId) {
+    try {
+      return _chapters.firstWhere((c) => c.id == chapterId);
+    } catch (_) {
+      return null;
+    }
   }
 
   Hadith? getHadithById(int id) {
@@ -58,10 +74,8 @@ class HadithService {
       );
     }
     final now = DateTime.now();
-    // Deterministic date key (YYYYMMDD) e.g., 20260922
     final dayKey = now.year * 10000 + now.month * 100 + now.day;
 
-    // Fast, uniform 32-bit integer hash to select varied chapters across consecutive days
     var hash = dayKey ^ 0x9e3779b9;
     hash = ((hash ^ (hash >> 16)) * 0x85ebca6b) & 0xFFFFFFFF;
     hash = ((hash ^ (hash >> 13)) * 0xc2b2ae35) & 0xFFFFFFFF;
@@ -70,21 +84,38 @@ class HadithService {
     return _hadiths[hash % _hadiths.length];
   }
 
-  List<Hadith> search(String query) {
+  List<Hadith> search(String query, {ThematicCategory? category, Set<int>? bookmarkedIds, bool bookmarkedOnly = false}) {
+    var source = _hadiths;
+
+    if (category != null && category.id != 'all' && category.chapterIds.isNotEmpty) {
+      source = source.where((h) => category.chapterIds.contains(h.chapterId)).toList();
+    }
+
+    if (bookmarkedOnly && bookmarkedIds != null) {
+      source = source.where((h) => bookmarkedIds.contains(h.id)).toList();
+    }
+
     final raw = query.trim().toLowerCase();
-    if (raw.isEmpty) return _hadiths;
+    if (raw.isEmpty) return source;
 
     final normQ = _normalizeArabic(raw);
 
-    return _hadiths.where((h) {
+    return source.where((h) {
       if (h.id.toString() == raw || h.idStr.toLowerCase().contains(raw)) return true;
       if (h.englishTranslation.toLowerCase().contains(raw) ||
           h.topicEn.toLowerCase().contains(raw) ||
-          h.narratorEn.toLowerCase().contains(raw)) return true;
+          h.narratorEn.toLowerCase().contains(raw) ||
+          h.chapterTitleEn.toLowerCase().contains(raw) ||
+          h.takhrij.toLowerCase().contains(raw)) return true;
 
       final normMatn = _normalizeArabic(h.arabicMatn);
       final normTopicAr = _normalizeArabic(h.topicAr);
-      return normMatn.contains(normQ) || normTopicAr.contains(normQ);
+      final normNarratorAr = _normalizeArabic(h.narratorAr);
+      final normChapterAr = _normalizeArabic(h.chapterTitleAr);
+      return normMatn.contains(normQ) ||
+          normTopicAr.contains(normQ) ||
+          normNarratorAr.contains(normQ) ||
+          normChapterAr.contains(normQ);
     }).toList();
   }
 

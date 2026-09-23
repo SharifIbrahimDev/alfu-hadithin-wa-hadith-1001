@@ -19,6 +19,21 @@
                 <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
             </intent-filter>
         </receiver>
+        <meta-data
+            android:name="com.dexterous.flutterlocalnotifications.default_notification_channel_id"
+            android:value="daily_hadith_reminder_channel_v4" />
+
+        <!-- Home Screen App Widget -->
+        <receiver
+            android:name=".HadithWidgetProvider"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/hadith_appwidget_info" />
+        </receiver>
         <activity
             android:name=".MainActivity"
             android:exported="true"
