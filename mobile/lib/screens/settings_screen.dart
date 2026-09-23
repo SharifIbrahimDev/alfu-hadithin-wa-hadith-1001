@@ -586,6 +586,92 @@ class SettingsScreen extends StatelessWidget {
                         ),
                       ),
                     ),
+
+                    const Divider(height: 24),
+
+                    // Test Notifications Section
+                    Row(
+                      children: [
+                        const Icon(
+                          Icons.science_outlined,
+                          size: 18,
+                          color: Color(0xFF14B8A6),
+                        ),
+                        const SizedBox(width: 8),
+                        const Text(
+                          'Test Notification Delivery',
+                          style: TextStyle(
+                            fontSize: 13,
+                            fontWeight: FontWeight.bold,
+                            color: Color(0xFF14B8A6),
+                          ),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 8),
+                    Text(
+                      'Verify notification sounds, vibrations, and lock-screen popups on your device:',
+                      style: TextStyle(fontSize: 12, color: Colors.grey[500]),
+                    ),
+                    const SizedBox(height: 12),
+                    Row(
+                      children: [
+                        Expanded(
+                          child: OutlinedButton.icon(
+                            onPressed: () async {
+                              await provider.sendTestNotification();
+                              if (context.mounted) {
+                                ScaffoldMessenger.of(context).showSnackBar(
+                                  const SnackBar(
+                                    content: Text('⚡ Instant test notification sent! Check your status bar.'),
+                                    backgroundColor: Color(0xFF0D9488),
+                                    behavior: SnackBarBehavior.floating,
+                                  ),
+                                );
+                              }
+                            },
+                            icon: const Icon(Icons.flash_on_rounded, size: 16, color: Color(0xFF14B8A6)),
+                            label: const Text(
+                              'Instant Test',
+                              style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Color(0xFF14B8A6)),
+                            ),
+                            style: OutlinedButton.styleFrom(
+                              side: BorderSide(color: const Color(0xFF14B8A6).withOpacity(0.5)),
+                              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                              padding: const EdgeInsets.symmetric(vertical: 10),
+                            ),
+                          ),
+                        ),
+                        const SizedBox(width: 10),
+                        Expanded(
+                          child: ElevatedButton.icon(
+                            onPressed: () async {
+                              await provider.scheduleTestNotification(seconds: 10);
+                              if (context.mounted) {
+                                ScaffoldMessenger.of(context).showSnackBar(
+                                  const SnackBar(
+                                    content: Text('⏱️ 10-second test scheduled! Lock your phone or leave the app now to test.'),
+                                    backgroundColor: Color(0xFF0D9488),
+                                    behavior: SnackBarBehavior.floating,
+                                    duration: Duration(seconds: 5),
+                                  ),
+                                );
+                              }
+                            },
+                            icon: const Icon(Icons.timer_outlined, size: 16, color: Colors.white),
+                            label: const Text(
+                              'Test in 10s',
+                              style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.white),
+                            ),
+                            style: ElevatedButton.styleFrom(
+                              backgroundColor: const Color(0xFF0D9488),
+                              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                              padding: const EdgeInsets.symmetric(vertical: 10),
+                            ),
+                          ),
+                        ),
+                      ],
+                    ),
                   ],
                 ],
               ),

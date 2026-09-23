@@ -18,7 +18,7 @@ class NotificationService {
 
   static const int dailyReminderNotificationId = 1001;
   static const int testNotificationId = 9999;
-  static const String channelId = 'daily_hadith_reminder_channel_v4';
+  static const String channelId = 'daily_hadith_reminder_channel_v5';
   static const String channelName = 'Daily Hadith Reminder';
   static const String channelDescription =
       'Daily authentic Hadith reminders and notifications from 1001 Authentic Hadith';
@@ -43,7 +43,7 @@ class NotificationService {
       // iOS / macOS Darwin settings
       const DarwinInitializationSettings darwinSettings =
           DarwinInitializationSettings(
-        requestAlertPermission: false, // Explicitly requested via UI
+        requestAlertPermission: false, // Explicitly requested via UI/startup
         requestBadgePermission: false,
         requestSoundPermission: false,
       );
@@ -76,6 +76,7 @@ class NotificationService {
           await androidNotificationPlugin.deleteNotificationChannel('daily_hadith_reminder_channel_v1');
           await androidNotificationPlugin.deleteNotificationChannel('daily_hadith_reminder_channel_v2');
           await androidNotificationPlugin.deleteNotificationChannel('daily_hadith_reminder_channel_v3');
+          await androidNotificationPlugin.deleteNotificationChannel('daily_hadith_reminder_channel_v4');
         } catch (_) {}
 
         await androidNotificationPlugin.createNotificationChannel(
@@ -151,7 +152,6 @@ class NotificationService {
             .resolvePlatformSpecificImplementation<
                 IOSFlutterLocalNotificationsPlugin>();
         if (darwinImplementation != null) {
-          // Darwin doesn't have a direct check without requesting, assume granted if requested
           return true;
         }
       }
@@ -309,6 +309,7 @@ class NotificationService {
         subText: subText,
       );
 
+      // Attempt exactAllowWhileIdle first for repeating daily schedule
       try {
         await _notificationsPlugin.zonedSchedule(
           dailyReminderNotificationId,
@@ -316,31 +317,16 @@ class NotificationService {
           previewText,
           scheduledDate,
           details,
-          androidScheduleMode: AndroidScheduleMode.alarmClock,
+          androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
           uiLocalNotificationDateInterpretation:
               UILocalNotificationDateInterpretation.absoluteTime,
           matchDateTimeComponents: DateTimeComponents.time,
           payload: hadith.id.toString(),
         );
-        debugPrint('Scheduled alarmClock daily reminder for $scheduledDate');
+        debugPrint('Scheduled exactAllowWhileIdle daily reminder for $scheduledDate');
       } catch (e) {
-        debugPrint('alarmClock mode failed, trying exactAllowWhileIdle: $e');
+        debugPrint('exactAllowWhileIdle failed, falling back to inexactAllowWhileIdle: $e');
         try {
-          await _notificationsPlugin.zonedSchedule(
-            dailyReminderNotificationId,
-            title,
-            previewText,
-            scheduledDate,
-            details,
-            androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
-            uiLocalNotificationDateInterpretation:
-                UILocalNotificationDateInterpretation.absoluteTime,
-            matchDateTimeComponents: DateTimeComponents.time,
-            payload: hadith.id.toString(),
-          );
-          debugPrint('Scheduled exactAllowWhileIdle daily reminder for $scheduledDate');
-        } catch (e2) {
-          debugPrint('exactAllowWhileIdle fallback to inexact: $e2');
           await _notificationsPlugin.zonedSchedule(
             dailyReminderNotificationId,
             title,
@@ -353,7 +339,9 @@ class NotificationService {
             matchDateTimeComponents: DateTimeComponents.time,
             payload: hadith.id.toString(),
           );
-          debugPrint('Scheduled inexact daily reminder for $scheduledDate');
+          debugPrint('Scheduled inexactAllowWhileIdle daily reminder for $scheduledDate');
+        } catch (e2) {
+          debugPrint('Error in fallback daily reminder: $e2');
         }
       }
     } catch (e) {
@@ -394,7 +382,7 @@ class NotificationService {
         await showInstantTestNotification(hadith: hadith);
       });
 
-      // 2. Android AlarmClock Alarm for when screen is locked or app is in background
+      // 2. Android scheduled Alarm for when screen is locked or app is in background
       try {
         await _notificationsPlugin.zonedSchedule(
           testNotificationId,
@@ -402,14 +390,14 @@ class NotificationService {
           previewText,
           fireTime,
           details,
-          androidScheduleMode: AndroidScheduleMode.alarmClock,
+          androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
           uiLocalNotificationDateInterpretation:
               UILocalNotificationDateInterpretation.absoluteTime,
           payload: hadith.id.toString(),
         );
-        debugPrint('Scheduled alarmClock test notification in $seconds seconds ($fireTime)');
+        debugPrint('Scheduled exactAllowWhileIdle test notification in $seconds seconds ($fireTime)');
       } catch (e) {
-        debugPrint('alarmClock failed, falling back to exactAllowWhileIdle: $e');
+        debugPrint('exactAllowWhileIdle failed, trying alarmClock: $e');
         try {
           await _notificationsPlugin.zonedSchedule(
             testNotificationId,
@@ -417,13 +405,13 @@ class NotificationService {
             previewText,
             fireTime,
             details,
-            androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
+            androidScheduleMode: AndroidScheduleMode.alarmClock,
             uiLocalNotificationDateInterpretation:
                 UILocalNotificationDateInterpretation.absoluteTime,
             payload: hadith.id.toString(),
           );
         } catch (e2) {
-          debugPrint('exactAllowWhileIdle fallback to inexact: $e2');
+          debugPrint('alarmClock failed, trying inexact: $e2');
           await _notificationsPlugin.zonedSchedule(
             testNotificationId,
             title,
@@ -444,6 +432,8 @@ class NotificationService {
 
   Future<void> showInstantTestNotification({required Hadith hadith}) async {
     try {
+      await requestPermissions();
+
       final title = '📖 Daily Hadith: ${hadith.topicEn}';
       final previewText = hadith.englishTranslation.isNotEmpty
           ? (hadith.englishTranslation.length > 200

@@ -210,6 +210,23 @@ class AppProvider with ChangeNotifier {
     return granted;
   }
 
+  Future<void> requestPermissionsOnAppStart() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final hasPrompted = prefs.getBool('has_prompted_notification_permission') ?? false;
+      final isEnabled = await _notificationService.areNotificationsEnabled();
+      _notificationPermissionGranted = isEnabled;
+      notifyListeners();
+
+      if (!hasPrompted && !isEnabled && _dailyReminderEnabled) {
+        await prefs.setBool('has_prompted_notification_permission', true);
+        await checkAndRequestNotificationPermissions();
+      }
+    } catch (e) {
+      debugPrint('Error in requestPermissionsOnAppStart: $e');
+    }
+  }
+
   Future<void> refreshNotificationPermissionStatus() async {
     _notificationPermissionGranted = await _notificationService.areNotificationsEnabled();
     notifyListeners();

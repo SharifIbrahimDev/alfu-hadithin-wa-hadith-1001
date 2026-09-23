@@ -5,6 +5,7 @@
     <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM"/>
     <uses-permission android:name="android.permission.USE_EXACT_ALARM"/>
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
 
     <application
         android:label="ألف حديث وحديث"
@@ -19,9 +20,10 @@
                 <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
             </intent-filter>
         </receiver>
+        <receiver android:exported="false" android:name="com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver" />
         <meta-data
             android:name="com.dexterous.flutterlocalnotifications.default_notification_channel_id"
-            android:value="daily_hadith_reminder_channel_v4" />
+            android:value="daily_hadith_reminder_channel_v5" />
 
         <!-- Home Screen App Widget -->
         <receiver

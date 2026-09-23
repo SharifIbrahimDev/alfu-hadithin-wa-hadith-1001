@@ -108,7 +108,7 @@ class _MainTabNavigatorState extends State<MainTabNavigator> {
     super.initState();
     WidgetsBinding.instance.addPostFrameCallback((_) {
       final provider = Provider.of<AppProvider>(context, listen: false);
-      provider.refreshNotificationPermissionStatus();
+      provider.requestPermissionsOnAppStart();
     });
   }
 
