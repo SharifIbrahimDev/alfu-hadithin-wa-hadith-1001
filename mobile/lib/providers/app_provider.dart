@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/hadith.dart';
-import '../models/category.dart';
 import '../services/hadith_service.dart';
 import '../services/notification_service.dart';
 

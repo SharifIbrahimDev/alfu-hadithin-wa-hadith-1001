@@ -1,7 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:alfu_hadithin_wa_hadith/models/hadith.dart';
 import 'package:alfu_hadithin_wa_hadith/models/category.dart';
-import 'package:alfu_hadithin_wa_hadith/services/hadith_service.dart';
 
 void main() {
   group('Thematic Category Tests', () {

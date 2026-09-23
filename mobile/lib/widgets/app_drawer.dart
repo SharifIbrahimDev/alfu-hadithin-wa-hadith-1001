@@ -24,8 +24,6 @@ class AppDrawer extends StatelessWidget {
     final bookmarkCount = provider.bookmarks.length;
 
     final bgColor = isDark ? const Color(0xFF0D1524) : Colors.white;
-    final itemHoverBg =
-        isDark ? const Color(0xFF162238) : const Color(0xFFF1F5F9);
 
     return Drawer(
       backgroundColor: bgColor,
