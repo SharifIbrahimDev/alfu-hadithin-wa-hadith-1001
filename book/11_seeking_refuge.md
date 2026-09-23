@@ -1,4 +1,4 @@
-﻿# 11. كِتَابُ الِاسْتِعَاذَاتِ
+# 11. كِتَابُ الِاسْتِعَاذَاتِ
 # Chapter 11: The Book of Seeking Refuge in Allah
 
 ---
@@ -15,6 +15,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«إِذَا تَشَهَّدَ أَحَدُكُمْ فَلْيَسْتَعِذْ بِاللَّهِ مِنْ أَرْبَعٍ، يَقُولُ: اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ، وَمِنْ عَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 1377)، وصحيح مسلم (رقم 588) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -26,6 +28,7 @@
 > *"The Messenger of Allah ﷺ said: "When any of you completes the final Tashahhud, let him seek refuge in Allah from four things, saying: 'Allāhumma innī a'ūdhu bika min 'adhābi jahannam, wa min 'adhābil-qabr, wa min fitnatil-maḥyā wal-mamāt, wa min sharri fitnatil-masīḥid-dajjāl' (O Allah, I seek refuge in You from the torment of Hell, from the punishment of the grave, from the trials of life and death, and from the evil trial of the False Messiah / Dajjal)."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 1377)، وصحيح مسلم (رقم 588) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Seeking refuge from these four monumental trials at the conclusion of every obligatory prayer is an emphatic Sunnah shielding both this life and the eternal afterlife.
 
@@ -41,6 +44,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ: **«أَنَّ رَسُولَ اللَّهِ ﷺ كَانَ يَتَعَوَّذُ مِنْ جَهْدِ الْبَلَاءِ، وَدَرَكِ الشَّقَاءِ، وَسُوءِ الْقَضَاءِ، وَشَمَاتَةِ الْأَعْدَاءِ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6347)، وصحيح مسلم (رقم 2707) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -52,6 +57,7 @@
 > *"Abu Hurairah narrated: "The Messenger of Allah ﷺ used to seek refuge from the severe hardship of trial (jahd al-bala'), falling into misery and ruin (darak ash-shaqa'), an evil decree (su' al-qada'), and the malicious rejoicing of enemies (shamatat al-a'da')."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6347)، وصحيح مسلم (رقم 2707) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** This supplication safeguards against unendurable affliction, spiritual despair, catastrophic outcomes, and humiliation before adversaries.
 
@@ -67,6 +73,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ، أَنَّ النَّبِيَّ ﷺ كَانَ يَقُولُ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبَرَصِ، وَالْجُنُونِ، وَالْجُذَامِ، وَمِنْ سَيِّئِ الْأَسْقَامِ»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 1554)، وسنن النسائي (رقم 5493) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -78,6 +86,7 @@
 > *"The Prophet ﷺ used to say: "Allāhumma innī a'ūdhu bika minal-baraṣ, wal-junūn, wal-judhām, wa min sayyi'il-asqām" (O Allah, I seek refuge in You from vitiligo/leucoderma, insanity, leprosy, and all severe and chronic illnesses)."*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 1554)، وسنن النسائي (رقم 5493) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Seeking divine protection from debilitating physical and mental illnesses preserves bodily integrity and social functioning.
 
@@ -93,6 +102,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ يَقُولُ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْجُوعِ، فَإِنَّهُ بِئْسَ الضَّجِيعُ، وَأَعُوذُ بِكَ مِنَ الْخِيَانَةِ، فَإِنَّهَا بِئْسَتِ الْبِطَانَةُ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 1547)، وسنن النسائي (رقم 5468) — إسناد حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -104,6 +115,7 @@
 > *"The Messenger of Allah ﷺ used to say: "Allāhumma innī a'ūdhu bika minal-jū', fa-innahu bi'saḍ-ḍajī', wa a'ūdhu bika minal-khiyānah, fa-innahā bi'satil-biṭānah" (O Allah, I seek refuge in You from hunger, for it is indeed a miserable bedfellow; and I seek refuge in You from treachery/betrayal, for it is indeed a vile inner trait)."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 1547)، وسنن النسائي (رقم 5468) — إسناد حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Hunger impairs physical endurance and spiritual devotion, while treachery completely corrupts moral integrity and breaks brotherhood.
 
@@ -119,6 +131,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي الْيَسَرِ رَضِيَ اللَّهُ عَنْهُ: أَنَّ رَسُولَ اللَّهِ ﷺ كَانَ يَدْعُو: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَدْمِ، وَأَعُوذُ بِكَ مِنَ التَّرَدِّي، وَأَعُوذُ بِكَ مِنَ الْغَرَقِ، وَالْحَرَقِ، وَالْهَرَمِ، وَأَعُوذُ بِكَ أَنْ يَتَخَبَّطَنِيَ الشَّيْطَانُ عِنْدَ الْمَوْتِ، وَأَعُوذُ بِكَ أَنْ أَمُوتَ فِي سَبِيلِكَ مُدْبِرًا، وَأَعُوذُ بِكَ أَنْ أَمُوتَ لَدِيغًا»**.
 
+* **الرَّاوِي:** أَبُو الْيَسَرِ كَعْبُ بْنُ عَمْرٍو رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 1552)، وسنن النسائي (رقم 5533) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -130,6 +144,7 @@
 > *"The Messenger of Allah ﷺ used to supplicate: "Allāhumma innī a'ūdhu bika minal-hadm, wa a'ūdhu bika minat-taraddī, wa a'ūdhu bika minal-gharaqi wal-ḥaraqi wal-haram, wa a'ūdhu bika an yatakhabbaṭaniyash-Shayṭānu 'indal-mawt, wa a'ūdhu bika an amūta fī sabīlika mudbirā, wa a'ūdhu bika an amūta ladīghā" (O Allah, I seek refuge in You from being crushed beneath falling debris, I seek refuge in You from falling from a height, I seek refuge in You from drowning, burning, and debilitating senility; I seek refuge in You from Satan striking me down at the moment of death, I seek refuge in You from dying in Your path while fleeing the battlefield, and I seek refuge in You from dying of a poisonous sting)."*
 
 * **Companion Narrator:** Narrated by Abu al-Yasar (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 1552)، وسنن النسائي (رقم 5533) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** This supplication seeks protection against violent, traumatic forms of death and prays for steadfastness and angelic tranquility at the final transition of life.
 
@@ -145,6 +160,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا: أَنَّ رَسُولَ اللَّهِ ﷺ كَانَ يَدْعُو فِي الصَّلَاةِ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ»**، فَقَالَ لَهُ قَائِلٌ: مَا أَكْثَرَ مَا تَسْتَعِيذُ مِنَ الْمَغْرَمِ؟ فَقَالَ: **«إِنَّ الرَّجُلَ إِذَا غَرِمَ، حَدَّثَ فَكَذَبَ، وَوَعَدَ فَأَخْلَفَ»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 832)، وصحيح مسلم (رقم 589) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -156,6 +173,7 @@
 > *"A'ishah (رضي الله عنها) narrated that the Messenger of Allah ﷺ used to pray in his Salah: "Allāhumma innī a'ūdhu bika minal-ma'thami wal-maghram" (O Allah, I seek refuge in You from sin and heavy debt). Someone asked him: "How frequently you seek refuge from debt!" He replied: "When a man is burdened with debt, he speaks and lies, and he makes promises and breaks them."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** صحيح البخاري (رقم 832)، وصحيح مسلم (رقم 589) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Heavy debt compromises ethical conduct by driving individuals into falsehood and broken commitments; seeking protection from it preserves moral dignity.
 
@@ -171,6 +189,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: دَخَلَ رَسُولُ اللَّهِ ﷺ ذَاتَ يَوْمٍ الْمَسْجِدَ، فَإِذَا هُوَ بِرَجُلٍ مِنَ الْأَنْصَارِ يُقَالُ لَهُ أَبُو أُمَامَةَ، فَقَالَ: **«يَا أَبَا أُمَامَةَ، مَا لِي أَرَاكَ جَالِسًا فِي الْمَسْجِدِ فِي غَيْرِ وَقْتِ الصَّلَاةِ؟»** قَالَ: هُمُومٌ لَزِمَتْنِي وَدُيُونٌ يَا رَسُولَ اللَّهِ، قَالَ: **«أَفَلَا أُعَلِّمُكَ كَلَامًا إِذَا أَنْتَ قُلْتَهُ أَذْهَبَ اللَّهُ عَزَّ وَجَلَّ هَمَّكَ وَقَضَى عَنْكَ دَيْنَكَ؟»** قَالَ: قُلْتُ: بَلَى يَا رَسُولَ اللَّهِ، قَالَ: **«قُلْ إِذَا أَصْبَحْتَ وَإِذَا أَمْسَيْتَ: اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَأَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَأَعُوذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ، وَأَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ»**، قَالَ: فَفَعَلْتُ ذَلِكَ فَأَذْهَبَ اللَّهُ عَزَّ وَجَلَّ هَمِّي وَقَضَى عَنِّي دَيْنِي.
 
+* **الرَّاوِي:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 1555) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -182,6 +202,7 @@
 > *"Abu Sa'id al-Khudri reported: The Messenger of Allah ﷺ entered the mosque one day and saw an Ansari man named Abu Umamah. He asked: "O Abu Umamah, why do I see you sitting in the mosque outside the time of prayer?" He replied: "Anxieties and debts have overwhelmed me, O Messenger of Allah." The Prophet ﷺ said: "Shall I not teach you words which, if you say them, Allah will remove your anxiety and settle your debt?" Abu Umamah said: "Yes, O Messenger of Allah." He said: "Say in the morning and evening: 'Allāhumma innī a'ūdhu bika minal-hammi wal-ḥazan, wa a'ūdhu bika minal-'ajzi wal-kasal, wa a'ūdhu bika minal-jubni wal-bukhl, wa a'ūdhu bika min ghalabatid-dayni wa qahrir-rijāl' (O Allah, I seek refuge in You from anxiety and grief, from incapacity and laziness, from cowardice and miserliness, and from being overpowered by debt and subjugated by men)." Abu Umamah said: "I did that, and Allah removed my grief and paid off my debts."*
 
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 1555) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Morning and evening recitation of this comprehensive supplication shatters psychological depression, financial despair, and oppressive tyranny.
 
@@ -197,6 +218,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ شَكَلِ بْنِ حُمَيْدٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قُلْتُ: يَا رَسُولَ اللَّهِ، عَلِّمْنِي تَعَوُّذًا أَتَعَوَّذُ بِهِ، فَأَخَذَ بِيَدِي فَقَالَ: **«قُلْ: اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ سَمْعِي، وَمِنْ شَرِّ بَصَرِي، وَمِنْ شَرِّ لِسَانِي، وَمِنْ شَرِّ قَلْبِي، وَمِنْ شَرِّ مَنِيِّي»**.
 
+* **الرَّاوِي:** شَكَلُ بْنُ حُمَيْدٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 1551)، وجامع الترمذي (رقم 3492) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -208,6 +231,7 @@
 > *"Shakal ibn Humayd reported: I said: "O Messenger of Allah, teach me a formula for seeking refuge that I may use." He took my hand and said: "Say: 'Allāhumma innī a'ūdhu bika min sharri sam'ī, wa min sharri baṣarī, wa min sharri lisānī, wa min sharri qalbī, wa min sharri maniyyī' (O Allah, I seek refuge in You from the evil of my hearing, from the evil of my sight, from the evil of my tongue, from the evil of my heart, and from the evil of my desire/semen)."*
 
 * **Companion Narrator:** Narrated by Shakal ibn Humayd (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 1551)، وجامع الترمذي (رقم 3492) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The bodily faculties are gates to the heart; guarding hearing, sight, speech, intentions, and chastity ensures holistic spiritual purity.
 
@@ -223,6 +247,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ يَقُولُ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ جَارِ السُّوءِ فِي دَارِ الْمُقَامَةِ؛ فَإِنَّ جَارَ الْبَادِيَةِ يَتَحَوَّلُ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن النسائي (رقم 5502)، والأدب المفرد للبخاري (رقم 117) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -234,6 +260,7 @@
 > *"The Messenger of Allah ﷺ used to say: "Allāhumma innī a'ūdhu bika min jāris-sū'i fī dāril-muqāmah; fa-inna jāral-bādiyati yataḥawwal" (O Allah, I seek refuge in You from a bad neighbor in a permanent residence; for the nomadic neighbor moves on)."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** سنن النسائي (رقم 5502)، والأدب المفرد للبخاري (رقم 117) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** A toxic neighbor in a permanent settlement causes constant distress and social discord; seeking divine refuge safeguards household serenity.
 
@@ -249,6 +276,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ النَّبِيَّ ﷺ قَالَ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْفَقْرِ، وَالْقِلَّةِ، وَالذِّلَّةِ، وَأَعُوذُ بِكَ مِنْ أَنْ أَظْلِمَ أَوْ أُظْلَمَ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 1544)، وسنن النسائي (رقم 5463) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -260,6 +289,7 @@
 > *"The Prophet ﷺ used to supplicate: "Allāhumma innī a'ūdhu bika minal-faqr, wal-qillah, wadh-dhillah, wa a'ūdhu bika min an aẓlima aw uẓlam" (O Allah, I seek refuge in You from poverty, scarcity, and humiliation; and I seek refuge in You from oppressing others or being oppressed)."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 1544)، وسنن النسائي (رقم 5463) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Islam upholds human dignity, sufficiency, and justice, commanding believers to seek divine immunity from poverty, degradation, and injustice.
 
@@ -275,6 +305,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أُمِّ سَلَمَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: مَا خَرَجَ النَّبِيُّ ﷺ مِنْ بَيْتِي قَطُّ إِلَّا رَفَعَ طَرْفَهُ إِلَى السَّمَاءِ فَقَالَ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أَضِلَّ أَوْ أُضَلَّ، أَوْ أَزِلَّ أَوْ أُزَلَّ، أَوْ أَظْلِمَ أَوْ أُظْلَمَ، أَوْ أَجْهَلَ أَوْ يُجْهَلَ عَلَيَّ»**.
 
+* **الرَّاوِي:** أُمُّ سَلَمَةَ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 5094)، وجامع الترمذي (رقم 3427) — حديث حسن صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -286,6 +318,7 @@
 > *"Umm Salamah narrated: Never did the Prophet ﷺ exit my house without raising his gaze to the heavens and saying: "Allāhumma innī a'ūdhu bika an aḍilla aw uḍall, aw azilla aw uzall, aw aẓlima aw uẓlam, aw ajhala aw yujhala 'alayy" (O Allah, I seek refuge in You lest I go astray or be led astray, slip or be made to slip, oppress or be oppressed, act ignorantly or have ignorance acted against me)."*
 
 * **Companion Narrator:** Narrated by Umm Salamah (رضي الله عنها).
+* **Canonical Reference:** سنن أبي داود (رقم 5094)، وجامع الترمذي (رقم 3427) — حديث حسن صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Entering public society armed with this supplication guarantees behavioral self-restraint, moral uprightness, and protection against provocation.
 
@@ -301,6 +334,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: فَقَدْتُ رَسُولَ اللَّهِ ﷺ لَيْلَةً مِنَ الْفِرَاشِ، فَالْتَمَسْتُهُ فَوَقَعَتْ يَدِي عَلَى بَطْنِ قَدَمَيْهِ وَهُوَ فِي الْمَسْجِدِ وَهُمَا مَنْصُوبَتَانِ، وَهُوَ يَقُولُ: **«اللَّهُمَّ أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ، لَا أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 486) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -312,6 +347,7 @@
 > *"A'ishah narrated: One night I missed the Messenger of Allah ﷺ from bed. I searched for him and my hand touched the soles of his feet while he was prostrating in the mosque with his feet erect, saying: "Allāhumma a'ūdhu bi-riḍāka min sakhaṭik, wa bi-mu'āfātika min 'uqūbatik, wa a'ūdhu bika mink, lā uḥṣī thanā'an 'alayk, Anta kamā athnayta 'alā nafsik" (O Allah, I seek refuge in Your pleasure from Your wrath, and in Your pardon from Your punishment; and I seek refuge in You from You! I cannot enumerate Your praise; You are as You have praised Yourself)."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** صحيح مسلم (رقم 486) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The ultimate refuge from Allah's justice and majesty is fleeing toward His boundless mercy, pardon, and love.
 
@@ -327,6 +363,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عُثْمَانَ بْنِ أَبِي الْعَاصِ رَضِيَ اللَّهُ عَنْهُ: أَنَّهُ أَتَى النَّبِيَّ ﷺ فَقَالَ: يَا رَسُولَ اللَّهِ، إِنَّ الشَّيْطَانَ قَدْ حَالَ بَيْنِي وَبَيْنَ صَلَاتِي وَقِرَاءَتِي يَلْبِسُهَا عَلَيَّ، فَقَالَ رَسُولُ اللَّهِ ﷺ: **«ذَاكَ شَيْطَانٌ يُقَالُ لَهُ خِنْزَبٌ، فَإِذَا أَحْسَسْتَهُ فَتَعَوَّذْ بِاللَّهِ مِنْهُ، وَاتْفُلْ عَلَى يَسَارِكَ ثَلَاثًا»**، قَالَ: فَفَعَلْتُ ذَلِكَ فَأَذْهَبَهُ اللَّهُ عَنِّي.
 
+* **الرَّاوِي:** عُثْمَانُ بْنُ أَبِي الْعَاصِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2203) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -338,6 +376,7 @@
 > *"Uthman ibn Abi al-'As came to the Prophet ﷺ and said: "O Messenger of Allah, Satan intervenes between me and my prayer and recitation, confounding me." The Messenger of Allah ﷺ said: "That is a devil named Khinzab. When you sense him, seek refuge in Allah from him and spit dryly (puff) to your left three times." 'Uthman said: "I did that, and Allah drove him away from me."*
 
 * **Companion Narrator:** Narrated by 'Uthman ibn Abi al-'As (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2203) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Satanic distractions during prayer can be physically and spiritually dispelled by seeking immediate refuge in Allah and lightly puffing to the left.
 
@@ -353,6 +392,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي قَتَادَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ النَّبِيُّ ﷺ: **«الرُّؤْيَا الصَّالِحَةُ مِنَ اللَّهِ، وَالْحُلُمُ مِنَ الشَّيْطَانِ، فَإِذَا حَلَمَ أَحَدُكُمْ حُلُمًا يَخَافُهُ فَلْيَبْصُقْ عَنْ يَسَارِهِ، وَلْيَسْتَعِذْ بِاللَّهِ مِنْ شَرِّهَا، فَإِنَّهَا لَا تَضُرُّهُ»**.
 
+* **الرَّاوِي:** أَبُو قَتَادَةَ الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6986)، وصحيح مسلم (رقم 2261) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -364,6 +405,7 @@
 > *"The Prophet ﷺ said: "A good dream is from Allah, and a bad nightmare is from Satan. If any of you sees a nightmare that terrifies him, let him spit (dry puff) to his left three times and seek refuge in Allah from its evil, and it will never harm him."*
 
 * **Companion Narrator:** Narrated by Abu Qatadah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6986)، وصحيح مسلم (رقم 2261) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Nightmares possess no power to inflict harm when the dreamer immediately seeks refuge in Allah and refrains from recounting them to others.
 
@@ -379,6 +421,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي بَكْرٍ الصِّدِّيقِ رَضِيَ اللَّهُ عَنْهُ: أَنَّهُ قَالَ لِرَسُولِ اللَّهِ ﷺ: عَلِّمْنِي مَا أَقُولُ إِذَا أَصْبَحْتُ وَإِذَا أَمْسَيْتُ، فَقَالَ: **«قُلْ: اللَّهُمَّ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ، عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، لَا إِلَهَ إِلَّا أَنْتَ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءًا أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ»**.
 
+* **الرَّاوِي:** أَبُو بَكْرٍ الصِّدِّيقُ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 3392)، وسنن أبي داود (رقم 5067) — حديث حسن صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -390,6 +434,7 @@
 > *"Abu Bakr as-Siddiq asked the Messenger of Allah ﷺ to teach him words to say in the morning and evening. He said: "Say: 'Allāhumma Fāṭiras-samāwāti wal-arḍ, 'Ālimal-ghaybi wash-shahādah, lā ilāha illā Ant, Rabba kulli shay'in wa malīkah, a'ūdhu bika min sharri nafsī, wa min sharrish-Shayṭāni wa shirkihi, wa an aqtariwfa 'alā nafsī sū'an aw ajurrahu ilā muslim' (O Allah, Originator of the heavens and earth, Knower of the unseen and seen, there is no true deity except You, Lord and Sovereign of all things: I seek refuge in You from the evil of my own soul, from the evil of Satan and his polytheistic traps, and from committing evil against myself or bringing evil upon any Muslim)."*
 
 * **Companion Narrator:** Narrated by Abu Bakr as-Siddiq (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 3392)، وسنن أبي داود (رقم 5067) — حديث حسن صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The Prophet ﷺ taught his greatest companion this prayer guarding against internal egotistical impulses, demonic temptations, and causing harm to fellow believers.
 
@@ -405,6 +450,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ سَرْجِسَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ إِذَا سَافَرَ يَتَعَوَّذُ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمُنْقَلَبِ، وَالْحَوْرِ بَعْدَ الْكَوْرِ، وَدَعْوَةِ الْمَظْلُومِ، وَسُوءِ الْمَنْظَرِ فِي الْأَهْلِ وَالْمَالِ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ سَرْجِسَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 1343) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -416,6 +463,7 @@
 > *"Abdullah ibn Sarjis reported: When the Messenger of Allah ﷺ traveled, he would seek refuge: "Allāhumma innī a'ūdhu bika min wa'thā'is-safar, wa ka'ābatil-munqalab, wal-ḥawri ba'dal-kawr, wa da'watil-maẓlūm, wa sū'il-manẓari fīl-ahli wal-māl" (O Allah, I seek refuge in You from the hardships of travel, distressing return, regression after progress/faith, the supplication of the oppressed, and an unfortunate sight regarding family and wealth)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn Sarjis (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 1343) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Seeking refuge from relapse into sin, disbelief, or spiritual decline after having once enjoyed guidance and righteous discipline.
 
@@ -431,6 +479,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: كَانَ النَّبِيُّ ﷺ يُعَوِّذُ الْحَسَنَ وَالْحُسَيْنَ، وَيَقُولُ: **«إِنَّ أَبَاكُمَا كَانَ يُعَوِّذُ بِهَا إِسْمَاعِيلَ وَإِسْحَاقَ: أُعِيذُكُمَا بِكَلِمَاتِ اللَّهِ التَّامَّةِ، مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 3371) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -442,6 +492,7 @@
 > *"Ibn 'Abbas narrated that the Prophet ﷺ used to seek protection for Al-Hasan and Al-Husayn, saying: "Indeed, your forefather (Ibrahim) used to seek protection with these words for Isma'il and Ishaq: 'U'īdhukumā bi-kalimātillāhit-tāmmah, min kulli shayṭānin wa hāmmah, wa min kulli 'aynin lāmmah' (I seek refuge for you both in the perfect words of Allah from every devil, poisonous reptile, and every envious, harmful eye)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 3371) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Reciting this ancient prophetic invocation over young children shields them from physical venom, malevolent spirits, and the evil eye.
 
@@ -457,6 +508,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ خَوْلَةَ بِنْتِ حَكِيمٍ السُّلَمِيَّةِ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ: **«مَنْ نَزَلَ مَنْزِلًا ثُمَّ قَالَ: أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ، لَمْ يَضُرَّهُ شَيْءٌ حَتَّى يَرْتَحِلَ مِنْ مَنْزِلِهِ ذَلِكَ»**.
 
+* **الرَّاوِي:** خَوْلَةُ بِنْتُ حَكِيمٍ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2708) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -468,6 +521,7 @@
 > *"Khawlah bint Hakim reported: I heard the Messenger of Allah ﷺ say: "Whoever stops at any place and says: 'A'ūdhu bi-kalimātillāhit-tāmmāti min sharri mā khalaq' (I seek refuge in the perfect words of Allah from the evil of what He has created), nothing will harm him until he departs from that place."*
 
 * **Companion Narrator:** Narrated by Khawlah bint Hakim as-Sulamiyyah (رضي الله عنها).
+* **Canonical Reference:** صحيح مسلم (رقم 2708) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Replacing superstitious pagan habits of seeking protection from local spirits with direct refuge in the Lord of all creation.
 
@@ -483,6 +537,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«يَأْتِي الشَّيْطَانُ أَحَدَكُمْ فَيَقُولُ: مَنْ خَلَقَ كَذَا؟ مَنْ خَلَقَ كَذَا؟ حَتَّى يَقُولَ: مَنْ خَلَقَ رَبَّكَ؟ فَإِذَا بَلَغَهُ فَلْيَسْتَعِذْ بِاللَّهِ وَلْيَنْتَهِ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 3276)، وصحيح مسلم (رقم 134) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -494,6 +550,7 @@
 > *"The Messenger of Allah ﷺ said: "Satan comes to one of you and says: 'Who created this? Who created that?' until he says: 'Who created your Lord?' When it reaches that point, let him seek refuge in Allah and desist immediately."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 3276)، وصحيح مسلم (رقم 134) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Intellectual loops inspired by demonic whispers regarding divine existence should not be debated endlessly; one must seek immediate refuge in Allah and affirm faith.
 
@@ -509,6 +566,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ رَضِيَ اللَّهُ عَنْهُ: أَنَّ رَسُولَ اللَّهِ ﷺ كَانَ يُعَلِّمُهُمْ مِنَ الْفَزَعِ كَلِمَاتٍ: **«أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ، مِنْ غَضَبِهِ وَعِقَابِهِ، وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَنْ يَحْضُرُونِ»**.
 
+* **الرَّاوِي:** عَمْرُو بْنُ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 3528)، وسنن أبي داود (رقم 3893) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -520,6 +579,7 @@
 > *"The Messenger of Allah ﷺ used to teach them words for panic/fear during sleep: "A'ūdhu bi-kalimātillāhit-tāmmah, min ghaḍabihi wa 'iqābih, wa sharri 'ibādih, wa min hamazātish-shayāṭīni wa an yaḥḍurūn" (I seek refuge in the perfect words of Allah from His wrath and punishment, from the evil of His creatures, and from the whisperings of the devils and their presence)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Amr (رضي الله عنهما).
+* **Canonical Reference:** جامع الترمذي (رقم 3528)، وسنن أبي داود (رقم 3893) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Reciting this prayer before sleep eliminates terrifying nightmares, sudden panic attacks, and oppressive sleep paralysis.
 
@@ -535,6 +595,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: كَانَ رَسُولُ اللَّهِ ﷺ يَقُولُ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ مَا عَمِلْتُ، وَمِنْ شَرِّ مَا لَمْ أَعْمَلْ»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2716) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -546,6 +608,7 @@
 > *"The Messenger of Allah ﷺ used to say: "Allāhumma innī a'ūdhu bika min sharri mā 'amilt, wa min sharri mā lam a'mal" (O Allah, I seek refuge in You from the evil of what I have done, and from the evil of what I have not done)."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** صحيح مسلم (رقم 2716) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Seeking refuge from both committed sins and the latent evils or missed obligations of deeds left undone.
 
@@ -561,6 +624,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«لَا تُكْثِرُوا الْكَلَامَ بِغَيْرِ ذِكْرِ اللَّهِ؛ فَإِنَّ كَثْرَةَ الْكَلَامِ بِغَيْرِ ذِكْرِ اللَّهِ قَسْوَةٌ لِلْقَلْبِ، وَإِنَّ أَبْعَدَ النَّاسِ مِنَ اللَّهِ الْقَلْبُ الْقَاسِي»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن النسائي (رقم 5470)، ومستدرك الحاكم (رقم 1953) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -572,6 +637,7 @@
 > *"The Messenger of Allah ﷺ said: "Do not speak excessively without the remembrance of Allah; for excessive speech without the remembrance of Allah hardens the heart, and indeed the farthest of people from Allah is the one with a hard heart."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** سنن النسائي (رقم 5470)، ومستدرك الحاكم (رقم 1953) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Excessive worldly chatter desensitizes the soul; constantly seeking refuge from hardheartedness maintains spiritual tenderness and receptivity.
 
@@ -587,6 +653,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا: أَنَّ رَسُولَ اللَّهِ ﷺ كَانَ يَدْعُو فِي صَلَاتِهِ: **«اللَّهُمَّ حَاسِبْنِي حِسَابًا يَسِيرًا»**، فَلَمَّا انْصَرَفَ قُلْتُ: يَا نَبِيَّ اللَّهِ، مَا الْحِسَابُ الْيَسِيرُ؟ قَالَ: **«أَنْ يَنْظُرَ فِي كِتَابِهِ فَيَتَجَاوَزَ عَنْهُ، إِنَّهُ مَنْ نُوقِشَ الْحِسَابَ يَوْمَئِذٍ يَا عَائِشَةُ هَلَكَ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 4774)، وصحيح مسلم (رقم 2850) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -598,6 +666,7 @@
 > *"The Messenger of Allah ﷺ used to supplicate in his prayer: "Allāhumma ḥāsibnī ḥisāban yasīrā" (O Allah, grant me an easy accounting). When he finished, I asked: "O Prophet of Allah, what is the easy accounting?" He replied: "That Allah looks into his Book of deeds and overlooks his shortcomings; for whoever is scrutinized in the reckoning on that Day, O 'A'ishah, will be destroyed."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** صحيح البخاري (رقم 4774)، وصحيح مسلم (رقم 2850) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Begging for Allah's leniency and easy presentation of deeds on Judgment Day spares the believer from rigorous accountability.
 
@@ -613,6 +682,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ زَيْدِ بْنِ أَرْقَمَ رَضِيَ اللَّهُ عَنْهُ قَالَ: لَا أَقُولُ لَكُمْ إِلَّا كَمَا كَانَ رَسُولُ اللَّهِ ﷺ يَقُولُ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَالْجُبْنِ وَالْبُخْلِ وَالْهَرَمِ وَعَذَابِ الْقَبْرِ، اللَّهُمَّ آتِ نَفْسِي تَقْوَاهَا، وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا، أَنْتَ وَلِيُّهَا وَمَوْلَاهَا، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَمِنْ قَلْبٍ لَا يَخْشَعُ، وَمِنْ نَفْسٍ لَا تَشْبَعُ، وَمِنْ دَعْوَةٍ لَا يُسْتَجَابُ لَهَا»**.
 
+* **الرَّاوِي:** زَيْدُ بْنُ أَرْقَمَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2722) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -624,6 +695,7 @@
 > *"Zayd ibn Arqam said: I only say to you as the Messenger of Allah ﷺ used to say: "O Allah, I seek refuge in You from incapacity, laziness, cowardice, miserliness, senility, and the punishment of the grave. O Allah, grant my soul its piety and purify it; You are the Best to purify it, You are its Guardian and Master. O Allah, I seek refuge in You from knowledge that does not benefit, from a heart that does not fear, from a soul that is never satisfied, and from a prayer that is not answered."*
 
 * **Companion Narrator:** Narrated by Zayd ibn Arqam (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2722) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** An ungrateful, insatiable soul consumes worldly desires without ever finding peace; seeking divine satisfaction fills the heart with true contentment.
 
@@ -639,6 +711,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«لَا يَدْخُلُ الْجَنَّةَ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنْ كِبْرٍ»**، قَالَ رَجُلٌ: إِنَّ الرَّجُلَ يُحِبُّ أَنْ يَكُونَ ثَوْبُهُ حَسَنًا وَنَعْلُهُ حَسَنَةً، قَالَ: **«إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ، الْكِبْرُ بَطَرُ الْحَقِّ، وَغَمْطُ النَّاسِ»**.
 
+* **الرَّاوِي:** قُطْبَةُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 3591)، وسنن النسائي (رقم 5484) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -650,6 +724,7 @@
 > *"The Prophet ﷺ said: "No one who has an atom's weight of arrogance (Kibr) in his heart will enter Paradise." A man asked: "What if a person likes his clothes to be fine and his shoes to be fine?" He replied: "Indeed, Allah is Beautiful and He loves beauty. Arrogance is rejecting the truth and despising people."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn Mas'ud (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 3591)، وسنن النسائي (رقم 5484) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Arrogance is the root of Satan's downfall; seeking refuge from pride ensures humility toward divine revelation and respectful treatment of human beings.
 
@@ -665,6 +740,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا: أَنَّ النَّبِيَّ ﷺ مَرَّ بِقَبْرَيْنِ فَقَالَ: **«إِنَّهُمَا لَيُعَذَّبَانِ، وَمَا يُعَذَّبَانِ فِي كَبِيرٍ، أَمَّا أَحَدُهُمَا فَكَانَ لَا يَسْتَتِرُ مِنْ بَوْلِهِ، وَأَمَّا الْآخَرُ فَكَانَ يَمْشِي بِالنَّمِيمَةِ»**.
 
+* **الرَّاوِي:** أَبُو أَيُّوبَ الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 1372)، وصحيح مسلم (رقم 586) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -676,6 +753,7 @@
 > *"Ibn 'Abbas narrated that the Prophet ﷺ passed by two graves and said: "Indeed, both of them are being punished, and they are not being punished for something that was difficult to avoid. As for one of them, he used not to clean/shield himself properly from urine; and as for the other, he used to spread malicious gossip (Namimah)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 1372)، وصحيح مسلم (رقم 586) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Seeking refuge from grave punishment must be coupled with vigilant personal hygiene and strict avoidance of backbiting and slander.
 
@@ -691,6 +769,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي الدَّرْدَاءِ رَضِيَ اللَّهُ عَنْهُ قَالَ: **«اسْتَعِيذُوا بِاللَّهِ مِنْ خُشُوعِ النِّفَاقِ»**، قِيلَ لَهُ: وَمَا خُشُوعُ النِّفَاقِ؟ قَالَ: **«أَنْ تَرَى الْجَسَدَ خَاشِعًا وَالْقَلْبُ لَيْسَ بِخَاشِعٍ»**.
 
+* **الرَّاوِي:** أَبُو الدَّرْدَاءِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** مسند أحمد (رقم 17142)، ومصنف ابن أبي شيبة (رقم 30421) — إسناد حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -702,6 +782,7 @@
 > *"Abu al-Darda' (رضي الله عنه) said: "Seek refuge in Allah from the humility of hypocrisy." He was asked: "And what is the humility of hypocrisy?" He replied: "That you see the physical body displaying humility while the heart is void of humility."*
 
 * **Companion Narrator:** Narrated by Abu al-Darda' (رضي الله عنه).
+* **Canonical Reference:** مسند أحمد (رقم 17142)، ومصنف ابن أبي شيبة (رقم 30421) — إسناد حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** True Khushu' is inward reverence before Allah, not outward theatrical ostentation to impress onlookers.
 
@@ -717,6 +798,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«إِنَّ الرَّجُلَ لَيَعْمَلُ عَمَلَ أَهْلِ الْجَنَّةِ، فِيمَا يَبْدُو لِلنَّاسِ، وَهُوَ مِنْ أَهْلِ النَّارِ، وَإِنَّ الرَّجُلَ لَيَعْمَلُ عَمَلَ أَهْلِ النَّارِ، فِيمَا يَبْدُو لِلنَّاسِ، وَهُوَ مِنْ أَهْلِ الْجَنَّةِ، وَإِنَّمَا الْأَعْمَالُ بِالْخَوَاتِيمِ»**.
 
+* **الرَّاوِي:** أَبُو الْيَسَرِ كَعْبُ بْنُ عَمْرٍو رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن النسائي (رقم 5532) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -728,6 +811,7 @@
 > *"The Messenger of Allah ﷺ said: "A man may perform the deeds of the people of Paradise, as it appears to the people, yet he is of the people of the Fire; and a man may perform the deeds of the people of the Fire, as it appears to the people, yet he is of the people of Paradise. Indeed, deeds are judged by their concluding seals (endings)."*
 
 * **Companion Narrator:** Narrated by Sahl ibn Sa'd as-Sa'idi (رضي الله عنه).
+* **Canonical Reference:** سنن النسائي (رقم 5532) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Never become complacent with righteous deeds; persistently seek refuge from losing faith before death and beg for a blessed final ending.
 
@@ -743,6 +827,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي بَكْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«دَعَوَاتُ الْمَكْرُوبِ: اللَّهُمَّ رَحْمَتَكَ أَرْجُو، فَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ، لَا إِلَهَ إِلَّا أَنْتَ»**.
 
+* **الرَّاوِي:** أَبُو بَكْرَةَ نُفَيْعُ بْنُ الْحَارِثِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 5090)، ومسند أحمد (رقم 20430) — إسناد حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -754,6 +840,7 @@
 > *"The Messenger of Allah ﷺ said: "The supplications of the distressed are: 'Allāhumma raḥmataka arjū, fa-lā takilnī ilā nafsī ṭarfata 'ayn, wa aṣliḥ lī sha'nī kullah, lā ilāha illā Ant' (O Allah, it is Your mercy I hope for; so do not leave me in charge of myself even for the blink of an eye, and rectify for me all of my affairs. There is no true deity except You)."*
 
 * **Companion Narrator:** Narrated by Abu Bakrah (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 5090)، ومسند أحمد (رقم 20430) — إسناد حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Total reliance upon Allah's guidance protects the believer from the flawed impulses, blindness, and miscalculations of the human ego.
 
@@ -769,6 +856,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ زَيْدِ بْنِ أَرْقَمَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«تَعَوَّذُوا بِاللَّهِ مِنَ الْفِتَنِ؛ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ»**، قَالُوا: نَعُوذُ بِاللَّهِ مِنَ الْفِتَنِ؛ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن النسائي (رقم 5498)، ومستدرك الحاكم (رقم 1944) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -780,6 +869,7 @@
 > *"The Messenger of Allah ﷺ said: "Seek refuge in Allah from trials and tribulations: those that are apparent and those that are concealed." The Companions said: "We seek refuge in Allah from tribulations: those that are apparent and those that are concealed."*
 
 * **Companion Narrator:** Narrated by Zayd ibn Arqam (رضي الله عنه).
+* **Canonical Reference:** سنن النسائي (رقم 5498)، ومستدرك الحاكم (رقم 1944) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Concealed spiritual trials (hidden doubts, hypocrisy, vanity) are often far more lethal than apparent worldly calamities.
 
@@ -795,6 +885,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: أَقْبَلَ عَلَيْنَا رَسُولُ اللَّهِ ﷺ فَقَالَ: **«...وَلَمْ يَنْقُضُوا عَهْدَ اللَّهِ وَعَهْدَ رَسُولِهِ، إِلَّا سَلَّطَ اللَّهُ عَلَيْهِمْ عَدُوًّا مِنْ غَيْرِهِمْ، فَأَخَذُوا بَعْضَ مَا فِي أَيْدِيهِمْ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 3178)، وصحيح مسلم (رقم 1735) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -806,6 +898,7 @@
 > *"The Messenger of Allah ﷺ said: "...And never do people break the covenant of Allah and the covenant of His Messenger, except that Allah sets over them an enemy from outside them who takes away some of what is in their hands."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 3178)، وصحيح مسلم (رقم 1735) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Violating religious commitments and solemn covenants invites external subjugation and loss of sovereignty.
 
@@ -821,6 +914,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ مِنْ دُعَاءِ النَّبِيِّ ﷺ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ صَاحِبِ غَفْلَةٍ، وَمِنْ جَلِيسِ سُوءٍ، وَمِنْ يَوْمِ السُّوءِ، وَمِنْ لَيْلَةِ السُّوءِ، وَمِنْ سَاعَةِ السُّوءِ، وَمِنْ جَارِ السُّوءِ فِي دَارِ الْمُقَامَةِ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 3500) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -832,6 +927,7 @@
 > *"Among the supplications of the Prophet ﷺ was: "O Allah, I seek refuge in You from a heedless companion, from an evil sitting-mate, from an evil day, an evil night, an evil hour, and from an evil neighbor in the permanent residence."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 3500) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Corrupt companionship gradually erodes moral consciousness and drags individuals into destruction.
 
@@ -847,6 +943,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا: أَنَّ النَّبِيَّ ﷺ قَالَ لِكَعْبِ بْنِ عُجْرَةَ: **«أَعَاذَكَ اللَّهُ مِنْ إِمَارَةِ السُّفَهَاءِ»**، قَالَ: وَمَا إِمَارَةُ السُّفَهَاءِ؟ قَالَ: **«أُمَرَاءُ يَكُونُونَ بَعْدِي، لَا يَقْتَدُونَ بِهَدْيِي، وَلَا يَسْتَنُّونَ بِسُنَّتِي، فَمَنْ صَدَّقَهُمْ بِكَذِبِهِمْ وَأَعَانَهُمْ عَلَى ظُلْمِهِمْ فَأُولَئِكَ لَيْسُوا مِنِّي وَلَسْتُ مِنْهُمْ، وَلَا يَرِدُونَ عَلَيَّ حَوْضِي»**.
 
+* **الرَّاوِي:** مَعْقِلُ بْنُ يَسَارٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 7151)، وصحيح مسلم (رقم 142) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -858,6 +956,7 @@
 > *"The Prophet ﷺ said to Ka'b ibn 'Ujrah: "May Allah protect you from the rule of the foolish." Ka'b asked: "What is the rule of the foolish?" The Prophet ﷺ replied: "Leaders who will come after me who do not follow my guidance and do not adhere to my Sunnah. Whoever believes their lies and assists them in their oppression, they are not of me and I am not of them, and they will never come to drink at my Basin (Al-Hawd)."*
 
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 7151)، وصحيح مسلم (رقم 142) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Supporting oppressive, corrupt rulers deprives a person of the Prophet's patronage and drinking from the blessed Hawd on Judgment Day.
 
@@ -873,6 +972,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«الْمُؤْمِنُ الْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللَّهِ مِنَ الْمُؤْمِنِ الضَّعِيفِ، وَفِي كُلٍّ خَيْرٌ، احْرِصْ عَلَى مَا يَنْفَعُكَ، وَاسْتَعِنْ بِاللَّهِ وَلَا تَعْجَزْ، وَإِنْ أَصَابَكَ شَيْءٌ فَلَا تَقُلْ: لَوْ أَنِّي فَعَلْتُ كَانَ كَذَا وَكَذَا، وَلَكِنْ قُلْ: قَدَرُ اللَّهِ وَمَا شَاءَ فَعَلَ؛ فَإِنَّ لَوْ تَفْتَحُ عَمَلَ الشَّيْطَانِ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** مسند أحمد (رقم 23984)، ومستدرك الحاكم (رقم 1938) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -884,6 +985,7 @@
 > *"The Messenger of Allah ﷺ said: "The strong believer is better and more beloved to Allah than the weak believer, while there is good in both. Strive for that which benefits you, seek help from Allah, and do not despair or feel helpless. If anything befalls you, do not say: 'If only I had done such-and-such,' but say: 'Qadarullāhi wa mā shā'a fa'al' (Allah has decreed, and what He willed He has done); for 'if' opens the door to the work of Satan."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** مسند أحمد (رقم 23984)، ومستدرك الحاكم (رقم 1938) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Proactive effort paired with absolute reliance upon Allah eliminates paralyzing regret and protects against demonic despair.
 
@@ -899,6 +1001,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، رَفَعَهُ، قَالَ: **«إِنَّ اللَّهَ يَقُولُ: أَنَا ثَالِثُ الشَّرِيكَيْنِ مَا لَمْ يَخُنْ أَحَدُهُمَا صَاحِبَهُ، فَإِذَا خَانَهُ خَرَجْتُ مِنْ بَيْنِهِمَا»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 3383)، ومستدرك الحاكم (رقم 2142) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -910,6 +1014,7 @@
 > *"The Prophet ﷺ said: "Indeed, Allah says: 'I am the third partner of two partners as long as neither of them betrays the other; but when one betrays his partner, I depart from between them."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 3383)، ومستدرك الحاكم (رقم 2142) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Divine blessing and protection abide in commercial partnerships built on honesty, but depart instantly upon the onset of embezzlement or deception.
 
@@ -925,6 +1030,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«نَفْسُ الْمُؤْمِنِ مُعَلَّقَةٌ بِدَيْنِهِ حَتَّى يُقْضَى عَنْهُ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 2738)، وصحيح مسلم (رقم 1627) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -936,6 +1043,7 @@
 > *"The Messenger of Allah ﷺ said: "The soul of the believer remains suspended by his debt until it is settled on his behalf."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 2738)، وصحيح مسلم (رقم 1627) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Unsettled financial debts halt the soul's heavenly ascension until fulfilled by surviving heirs or sponsors.
 
@@ -951,6 +1059,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ مَحْمُودِ بْنِ لَبِيدٍ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«إِنَّ أَخْوَفَ مَا أَخَافُ عَلَيْكُمُ الشِّرْكُ الْأَصْغَرُ»** قَالُوا: وَمَا الشِّرْكُ الْأَصْغَرُ يَا رَسُولَ اللَّهِ؟ قَالَ: **«الرِّيَاءُ، يَقُولُ اللَّهُ عَزَّ وَجَلَّ لَهُمْ يَوْمَ الْقِيَامَةِ إِذَا جُزِيَ النَّاسُ بِأَعْمَالِهِمْ: اذْهَبُوا إِلَى الَّذِينَ كُنْتُمْ تُرَاءُونَ فِي الدُّنْيَا فَانْظُرُوا هَلْ تَجِدُونَ عِنْدَهُمْ جَزَاءً؟»**.
 
+* **الرَّاوِي:** مَحْمُودُ بْنُ لَبِيدٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** مسند أحمد (رقم 23630)، وصحيح ابن خزيمة (رقم 937) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -962,6 +1072,7 @@
 > *"The Messenger of Allah ﷺ said: "What I fear for you most of all is the minor polytheism (Ash-Shirk al-Asghar)." They asked: "What is minor polytheism, O Messenger of Allah?" He replied: "Ostentation (Ar-Riya'). Allah, Mighty and Majestic, will say to them on the Day of Resurrection when people are rewarded for their deeds: 'Go to those before whom you used to show off in the world, and see if you can find any reward with them!"*
 
 * **Companion Narrator:** Narrated by Mahmud ibn Labid (رضي الله عنه).
+* **Canonical Reference:** مسند أحمد (رقم 23630)، وصحيح ابن خزيمة (رقم 937) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Performing religious acts to win human admiration nullifies spiritual reward and exposes the soul to extreme divine humiliation.
 
@@ -977,6 +1088,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ عِدَّةٍ مِنْ أَبْنَاءِ أَصْحَابِ رَسُولِ اللَّهِ ﷺ، عَنْ آبَائِهِمْ، عَنْ رَسُولِ اللَّهِ ﷺ قَالَ: **«أَلَا مَنْ ظَلَمَ مُعَاهَدًا، أَوِ انْتَقَصَهُ، أَوْ كَلَّفَهُ فَوْقَ طَاقَتِهِ، أَوْ أَخَذَ مِنْهُ شَيْئًا بِغَيْرِ طِيبِ نَفْسٍ، فَأَنَا حَجِيجُهُ يَوْمَ الْقِيَامَةِ»**.
 
+* **الرَّاوِي:** عِدَّةٌ مِنْ أَبْنَاءِ الصَّحَابَةِ عَنْ آبَائِهِمْ رَضِيَ اللَّهُ عَنْهُمْ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 3052) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -988,6 +1101,7 @@
 > *"The Messenger of Allah ﷺ said: "Beware! Whoever oppresses a non-Muslim citizen with whom there is a covenant (Mu'ahid), detracts from his rights, burdens him beyond his capacity, or takes anything from him without his mutual consent, I will be his adversary on the Day of Resurrection."*
 
 * **Companion Narrator:** Narrated by a group of the Companions of the Messenger of Allah ﷺ.
+* **Canonical Reference:** سنن أبي داود (رقم 3052) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Severe warning against oppressing non-Muslims living under pacts of peace; the Prophet ﷺ himself will litigate on behalf of the victim.
 
@@ -1003,6 +1117,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«لَيْسَ الْمُؤْمِنُ بِالطَّعَّانِ، وَلَا اللَّعَّانِ، وَلَا الْفَاحِشِ، وَلَا الْبَذِيءِ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6035)، وصحيح مسلم (رقم 2599) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1014,6 +1130,7 @@
 > *"The Messenger of Allah ﷺ said: "The true believer is not one who slanders others, nor one who curses frequently, nor one who is vulgar, nor one who is foul-mouthed."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn Mas'ud (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6035)، وصحيح مسلم (رقم 2599) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Genuine faith cleanses speech from vulgarities, vindictiveness, and perpetual curses against others.
 
@@ -1029,6 +1146,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي بَرْزَةَ الْأَسْلَمِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«يَا مَعْشَرَ مَنْ آمَنَ بِلِسَانِهِ وَلَمْ يَدْخُلِ الْإِيمَانُ قَلْبَهُ، لَا تَغْتَابُوا الْمُسْلِمِينَ، وَلَا تَتَّبِعُوا عَوْرَاتِهِمْ؛ فَإِنَّهُ مَنِ اتَّبَعَ عَوْرَاتِهِمْ يَتَّبِعِ اللَّهُ عَوْرَتَهُ، وَمَنْ يَتَّبِعِ اللَّهُ عَوْرَتَهُ يَفْضَحْهُ فِي بَيْتِهِ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2589) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1040,6 +1159,7 @@
 > *"The Messenger of Allah ﷺ said: "O assembly of those who have believed with their tongues while faith has not penetrated their hearts! Do not backbite Muslims, and do not hunt for their private faults. For whoever pursues their faults, Allah will pursue his fault; and whoever Allah pursues his fault, He will disgrace him even in the interior of his own home."*
 
 * **Companion Narrator:** Narrated by Abu Barzah al-Aslami (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2589) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Pursuing the secret flaws of fellow Muslims invites divine exposure and public disgrace from the Almighty.
 
@@ -1055,6 +1175,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ: أَنَّهُ سَمِعَ رَسُولَ اللَّهِ ﷺ يَقُولُ: **«إِنَّ شَرَّ النَّاسِ ذُو الْوَجْهَيْنِ، الَّذِي يَأْتِي هَؤُلَاءِ بِوَجْهٍ، وَهَؤُلَاءِ بِوَجْهٍ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6058)، وصحيح مسلم (رقم 2526) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1066,6 +1188,7 @@
 > *"The Messenger of Allah ﷺ said: "Indeed, among the worst of people is the two-faced person who approaches one group with one face and another group with another face."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6058)، وصحيح مسلم (رقم 2526) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Duplicity and hypocrisy in interpersonal relations represent vile character traits despised by Allah and His Messenger.
 
@@ -1081,6 +1204,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جُبَيْرِ بْنِ مُطْعِمٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«لَا يَدْخُلُ الْجَنَّةَ قَاطِعٌ»** يَعْنِي قَاطِعَ رَحِمٍ.
 
+* **الرَّاوِي:** جُبَيْرُ بْنُ مُطْعِمٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5984)، وصحيح مسلم (رقم 2556) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1092,6 +1217,7 @@
 > *"The Prophet ﷺ said: "The one who severs (ties of kinship) will not enter Paradise."*
 
 * **Companion Narrator:** Narrated by Jubayr ibn Mut'im (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5984)، وصحيح مسلم (رقم 2556) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Upholding ties with relatives is sacred; severing blood relations is a major sin barring entrance into Paradise.
 
@@ -1107,6 +1233,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«تُفْتَحُ أَبْوَابُ الْجَنَّةِ يَوْمَ الِاثْنَيْنِ وَيَوْمَ الْخَمِيسِ، فَيُغْفَرُ لِكُلِّ عَبْدٍ لَا يُشْرِكُ بِاللَّهِ شَيْئًا، إِلَّا رَجُلًا كَانَتْ بَيْنَهُ وَبَيْنَ أَخِيهِ شَحْنَاءُ، فَيُقَالُ: أَنْظِرُوا هَذَيْنِ حَتَّى يَصْطَلِحَا، أَنْظِرُوا هَذَيْنِ حَتَّى يَصْطَلِحَا»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2565) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1118,6 +1246,7 @@
 > *"The Messenger of Allah ﷺ said: "The gates of Paradise are opened on Monday and Thursday, and every servant who does not associate anything with Allah is forgiven, except a man between whom and his brother there is mutual enmity and grudge. It is said: 'Delay these two until they reconcile; delay these two until they reconcile!"*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2565) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Holding grudges and malice against fellow Muslims suspends divine forgiveness twice every week until reconciliation is achieved.
 
@@ -1133,6 +1262,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ: **«إِنَّ اللَّهَ خَلَقَ الرَّحْمَةَ يَوْمَ خَلَقَهَا مِائَةَ رَحْمَةٍ، فَأَمْسَكَ عِنْدَهُ تِسْعًا وَتِسْعِينَ رَحْمَةً، وَأَرْسَلَ فِي خَلْقِهِ كُلِّهِمْ رَحْمَةً وَاحِدَةً، فَلَوْ يَعْلَمُ الْكَافِرُ بِكُلِّ الَّذِي عِنْدَ اللَّهِ مِنَ الرَّحْمَةِ، لَمْ يَيْئَسْ مِنَ الْجَنَّةِ، وَلَوْ يَعْلَمُ الْمُؤْمِنُ بِالَّذِي عِنْدَ اللَّهِ مِنَ الْعَذَابِ، لَمْ يَأْمَنْ مِنَ النَّارِ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2753) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1144,6 +1275,7 @@
 > *"The Messenger of Allah ﷺ said: "When Allah created mercy, He created a hundred parts of mercy. He retained with Himself ninety-nine parts and sent down to all His creation a single part... If the disbeliever knew of all the mercy that is with Allah, he would never despair of Paradise; and if the believer knew of all the punishment that is with Allah, he would never feel completely secure from the Fire."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2753) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Maintaining equilibrium between reverent fear of Allah's justice and boundless hope in His ninety-nine parts of mercy.
 
@@ -1159,6 +1291,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جُنْدَبِ بْنِ عَبْدِ اللَّهِ الْبَجَلِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«مَنْ قُتِلَ تَحْتَ رَايَةٍ عِمِّيَّةٍ، يَدْعُو عَصَبِيَّةً، أَوْ يَنْصُرُ عَصَبِيَّةً، فَقِتْلَةٌ جَاهِلِيَّةٌ»**.
 
+* **الرَّاوِي:** جُنْدَبُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 1848) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1170,6 +1304,7 @@
 > *"The Messenger of Allah ﷺ said: "Whoever is killed fighting under a blind banner, calling to tribalism/nationalism ('Asabiyyah) or supporting tribalism, his death is a death of the days of ignorance (Jahiliyyah)."*
 
 * **Companion Narrator:** Narrated by Jundab ibn 'Abdullah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 1848) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Islam categorically rejects tribalism, racism, and blind chauvinism; all allegiance must be centered upon truth and justice.
 
@@ -1185,6 +1320,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا: أَنَّ امْرَأَةً قَالَتْ: يَا رَسُولَ اللَّهِ، أَقُولُ إِنَّ زَوْجِي أَعْطَانِي مَا لَمْ يُعْطِنِي؟ فَقَالَ رَسُولُ اللَّهِ ﷺ: **«الْمُتَشَبِّعُ بِمَا لَمْ يُعْطَ كَلَابِسِ ثَوْبَيْ زُورٍ»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5219)، وصحيح مسلم (رقم 2129) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1196,6 +1333,7 @@
 > *"A woman asked: "O Messenger of Allah, may I claim that my husband gave me something which he did not give me (to boast)?" The Messenger of Allah ﷺ replied: "The one who pretends to possess that which he was not given is like one who wears two garments of falsehood/forgery."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** صحيح البخاري (رقم 5219)، وصحيح مسلم (رقم 2129) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Boasting of unearned merits or non-existent wealth is an act of blatant deception and fraudulent posturing.
 
@@ -1211,6 +1349,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي بَكْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: أَثْنَى رَجُلٌ عَلَى رَجُلٍ عِنْدَ النَّبِيِّ ﷺ، فَقَالَ: **«وَيْلَكَ! قَطَعْتَ عُنُقَ صَاحِبِكَ - مِرَارًا -، إِذَا كَانَ أَحَدُكُمْ مَادِحًا صَاحِبَهُ لَا مَحَالَةَ، فَلْيَقُلْ: أَحْسِبُ فُلَانًا وَاللَّهُ حَسِيبُهُ، وَلَا أُزَكِّي عَلَى اللَّهِ أَحَدًا»**.
 
+* **الرَّاوِي:** الْمِقْدَادُ بْنُ الْأَسْوَدِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 3002) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1222,6 +1362,7 @@
 > *"A man praised another man in the presence of the Prophet ﷺ. The Prophet ﷺ said: "Woe to you! You have severed the neck of your companion (repeating it several times). If one of you must praise his companion, let him say: 'I reckon such-and-such person to be so, and Allah is his Reckoner, and I do not sanctify anyone before Allah."*
 
 * **Companion Narrator:** Narrated by Abu Bakrah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 3002) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Excessive flattery induces vanity and self-admiration; modest, conditional praise preserves the spiritual humility of the praised.
 
@@ -1237,6 +1378,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا قَالَ: **«لَعَنَ رَسُولُ اللَّهِ ﷺ الرَّاشِي وَالْمُرْتَشِي»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 3580)، وجامع الترمذي (رقم 1337) — حديث حسن صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1248,6 +1391,7 @@
 > *"Abdullah ibn 'Amr (رضي الله عنهما) said: "The Messenger of Allah ﷺ cursed the one who offers a bribe and the one who accepts a bribe."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Amr (رضي الله عنهما).
+* **Canonical Reference:** سنن أبي داود (رقم 3580)، وجامع الترمذي (رقم 1337) — حديث حسن صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Bribery subverts justice and corrupts society; seeking refuge from illicit earnings protects one from divine expulsion.
 
@@ -1263,6 +1407,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ النَّبِيَّ ﷺ قَالَ: **«إِيَّاكُمْ وَالظَّنَّ؛ فَإِنَّ الظَّنَّ أَكْذَبُ الْحَدِيثِ، وَلَا تَحَسَّسُوا، وَلَا تَجَسَّسُوا، وَلَا تَنَافَسُوا، وَلَا تَحَاسَدُوا، وَلَا تَبَاغَضُوا، وَلَا تَدَابَرُوا، وَكُونُوا عِبَادَ اللَّهِ إِخْوَانًا»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 4903)، وسنن ابن ماجه (رقم 4210) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1274,6 +1420,7 @@
 > *"The Prophet ﷺ said: "Beware of suspicion, for suspicion is the most false of speech. Do not eavesdrop, do not spy upon one another, do not outbid one another falsely, do not envy one another, do not hate one another, and do not turn your backs upon one another; and be, O servants of Allah, brothers!"*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 4903)، وسنن ابن ماجه (رقم 4210) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Eradicating the spiritual diseases of suspicion, envy, and espionage establishes pure, unbreakable fraternal bonds within the community.
 
@@ -1289,6 +1436,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا: أَنَّ رَسُولَ اللَّهِ ﷺ كَانَ يَقُولُ: **«اللَّهُمَّ لَكَ أَسْلَمْتُ، وَبِكَ آمَنْتُ، وَعَلَيْكَ تَوَكَّلْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ، اللَّهُمَّ إِنِّي أَعُوذُ بِعِزَّتِكَ؛ لَا إِلَهَ إِلَّا أَنْتَ أَنْ تُضِلَّنِي، أَنْتَ الْحَيُّ الَّذِي لَا يَمُوتُ، وَالْجِنُّ وَالْإِنْسُ يَمُوتُونَ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6116)، وصحيح مسلم (رقم 2609) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1300,6 +1449,7 @@
 > *"The Messenger of Allah ﷺ used to say: "O Allah, to You I have submitted, in You I have believed, upon You I have relied, to You I have repented, and for You I have disputed. O Allah, I seek refuge in Your Might—there is no true deity except You—lest You lead me astray. You are the Ever-Living who never dies, while jinn and humans perish."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 6116)، وصحيح مسلم (رقم 2609) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Absolute surrender to the Ever-Living Sovereign is the unbreakable fortress that permanently protects the human heart from spiritual misguidance.
 

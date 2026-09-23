@@ -1,4 +1,4 @@
-﻿# Chapter 19: Book of Virtues, Merits & Prophetic Companions
+# Chapter 19: Book of Virtues, Merits & Prophetic Companions
 # كِتَابُ الْفَضَائِلِ وَالْمَنَاقِبِ
 
 ---

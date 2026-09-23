@@ -1,4 +1,4 @@
-﻿# 10. كِتَابُ الدَّعَوَاتِ الْمَأْثُورَةِ
+# 10. كِتَابُ الدَّعَوَاتِ الْمَأْثُورَةِ
 # Chapter 10: The Book of Prophetic Invocations
 
 ---
@@ -15,6 +15,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ النُّعْمَانِ بْنِ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ ﷺ قَالَ: **«الدُّعَاءُ هُوَ الْعِبَادَةُ»**، ثُمَّ قَرَأَ: ﴿وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ﴾.
 
+* **الرَّاوِي:** النُّعْمَانُ بْنُ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 1479)، وجامع الترمذي (رقم 2969) — حديث حسن صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -26,6 +28,7 @@
 > *"The Prophet ﷺ said: "Supplication (Du'a) is worship itself." Then he recited: ﴿And your Lord says, 'Call upon Me; I will respond to you.' Indeed, those who disdain My worship will enter Hell in humiliation﴾ (40:60)."*
 
 * **Companion Narrator:** Narrated by An-Nu'man ibn Bashir (رضي الله عنهما).
+* **Canonical Reference:** سنن أبي داود (رقم 1479)، وجامع الترمذي (رقم 2969) — حديث حسن صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Supplication embodies the very core of servitude because it manifests complete human helplessness and absolute reliance upon Allah's infinite power and grace.
 
@@ -41,6 +44,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ سَلْمَانَ الْفَارِسِيِّ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«إِنَّ اللَّهَ حَيِيٌّ كَرِيمٌ، يَسْتَحْيِي إِذَا رَفَعَ الرَّجُلُ إِلَيْهِ يَدَيْهِ أَنْ يَرُدَّهُمَا صِفْرًا خَائِبَتَيْنِ»**.
 
+* **الرَّاوِي:** سَلْمَانُ الْفَارِسِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 1488)، وجامع الترمذي (رقم 3556) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -52,6 +57,7 @@
 > *"The Prophet ﷺ said: "Indeed, Allah is Modest and Generous; He feels shy, when a man raises his hands to Him in prayer, to return them empty and disappointed."*
 
 * **Companion Narrator:** Narrated by Salman al-Farsi (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 1488)، وجامع الترمذي (رقم 3556) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Raising the hands with humility and sincere conviction triggers Allah's boundless generosity and guarantees a divine response.
 
@@ -67,6 +73,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«أَقْرَبُ مَا يَكُونُ الْعَبْدُ مِنْ رَبِّهِ وَهُوَ سَاجِدٌ، فَأَكْثِرُوا الدُّعَاءَ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 482) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -78,6 +86,7 @@
 > *"The Messenger of Allah ﷺ said: "The closest that a servant comes to his Lord is while he is in prostration (Sujud); so increase your supplications therein."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 482) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Physical prostration on the earth places the human ego at its lowest point, bringing the soul into the closest spiritual intimacy with the Most High.
 
@@ -93,6 +102,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ: أَنَّ رَسُولَ اللَّهِ ﷺ ذَكَرَ يَوْمَ الْجُمُعَةِ، فَقَالَ: **«فِيهِ سَاعَةٌ، لَا يُوَافِقُهَا عَبْدٌ مُسْلِمٌ، وَهُوَ قَائِمٌ يُصَلِّي، يَسْأَلُ اللَّهَ تَعَالَى شَيْئًا، إِلَّا أَعْطَاهُ إِيَّاهُ»** وَأَشَارَ بِيَدِهِ يُقَلِّلُهَا.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 935)، وصحيح مسلم (رقم 852) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -104,6 +115,7 @@
 > *"The Messenger of Allah ﷺ mentioned Friday and said: "On it there is an hour; no Muslim servant happens to be standing in prayer and asking Allah Almighty for anything at that moment except that He grants it to him," and he indicated with his hand how brief it is."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 935)، وصحيح مسلم (رقم 852) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Devoting Friday—particularly the final moments before sunset—to sincere prayer ensures catching the precious window of answered supplications.
 
@@ -119,6 +131,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«الدُّعَاءُ لَا يُرَدُّ بَيْنَ الْأَذَانِ وَالْإِقَامَةِ»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 521)، وجامع الترمذي (رقم 212) — حديث حسن صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -130,6 +144,7 @@
 > *"The Messenger of Allah ﷺ said: "Supplication made between the call to prayer (Adhan) and the call to commence prayer (Iqamah) is never rejected."*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 521)، وجامع الترمذي (رقم 212) — حديث حسن صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The interval awaiting the congregational prayer is a sacred opportunity where the gates of divine acceptance remain wide open.
 
@@ -145,6 +160,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«ثَلَاثَةٌ لَا تُرَدُّ دَعْوَتُهُمْ: الصَّائِمُ حَتَّى يُفْطِرَ، وَالْإِمَامُ الْعَادِلُ، وَدَعْوَةُ الْمَظْلُومِ يَرْفَعُهَا اللَّهُ فَوْقَ الْغَمَامِ وَيَفْتَحُ لَهَا أَبْوَابَ السَّمَاءِ، وَيَقُولُ الرَّبُّ: وَعِزَّتِي لَأَنْصُرَنَّكِ وَلَوْ بَعْدَ حِينٍ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 1905)، وسنن ابن ماجه (رقم 3862) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -156,6 +173,7 @@
 > *"The Messenger of Allah ﷺ said: "Three persons' supplications are never turned back: the fasting person until he breaks his fast, the just ruler, and the supplication of the oppressed person; Allah raises it above the clouds, opens the gates of the heavens for it, and the Lord says: 'By My Honor and Majesty, I shall surely aid you, even if it be after a while."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 1905)، وسنن ابن ماجه (رقم 3862) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Injustice is spiritually catastrophic; the cry of the wronged bypasses all celestial veils directly to the Divine Court of absolute justice.
 
@@ -171,6 +189,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي الدَّرْدَاءِ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«دَعْوَةُ الْمَرْءِ الْمُسْلِمِ لِأَخِيهِ بِظَهْرِ الْغَيْبِ مُسْتَجَابَةٌ، عِنْدَ رَأْسِهِ مَلَكٌ مُوَكَّلٌ كُلَّمَا دَعَا لِأَخِيهِ بِخَيْرٍ، قَالَ الْمَلَكُ الْمُوَكَّلُ بِهِ: آمِينَ وَلَكَ بِمِثْلٍ»**.
 
+* **الرَّاوِي:** أَبُو الدَّرْدَاءِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2732) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -182,6 +202,7 @@
 > *"The Messenger of Allah ﷺ said: "The supplication of a Muslim person for his brother in his absence is answered. At his head there is an appointed angel; whenever he prays for goodness for his brother, the appointed angel says: 'Amin, and may you receive the same!"*
 
 * **Companion Narrator:** Narrated by Abu al-Darda' (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2732) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Praying sincerely for others without their knowledge proves purity of heart and guarantees the prayers of noble angels on your own behalf.
 
@@ -197,6 +218,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ أَكْثَرُ دُعَاءِ النَّبِيِّ ﷺ: **«اللَّهُمَّ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً، وَفِي الْآخِرَةِ حَسَنَةً، وَقِنَا عَذَابَ النَّارِ»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6389)، وصحيح مسلم (رقم 2690) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -208,6 +231,7 @@
 > *"Anas ibn Malik reported that the supplication the Prophet ﷺ made most frequently was: "Allāhumma Rabbanā ātinā fid-dunyā ḥasanatan, wa fīl-ākhirati ḥasanatan, wa qinā 'adhāban-nār" (O Allah, our Lord, grant us good in this world, good in the Hereafter, and protect us from the torment of the Fire [2:201])."*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6389)، وصحيح مسلم (رقم 2690) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** This Qur'anic prayer combines every conceivable worldly blessing (health, provision, righteous family) with eternal salvation and safety from Hellfire.
 
@@ -223,6 +247,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ يُكْثِرُ أَنْ يَقُولَ: **«يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ»**، فَقُلْتُ: يَا رَسُولَ اللَّهِ، آمَنَّا بِكَ وَبِمَا جِئْتَ بِهِ فَهَلْ تَخَافُ عَلَيْنَا؟ قَالَ: **«نَعَمْ، إِنَّ الْقُلُوبَ بَيْنَ أُصْبُعَيْنِ مِنْ أَصَابِعِ اللَّهِ يُقَلِّبُهَا كَيْفَ يَشَاءُ»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 2140)، ومسند أحمد (رقم 12107) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -234,6 +260,7 @@
 > *"Anas ibn Malik reported: The Messenger of Allah ﷺ used to say frequently: "Yā Muqallibal-qulūbi thabbit qalbī 'alā dīnik" (O Turner of the hearts, keep my heart firm upon Your religion). I said: "O Messenger of Allah, we have believed in you and in what you brought; do you still fear for us?" He replied: "Yes, indeed the hearts are between two fingers of the fingers of Allah; He turns them as He wills."*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 2140)، ومسند أحمد (رقم 12107) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Human hearts are ever-fluctuating; constant petitioning for divine steadfastness protects faith from corrupting temptations and doubts.
 
@@ -249,6 +276,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ أَنَّهُ كَانَ يَقُولُ: **«اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى، وَالتُّقَى، وَالْعَفَافَ، وَالْغِنَى»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2721) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -260,6 +289,7 @@
 > *"The Prophet ﷺ used to supplicate: "Allāhumma innī as'alukal-hudā, wat-tuqā, wal-'afāfa, wal-ghinā" (O Allah, I ask You for guidance, piety, chastity, and self-sufficiency/contentment of heart)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn Mas'ud (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2721) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** These four requests summarize complete spiritual rectitude and independence from dependency upon people.
 
@@ -275,6 +305,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ النَّبِيُّ ﷺ يَقُولُ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَالْجُبْنِ وَالْهَرَمِ وَالْبُخْلِ، وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6363)، وصحيح مسلم (رقم 2706) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -286,6 +318,7 @@
 > *"The Prophet ﷺ used to say: "Allāhumma innī a'ūdhu bika minal-'ajzi wal-kasal, wal-jubni wal-harami wal-bukhl, wa a'ūdhu bika min 'adhābil-qabr, wa min fitnatil-maḥyā wal-mamāt" (O Allah, I seek refuge in You from incapacity and laziness, cowardice, debilitating senility, and miserliness; and I seek refuge in You from the torment of the grave and the trials of life and death)."*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6363)، وصحيح مسلم (رقم 2706) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Laziness and cowardice paralyze beneficial action; seeking divine shielding preserves vitality, generosity, and spiritual resilience.
 
@@ -301,6 +334,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: كَانَ مِنْ دُعَاءِ رَسُولِ اللَّهِ ﷺ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ، وَجَمِيعِ سَخَطِكَ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2739) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -312,6 +347,7 @@
 > *"Among the supplications of the Messenger of Allah ﷺ was: "Allāhumma innī a'ūdhu bika min zawāli ni'matik, wa taḥawwuli 'āfiyatik, wa fujā'ati niqmatik, wa jamī'i sakhaṭik" (O Allah, I seek refuge in You from the cessation of Your favor, the transformation of the well-being You granted, the suddenness of Your vengeance, and all of Your wrath)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** صحيح مسلم (رقم 2739) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Praying for the preservation of faith, health, peace of mind, and divine protection against unexpected disasters.
 
@@ -327,6 +363,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي أُمَامَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: دَعَا رَسُولُ اللَّهِ ﷺ بِدُعَاءٍ كَثِيرٍ لَمْ نَحْفَظْ مِنْهُ شَيْئًا، قُلْنَا: يَا رَسُولَ اللَّهِ دَعَوْتَ بِدُعَاءٍ كَثِيرٍ لَمْ نَحْفَظْ مِنْهُ شَيْئًا، فَقَالَ: **«أَلَا أَدُلُّكُمْ عَلَى مَا يَجْمَعُ ذَلِكَ كُلَّهُ؟ تَقُولُ: اللَّهُمَّ إِنَّا نَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ مِنْهُ نَبِيُّكَ مُحَمَّدٌ ﷺ، وَنَعُوذُ بِكَ مِنْ شَرِّ مَا اسْتَعَاذَ مِنْهُ نَبِيُّكَ مُحَمَّدٌ ﷺ، وَأَنْتَ الْمُسْتَعَانُ وَعَلَيْكَ الْبَلَاغُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ»**.
 
+* **الرَّاوِي:** أَبُو أُمَامَةَ الْبَاهِلِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 3521) — حديث حسن غريب.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -338,6 +376,7 @@
 > *"Abu Umamah reported: The Messenger of Allah ﷺ made many supplications that we could not memorize. We said: "O Messenger of Allah, you made many prayers we couldn't memorize!" He said: "Shall I not guide you to that which gathers all of that together? You say: 'Allāhumma innā nas'aluka min khayri mā sa'alaka minhu Nabiyyuka Muḥammadun ﷺ, wa na'ūdhu bika min sharri masta'ādha minhu Nabiyyuka Muḥammadun ﷺ, wa Antal-musta'ānu wa 'alaykal-balāgh, wa lā ḥawla wa lā quwwata illā billāh' (O Allah, we ask You for all the good that Your Prophet Muhammad ﷺ asked You for, and we seek refuge in You from all the evil that Your Prophet Muhammad ﷺ sought refuge from. You are the One whose help is sought, and upon You rests fulfillment; and there is no power and no strength except with Allah)."*
 
 * **Companion Narrator:** Narrated by Abu Umamah (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 3521) — حديث حسن غريب.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** This concise invocation automatically incorporates every single noble request and protection ever uttered by the Prophet ﷺ.
 
@@ -353,6 +392,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ، أَنَّ مُكَاتَبًا جَاءَهُ فَقَالَ: إِنِّي قَدْ عَجَزْتُ عَنْ كِتَابَتِي فَأَعِنِّي، قَالَ: أَلَا أُعَلِّمُكَ كَلِمَاتٍ عَلَّمَنِيهِنَّ رَسُولُ اللَّهِ ﷺ لَوْ كَانَ عَلَيْكَ مِثْلُ جَبَلِ صِيرٍ دَيْنًا أَدَّاهُ اللَّهُ عَنْكَ؟ قَالَ: **«قُلْ: اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ»** .
 
+* **الرَّاوِي:** عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 3563)، ومسند أحمد (رقم 1319) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -364,6 +405,7 @@
 > *"Ali (رضي الله عنه) said to an indentured slave who could not pay his contract: "Shall I not teach you words which the Messenger of Allah ﷺ taught me, such that even if you had a debt like Mount Seer, Allah would pay it off for you? Say: 'Allāhummak-finī bi-ḥalālika 'an ḥarāmik, wa aghninī bi-faḍlika 'amman siwāk' (O Allah, suffice me with Your lawful provision away from Your unlawful, and enrich me with Your bounty so that I am independent of anyone besides You)."*
 
 * **Companion Narrator:** Narrated by 'Ali ibn Abi Talib (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 3563)، ومسند أحمد (رقم 1319) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Sincere devotion to earning exclusively Halal combined with this supplication brings miraculous divine solutions to crushing financial liabilities.
 
@@ -379,6 +421,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ يَأْمُرُنَا إِذَا أَخَذْنَا مَضْجَعَنَا أَنْ نَقُولَ: **«اللَّهُمَّ رَبَّ السَّمَاوَاتِ وَرَبَّ الْأَرْضِ وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالْإِنْجِيلِ وَالْفُرْقَانِ، أَعُوذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ، اللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2713) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -390,6 +434,7 @@
 > *"The Messenger of Allah ﷺ instructed us when going to bed to say: "O Allah, Lord of the heavens, Lord of the earth, and Lord of the Magnificent Throne; our Lord and Lord of all things; Splitter of the grain and date-stone, and Revealer of the Torah, the Gospel, and the Criterion (Qur'an): I seek refuge in You from the evil of everything whose forelock You hold. O Allah, You are the First, so there is nothing before You; You are the Last, so there is nothing after You; You are the Manifest, so there is nothing above You; and You are the Hidden, so there is nothing beyond You. Settle our debt for us and enrich us away from poverty."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2713) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Beseeching Allah through His ultimate Names of Primacy, Eternity, Transcendence, and Omnipresence guarantees relief from poverty and deliverance from financial distress.
 
@@ -405,6 +450,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا: أَنَّ رَسُولَ اللَّهِ ﷺ عَلَّمَهَا هَذَا الدُّعَاءَ: **«اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ عَاجِلِهِ وَآجِلِهِ، مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ، وَأَعُوذُ بِكَ مِنَ الشَّرِّ كُلِّهِ عَاجِلِهِ وَآجِلِهِ، مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ، اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ عَبْدُكَ وَنَبِيُّكَ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا عَاذَ بِهِ عَبْدُكَ وَنَبِيُّكَ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَعُوذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَسْأَلُكَ أَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهُ لِي خَيْرًا»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** سنن ابن ماجه (رقم 3846)، ومسند أحمد (رقم 25019) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -416,6 +463,7 @@
 > *"The Messenger of Allah ﷺ taught 'A'ishah this comprehensive supplication: "O Allah, I ask You for all good, both immediate and delayed, what I know of it and what I know not. And I seek refuge in You from all evil, both immediate and delayed, what I know of it and what I know not. O Allah, I ask You for the best of what Your servant and Prophet asked You for, and I seek refuge in You from the evil of what Your servant and Prophet sought refuge from. O Allah, I ask You for Paradise and whatever word or deed brings one close to it, and I seek refuge in You from the Fire and whatever word or deed brings one close to it. And I ask You to make every decree You have ordained for me a source of good."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** سنن ابن ماجه (رقم 3846)، ومسند أحمد (رقم 25019) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** This master supplication covers the totality of earthly welfare, the eternal afterlife, righteous conduct, and contentment with divine destiny.
 
@@ -431,6 +479,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ يُعَلِّمُنَا الِاسْتِخَارَةَ فِي الْأُمُورِ كُلِّهَا كَمَا يُعَلِّمُنَا السُّورَةَ مِنَ الْقُرْآنِ، يَقُولُ: **«إِذَا هَمَّ أَحَدُكُمْ بِالْأَمْرِ فَلْيَرْكَعْ رَكْعَتَيْنِ مِنْ غَيْرِ الْفَرِيضَةِ، ثُمَّ لِيَقُلْ: اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلَا أَقْدِرُ، وَتَعْلَمُ وَلَا أَعْلَمُ، وَأَنْتَ عَلَّامُ الْغُيُوبِ، اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي - أَوْ قَالَ: عَاجِلِ أَمْرِي وَآجِلِهِ - فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي، ثُمَّ بَارِكْ لِي فِيهِ، وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي - أَوْ قَالَ: فِي عَاجِلِ أَمْرِي وَآجِلِهِ - فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ، وَاقْدُرْ لِيَ الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي بِهِ»**.
 
+* **الرَّاوِي:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 1162) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -442,6 +492,7 @@
 > *"Jabir narrated: The Messenger of Allah ﷺ used to teach us to seek Allah's counsel (Istikharah) in all matters just as he would teach us a Surah from the Qur'an: "When one of you contemplates an action, let him pray two non-obligatory units of prayer, and then say: 'O Allah, I seek Your counsel through Your knowledge, I seek capability through Your power, and I ask of Your immense favor; for You are capable and I am not, You know and I do not, and You are the Knower of the unseen. O Allah, if You know that this matter (naming it) is good for me in my religion, my livelihood, and the outcome of my affair, then ordain it for me, make it easy for me, and bless me in it. And if You know that this matter is bad for me in my religion, my livelihood, and the outcome of my affair, then turn it away from me and turn me away from it, and ordain for me whatever is good wherever it may be, and make me pleased with it."*
 
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 1162) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Entrusting personal decisions entirely to Allah's perfect knowledge eliminates anxiety, regret, and doubt from life's choices.
 
@@ -457,6 +508,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أُمِّ سَلَمَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ: **«مَا مِنْ عَبْدٍ تُصِيبُهُ مُصِيبَةٌ فَيَقُولُ: ﴿إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ﴾، اللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي، وَأَخْلِفْ لِي خَيْرًا مِنْهَا، إِلَّا أَجَرَهُ اللَّهُ فِي مُصِيبَتِهِ، وَأَخْلَفَ لَهُ خَيْرًا مِنْهَا»** قَالَتْ: فَلَمَّا تُوُفِّيَ أَبُو سَلَمَةَ قُلْتُ كَمَا أَمَرَنِي رَسُولُ اللَّهِ ﷺ، فَأَخْلَفَ اللَّهُ لِي خَيْرًا مِنْهُ: رَسُولَ اللَّهِ ﷺ.
 
+* **الرَّاوِي:** أُمُّ سَلَمَةَ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 918) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -468,6 +521,7 @@
 > *"Umm Salamah narrated: I heard the Messenger of Allah ﷺ say: "No servant is stricken with a calamity and says: 'Innā lillāhi wa innā ilayhi rāji'ūn, Allāhumma'-jurnī fī muṣībatī, wa akhlif lī khayran minhā' (Indeed, to Allah we belong and to Him we shall return. O Allah, reward me in my affliction and replace it with something better for me), except that Allah rewards him in his calamity and grants him something better in replacement." She said: "When Abu Salamah passed away, I recited what the Messenger of Allah ﷺ commanded me, and Allah replaced him with someone better than him: the Messenger of Allah ﷺ!"*
 
 * **Companion Narrator:** Narrated by Umm Salamah (رضي الله عنها).
+* **Canonical Reference:** صحيح مسلم (رقم 918) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Patient endurance combined with this prayer turns human sorrow into a direct gateway to superior divine compensation.
 
@@ -483,6 +537,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«مَنْ سَأَلَ اللَّهَ الْجَنَّةَ ثَلَاثَ مَرَّاتٍ، قَالَتِ الْجَنَّةُ: اللَّهُمَّ أَدْخِلْهُ الْجَنَّةَ، وَمَنِ اسْتَجَارَ مِنَ النَّارِ ثَلَاثَ مَرَّاتٍ، قَالَتِ النَّارُ: اللَّهُمَّ أَجِرْهُ مِنَ النَّارِ»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 2572)، وسنن النسائي (رقم 5521) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -494,6 +550,7 @@
 > *"The Messenger of Allah ﷺ said: "Whoever asks Allah for Paradise three times, Paradise says: 'O Allah, admit him into Paradise!' And whoever seeks refuge from Hellfire three times, Hellfire says: 'O Allah, protect him from the Fire!"*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 2572)، وسنن النسائي (رقم 5521) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Consistent longing for Paradise and dread of Hell prompts both metaphysical realms to actively advocate on behalf of the believer.
 
@@ -509,6 +566,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ لِي رَسُولُ اللَّهِ ﷺ: **«قُلِ: اللَّهُمَّ اهْدِنِي وَسَدِّدْنِي، وَاذْكُرْ بِالْهُدَى هِدَايَتَكَ الطَّرِيقَ، وَالسَّدَادِ سَدَادَ السَّهْمِ»**.
 
+* **الرَّاوِي:** عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2725) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -520,6 +579,7 @@
 > *"Ali reported: The Messenger of Allah ﷺ said to me: "Say: 'Allāhumma-hdinī wa saddidnī' (O Allah, guide me and keep me straight/correct). And visualize with guidance your traversing the straight road, and with correctness the straight flight of an arrow."*
 
 * **Companion Narrator:** Narrated by 'Ali ibn Abi Talib (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2725) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Asking Allah for spiritual guidance and precision in speech and judgment, aiming true like an unswerving arrow.
 
@@ -535,6 +595,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ ﷺ قَالَ: **«مَنْ عَادَ مَرِيضًا لَمْ يَحْضُرْ أَجَلُهُ، فَقَالَ عِنْدَهُ سَبْعَ مِرَارٍ: أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ، إِلَّا عَافَاهُ اللَّهُ مِنْ ذَلِكَ الْمَرَضِ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 3106)، وجامع الترمذي (رقم 2083) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -546,6 +608,7 @@
 > *"The Prophet ﷺ said: "Whoever visits a sick person whose appointed time (of death) has not yet arrived and says in his presence seven times: 'As'alullāhal-'Aẓīma Rabbal-'Arshil-'Aẓīmi an yashfiyak' (I ask Allah the Almighty, Lord of the Magnificent Throne, to heal you), Allah will surely cure him from that illness."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (رضي الله عنهما).
+* **Canonical Reference:** سنن أبي داود (رقم 3106)، وجامع الترمذي (رقم 2083) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Visiting the sick and reciting this prophetic supplication seven times channels divine healing energy and relief from physical affliction.
 
@@ -561,6 +624,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ: أَنَّ جِبْرِيلَ أَتَى النَّبِيَّ ﷺ فَقَالَ: يَا مُحَمَّدُ اشْتَكَيْتَ؟ فَقَالَ: **«نَعَمْ»**، قَالَ: **«بِاسْمِ اللَّهِ أَرْقِيكَ، مِنْ كُلِّ شَيْءٍ يُؤْذِيكَ، مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنِ حَاسِدٍ، اللَّهُ يَشْفِيكَ، بِاسْمِ اللَّهِ أَرْقِيكَ»**.
 
+* **الرَّاوِي:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2186) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -572,6 +637,7 @@
 > *"Jibril came to the Prophet ﷺ and asked: "O Muhammad, are you suffering from illness?" He replied: "Yes." Jibril said: "Bismillāhi arqīk, min kulli shay'in yu'dhīk, min sharri kulli nafsin aw 'ayni ḥāsid, Allāhu yashfīk, bismillāhi arqīk" (In the Name of Allah I recite Ruqyah for you, from everything that harms you, from the evil of every soul or envious eye; may Allah heal you. In the Name of Allah I recite Ruqyah for you)."*
 
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2186) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** This celestial Ruqyah serves as an authentic spiritual cure for bodily ailments, witchcraft, and the malignant evil eye.
 
@@ -587,6 +653,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عُثْمَانَ بْنِ أَبِي الْعَاصِ الثَّقَفِيِّ رَضِيَ اللَّهُ عَنْهُ: أَنَّهُ شَكَا إِلَى رَسُولِ اللَّهِ ﷺ وَجَعًا يَجِدُهُ فِي جَسَدِهِ مُنْذُ أَسْلَمَ، فَقَالَ لَهُ رَسُولُ اللَّهِ ﷺ: **«ضَعْ يَدَكَ عَلَى الَّذِي تَأَلَّمَ مِنْ جَسَدِكَ، وَقُلْ: بِاسْمِ اللَّهِ ثَلَاثًا، وَقُلْ سَبْعَ مَرَّاتٍ: أَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ»**.
 
+* **الرَّاوِي:** عُثْمَانُ بْنُ أَبِي الْعَاصِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2202) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -598,6 +666,7 @@
 > *"Uthman ibn Abi al-'As complained to the Messenger of Allah ﷺ about pain he felt in his body since he accepted Islam. The Messenger of Allah ﷺ said to him: "Place your hand on the spot where you feel pain in your body and say: 'Bismillāh' three times, and say seven times: 'A'ūdhu billāhi wa qudratihi min sharri mā ajidu wa uḥādhir' (I seek refuge in Allah and His omnipotence from the evil of what I feel and what I fear)."*
 
 * **Companion Narrator:** Narrated by 'Uthman ibn Abi al-'As ath-Thaqafi (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2202) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Self-administered Ruqyah through tactile contact and heartfelt recitation dispels physical chronic pain and psychological distress.
 
@@ -613,6 +682,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا: أَنَّ النَّبِيَّ ﷺ كَانَ يُعَوِّذُ بَعْضَ أَهْلِهِ، يَمْسَحُ بِيَدِهِ الْيُمْنَى وَيَقُولُ: **«اللَّهُمَّ رَبَّ النَّاسِ، أَذْهِبِ الْبَاسَ، اشْفِهِ وَأَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5743)، وصحيح مسلم (رقم 2191) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -624,6 +695,7 @@
 > *"A'ishah (رضي الله عنها) narrated that the Prophet ﷺ used to treat his family members by wiping with his right hand and saying: "Allāhumma Rabban-nās, adh-hibil-ba's, ishfi wa Antash-Shāfī, lā shifā'a illā shifā'uk, shifā'an lā yughādiru saqamā" (O Allah, Lord of mankind, remove the affliction and grant cure; You are the Healer, there is no cure except Your cure—a complete cure that leaves behind no illness)."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** صحيح البخاري (رقم 5743)، وصحيح مسلم (رقم 2191) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Affirming that ultimate physical healing belongs exclusively to Allah Almighty inspires unwavering hope and speeds recovery.
 
@@ -639,6 +711,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ النَّبِيَّ ﷺ قَالَ: **«إِذَا مَاتَ الْإِنْسَانُ انْقَطَعَ عَنْهُ عَمَلُهُ إِلَّا مِنْ ثَلَاثَةٍ: إِلَّا مِنْ صَدَقَةٍ جَارِيَةٍ، أَوْ عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 143) — سورة الفرقان: 74.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -650,6 +724,7 @@
 > *"The Prophet ﷺ said: "When a human being dies, his deeds come to an end except for three: ongoing charity (Sadaqah Jariyah), beneficial knowledge, or a righteous child who prays for him."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 143) — سورة الفرقان: 74.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Nurturing pious children ensures an everlasting stream of supplications and rewards continuing into the grave after death.
 
@@ -665,6 +740,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«إِنَّ اللَّهَ عَزَّ وَجَلَّ لَيَرْفَعُ الدَّرَجَةَ لِلْعَبْدِ الصَّالِحِ فِي الْجَنَّةِ، فَيَقُولُ: يَا رَبِّ، أَنَّى لِي هَذِهِ؟ فَيَقُولُ: بِاسْتِغْفَارِ وَلَدِكَ لَكَ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن ابن ماجه (رقم 3660)، ومسند أحمد (رقم 10618) — إسناد حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -676,6 +753,7 @@
 > *"The Messenger of Allah ﷺ said: "Indeed, Allah, Mighty and Majestic, elevates the station of a righteous servant in Paradise, whereupon he asks: 'O my Lord, from where did this come to me?' Allah replies: 'Through the forgiveness sought for you by your child."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** سنن ابن ماجه (رقم 3660)، ومسند أحمد (رقم 10618) — إسناد حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Continual prayers and seeking forgiveness for parents is one of the greatest filial duties that elevates their stations in Paradise.
 
@@ -691,6 +769,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ: أَنَّ النَّبِيَّ ﷺ كَانَ إِذَا رَفَّأَ الْإِنْسَانَ إِذَا تَزَوَّجَ، قَالَ: **«بَارَكَ اللَّهُ لَكَ، وَبَارَكَ عَلَيْكَ، وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 2130)، وجامع الترمذي (رقم 1091) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -702,6 +782,7 @@
 > *"When congratulating a person upon marriage, the Prophet ﷺ would say: "Bārakallāhu laka, wa bāraka 'alayka, wa jama'a baynakumā fī khayr" (May Allah bless you, bestow His blessings upon you, and unite you both in goodness)."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 2130)، وجامع الترمذي (رقم 1091) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Replacing pre-Islamic superficial well-wishes with prayers for mutual divine blessing, harmony, and righteous marital union.
 
@@ -717,6 +798,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ ﷺ قَالَ: **«لَوْ أَنَّ أَحَدَكُمْ حِينَ يَأْتِي أَهْلَهُ قَالَ: بِاسْمِ اللَّهِ، اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ، وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا، فَإِنَّهُ إِنْ يُقَدَّرْ بَيْنَهُمَا وَلَدٌ فِي ذَلِكَ لَمْ يَضُرَّهُ شَيْطَانٌ أَبَدًا»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6388)، وصحيح مسلم (رقم 1434) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -728,6 +811,7 @@
 > *"The Prophet ﷺ said: "If one of you, when about to have intimate relations with his wife, says: 'Bismillāh, Allāhumma jannibnash-Shayṭāna wa jannibish-Shayṭāna mā razaqtanā' (In the Name of Allah; O Allah, keep Satan away from us and keep Satan away from whatever [offspring] You grant us), then if a child is destined for them from that, Satan will never be able to harm him."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 6388)، وصحيح مسلم (رقم 1434) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Beginning marital intimacy with the Name of Allah guarantees lifelong spiritual immunity and shielding for future children against satanic ruin.
 
@@ -743,6 +827,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ يَقُولُ: **«اللَّهُمَّ أَصْلِحْ لِي دِينِي الَّذِي هُوَ عِصْمَةُ أَمْرِي، وَأَصْلِحْ لِي دُنْيَايَ الَّتِي فِيهَا مَعَاشِي، وَأَصْلِحْ لِي آخِرَتِي الَّتِي فِيهَا مَعَادِي، وَاجْعَلِ الْحَيَاةَ زِيَادَةً لِي فِي كُلِّ خَيْرٍ، وَاجْعَلِ الْمَوْتَ رَاحَةً لِي مِنْ كُلِّ شَرٍّ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2720) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -754,6 +840,7 @@
 > *"The Messenger of Allah ﷺ used to say: "Allāhumma aṣliḥ lī dīniyalladhī huwa 'iṣmatu amrī, wa aṣliḥ lī dunyāyallatī fīhā ma'āshī, wa aṣliḥ lī ākhiratiyallatī fīhā ma'ādī, waj'alil-ḥayāta ziyādatan lī fī kulli khayr, waj'alil-mawta rāḥatan lī min kulli sharr" (O Allah, set right for me my religion which is the safeguard of my affairs; set right for me my worldly life in which is my livelihood; set right for me my Hereafter to which is my return; make my life an increase for me in every good, and make death a relief for me from every evil)."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2720) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** This profound prayer synthesizes holistic balance: preserving religious integrity, earning halal provision, and ensuring eternal felicity upon transition from this life.
 
@@ -769,6 +856,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: لَمْ يَكُنْ رَسُولُ اللَّهِ ﷺ يَدَعُ هَؤُلَاءِ الدَّعَوَاتِ حِينَ يُمْسِي وَحِينَ يُصْبِحُ: **«اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي، اللَّهُمَّ اسْتُرْ عَوْرَاتِي، وَآمِنْ رَوْعَاتِي، اللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ، وَمِنْ خَلْفِي، وَعَنْ يَمِينِي، وَعَنْ شِمَالِي، وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي»**.
 
+* **الرَّاوِي:** الْعَبَّاسُ بْنُ عَبْدِ الْمُطَّلِبِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 3514)، وسنن ابن ماجه (رقم 3849) — حديث حسن صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -780,6 +869,7 @@
 > *"The Messenger of Allah ﷺ never neglected these supplications in the evening and morning: "O Allah, I ask You for pardon and well-being in this world and the Hereafter. O Allah, I ask You for pardon and well-being in my religion, my worldly affairs, my family, and my wealth. O Allah, conceal my faults and calm my fears. O Allah, protect me from in front of me, from behind me, from my right, from my left, and from above me; and I seek refuge in Your Greatness from being assassinated/swallowed from beneath me."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** جامع الترمذي (رقم 3514)، وسنن ابن ماجه (رقم 3849) — حديث حسن صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Asking for 'Afiyah in all six physical directions ensures 360-degree spiritual and temporal safeguarding throughout the day and night.
 
@@ -795,6 +885,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ زَيْدِ بْنِ أَرْقَمَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ يَقُولُ: **«اللَّهُمَّ آتِ نَفْسِي تَقْوَاهَا، وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا، أَنْتَ وَلِيُّهَا وَمَوْلَاهَا»**.
 
+* **الرَّاوِي:** زَيْدُ بْنُ أَرْقَمَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2722) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -806,6 +898,7 @@
 > *"The Messenger of Allah ﷺ used to say: "Allāhumma āti nafsī taqwāhā, wa zakkihā Anta khayru man zakkāhā, Anta waliyyuhā wa mawlāhā" (O Allah, grant my soul its consciousness of You (Taqwa), and purify it, for You are the Best to purify it; You are its Guardian and its Master)."*
 
 * **Companion Narrator:** Narrated by Zayd ibn Arqam (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2722) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Purification of inner base desires (Tazkiyah) is unattainable without seeking the direct assistance and grace of the Creator.
 
@@ -821,6 +914,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ يَقُولُ: **«اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي، وَعَلِّمْنِي مَا يَنْفَعُنِي، وَزِدْنِي عِلْمًا، وَالْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ، وَأَعُوذُ بِاللَّهِ مِنْ حَالِ أَهْلِ النَّارِ»**.
 
+* **الرَّاوِي:** أُمُّ سَلَمَةَ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** سنن ابن ماجه (رقم 925)، ومسند أحمد (رقم 26521) — إسناد صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -832,6 +927,7 @@
 > *"The Messenger of Allah ﷺ used to say: "Allāhumman-fa'nī bimā 'allamtanī, wa 'allimnī mā yanfa'unī, wa zidnī 'ilmā, wal-ḥamdu lillāhi 'alā kulli ḥāl, wa a'ūdhu billāhi min ḥāli ahlin-nār" (O Allah, benefit me with what You have taught me, teach me that which will benefit me, and increase me in knowledge. All praise is due to Allah in every condition, and I seek refuge in Allah from the state of the people of the Fire)."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** سنن ابن ماجه (رقم 925)، ومسند أحمد (رقم 26521) — إسناد صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Knowledge is praised only when transformed into actionable righteous deeds that benefit the servant and the community.
 
@@ -847,6 +943,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا: أَنَّ رَسُولَ اللَّهِ ﷺ كَانَ يَقُولُ: **«اللَّهُمَّ لَكَ أَسْلَمْتُ، وَبِكَ آمَنْتُ، وَعَلَيْكَ تَوَكَّلْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ، اللَّهُمَّ إِنِّي أَعُوذُ بِعِزَّتِكَ لَا إِلَهَ إِلَّا أَنْتَ أَنْ تُضِلَّنِي، أَنْتَ الْحَيُّ الَّذِي لَا يَمُوتُ، وَالْجِنُّ وَالْإِنْسُ يَمُوتُونَ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 1120)، وصحيح مسلم (رقم 2717) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -858,6 +956,7 @@
 > *"The Messenger of Allah ﷺ used to say: "Allāhumma laka aslamtu, wa bika āmantu, wa 'alayka tawakkaltu, wa ilayka anabtu, wa bika khāṣamtu. Allāhumma innī a'ūdhu bi-'izzatika lā ilāha illā Anta an tuḍillanī, Antal-Ḥayyulladhī lā yamūt, wal-jinnu wal-insu yamūtūn" (O Allah, to You I have submitted, in You I have believed, upon You I have relied, to You I have turned in repentance, and for You I have disputed. O Allah, I seek refuge in Your Might—there is no true deity except You—lest You lead me astray. You are the Ever-Living who never dies, while jinn and mankind all perish)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 1120)، وصحيح مسلم (رقم 2717) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Affirming dependence on the Ever-Living God while acknowledging the mortality of all created entities grants unconditional spiritual courage.
 
@@ -873,6 +972,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ يَقُولُ: **«اللَّهُمَّ كَمَا حَسَّنْتَ خَلْقِي فَحَسِّنْ خُلُقِي»**.
 
+* **الرَّاوِي:** عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 771) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -884,6 +985,7 @@
 > *"The Messenger of Allah ﷺ used to supplicate: "Allāhumma kamā ḥassanta khalqī fa-ḥassin khuluqī" (O Allah, just as You have made my physical creation good, make my moral character good)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn Mas'ud (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 771) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** A beautiful outer appearance is completed only when accompanied by inner virtues of forbearance, modesty, honesty, and kindness.
 
@@ -899,6 +1001,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: وَدَّعَنِي رَسُولُ اللَّهِ ﷺ فَقَالَ: **«أَسْتَوْدِعُكَ اللَّهَ الَّذِي لَا تَضِيعُ وَدَائِعُهُ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 2600)، وجامع الترمذي (رقم 3442) — حديث حسن صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -910,6 +1014,7 @@
 > *"Abu Hurairah narrated: The Messenger of Allah ﷺ bade me farewell and said: "Astawdi'ukallāhalladhī lā taḍī'u wadā'i'uh" (I entrust you to Allah, with Whom entrusted trusts are never lost)."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 2600)، وجامع الترمذي (رقم 3442) — حديث حسن صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Entrusting loved ones and property into Allah's care guarantees absolute divine preservation against all calamities.
 
@@ -925,6 +1030,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ إِذَا وَدَّعَ الرَّجُلَ أَخَذَ بِيَدِهِ، فَلَا يَدَعُ يَدَهُ حَتَّى يَكُونَ الرَّجُلُ هُوَ يَدَعُ يَدَ النَّبِيِّ ﷺ، وَيَقُولُ: **«أَسْتَوْدِعُ اللَّهَ دِينَكَ، وَأَمَانَتَكَ، وَخَوَاتِيمَ عَمَلِكَ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 3444)، وسنن ابن ماجه (رقم 2824) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -936,6 +1043,7 @@
 > *"When the Messenger of Allah ﷺ bade farewell to anyone, he would take his hand and say: "Astawdi'ullāha dīnaka, wa amānataka, wa khawātīma 'amalik" (I entrust to Allah your religion, your integrity/commitments, and the final outcomes of your deeds)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** جامع الترمذي (رقم 3444)، وسنن ابن ماجه (رقم 2824) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The foremost concern for a departing traveler is the preservation of their religious commitments and achieving a righteous final end.
 
@@ -951,6 +1059,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ قُطْبَةَ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ النَّبِيُّ ﷺ يَقُولُ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ مُنْكَرَاتِ الْأَخْلَاقِ، وَالْأَعْمَالِ، وَالْأَهْوَاءِ»**.
 
+* **الرَّاوِي:** زِيَادُ بْنُ عِلَاقَةَ عَنْ عَمِّهِ قُطْبَةَ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 3591)، وصحيح ابن حبان (رقم 1007) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -962,6 +1072,7 @@
 > *"The Prophet ﷺ used to say: "Allāhumma innī a'ūdhu bika min munkarātil-akhlāq, wal-a'māl, wal-ahwā'" (O Allah, I seek refuge in You from abominable moral traits, evil deeds, and corrupted desires)."*
 
 * **Companion Narrator:** Narrated by Qutbah ibn Malik (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 3591)، وصحيح ابن حبان (رقم 1007) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Corrupt passions (Hawa) deviate humans from divine truth; seeking refuge from them preserves sound theological and moral integrity.
 
@@ -977,6 +1088,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ رَضِيَ اللَّهُ عَنْهُ: أَنَّهُ كَانَ يُعَلِّمُ بَنِيهِ هَؤُلَاءِ الْكَلِمَاتِ، كَمَا يُعَلِّمُ الْمُعَلِّمُ الْغِلْمَانَ الْكِتَابَةَ، وَيَقُولُ: إِنَّ رَسُولَ اللَّهِ ﷺ كَانَ يَتَعَوَّذُ مِنْهُنَّ دُبُرَ الصَّلَاةِ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ، وَأَعُوذُ بِكَ أَنْ أُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ، وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا، وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ»**.
 
+* **الرَّاوِي:** سَعْدُ بْنُ أَبِي وَقَّاصٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 2822) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -988,6 +1101,7 @@
 > *"Sa'd ibn Abi Waqqas used to teach these words to his children just as a teacher teaches children to write, saying that the Messenger of Allah ﷺ used to seek refuge with them after prayers: "O Allah, I seek refuge in You from cowardice and miserliness, I seek refuge in You from being brought back to decrepit old age, I seek refuge in You from the trials of worldly life, and I seek refuge in You from the punishment of the grave."*
 
 * **Companion Narrator:** Narrated by Sa'd ibn Abi Waqqas (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 2822) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Companions made sure their households systematically memorized these essential daily invocations for protection against life's worst downfalls.
 
@@ -1003,6 +1117,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ يَقُولُ: **«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَمِنْ قَلْبٍ لَا يَخْشَعُ، وَمِنْ نَفْسٍ لَا تَشْبَعُ، وَمِنْ دَعْوَةٍ لَا يُسْتَجَابُ لَهَا»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 1548)، وسنن النسائي (رقم 5467) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1014,6 +1130,7 @@
 > *"The Messenger of Allah ﷺ used to say: "Allāhumma innī a'ūdhu bika min 'ilmin lā yanfa', wa min qalbin lā yakhsha', wa min nafsin lā tashba', wa min da'watin lā yustajābu lahā" (O Allah, I seek refuge in You from knowledge that does not benefit, from a heart that does not fear You, from a soul that is never satisfied, and from a supplication that is not answered)."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 1548)، وسنن النسائي (رقم 5467) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** A hardened heart and unsated greed render religious knowledge useless and block supplications from being answered.
 
@@ -1029,6 +1146,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ الْحَسَنِ بْنِ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: عَلَّمَنِي رَسُولُ اللَّهِ ﷺ كَلِمَاتٍ أَقُولُهُنَّ فِي قُنُوتِ الْوِتْرِ: **«اللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَعَافِنِي فِيمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ، فَإِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ، وَإِنَّهُ لَا يَذِلُّ مَنْ وَالَيْتَ، وَلَا يَعِزُّ مَنْ عَادَيْتَ، تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ»**.
 
+* **الرَّاوِي:** الْحَسَنُ بْنُ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 1425)، وجامع الترمذي (رقم 464) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1040,6 +1159,7 @@
 > *"Al-Hasan ibn 'Ali reported: The Messenger of Allah ﷺ taught me words to recite during the Qunut of the Witr prayer: "Allāhumma-hdinī fīman hadayt, wa 'āfinī fīman 'āfayt, wa tawallanī fīman tawallayt, wa bārik lī fīmā a'ṭayt, wa qinī sharra mā qaḍayt; fa-innaka taqḍī wa lā yuqḍā 'alayk, wa innahu lā yadhillu man wālayt, wa lā ya'izzu man 'ādayt, tabārakta Rabbanā wa ta'ālayt" (O Allah, guide me among those You have guided, grant me well-being among those You have granted well-being, take me into Your care among those You have taken into Your care, bless me in what You have bestowed, and shield me from the evil of what You have decreed. For You decree and none can decree against You; none is disgraced whom You patronize, and none is honored whom You oppose. Blessed are You, our Lord, and Exalted)."*
 
 * **Companion Narrator:** Narrated by Al-Hasan ibn 'Ali (رضي الله عنهما).
+* **Canonical Reference:** سنن أبي داود (رقم 1425)، وجامع الترمذي (رقم 464) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The Qunut supplication in Witr seals night prayers with comprehensive appeals for divine patronage, safety, and ultimate guidance.
 
@@ -1055,6 +1175,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: ذَبَحَ النَّبِيُّ ﷺ يَوْمَ الذَّبْحِ كَبْشَيْنِ أَقْرَنَيْنِ أَمْلَحَيْنِ مُوجَأَيْنِ، فَلَمَّا وَجَّهَهُمَا قَالَ: **«إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ عَلَى مِلَّةِ إِبْرَاهِيمَ حَنِيفًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ، لَا شَرِيكَ لَهُ، وَبِذَلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ، اللَّهُمَّ مِنْكَ وَلَكَ، عَنْ مُحَمَّدٍ وَأُمَّتِهِ، بِاسْمِ اللَّهِ، وَاللَّهُ أَكْبَرُ»** ثُمَّ ذَبَحَ.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 1967) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1066,6 +1188,7 @@
 > *"On the Day of Sacrifice, the Prophet ﷺ slaughtered two horned, black-and-white, castrated rams. When he faced them towards the Qiblah, he said: "﴿Indeed, I have turned my face toward He who created the heavens and the earth, following the religion of Abraham, inclining toward truth, and I am not of the polytheists. Indeed, my prayer, my rites of sacrifice, my living, and my dying are for Allah, Lord of the worlds. No partner has He. And this I have been commanded, and I am of the Muslims﴾ (6:79, 6:162-163). O Allah, this is from You and for You, on behalf of Muhammad and his Ummah. In the Name of Allah, and Allah is the Greatest," and then he slaughtered."*
 
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (رضي الله عنهما).
+* **Canonical Reference:** صحيح مسلم (رقم 1967) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Sacrificing livestock is an act of pure Monotheism reaffirming that life and death belong solely to Allah.
 
@@ -1081,6 +1204,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ النَّاسُ إِذَا رَأَوْا أَوَّلَ الثَّمَرِ جَاءُوا بِهِ إِلَى النَّبِيِّ ﷺ، فَإِذَا أَخَذَهُ رَسُولُ اللَّهِ ﷺ قَالَ: **«اللَّهُمَّ بَارِكْ لَنَا فِي ثَمَرِنَا، وَبَارِكْ لَنَا فِي مَدِينَتِنَا، وَبَارِكْ لَنَا فِي صَاعِنَا، وَبَارِكْ لَنَا فِي مُدِّنَا»**، ثُمَّ يَدْعُو أَصْغَرَ وَلِيدٍ يَرَاهُ فَيُعْطِيهِ ذَلِكَ الثَّمَرَ.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 1373) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1092,6 +1217,7 @@
 > *"When people saw the first fruits of the harvest, they would bring them to the Prophet ﷺ. When the Messenger of Allah ﷺ took them, he would say: "Allāhumma bārik lanā fī thamarinā, wa bārik lanā fī madīnatinā, wa bārik lanā fī ṣā'inā, wa bārik lanā fī muddinā" (O Allah, bless us in our fruit, bless us in our city, and bless us in our measurements of Sa' and Mudd), and then he would call the smallest child present and give him that fruit."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 1373) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Welcoming the harvest with supplications for communal barakah and sharing immediate joys with young children.
 
@@ -1107,6 +1233,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أُسَامَةَ بْنِ زَيْدٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«مَنْ صُنِعَ إِلَيْهِ مَعْرُوفٌ فَقَالَ لِفَاعِلِهِ: جَزَاكَ اللَّهُ خَيْرًا، فَقَدْ أَبْلَغَ فِي الثَّنَاءِ»**.
 
+* **الرَّاوِي:** أُسَامَةُ بْنُ زَيْدٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 2035) — حديث حسن صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1118,6 +1246,7 @@
 > *"The Messenger of Allah ﷺ said: "Whoever has a favor done for him and says to the doer: 'Jazākallāhu khayrā' (May Allah reward you with good), has truly excelled in expressing appreciation and praise."*
 
 * **Companion Narrator:** Narrated by Usamah ibn Zayd (رضي الله عنهما).
+* **Canonical Reference:** جامع الترمذي (رقم 2035) — حديث حسن صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Entrusting the reward of someone's kindness to Allah's infinite bounty constitutes the absolute highest form of human appreciation.
 
@@ -1133,6 +1262,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَوْفِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: صَلَّى رَسُولُ اللَّهِ ﷺ عَلَى جَنَازَةٍ، فَحَفِظْتُ مِنْ دُعَائِهِ وَهُوَ يَقُولُ: **«اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعَافِهِ وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ، وَأَهْلًا خَيْرًا مِنْ أَهْلِهِ، وَزَوْجًا خَيْرًا مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ، وَأَعِذْهُ مِنْ عَذَابِ الْقَبْرِ - أَوْ مِنْ عَذَابِ النَّارِ -»** حَتَّى تَمَنَّيْتُ أَنْ أَكُونَ أَنَا ذَلِكَ الْمَيِّتَ.
 
+* **الرَّاوِي:** عَوْفُ بْنُ مَالِكٍ الْأَشْجَعِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 963) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1144,6 +1275,7 @@
 > *"Awf ibn Malik reported: The Messenger of Allah ﷺ led a funeral prayer, and I memorized from his supplication: "O Allah, forgive him and have mercy upon him; excuse him and pardon him; honor his reception and expand his entrance (grave); wash him with water, snow, and hail; cleanse him from sins as a white garment is cleansed of filth; replace for him an abode better than his abode, a family better than his family, and a spouse better than his spouse; admit him into Paradise, and protect him from the torment of the grave and the punishment of the Fire"—until I wished that I had been that deceased person!"*
 
 * **Companion Narrator:** Narrated by 'Awf ibn Malik (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 963) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** This magnificent funeral supplication requests total cleansing, honorable reception, and celestial replacement for the departed believer.
 
@@ -1159,6 +1291,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ ﷺ إِذَا صَلَّى عَلَى جَنَازَةٍ يَقُولُ: **«اللَّهُمَّ اغْفِرْ لِحَيِّنَا وَمَيِّتِنَا، وَشَاهِدِنَا وَغَائِبِنَا، وَصَغِيرِنَا وَكَبِيرِنَا، وَذَكَرِنَا وَأُنْثَانَا، اللَّهُمَّ مَنْ أَحْيَيْتَهُ مِنَّا فَأَحْيِهِ عَلَى الْإِسْلَامِ، وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَى الْإِيمَانِ، اللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُ، وَلَا تُضِلَّنَا بَعْدَهُ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 3201)، وجامع الترمذي (رقم 1024) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1170,6 +1304,7 @@
 > *"The Messenger of Allah ﷺ said during a funeral prayer: "O Allah, forgive our living and our dead, those present and those absent, our young and our old, our males and our females. O Allah, whomever You keep alive among us, keep him alive upon Islam; and whomever You cause to die among us, cause him to die upon Iman. O Allah, do not deprive us of his reward, and do not lead us astray after him."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 3201)، وجامع الترمذي (رقم 1024) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Praying for the entire Muslim community—past, present, and future—during the moment of bidding farewell to a deceased brother or sister.
 
@@ -1185,6 +1320,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أُسَامَةَ بْنِ زَيْدٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: أَرْسَلَتِ ابْنَةُ النَّبِيِّ ﷺ إِلَيْهِ: إِنَّ ابْنًا لِي قُبِضَ فَائْتِنَا، فَأَرْسَلَ يُقْرِئُ السَّلَامَ، وَيَقُولُ: **«إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى، وَكُلٌّ عِنْدَهُ بِأَجَلٍ مُسَمًّى، فَلْتَصْبِرْ وَلْتَحْتَسِبْ»**.
 
+* **الرَّاوِي:** أُسَامَةُ بْنُ زَيْدٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 1284)، وصحيح مسلم (رقم 923) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1196,6 +1333,7 @@
 > *"The daughter of the Prophet ﷺ sent word that her son was dying. The Prophet ﷺ sent back greetings of peace, saying: "Innā lillāhi mā akhadha, wa lahu mā a'ṭā, wa kullun 'indahu bi-ajalin musammā, faltasbir wal-taḥtasib" (Indeed, to Allah belongs what He took, and to Him belongs what He gave, and everything with Him has an appointed term; so let her be patient and seek Allah's reward)."*
 
 * **Companion Narrator:** Narrated by Usamah ibn Zayd (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 1284)، وصحيح مسلم (رقم 923) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The ultimate consolation for bereavement: realizing that all possessions and souls are divine loans returned to their true Sovereign Owner.
 
@@ -1211,6 +1349,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ سُلَيْمَانَ بْنِ صُرَدٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: اسْتَبَّ رَجُلَانِ عِنْدَ النَّبِيِّ ﷺ، فَجَعَلَ أَحَدُهُمَا يَغْضَبُ وَيَحْمَرُّ وَجْهُهُ... فَقَالَ النَّبِيُّ ﷺ: **«إِنِّي لَأَعْلَمُ كَلِمَةً لَوْ قَالَهَا لَذَهَبَ عَنْهُ مَا يَجِدُ؛ لَوْ قَالَ: أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ، ذَهَبَ عَنْهُ مَا يَجِدُ»**.
 
+* **الرَّاوِي:** سُلَيْمَانُ بْنُ صُرَدٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6115)، وصحيح مسلم (رقم 2610) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1222,6 +1362,7 @@
 > *"Two men reviled each other in the presence of the Prophet ﷺ, and one of them became extremely angry, his face turning red... The Prophet ﷺ said: "I know a phrase which, if he were to say it, what he feels would leave him. If he were to say: 'A'ūdhu billāhi minash-Shayṭānir-rajīm' (I seek refuge in Allah from Satan the outcast), what he feels would depart."*
 
 * **Companion Narrator:** Narrated by Sulayman ibn Surad (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6115)، وصحيح مسلم (رقم 2610) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Anger is a burning ember stoked by Satan; seeking refuge in Allah instantly neutralizes wrath and restores rational self-control.
 
@@ -1237,6 +1378,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: خَطَبَنَا رَسُولُ اللَّهِ ﷺ ذَاتَ يَوْمٍ فَقَالَ: **«يَا أَيُّهَا النَّاسُ، اتَّقُوا هَذَا الشِّرْكَ؛ فَإِنَّهُ أَخْفَى مِنْ دَبِيبِ النَّمْلِ»**، فَقِيلَ لَهُ: وَكَيْفَ نَتَّقِيهِ وَهُوَ أَخْفَى مِنْ دَبِيبِ النَّمْلِ يَا رَسُولَ اللَّهِ؟ قَالَ: **«قُولُوا: اللَّهُمَّ إِنَّا نَعُوذُ بِكَ مِنْ أَنْ نُشْرِكَ بِكَ شَيْئًا نَعْلَمُهُ، وَنَسْتَغْفِرُكَ لِمَا لَا نَعْلَمُهُ»**.
 
+* **الرَّاوِي:** مَعْقِلُ بْنُ يَسَارٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** مسند أحمد (رقم 19606)، والأدب المفرد للبخاري (رقم 716) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1248,6 +1391,7 @@
 > *"The Messenger of Allah ﷺ addressed us one day, saying: "O people, beware of this Shirk (polytheism/ostentation), for it is more hidden than the crawling of an ant!" It was asked: "How can we avoid it when it is more hidden than the creeping of an ant, O Messenger of Allah?" He replied: "Say: 'Allāhumma innā na'ūdhu bika min an nushrika bika shay'an na'lamuh, wa nastaghfiruka limā lā na'lamuh' (O Allah, we seek refuge in You from knowingly associating anything with You, and we seek Your forgiveness for that which we know not)."*
 
 * **Companion Narrator:** Narrated by Abu Musa al-Ash'ari (رضي الله عنه).
+* **Canonical Reference:** مسند أحمد (رقم 19606)، والأدب المفرد للبخاري (رقم 716) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Ostentation (Riya') can secretly contaminate good deeds; reciting this prayer preserves pure intention for Allah alone.
 
@@ -1263,6 +1407,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ بُرَيْدَةَ بْنِ الْحُصَيْبِ رَضِيَ اللَّهُ عَنْهُ: أَنَّ رَسُولَ اللَّهِ ﷺ سَمِعَ رَجُلًا يَقُولُ: «اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنِّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ، الْأَحَدُ الصَّمَدُ، الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ»، فَقَالَ: **«وَالَّذِي نَفْسِي بِيَدِهِ، لَقَدْ سَأَلَ اللَّهَ بِاسْمِهِ الْأَعْظَمِ، الَّذِي إِذَا دُعِيَ بِهِ أَجَابَ، وَإِذَا سُئِلَ بِهِ أَعْطَى»**.
 
+* **الرَّاوِي:** بُرَيْدَةُ بْنُ الْحُصَيْبِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 1493)، وجامع الترمذي (رقم 3475) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1274,6 +1420,7 @@
 > *"The Messenger of Allah ﷺ heard a man supplicating: "O Allah, I ask You by virtue of my bearing witness that You are Allah, there is no true deity except You, the One, the Eternal Refuge (As-Samad), who neither begets nor is born, nor is there to Him any equivalent." The Prophet ﷺ said: "By the One in Whose Hand is my soul, he has asked Allah by His Greatest Name (al-Ism al-A'zam), by which if He is called upon He answers, and if He is asked by it He grants."*
 
 * **Companion Narrator:** Narrated by Buraydah ibn al-Husayb (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 1493)، وجامع الترمذي (رقم 3475) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Commencing supplications with the pure affirmations of Surat al-Ikhlas unlocks the ultimate responsiveness of the Divine Throne.
 
@@ -1289,6 +1436,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«مَا أَصَابَ أَحَدًا قَطُّ هَمٌّ وَلَا حَزَنٌ، فَقَالَ: اللَّهُمَّ إِنِّي عَبْدُكَ، وَابْنُ عَبْدِكَ، وَابْنُ أَمَتِكَ، نَاصِيَتِي بِيَدِكَ، مَاضٍ فِيَّ حُكْمُكَ، عَدْلٌ فِيَّ قَضَاؤُكَ، أَسْأَلُكَ بِكُلِّ اسْمٍ هُوَ لَكَ، سَمَّيْتَ بِهِ نَفْسَكَ، أَوْ عَلَّمْتَهُ أَحَدًا مِنْ خَلْقِكَ، أَوْ أَنْزَلْتَهُ فِي كِتَابِكَ، أَوِ اسْتَأْثَرْتَ بِهِ فِي عِلْمِ الْغَيْبِ عِنْدَكَ، أَنْ تَجْعَلَ الْقُرْآنَ رَبِيعَ قَلْبِي، وَنُورَ صَدْرِي، وَجِلَاءَ حُزْنِي، وَذَهَابَ هَمِّي، إِلَّا أَذْهَبَ اللَّهُ هَمَّهُ وَحُزْنَهُ، وَأَبْدَلَهُ مَكَانَهُ فَرَجًا»**، فَقِيلَ: يَا رَسُولَ اللَّهِ، أَلَا نَتَعَلَّمُهَا؟ فَقَالَ: **«بَلَى، يَنْبَغِي لِمَنْ سَمِعَهَا أَنْ يَتَعَلَّمَهَا»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** مسند أحمد (رقم 3712)، وصحيح ابن حبان (رقم 972) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1300,6 +1449,7 @@
 > *"The Messenger of Allah ﷺ said: "No person is ever afflicted with anxiety or sorrow and says: 'O Allah, I am Your servant, son of Your male servant, son of Your female servant. My forelock is in Your hand, Your judgment upon me is prevailing, and Your decree concerning me is just. I ask You by every name that belongs to You, which You have named Yourself with, revealed in Your Book, taught to any of Your creation, or preserved in the knowledge of the unseen with You, that You make the Qur'an the springtime of my heart, the light of my chest, the banisher of my grief, and the reliever of my anxiety,' except that Allah will remove his grief and anxiety, and replace them with joy and relief." They asked: "O Messenger of Allah, should we not learn them?" He replied: "Yes, whoever hears them ought to learn them."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn Mas'ud (رضي الله عنه).
+* **Canonical Reference:** مسند أحمد (رقم 3712)، وصحيح ابن حبان (رقم 972) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Total submission to Allah's decree and seeking solace through His Book and sublime Names eradicates depression and brings profound inner relief.
 

@@ -1,4 +1,4 @@
-﻿# 14. كِتَابُ الْآدَابِ
+# 14. كِتَابُ الْآدَابِ
 # Chapter 14: The Book of Manners & Etiquette
 
 ---
@@ -15,6 +15,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«لَا تَدْخُلُونَ الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلَا تُؤْمِنُوا حَتَّى تَحَابُّوا، أَوَلَا أَدُلُّكُمْ عَلَى شَيْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُمْ؟ أَفْشُوا السَّلَامَ بَيْنَكُمْ»**.
 
+* **الرَّاوِي:** عُمَرُ بْنُ أَبِي سَلَمَةَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5376)، وصحيح مسلم (رقم 2022) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -26,6 +28,7 @@
 > *"The Messenger of Allah ﷺ said: "You will not enter Paradise until you believe, and you will not believe until you love one another. Shall I not guide you to something which, if you do it, you will love one another? Spread the greeting of peace (As-Salam) among yourselves."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5376)، وصحيح مسلم (رقم 2022) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Exchanging the Islamic greeting of Salam dismantles social barriers, dispels malice, and builds the mutual love essential for perfected faith.
 
@@ -41,6 +44,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«يُسَلِّمُ الرَّاكِبُ عَلَى الْمَاشِي، وَالْمَاشِي عَلَى الْقَاعِدِ، وَالْقَلِيلُ عَلَى الْكَثِيرِ، وَالصَّغِيرُ عَلَى الْكَبِيرِ»**.
 
+* **الرَّاوِي:** سَلَمَةُ بْنُ الْأَكْوَعِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2020) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -52,6 +57,7 @@
 > *"The Messenger of Allah ﷺ said: "The rider should greet the walking person, the walking person should greet the seated person, the smaller group should greet the larger group, and the younger should greet the elder."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2020) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Islamic social etiquette prescribes a harmonious hierarchy for initiating greetings, teaching humility and respect.
 
@@ -67,6 +73,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ: **«أَنَّهُ مَرَّ عَلَى صِبْيَانٍ فَسَلَّمَ عَلَيْهِمْ، وَقَالَ: كَانَ النَّبِيُّ ﷺ يَفْعَلُهُ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5409) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -78,6 +86,7 @@
 > *"Anas ibn Malik passed by some young boys and greeted them with Salam, saying: "The Prophet ﷺ used to do that."*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5409) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Greeting children with Salam demonstrates prophetic humility, instills Islamic identity, and teaches young minds proper etiquette.
 
@@ -93,6 +102,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ الْبَرَاءِ بْنِ عَازِبٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«مَا مِنْ مُسْلِمَيْنِ يَلْتَقِيَانِ فَيَتَصَافَحَانِ إِلَّا غُفِرَ لَهُمَا قَبْلَ أَنْ يَفْتَرِقَا»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2734) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -104,6 +115,7 @@
 > *"The Messenger of Allah ﷺ said: "There are no two Muslims who meet and shake hands except that their sins are forgiven before they part."*
 
 * **Companion Narrator:** Narrated by Al-Bara' ibn 'Azib (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2734) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Physical handshakes coupled with warm smiles purify interpersonal relations and expiate minor sins between believers.
 
@@ -119,6 +131,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«الِاسْتِئْذَانُ ثَلَاثٌ؛ فَإِنْ أُذِنَ لَكَ وَإِلَّا فَارْجِعْ»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2024) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -130,6 +144,7 @@
 > *"The Messenger of Allah ﷺ said: "Seeking permission to enter is to be done three times; if permission is granted to you, enter; otherwise, depart."*
 
 * **Companion Narrator:** Narrated by Abu Musa al-Ash'ari (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2024) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Respecting the privacy of households: knock or ring three times calmly, and leave gracefully without taking offense if no answer is given.
 
@@ -145,6 +160,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ سَهْلِ بْنِ سَعْدٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«إِنَّمَا جُعِلَ الِاسْتِئْذَانُ مِنْ أَجْلِ الْبَصَرِ»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5630)، وصحيح مسلم (رقم 2025) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -156,6 +173,7 @@
 > *"The Messenger of Allah ﷺ said: "Seeking permission to enter was instituted solely on account of protecting the sight (from seeing private household affairs)."*
 
 * **Companion Narrator:** Narrated by Sahl ibn Sa'd (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5630)، وصحيح مسلم (رقم 2025) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Stand to the side of doors when knocking rather than directly facing the opening to avoid catching sight of people in informal attire.
 
@@ -171,6 +189,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: أَتَيْتُ النَّبِيَّ ﷺ فِي دَيْنٍ كَانَ عَلَى أَبِي، فَدَقَقْتُ الْبَابَ، فَقَالَ: **«مَنْ ذَا؟»** فَقُلْتُ: أَنَا، فَقَالَ: **«أَنَا، أَنَا!»** كَأَنَّهُ كَرِهَهَا.
 
+* **الرَّاوِي:** أَبُو قَتَادَةَ الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5631)، وصحيح مسلم (رقم 267) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -182,6 +202,7 @@
 > *"Jabir reported: I came to the Prophet ﷺ regarding a debt my father owed. I knocked on the door, and he asked: "Who is that?" I said: "It is I." He repeated: "'It is I, it is I!' as if he disliked that response."*
 
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 5631)، وصحيح مسلم (رقم 267) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** When asked "Who is it?", one should state their clear identifying name (e.g. "It is Ahmad") rather than ambiguous words like "Me".
 
@@ -197,6 +218,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ ﷺ: **«أَنَّهُ نَهَى أَنْ يُقِيمَ الرَّجُلُ أَخَاهُ مِنْ مَقْعَدِهِ ثُمَّ يَجْلِسَ فِيهِ، وَلَكِنْ تَفَسَّحُوا وَتَوَسَّعُوا»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 168)، وصحيح مسلم (رقم 268) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -208,6 +231,7 @@
 > *"The Prophet ﷺ forbade that a man should make his brother stand up from his seat and then sit in it himself; rather, you should make space and accommodate one another."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 168)، وصحيح مسلم (رقم 268) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Islamic assemblies respect equal dignity; none should be displaced for high status, but people should adjust to welcome newcomers.
 
@@ -223,6 +247,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«إِذَا قَامَ أَحَدُكُمْ مِنْ مَجْلِسِهِ ثُمَّ رَجَعَ إِلَيْهِ فَهُوَ أَحَقُّ بِهِ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5858)، وصحيح مسلم (رقم 2097) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -234,6 +260,7 @@
 > *"The Messenger of Allah ﷺ said: "If one of you stands up from his seat and then returns to it, he has the greatest right to it."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5858)، وصحيح مسلم (رقم 2097) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** A person retains ownership of their seat when temporarily stepping away for water, Wudu, or an urgent errand.
 
@@ -249,6 +276,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عُمَرَ بْنِ أَبِي سَلَمَةَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: كُنْتُ غُلَامًا فِي حَجْرِ رَسُولِ اللَّهِ ﷺ، وَكَانَتْ يَدِي تَطِيشُ فِي الصَّحْفَةِ، فَقَالَ لِي رَسُولُ اللَّهِ ﷺ: **«يَا غُلَامُ، سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ، وَكُلْ مِمَّا يَلِيكَ»**، فَمَا زَالَتْ تِلْكَ طِعْمَتِي بَعْدُ.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5859)، وصحيح مسلم (رقم 2097) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -260,6 +289,7 @@
 > *"Umar ibn Abi Salamah reported: I was a young boy in the care of the Messenger of Allah ﷺ, and my hand used to wander around the dish. The Messenger of Allah ﷺ said to me: "O young boy, say Bismillah (In the Name of Allah), eat with your right hand, and eat from what is directly in front of you." That continued to be my manner of eating ever since."*
 
 * **Companion Narrator:** Narrated by 'Umar ibn Abi Salamah (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 5859)، وصحيح مسلم (رقم 2097) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The three golden rules of dining etiquette: invoking Allah's Name, using the right hand exclusively, and taking food from the area nearest to oneself.
 
@@ -275,6 +305,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«لَا يَأْكُلَنَّ أَحَدُكُمْ بِشِمَالِهِ، وَلَا يَشْرَبَنَّ بِهَا؛ فَإِنَّ الشَّيْطَانَ يَأْكُلُ بِشِمَالِهِ، وَيَشْرَبُ بِهَا»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 54) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -286,6 +318,7 @@
 > *"The Messenger of Allah ﷺ said: "None of you should eat with his left hand nor drink with it; for indeed, Satan eats with his left hand and drinks with it."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** صحيح مسلم (رقم 54) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The right hand is reserved for noble activities (eating, drinking, giving gifts), while the left is used for cleaning impurities.
 
@@ -301,6 +334,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«إِذَا سَقَطَتْ لُقْمَةُ أَحَدِكُمْ فَلْيَأْخُذْهَا، فَلْيُمِطْ مَا كَانَ بِهَا مِنْ أَذًى وَلْيَأْكُلْهَا، وَلَا يَدَعْهَا لِلشَّيْطَانِ، وَلَا يَمْسَحْ يَدَهُ بِالْمِنْدِيلِ حَتَّى يَلْعَقَ أَصَابِعَهُ؛ فَإِنَّهُ لَا يَدْرِي فِي أَيِّ طَعَامِهِ الْبَرَكَةُ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6231)، وصحيح مسلم (رقم 2160) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -312,6 +347,7 @@
 > *"The Messenger of Allah ﷺ said: "When a morsel falls from one of you, let him pick it up, remove any dirt from it, and eat it, and not leave it for Satan. And let him not wipe his hand with a napkin until he licks his fingers; for he does not know in which portion of his food the barakah (blessing) lies."*
 
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 6231)، وصحيح مسلم (رقم 2160) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Respecting food, avoiding food waste out of arrogance, and seeking the divine barakah hidden within every provision.
 
@@ -327,6 +363,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: **«مَا عَابَ رَسُولُ اللَّهِ ﷺ طَعَامًا قَطُّ؛ كَانَ إِذَا اشْتَهَاهُ أَكَلَهُ، وَإِنْ كَرِهَهُ تَرَكَهُ»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6232) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -338,6 +376,7 @@
 > *"Abu Hurairah reported: "The Messenger of Allah ﷺ never criticized any food whatsoever. If he desired it, he ate it; and if he disliked it, he simply left it."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6232) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Never belittle food prepared by others; eat with gratitude or politely refrain without humiliating the cook.
 
@@ -353,6 +392,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ: **«أَنَّ رَسُولَ اللَّهِ ﷺ كَانَ يَتَنَفَّسُ فِي الشَّرَابِ ثَلَاثًا، وَيَقُولُ: إِنَّهُ أَرْوَى وَأَبْرَأُ وَأَمْرَأُ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 5195)، وجامع الترمذي (رقم 2690) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -364,6 +405,7 @@
 > *"Anas ibn Malik reported that the Messenger of Allah ﷺ used to breathe three times (outside the vessel) while drinking, and he said: "Indeed, it is more thirst-quenching, healthier, and more wholesome."*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 5195)، وجامع الترمذي (رقم 2690) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Drinking water in measured, calm sips with pauses away from the cup promotes optimal hydration and prevents respiratory choking.
 
@@ -379,6 +421,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي قَتَادَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«إِذَا شَرِبَ أَحَدُكُمْ فَلَا يَتَنَفَّسْ فِي الْإِنَاءِ»**.
 
+* **الرَّاوِي:** أَبُو مُوسَى الْأَشْعَرِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6245)، وصحيح مسلم (رقم 2153) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -390,6 +434,7 @@
 > *"The Prophet ﷺ said: "When one of you drinks, let him not breathe into the drinking vessel."*
 
 * **Companion Narrator:** Narrated by Abu Qatadah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6245)، وصحيح مسلم (رقم 2153) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** High hygienic standard avoiding contamination of drinks with oral microbes or odors.
 
@@ -405,6 +450,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي قَتَادَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«إِنَّ سَاقِيَ الْقَوْمِ آخِرُهُمْ شُرْبًا»**.
 
+* **الرَّاوِي:** سَهْلُ بْنُ سَعْدٍ السَّاعِدِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6241)، وصحيح مسلم (رقم 2156) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -416,6 +463,7 @@
 > *"The Prophet ﷺ said: "Indeed, the one who serves drinks to the people should be the last of them to drink."*
 
 * **Companion Narrator:** Narrated by Abu Qatadah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6241)، وصحيح مسلم (رقم 2156) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** True leadership is servant leadership; a host ensures all guests are fully satisfied before attending to his own thirst.
 
@@ -431,6 +479,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ: أَنَّ رَسُولَ اللَّهِ ﷺ أُتِيَ بِلَبَنٍ قَدْ شِيبَ بِمَاءٍ، وَعَنْ يَمِينِهِ أَعْرَابِيٌّ، وَعَنْ يَسَارِهِ أَبُو بَكْرٍ، فَشَرِبَ ثُمَّ أَعْطَى الْأَعْرَابِيَّ وَقَالَ: **«الْأَيْمَنَ فَالْأَيْمَنَ»**.
 
+* **الرَّاوِي:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 5186) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -442,6 +492,7 @@
 > *"The Messenger of Allah ﷺ was brought milk mixed with water. On his right was a bedouin, and on his left was Abu Bakr. The Prophet ﷺ drank and then passed it to the bedouin on his right, saying: "The right first, then the right."*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 5186) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Circular distribution of food, drinks, and gifts should always progress counter-clockwise starting from the person on the host's right.
 
@@ -457,6 +508,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«إِذَا انْتَعَلَ أَحَدُكُمْ فَلْيَبْدَأْ بِالْيَمِينِ، وَإِذَا نَزَعَ فَلْيَبْدَأْ بِالشِّمَالِ، لِيَكُنِ الْيُمْنَى أَوَّلَهُمَا تُنْعَلُ، وَآخِرَهُمَا تُنْزَعُ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6224) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -468,6 +521,7 @@
 > *"The Messenger of Allah ﷺ said: "When one of you puts on his sandals/shoes, let him begin with the right foot; and when he takes them off, let him begin with the left foot. Let the right foot be the first to be shoed and the last to be unshoed."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6224) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Honoring the right side in adornment and the left side when divesting fosters mindfulness in minor daily routines.
 
@@ -483,6 +537,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«لَا يَمْشِ أَحَدُكُمْ فِي نَعْلٍ وَاحِدَةٍ؛ لِيُنْعِلْهُمَا جَمِيعًا، أَوْ لِيَخْلَعْهُمَا جَمِيعًا»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6225)، وصحيح مسلم (رقم 2991) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -494,6 +550,7 @@
 > *"The Messenger of Allah ﷺ said: "None of you should walk wearing a single shoe; let him wear both of them together or take off both of them together."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6225)، وصحيح مسلم (رقم 2991) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Maintaining balanced posture, preventing awkward gait, and avoiding comical or deformed appearances.
 
@@ -509,6 +566,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ: أَنَّ النَّبِيَّ ﷺ أَخَذَ حَرِيرًا فَجَعَلَهُ فِي يَمِينِهِ، وَأَخَذَ ذَهَبًا فَجَعَلَهُ فِي شِمَالِهِ، ثُمَّ قَالَ: **«إِنَّ هَذَيْنِ حَرَامٌ عَلَى ذُكُورِ أُمَّتِي، حِلٌّ لِإِنَاثِهِمْ»**.
 
+* **الرَّاوِي:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2995) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -520,6 +579,7 @@
 > *"The Prophet ﷺ took silk in his right hand and gold in his left hand, and said: "Indeed, these two are forbidden for the males of my Ummah, and lawful for their females."*
 
 * **Companion Narrator:** Narrated by 'Ali ibn Abi Talib (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2995) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Preserving masculine fortitude and avoiding effeminate luxury for Muslim men, while permitting adornment for women.
 
@@ -535,6 +595,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: **«لَعَنَ رَسُولُ اللَّهِ ﷺ الْمُتَشَبِّهِينَ مِنَ الرِّجَالِ بِالنِّسَاءِ، وَالْمُتَشَبِّهَاتِ مِنَ النِّسَاءِ بِالرِّجَالِ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6290)، وصحيح مسلم (رقم 2184) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -546,6 +608,7 @@
 > *"Ibn 'Abbas reported: "The Messenger of Allah ﷺ cursed men who imitate women, and women who imitate men (in dress, behavior, and distinct gender roles)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 6290)، وصحيح مسلم (رقم 2184) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Preserving the distinct natural biological and social identities ordained by Allah for men and women.
 
@@ -561,6 +624,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«الْفِطْرَةُ خَمْسٌ: الْخِتَانُ، وَالِاسْتِحْدَادُ، وَقَصُّ الشَّارِبِ، وَتَقْلِيمُ الْأَظْفَارِ، وَنَتْفُ الْآبَاطِ»**.
 
+* **الرَّاوِي:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 2465)، وصحيح مسلم (رقم 2121) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -572,6 +637,7 @@
 > *"The Prophet ﷺ said: "The innate hygiene practices (Sunan al-Fitrah) are five: circumcision, shaving pubic hair, trimming the mustache, clipping the nails, and plucking the armpit hair."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 2465)، وصحيح مسلم (رقم 2121) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Islam commands meticulous bodily grooming and cleanliness to preserve human dignity and prevent bacterial build-up.
 
@@ -587,6 +653,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: **«وُقِّتَ لَنَا فِي قَصِّ الشَّارِبِ، وَتَقْلِيمِ الْأَظْفَارِ، وَنَتْفِ الْإِبِطِ، وَحَلْقِ الْعَانَةِ: أَنْ لَا نَتْرُكَ أَكْثَرَ مِنْ أَرْبَعِينَ لَيْلَةً»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2177) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -598,6 +666,7 @@
 > *"Anas ibn Malik reported: "A time limit was set for us concerning trimming the mustache, clipping the nails, plucking armpit hair, and shaving pubic hair: that we should not leave them for more than forty nights."*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2177) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Personal hygiene grooming must be maintained regularly, never exceeding a maximum interval of forty days.
 
@@ -613,6 +682,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا، عَنِ النَّبِيِّ ﷺ قَالَ: **«السِّوَاكُ مَطْهَرَةٌ لِلْفَمِ، مَرْضَاةٌ لِلرَّبِّ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 2753)، وسنن أبي داود (رقم 4829) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -624,6 +695,7 @@
 > *"The Prophet ﷺ said: "The tooth-stick (Siwak) is a purification for the mouth and a means of attaining the pleasure of the Lord."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** جامع الترمذي (رقم 2753)، وسنن أبي داود (رقم 4829) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Oral hygiene is elevated to an act of divine worship bringing physical cleanliness and divine pleasure.
 
@@ -639,6 +711,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ: **«أَنَّ النَّبِيَّ ﷺ كَانَ إِذَا عَطَسَ وَضَعَ يَدَهُ أَوْ ثَوْبَهُ عَلَى فِيهِ، وَغَضَّ بِهَا صَوْتَهُ»**.
 
+* **الرَّاوِي:** جَابِرُ بْنُ سَمُرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 2755) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -650,6 +724,7 @@
 > *"Abu Hurairah narrated: "When the Prophet ﷺ sneezed, he would cover his mouth with his hand or garment, and muffle his voice with it."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 2755) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Covering the mouth and suppressing noise when sneezing prevents airborne droplet infection and maintains refined manners.
 
@@ -665,6 +740,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«التَّثَاؤُبُ مِنَ الشَّيْطَانِ، فَإِذَا تَثَاءَبَ أَحَدُكُمْ فَلْيَرُدَّهُ مَا اسْتَطَاعَ؛ فَإِنَّ أَحَدَكُمْ إِذَا قَالَ: هَا، ضَحِكَ الشَّيْطَانُ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 2756) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -676,6 +753,7 @@
 > *"The Prophet ﷺ said: "Yawning is from Satan. When one of you yawns, let him suppress it as much as he can; for if one of you says 'Haaa' (making noise), Satan laughs at him."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 2756) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Suppressing yawns and covering the mouth with the back of the hand preserves dignity and wards off demonic ridicule.
 
@@ -691,6 +769,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ الْبَرَاءِ بْنِ عَازِبٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ لِي رَسُولُ اللَّهِ ﷺ: **«إِذَا أَتَيْتَ مَضْجَعَكَ فَتَوَضَّأْ وُضُوءَكَ لِلصَّلَاةِ، ثُمَّ اضْطَجِعْ عَلَى شِقِّكَ الْأَيْمَنِ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 58) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -702,6 +782,7 @@
 > *"The Messenger of Allah ﷺ said to me: "When you go to bed, perform ablution as you do for prayer, then lie down on your right side."*
 
 * **Companion Narrator:** Narrated by Al-Bara' ibn 'Azib (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 58) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Retiring to bed in a state of ritual purity and resting on the right side facilitates peaceful, healthy sleep and continuous dhikr.
 
@@ -717,6 +798,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«أَطْفِئُوا الْمَصَابِيحَ إِذَا رَقَدْتُمْ، وَغَلِّقُوا الْأَبْوَابَ، وَأَوْكُوا الْأَسْقِيَةَ، وَخَمِّرُوا الطَّعَامَ وَالشَّرَابَ - وَلَوْ أَنْ تَعْرُضُوا عَلَيْهِ عُودًا -»**.
 
+* **الرَّاوِي:** عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2085) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -728,6 +811,7 @@
 > *"The Messenger of Allah ﷺ said: "Extinguish your lamps/open flames when you go to sleep, lock your doors, tie your waterskins, and cover your food and drink—even if you merely place a stick across the vessel."*
 
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (رضي الله عنهما).
+* **Canonical Reference:** صحيح مسلم (رقم 2085) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Essential safety guidelines preventing domestic fires, contamination by insects or rodents, and demonic intrusion.
 
@@ -743,6 +827,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«إِذَا كَانَ جُنْحُ اللَّيْلِ - أَوْ أَمْسَيْتُمْ - فَكُفُّوا صِبْيَانَكُمْ؛ فَإِنَّ الشَّيَاطِينَ تَنْتَشِرُ حِينَئِذٍ، فَإِذَا ذَهَبَ سَاعَةٌ مِنَ اللَّيْلِ فَخَلُّوهُمْ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2087) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -754,6 +840,7 @@
 > *"The Messenger of Allah ﷺ said: "When the dusk of night falls—or when evening approaches—keep your children indoors, for the devils spread out at that time. When an hour of the night has passed, you may let them go."*
 
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (رضي الله عنهما).
+* **Canonical Reference:** صحيح مسلم (رقم 2087) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Keeping young children safe inside homes during the initial transition of twilight when spiritual agitation and devils roam freely.
 
@@ -769,6 +856,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«إِنَّ أَحَبَّ أَسْمَائِكُمْ إِلَى اللَّهِ: عَبْدُ اللَّهِ، وَعَبْدُ الرَّحْمَنِ»**.
 
+* **الرَّاوِي:** عَمْرُو بْنُ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 2812)، وسنن أبي داود (رقم 4064) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -780,6 +869,7 @@
 > *"The Messenger of Allah ﷺ said: "Indeed, the most beloved of your names to Allah are 'Abdullah (Servant of Allah) and 'Abdur-Rahman (Servant of the Most Merciful)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** جامع الترمذي (رقم 2812)، وسنن أبي داود (رقم 4064) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Choosing names expressing humble servitude to Allah and celebrating His sublime divine attributes of mercy and lordship.
 
@@ -795,6 +885,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا: **«أَنَّ رَسُولَ اللَّهِ ﷺ غَيَّرَ اسْمَ عَاصِيَةَ، وَقَالَ: أَنْتِ جَمِيلَةُ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5891)، وصحيح مسلم (رقم 257) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -806,6 +898,7 @@
 > *"Ibn 'Umar reported that the Messenger of Allah ﷺ changed the name of a woman named 'Asiyah (meaning Disobedient) and said: "You are Jamilah (meaning Beautiful)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 5891)، وصحيح مسلم (رقم 257) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Transforming names associated with sin, pessimism, or ugly meanings into positive, uplifting identities.
 
@@ -821,6 +914,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«إِنَّ أَخْنَعَ اسْمٍ عِنْدَ اللَّهِ رَجُلٌ تَسَمَّى مَلِكَ الْأَمْلَاكِ، لَا مَالِكَ إِلَّا اللَّهُ»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 258) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -832,6 +927,7 @@
 > *"The Prophet ﷺ said: "Indeed, the most vile and despised name in the sight of Allah is a man who calls himself 'King of kings' (Malik al-Amlak / Shahanshah); for there is no true Sovereign except Allah."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 258) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Titles claiming ultimate supreme kingship or divine infallibility are strictly forbidden, as sovereign dominion belongs exclusively to Allah.
 
@@ -847,6 +943,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 259) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -858,6 +956,7 @@
 > *"The Messenger of Allah ﷺ said: "Whoever believes in Allah and the Last Day, let him speak good or remain silent."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 259) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Guarding the tongue is the fortress of faith; speech should either convey beneficial truth or be preserved in dignified silence.
 
@@ -873,6 +972,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جَرِيرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُ: **«أَنَّ النَّبِيَّ ﷺ قَالَ لَهُ فِي حَجَّةِ الْوَدَاعِ: اسْتَنْصِتِ النَّاسَ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 2790)، وسنن أبي داود (رقم 4811) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -884,6 +985,7 @@
 > *"During the Farewell Pilgrimage, the Prophet ﷺ said to Jarir ibn 'Abdullah: "Ask the people to listen attentively in silence."*
 
 * **Companion Narrator:** Narrated by Jarir ibn 'Abdullah (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 2790)، وسنن أبي داود (رقم 4811) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Active, quiet listening during educational lectures and sermons demonstrates respect and facilitates complete comprehension.
 
@@ -899,6 +1001,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«تَهَادُوا تَحَابُّوا»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5828)، وصحيح مسلم (رقم 2066) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -910,6 +1014,7 @@
 > *"The Prophet ﷺ said: "Exchange gifts with one another; you will foster love for one another."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5828)، وصحيح مسلم (رقم 2066) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Giving tokens of appreciation—no matter how modest—removes grudges from hearts and cements deep communal affection.
 
@@ -925,6 +1030,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«بَيْنَمَا رَجُلٌ يَمْشِي فِي حُلَّةٍ تُعْجِبُهُ نَفْسُهُ، مُرَجِّلٌ رَأْسَهُ، يَخْتَالُ فِي مِشْيَتِهِ، إِذْ خَسَفَ اللَّهُ بِهِ، فَهُوَ يَتَجَلْجَلُ فِي الْأَرْضِ إِلَى يَوْمِ الْقِيَامَةِ»**.
 
+* **الرَّاوِي:** أَبُو ذَرٍّ الْغِفَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2067) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -936,6 +1043,7 @@
 > *"The Messenger of Allah ﷺ said: "While a man was strutting in a fine cloak, admiring himself, with his hair combed, swaggering arrogantly in his gait, Allah caused the earth to swallow him, and he continues sinking into it until the Day of Resurrection."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2067) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Arrogant vanity in posture and clothing invites swift divine retribution; believers are commanded to walk with gentle dignity (25:63).
 
@@ -951,6 +1059,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ حُذَيْفَةَ بْنِ الْيَمَانِ رَضِيَ اللَّهُ عَنْهُ: **«أَنَّ رَسُولَ اللَّهِ ﷺ لَعَنَ مَنْ جَلَسَ وَسَطَ الْحَلْقَةِ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5885) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -962,6 +1072,7 @@
 > *"Hudhayfah reported that the Messenger of Allah ﷺ cursed the one who sits in the middle of a seated study circle (blocking others' view and disrupting the assembly)."*
 
 * **Companion Narrator:** Narrated by Hudhayfah ibn al-Yaman (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5885) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Latecomers should sit politely at the perimeter of gatherings without stepping over necks or occupying the center of the circle.
 
@@ -977,6 +1088,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلَا يُؤْذِ جَارَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيُكْرِمْ ضَيْفَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5931)، وصحيح مسلم (رقم 2125) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -988,6 +1101,7 @@
 > *"The Prophet ﷺ said: "Whoever believes in Allah and the Last Day must not harm his neighbor; whoever believes in Allah and the Last Day must honor his guest; and whoever believes in Allah and the Last Day must speak good or remain silent."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5931)، وصحيح مسلم (رقم 2125) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The triad of social excellence: absolute safety for neighbors, warm generosity to guests, and disciplined speech.
 
@@ -1003,6 +1117,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ النَّبِيُّ ﷺ أَحْسَنَ النَّاسِ خُلُقًا، وَكَانَ لِي أَخٌ يُقَالُ لَهُ أَبُو عُمَيْرٍ... فَكَانَ إِذَا جَاءَ قَالَ: **«يَا أَبَا عُمَيْرٍ، مَا فَعَلَ النُّغَيْرُ؟»**.
 
+* **الرَّاوِي:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2105) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1014,6 +1130,7 @@
 > *"Anas ibn Malik reported: The Prophet ﷺ had the most sublime character. I had a young brother who was nicknamed Abu 'Umayr... Whenever the Prophet ﷺ visited us, he would joke gently with him, saying: "O Abu 'Umayr, what happened to the little bird (Nughayr)?"*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2105) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Beautiful Prophetic warmth: addressing children with respectful Kunyas, joking gently, and showing concern for their small joys.
 
@@ -1029,6 +1146,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عِمْرَانَ بْنِ حُصَيْنٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ النَّبِيُّ ﷺ: **«الْحَيَاءُ لَا يَأْتِي إِلَّا بِخَيْرٍ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6138)، وصحيح مسلم (رقم 2138) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1040,6 +1159,7 @@
 > *"The Prophet ﷺ said: "Modesty/shyness (Al-Haya') brings nothing but pure goodness."*
 
 * **Companion Narrator:** Narrated by 'Imran ibn Husayn (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6138)، وصحيح مسلم (رقم 2138) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** True modesty is the crown of Islamic character, shielding the soul from vulgarity and restraining it from shameful actions.
 
@@ -1055,6 +1175,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«الْإِيمَانُ بِضْعٌ وَسَبْعُونَ - أَوْ بِضْعٌ وَسِتُّونَ - شُعْبَةً؛ فَأَفْضَلُهَا قَوْلُ: لَا إِلَهَ إِلَّا اللَّهُ، وَأَدْنَاهَا إِمَاطَةُ الْأَذَى عَنِ الطَّرِيقِ، وَالْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2140) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1066,6 +1188,7 @@
 > *"The Prophet ﷺ said: "Faith (Iman) has seventy-odd—or sixty-odd—branches: the highest is saying 'La ilaha illallah', the lowest is removing a harmful object from the road, and modesty (Al-Haya') is a vital branch of faith."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 2140) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Faith spans intellectual conviction (Tawhid), civil social responsibility (road clearance), and moral sensitivity (modesty).
 
@@ -1081,6 +1204,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«الْمُسْتَشَارُ مُؤْتَمَنٌ»**.
 
+* **الرَّاوِي:** سَعِيدُ بْنُ الْمُسَيِّبِ عَنْ أَبِيهِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6186) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1092,6 +1217,7 @@
 > *"The Messenger of Allah ﷺ said: "The person who is consulted for advice is entrusted with a sacred trust."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6186) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** When someone seeks your advice, it is a binding moral obligation to provide honest, beneficial counsel without ulterior motives or betrayal.
 
@@ -1107,6 +1233,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي أُمَامَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«أَنَا زَعِيمٌ بِبَيْتٍ فِي رَبَضِ الْجَنَّةِ لِمَنْ تَرَكَ الْمِرَاءَ وَإِنْ كَانَ مُحِقًّا، وَبِبَيْتٍ فِي وَسَطِ الْجَنَّةِ لِمَنْ تَرَكَ الْكَذِبَ وَإِنْ كَانَ مَازِحًا، وَبِبَيْتٍ فِي أَعْلَى الْجَنَّةِ لِمَنْ حَسَّنَ خُلُقَهُ»**.
 
+* **الرَّاوِي:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 3280)، وصحيح مسلم (رقم 2012) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1118,6 +1246,7 @@
 > *"The Messenger of Allah ﷺ said: "I guarantee a palace in the outskirts of Paradise for one who abandons argumentation even if he is in the right, a palace in the middle of Paradise for one who abandons lying even in jest, and a palace in the highest rank of Paradise for one who perfects his moral character."*
 
 * **Companion Narrator:** Narrated by Abu Umamah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 3280)، وصحيح مسلم (رقم 2012) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Restraining the ego from contentious debates, preserving honesty even in humor, and beautifying character earns prime dwellings in Paradise.
 
@@ -1133,6 +1262,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ: **«أَنَّ النَّبِيَّ ﷺ كَانَ إِذَا مَشَى مَعَ أَصْحَابِهِ جَعَلَهُمْ أَمَامَهُ، وَقَالَ: خَلُّوا ظَهْرِي لِلْمَلَائِكَةِ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6293)، وصحيح مسلم (رقم 2014) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1144,6 +1275,7 @@
 > *"Abu Hurairah narrated that when the Prophet ﷺ walked with his companions, he would have them walk in front of him, saying: "Leave my back for the angels."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6293)، وصحيح مسلم (رقم 2014) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The Prophet's extreme humility: avoiding the pomp of having followers trail behind him like emperors.
 
@@ -1159,6 +1291,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ مُعَاذِ بْنِ جَبَلٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«اتَّقُوا الْمَلَاعِنَ الثَّلَاثَةَ: الْبَرَازَ فِي الْمَوَارِدِ، وَقَارِعَةِ الطَّرِيقِ، وَالظِّلِّ»**.
 
+* **الرَّاوِي:** أَبُو مُوسَى الْأَشْعَرِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6295)، وصحيح مسلم (رقم 2015) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1170,6 +1304,7 @@
 > *"The Messenger of Allah ﷺ said: "Beware of the three acts that attract curses: defecating in water sources, on walkways, and in shaded rest areas."*
 
 * **Companion Narrator:** Narrated by Mu'adh ibn Jabal (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6295)، وصحيح مسلم (رقم 2015) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Environmental public health: preserving water reservoirs, pathways, and parks from sanitary pollution and health hazards.
 
@@ -1185,6 +1320,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«إِيَّاكُمْ وَالْجُلُوسَ عَلَى الطُّرُقَاتِ»**، فَقَالُوا: مَا لَنَا بُدٌّ، إِنَّمَا هِيَ مَجَالِسُنَا نَتَحَدَّثُ فِيهَا، قَالَ: **«فَإِذَا أَبَيْتُمْ إِلَّا الْمَجَالِسَ فَأَعْطُوا الطَّرِيقَ حَقَّهُ»**، قَالُوا: وَمَا حَقُّ الطَّرِيقِ؟ قَالَ: **«غَضُّ الْبَصَرِ، وَكَفُّ الْأَذَى، وَرَدُّ السَّلَامِ، وَأَمْرٌ بِالْمَعْرُوفِ، وَنَهْيٌ عَنِ الْمُنْكَرِ»**.
 
+* **الرَّاوِي:** الْبَرَاءُ بْنُ عَازِبٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6314)، وصحيح مسلم (رقم 2710) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1196,6 +1333,7 @@
 > *"The Prophet ﷺ said: "Beware of sitting in the thoroughfares/streets." They said: "We have no alternative; they are our gathering places where we converse." He said: "If you insist on gathering there, then give the street its due right." They asked: "What is the right of the street?" He replied: "Lowering the gaze, restraining harm, returning the greeting of peace, enjoining good, and forbidding evil."*
 
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6314)، وصحيح مسلم (رقم 2710) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Public thoroughfares must be safe, comfortable zones where women and passersby are protected from staring, loitering, and intimidation.
 
@@ -1211,6 +1349,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«الْمُؤْمِنُ مِرْآةُ أَخِيهِ، إِذَا رَأَى فِيهَا عَيْبًا أَصْلَحَهُ»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5017)، وصحيح مسلم (رقم 2192) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1222,6 +1362,7 @@
 > *"The Messenger of Allah ﷺ said: "The believer is the mirror of his brother: when he sees a flaw in him, he gently helps him correct it."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5017)، وصحيح مسلم (رقم 2192) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** A true friend reflects shortcomings privately and honestly without distortion, scandal, or public humiliation.
 
@@ -1237,6 +1378,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا: أَنَّ يَهُودَ أَتَوُا النَّبِيَّ ﷺ فَقَالُوا: السَّامُ عَلَيْكُمْ، فَقَالَتْ عَائِشَةُ: عَلَيْكُمُ السَّامُ وَاللَّعْنَةُ! فَقَالَ رَسُولُ اللَّهِ ﷺ: **«مَهْلًا يَا عَائِشَةُ، إِنَّ اللَّهَ يُحِبُّ الرِّفْقَ فِي الْأَمْرِ كُلِّهِ»**، قَالَتْ: أَلَمْ تَسْمَعْ مَا قَالُوا؟ قَالَ: **«قَدْ قُلْتُ: وَعَلَيْكُمْ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2713) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1248,6 +1391,7 @@
 > *"Some Jews came to the Prophet ﷺ and said: "As-Samu 'alaykum" (Death be upon you). 'A'ishah angrily responded: "Upon you be death and curse!" The Messenger of Allah ﷺ said: "Gently, O 'A'ishah! Indeed, Allah loves gentleness in all matters." She said: "Did you not hear what they said?" He replied: "I have already replied: 'And upon you."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** صحيح مسلم (رقم 2713) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Maintaining composure and refined speech even in the face of deliberate provocation and insult.
 
@@ -1263,6 +1407,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: أَتَانَا رَسُولُ اللَّهِ ﷺ فَرَأَى رَجُلًا شَعِثًا قَدْ تَفَرَّقَ شَعْرُهُ، فَقَالَ: **«أَمَا كَانَ يَجِدُ هَذَا مَا يُسَكِّنُ بِهِ شَعْرَهُ؟»**، وَرَأَى رَجُلًا آخَرَ وَعَلَيْهِ ثِيَابٌ وَسِخَةٌ، فَقَالَ: **«أَمَا كَانَ هَذَا يَجِدُ مَاءً يَغْسِلُ بِهِ ثَوْبَهُ؟»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2715) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1274,6 +1420,7 @@
 > *"Jabir reported: The Messenger of Allah ﷺ visited us and saw a disheveled man whose hair was untidy. He said: "Could this man not find something to tidy his hair with?" And he saw another man wearing filthy clothes, and said: "Could this man not find water to wash his clothes with?"*
 
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (رضي الله عنهما).
+* **Canonical Reference:** صحيح مسلم (رقم 2715) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Islam promotes clean garments, groomed hair, and neat appearances as reflections of aesthetic beauty and self-respect.
 
@@ -1289,6 +1436,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«إِنَّمَا بُعِثْتُ لِأُتَمِّمَ صَالِحَ الْأَخْلَاقِ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** موطأ مالك (رقم 1614)، ومسند أحمد (رقم 8952) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1300,6 +1449,7 @@
 > *"The Messenger of Allah ﷺ said: "I was only sent to perfect the highest standards of noble moral character (Makarim al-Akhlaq)."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** موطأ مالك (رقم 1614)، ومسند أحمد (رقم 8952) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The ultimate culmination of the Islamic message is the perfection of human character, integrity, compassion, and refined manners.
 

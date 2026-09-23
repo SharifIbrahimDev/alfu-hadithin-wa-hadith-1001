@@ -1,4 +1,4 @@
-﻿# Chapter 20: Book of Tribulations, Signs of the Hour & The Final Journey
+# Chapter 20: Book of Tribulations, Signs of the Hour & The Final Journey
 # كِتَابُ الْفِتَنِ وَأَشْرَاطِ السَّاعَةِ وَالْبَعْثِ
 
 ---

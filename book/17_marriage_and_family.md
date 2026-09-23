@@ -1,4 +1,4 @@
-﻿# 17. كِتَابُ النِّكَاحِ وَحُقُوقِ الْأُسْرَةِ
+# 17. كِتَابُ النِّكَاحِ وَحُقُوقِ الْأُسْرَةِ
 # Chapter 17: The Book of Marriage & Family Rights
 
 ---
@@ -15,6 +15,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: كُنَّا مَعَ النَّبِيِّ ﷺ شَبَابًا لَا نَجِدُ شَيْئًا، فَقَالَ لَنَا رَسُولُ اللَّهِ ﷺ: **«يَا مَعْشَرَ الشَّبَابِ، مَنِ اسْتَطَاعَ مِنْكُمُ الْبَاءَةَ فَلْيَتَزَوَّجْ؛ فَإِنَّهُ أَغَضُّ لِلْبَصَرِ، وَأَحْصَنُ لِلْفَرْجِ، وَمَنْ لَمْ يَسْتَطِعْ فَعَلَيْهِ بِالصَّوْمِ؛ فَإِنَّهُ لَهُ وِجَاءٌ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5066)، وصحيح مسلم (رقم 1400) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -26,6 +28,7 @@
 > *"The Messenger of Allah ﷺ said to us: "O young men! Whoever among you possesses the financial and physical capability to marry (Al-Ba'ah), let him marry; for indeed, it lowers the gaze and safeguards chastity. And whoever is unable to do so, let him fast; for fasting is a protective shield (Wija') for him."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn Mas'ud (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5066)، وصحيح مسلم (رقم 1400) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Marriage is an essential prophetic institution preserving chastity and mental peace; fasting acts as a spiritual brake for those temporarily unable to marry.
 
@@ -41,6 +44,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ: أَنَّ نَفَرًا مِنْ أَصْحَابِ النَّبِيِّ ﷺ سَأَلُوا عَنْ عِبَادَتِهِ فِي السِّرِّ... فَقَالَ بَعْضُهُمْ: أَنَا لَا أَتَزَوَّجُ النِّسَاءَ... فَقَالَ النَّبِيُّ ﷺ: **«أَمَا وَاللَّهِ إِنِّي لَأَخْشَاكُمْ لِلَّهِ وَأَتْقَاكُمْ لَهُ، لَكِنِّي أَصُومُ وَأُفْطِرُ، وَأُصَلِّي وَأَرْقُدُ، وَأَتَزَوَّجُ النِّسَاءَ، فَمَنْ رَغِبَ عَنْ سُنَّتِي فَلَيْسَ مِنِّي»**.
 
+* **الرَّاوِي:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5063)، وصحيح مسلم (رقم 1401) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -52,6 +57,7 @@
 > *"Some companions inquired about the private worship of the Prophet ﷺ... One of them said: "I will never marry women!" The Prophet ﷺ said: "As for me, by Allah, I am the most fearful of Allah among you and the most conscious of Him; yet I fast and break my fast, I pray and I sleep, and I marry women. Whoever turns away from my Sunnah is not of me."*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5063)، وصحيح مسلم (رقم 1401) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Islam firmly rejects monastic celibacy; balanced piety embraces family life, wholesome physical intimacy, and domestic responsibilities.
 
@@ -67,6 +73,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«تُنْكَحُ الْمَرْأَةُ لِأَرْبَعٍ: لِمَالِهَا، وَلِحَسَبِهَا، وَلِجَمَالِهَا، وَلِدِينِهَا، فَاظْفَرْ بِذَاتِ الدِّينِ تَرِبَتْ يَدَاكَ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5090)، وصحيح مسلم (رقم 1466) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -78,6 +86,7 @@
 > *"The Prophet ﷺ said: "A woman is sought in marriage for four reasons: for her wealth, her lineage, her beauty, and her religious commitment. So attain success by choosing the woman of religious commitment, may your hands be blessed with dust (prosper)!"*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5090)، وصحيح مسلم (رقم 1466) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** While beauty and wealth are permissible factors, moral integrity and sincere piety form the only enduring foundation for marital bliss.
 
@@ -93,6 +102,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا: أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«الدُّنْيَا مَتَاعٌ، وَخَيْرُ مَتَاعِ الدُّنْيَا الْمَرْأَةُ الصَّالِحَةُ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 1467) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -104,6 +115,7 @@
 > *"The Messenger of Allah ﷺ said: "The whole world is a provision, and the best provision of this world is a righteous wife."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Amr (رضي الله عنهما).
+* **Canonical Reference:** صحيح مسلم (رقم 1467) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** A pious, supportive, loving spouse is the crowning earthly treasure, bringing spiritual tranquility and domestic harmony.
 
@@ -119,6 +131,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«إِذَا خَطَبَ إِلَيْكُمْ مَنْ تَرْضَوْنَ دِينَهُ وَخُلُقَهُ فَزَوِّجُوهُ، إِلَّا تَفْعَلُوا تَكُنْ فِتْنَةٌ فِي الْأَرْضِ، وَفَسَادٌ عَرِيضٌ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 1084)، وسنن ابن ماجه (رقم 1967) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -130,6 +144,7 @@
 > *"The Messenger of Allah ﷺ said: "If there comes to you a suitor with whose religious commitment and moral character you are pleased, marry your daughter to him. If you do not do so, there will be tribulation on earth and widespread corruption."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 1084)، وسنن ابن ماجه (رقم 1967) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Guardians must prioritize faith and ethical integrity over material wealth or social snobbery when arranging marriages.
 
@@ -145,6 +160,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ رَضِيَ اللَّهُ عَنْهُ: أَنَّهُ خَطَبَ امْرَأَةً، فَقَالَ النَّبِيُّ ﷺ: **«انْظُرْ إِلَيْهَا؛ فَإِنَّهُ أَحْرَى أَنْ يُؤْدَمَ بَيْنَكُمَا»**.
 
+* **الرَّاوِي:** الْمُغِيرَةُ بْنُ شُعْبَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 1087)، وسنن النسائي (رقم 3235) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -156,6 +173,7 @@
 > *"Al-Mughirah ibn Shu'bah proposed to a woman, and the Prophet ﷺ said to him: "Look at her, for it is more likely to foster lasting love and harmony between you two."*
 
 * **Companion Narrator:** Narrated by Al-Mughirah ibn Shu'bah (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 1087)، وسنن النسائي (رقم 3235) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Legitimacy and wisdom of mutual visual evaluation before finalizing engagement to ensure physical attraction and mutual compatibility.
 
@@ -171,6 +189,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ النَّبِيَّ ﷺ قَالَ: **«لَا تُنْكَحُ الْأَيِّمُ حَتَّى تُسْتَأْمَرَ، وَلَا تُنْكَحُ الْبِكْرُ حَتَّى تُسْتَأْذَنَ»**، قَالُوا: يَا رَسُولَ اللَّهِ، وَكَيْفَ إِذْنُهَا؟ قَالَ: **«أَنْ تَسْكُتَ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5136)، وصحيح مسلم (رقم 1419) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -182,6 +202,7 @@
 > *"The Prophet ﷺ said: "A previously married woman (matron) must not be married until her explicit consent is sought, and a virgin must not be married until her permission is sought." They asked: "O Messenger of Allah, what is her permission?" He said: "Her silence (due to shyness)."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5136)، وصحيح مسلم (رقم 1419) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Forced marriages are strictly invalid in Islam; the bride's genuine, willing consent is an absolute legal prerequisite.
 
@@ -197,6 +218,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ خَنْسَاءَ بِنْتِ خِذَامٍ الْأَنْصَارِيَّةِ رَضِيَ اللَّهُ عَنْهَا: **«أَنَّ أَبَاهَا زَوَّجَهَا وَهِيَ ثَيِّبٌ، فَكَرِهَتْ ذَلِكَ، فَأَتَتْ رَسُولَ اللَّهِ ﷺ فَرَدَّ نِكَاحَهُ»**.
 
+* **الرَّاوِي:** خَنْسَاءُ بِنْتُ خِدَامٍ الْأَنْصَارِيَّةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5138) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -208,6 +231,7 @@
 > *"Khansa' bint Khidham reported that her father married her off against her will when she was a matron. She came to the Messenger of Allah ﷺ complaining, and he officially annulled and invalidated her father's marriage contract."*
 
 * **Companion Narrator:** Narrated by Khansa' bint Khidham (رضي الله عنها).
+* **Canonical Reference:** صحيح البخاري (رقم 5138) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The legal precedent established by the Prophet ﷺ confirming that women possess full legal agency to reject unwanted coerced marriages.
 
@@ -223,6 +247,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«لَا نِكَاحَ إِلَّا بِوَلِيٍّ»**.
 
+* **الرَّاوِي:** أَبُو مُوسَى الْأَشْعَرِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 2083)، وجامع الترمذي (رقم 1101) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -234,6 +260,7 @@
 > *"The Messenger of Allah ﷺ said: "There is no valid marriage contract without a guardian (Wali)."*
 
 * **Companion Narrator:** Narrated by Abu Musa al-Ash'ari (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 2083)، وجامع الترمذي (رقم 1101) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The involvement of the bride's guardian protects her legal rights, verifies the suitor's character, and integrates the union into family structure.
 
@@ -249,6 +276,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا، عَنِ النَّبِيِّ ﷺ قَالَ: **«إِنَّ أَعْظَمَ النِّكَاحِ بَرَكَةً أَيْسَرُهُ مَئُونَةً»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** مسند أحمد (رقم 24595)، ومستدرك الحاكم (رقم 2692) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -260,6 +289,7 @@
 > *"The Prophet ﷺ said: "Indeed, the marriage with the greatest divine blessing (Barakah) is the one with the easiest financial burden/expenses."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** مسند أحمد (رقم 24595)، ومستدرك الحاكم (رقم 2692) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Discouraging extravagant dowries and exorbitant wedding parties; keeping wedding costs affordable invites long-lasting divine barakah.
 
@@ -275,6 +305,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ رَضِيَ اللَّهُ عَنْهُ: أَنَّ امْرَأَةً عَرَضَتْ نَفْسَهَا عَلَى النَّبِيِّ ﷺ... فَقَالَ رَجُلٌ: يَا رَسُولَ اللَّهِ، زَوِّجْنِيهَا... فَقَالَ: **«الْتَمِسْ وَلَوْ خَاتَمًا مِنْ حَدِيدٍ»** فَلَمْ يَجِدْ، فَقَالَ: **«مَعَكَ مِنَ الْقُرْآنِ شَيْءٌ؟»** قَالَ: نَعَمْ؛ سُورَةُ كَذَا وَسُورَةُ كَذَا، قَالَ: **«قَدْ زَوَّجْتُكَهَا بِمَا مَعَكَ مِنَ الْقُرْآنِ»**.
 
+* **الرَّاوِي:** سَهْلُ بْنُ سَعْدٍ السَّاعِدِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5029)، وصحيح مسلم (رقم 1425) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -286,6 +318,7 @@
 > *"A woman offered herself in marriage to the Prophet ﷺ... A poor companion asked to marry her. The Prophet ﷺ said: "Search for a dowry, even if it be an iron ring." He found nothing. The Prophet ﷺ asked: "Do you memorize anything from the Qur'an?" He replied: "Yes, such-and-such Surahs." The Prophet ﷺ said: "I have married her to you for the dowry of what you know of the Qur'an (that you will teach her)."*
 
 * **Companion Narrator:** Narrated by Sahl ibn Sa'd (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5029)، وصحيح مسلم (رقم 1425) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Dowry (Mahr) is symbolic of honor and provision; it can be tangible or intangible (such as religious education), preventing financial obstacles to marriage.
 
@@ -301,6 +334,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ: أَنَّ النَّبِيَّ ﷺ رَأَى عَلَى عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ أَثَرَ صُفْرَةٍ، فَقَالَ: **«مَهْيَمْ؟»** قَالَ: يَا رَسُولَ اللَّهِ، إِنِّي تَزَوَّجْتُ امْرَأَةً عَلَى وَزْنِ نَوَاةٍ مِنْ ذَهَبٍ، قَالَ: **«فَبَارَكَ اللَّهُ لَكَ، أَوْلِمْ وَلَوْ بِشَاةٍ»**.
 
+* **الرَّاوِي:** عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5155)، وصحيح مسلم (رقم 1427) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -312,6 +347,7 @@
 > *"The Prophet ﷺ noticed the yellow traces of perfume on 'Abdur-Rahman ibn 'Awf and asked: "What is this?" He said: "O Messenger of Allah, I have married a woman with a dowry of the weight of a date-stone in gold." The Prophet ﷺ said: "May Allah bless you! Host a wedding banquet (Walimah), even if with a single sheep."*
 
 * **Companion Narrator:** Narrated by Anas ibn Malik (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5155)، وصحيح مسلم (رقم 1427) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Hosting a joyous community meal (Walimah) to celebrate and publicly announce the marriage is an authentic Sunnah.
 
@@ -327,6 +363,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«إِذَا دُعِيَ أَحَدُكُمْ إِلَى الْوَلِيمَةِ فَلْيَأْتِهَا»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5173)، وصحيح مسلم (رقم 1429) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -338,6 +376,7 @@
 > *"The Messenger of Allah ﷺ said: "When one of you is invited to a wedding banquet (Walimah), let him attend."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 5173)، وصحيح مسلم (رقم 1429) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Accepting the invitation to a brother's wedding banquet is a binding social duty honoring the host, unless there are religious violations present.
 
@@ -353,6 +392,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّهُ كَانَ يَقُولُ: **«شَرُّ الطَّعَامِ طَعَامُ الْوَلِيمَةِ؛ يُدْعَى إِلَيْهَا الْأَغْنِيَاءُ وَيُتْرَكُ الْفُقَرَاءُ، وَمَنْ تَرَكَ الدَّعْوَةَ فَقَدْ عَصَى اللَّهَ وَرَسُولَهُ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5177)، وصحيح مسلم (رقم 1432) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -364,6 +405,7 @@
 > *"Abu Hurairah reported that the Prophet ﷺ said: "The worst food is the food of a wedding feast to which the rich are exclusively invited and the poor are neglected. And whoever refuses an invitation has disobeyed Allah and His Messenger."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5177)، وصحيح مسلم (رقم 1432) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Elite social snobbery at banquets is condemned; weddings must welcome the poor and destitute alongside dignitaries.
 
@@ -379,6 +421,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي ذَرٍّ رَضِيَ اللَّهُ عَنْهُ: أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«...وَفِي بُضْعِ أَحَدِكُمْ صَدَقَةٌ»**، قَالُوا: يَا رَسُولَ اللَّهِ، أَيَأْتِي أَحَدُنَا شَهْوَتَهُ وَيَكُونُ لَهُ فِيهَا أَجْرٌ؟ قَالَ: **«أَرَأَيْتُمْ لَوْ وَضَعَهَا فِي حَرَامٍ أَكَانَ عَلَيْهِ فِيهَا وِزْرٌ؟ فَكَذَلِكَ إِذَا وَضَعَهَا فِي الْحَلَالِ كَانَ لَهُ أَجْرٌ»**.
 
+* **الرَّاوِي:** أَبُو ذَرٍّ الْغِفَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 1006) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -390,6 +434,7 @@
 > *"The Messenger of Allah ﷺ said: "...And in the intimate sexual relations of one of you with his spouse there is charity." They asked: "O Messenger of Allah, does one of us satisfy his physical desire and receive a spiritual reward for it?" He said: "Do you not see that if he fulfilled it unlawfully, he would bear a sin? Likewise, when he fulfills it lawfully, he receives a reward."*
 
 * **Companion Narrator:** Narrated by Abu Dharr al-Ghifari (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 1006) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Islam sanctifies natural desires within the bounds of marriage, transforming intimate love into an act of divine worship and rewarded charity.
 
@@ -405,6 +450,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«إِنَّ مِنْ أَعْظَمِ النَّاسِ عِنْدَ اللَّهِ مَنْزِلَةً - فِي شَرِّ الْمَنْزِلَةِ - يَوْمَ الْقِيَامَةِ: الرَّجُلَ يُفْضِي إِلَى امْرَأَتِهِ، وَتُفْضِي إِلَيْهِ، ثُمَّ يَنْشُرُ سِرَّهَا»**.
 
+* **الرَّاوِي:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 1437) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -416,6 +463,7 @@
 > *"The Messenger of Allah ﷺ said: "Indeed, among the worst people in station before Allah on the Day of Resurrection is a man who is intimate with his wife and she with him, and then he spreads her intimate secrets to others."*
 
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 1437) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Marital intimacy is a sacred privacy; discussing bedroom matters with friends is a vile betrayal of trust.
 
@@ -431,6 +479,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«اسْتَوْصُوا بِالنِّسَاءِ خَيْرًا؛ فَإِنَّ الْمَرْأَةَ خُلِقَتْ مِنْ ضِلَعٍ، وَإِنَّ أَعْوَجَ شَيْءٍ فِي الضِّلَعِ أَعْلَاهُ، فَإِنْ ذَهَبْتَ تُقِيمُهُ كَسَرْتَهُ، وَإِنْ تَرَكْتَهُ لَمْ يَزَلْ أَعْوَجَ، فَاسْتَوْصُوا بِالنِّسَاءِ خَيْرًا»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5186)، وصحيح مسلم (رقم 1468) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -442,6 +492,7 @@
 > *"The Messenger of Allah ﷺ said: "Treat women with kind advice and care; for indeed, woman was created from a rib, and the most curved part of a rib is its top. If you try to straighten it forcefully, you will break it; and if you leave it, it remains curved. So treat women with goodness and kindness."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5186)، وصحيح مسلم (رقم 1468) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Demanding rigid perfection from spouses destroys marriages; husbands must show emotional intelligence, tenderness, and patience with natural temperaments.
 
@@ -457,6 +508,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ مُعَاوِيَةَ بْنِ حَيْدَةَ الْقُشَيْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قُلْتُ: يَا رَسُولَ اللَّهِ، مَا حَقُّ زَوْجَةِ أَحَدِنَا عَلَيْهِ؟ قَالَ: **«أَنْ تُطْعِمَهَا إِذَا طَعِمْتَ، وَتَكْسُوَهَا إِذَا اكْتَسَيْتَ، وَلَا تَضْرِبِ الْوَجْهَ، وَلَا تُقَبِّحْ، وَلَا تَهْجُرْ إِلَّا فِي الْبَيْتِ»**.
 
+* **الرَّاوِي:** مُعَاوِيَةُ بْنُ حَيْدَةَ الْقُشَيْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 2142)، وسنن ابن ماجه (رقم 1850) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -468,6 +521,7 @@
 > *"Mu'awiyah ibn Haydah asked: "O Messenger of Allah, what is the right of the wife of one of us upon him?" The Prophet ﷺ replied: "That you feed her when you eat, clothe her when you clothe yourself, never strike her on the face, never insult her with vile language, and do not boycott her except within the house."*
 
 * **Companion Narrator:** Narrated by Mu'awiyah ibn Haydah (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 2142)، وسنن ابن ماجه (رقم 1850) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The legal rights of the wife: fair financial maintenance, absolute physical and verbal safety from abuse, and resolution of disputes with private dignity.
 
@@ -483,6 +537,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ الْأَسْوَدِ قَالَ: سَأَلْتُ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا: مَا كَانَ النَّبِيُّ ﷺ يَصْنَعُ فِي بَيْتِهِ؟ قَالَتْ: **«كَانَ يَكُونُ فِي مِهْنَةِ أَهْلِهِ - تَعْنِي خِدْمَةَ أَهْلِهِ - فَإِذَا حَضَرَتِ الصَّلَاةُ خَرَجَ إِلَى الصَّلَاةِ»**.
 
+* **الرَّاوِي:** الْأَسْوَدُ بْنُ يَزِيدَ عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 676) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -494,6 +550,7 @@
 > *"Al-Aswad asked 'A'ishah: "What did the Prophet ﷺ use to do in his home?" She replied: "He would be engaged in the service of his family (cleaning, mending shoes, assisting in chores); and when the time for prayer came, he would go out to pray."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** صحيح البخاري (رقم 676) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Prophetic masculinity is expressed through humble assistance in domestic chores rather than authoritarian detachment.
 
@@ -509,6 +566,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا: **«أَنَّهَا كَانَتْ مَعَ النَّبِيِّ ﷺ فِي سَفَرٍ، قَالَتْ: فَسَابَقْتُهُ فَسَبَقْتُهُ عَلَى رِجْلَيَّ، فَلَمَّا حَمَلْتُ اللَّحْمَ سَابَقْتُهُ فَسَبَقَنِي، فَقَالَ: هَذِهِ بِتِلْكَ السَّبْقَةِ»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 2578)، وسنن ابن ماجه (رقم 1979) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -520,6 +579,7 @@
 > *"A'ishah reported that while on a journey with the Prophet ﷺ: "I raced him on foot and I won. Later, when I had gained weight, I raced him again and he won. He smiled and said: 'This victory makes up for that earlier race!"*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** سنن أبي داود (رقم 2578)، وسنن ابن ماجه (رقم 1979) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Cultivating romance, cheerful playfulness, and athletic fun between spouses strengthens emotional bonding.
 
@@ -535,6 +595,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«إِذَا صَلَّتِ الْمَرْأَةُ خَمْسَهَا، وَصَامَتْ شَهْرَهَا، وَحَصَّنَتْ فَرْجَهَا، وَأَطَاعَتْ بَعْلَهَا، دَخَلَتْ مِنْ أَيِّ أَبْوَابِ الْجَنَّةِ شَاءَتْ»**.
 
+* **الرَّاوِي:** عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** مسند أحمد (رقم 1661)، وصحيح ابن حبان (رقم 4163) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -546,6 +608,7 @@
 > *"The Messenger of Allah ﷺ said: "When a woman prays her five daily prayers, fasts her month of Ramadan, guards her chastity, and obeys her husband (in goodness), she will enter Paradise through whichever of its gates she desires."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** مسند أحمد (رقم 1661)، وصحيح ابن حبان (رقم 4163) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** The concise, beautiful pathway to Paradise for a Muslim woman: fulfilling core worship, guarding chastity, and fostering marital harmony.
 
@@ -561,6 +624,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«مَنْ كَانَتْ لَهُ امْرَأَتَانِ فَمَالَ إِلَى إِحْدَاهُمَا، جَاءَ يَوْمَ الْقِيَامَةِ وَشِقُّهُ مَائِلٌ»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 2133)، وجامع الترمذي (رقم 1141) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -572,6 +637,7 @@
 > *"The Prophet ﷺ said: "Whoever has two wives and tilts unjustly in favor of one of them over the other, will come on the Day of Resurrection with half of his body drooping/paralyzed."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** سنن أبي داود (رقم 2133)، وجامع الترمذي (رقم 1141) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Severe warning against favoritism in polygynous marriages; strict material equality in time, lodging, and maintenance is an absolute obligation.
 
@@ -587,6 +653,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ: **«أَنَّ رَسُولَ اللَّهِ ﷺ نَهَى عَنْ مُتْعَةِ النِّسَاءِ يَوْمَ خَيْبَرَ، وَعَنْ أَكْلِ لُحُومِ الْحُمُرِ الْإِنْسِيَّةِ»**.
 
+* **الرَّاوِي:** عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5115)، وصحيح مسلم (رقم 1407) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -598,6 +666,7 @@
 > *"Ali ibn Abi Talib reported that the Messenger of Allah ﷺ permanently forbade temporary marriage (Mut'ah) on the Day of Khaybar, and he forbade eating the meat of domestic donkeys."*
 
 * **Companion Narrator:** Narrated by 'Ali ibn Abi Talib (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5115)، وصحيح مسلم (رقم 1407) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Marriage in Islam must be entered with permanent, honorable intention; temporary contract unions are strictly prohibited.
 
@@ -613,6 +682,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا: أَنَّ امْرَأَةَ ثَابِتِ بْنِ قَيْسٍ أَتَتِ النَّبِيَّ ﷺ فَقَالَتْ: يَا رَسُولَ اللَّهِ، ثَابِتُ بْنُ قَيْسٍ، مَا أَعْتِبُ عَلَيْهِ فِي خُلُقٍ وَلَا دِينٍ، وَلَكِنِّي أَكْرَهُ الْكُفْرَ فِي الْإِسْلَامِ، فَقَالَ رَسُولُ اللَّهِ ﷺ: **«أَتَرُدِّينَ عَلَيْهِ حَدِيقَتَهُ؟»** قَالَتْ: نَعَمْ، قَالَ رَسُولُ اللَّهِ ﷺ: **«اقْبَلِ الْحَدِيقَةَ وَطَلِّقْهَا تَطْلِيقَةً»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5273) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -624,6 +695,7 @@
 > *"The wife of Thabit ibn Qays came to the Prophet ﷺ and said: "O Messenger of Allah, I do not find fault with Thabit concerning his character or religious commitment, but I fear ungratefulness/disobedience in Islam (inability to fulfill marital duties due to lack of attraction)." The Messenger of Allah ﷺ asked: "Will you return to him the garden he gave you as a dowry?" She said: "Yes." The Prophet ﷺ said to Thabit: "Accept the garden and grant her a divorce."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 5273) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Islam grants women the legal right to seek marital release (Khul') through mutual financial settlement when emotional incompatibility makes life together untenable.
 
@@ -639,6 +711,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اللَّهِ ﷺ: **«الْوَلَدُ لِلْفِرَاشِ، وَلِلْعَاهِرِ الْحَجَرُ»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 2053)، وصحيح مسلم (رقم 1457) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -650,6 +724,7 @@
 > *"The Messenger of Allah ﷺ said: "The child belongs to the lawful marital bed, and for the adulterer is the stone (deprivation and punishment)."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** صحيح البخاري (رقم 2053)، وصحيح مسلم (رقم 1457) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Islamic jurisprudence fiercely protects the legitimacy of lineage, attributing any child born within a valid marriage to the lawful husband.
 
@@ -665,6 +740,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ النَّبِيُّ ﷺ فِي بِنْتِ حَمْزَةَ: **«لَا تَحِلُّ لِي؛ يَحْرُمُ مِنَ الرَّضَاعِ مَا يَحْرُمُ مِنَ النَّسَبِ، هِيَ بِنْتُ أَخِي مِنَ الرَّضَاعَةِ»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 2645)، وصحيح مسلم (رقم 1444) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -676,6 +753,7 @@
 > *"The Prophet ﷺ said concerning the daughter of Hamzah: "She is not lawful for me to marry; for whatever is prohibited through blood relations is likewise prohibited through suckling (Rada'ah); she is the daughter of my foster-brother."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 2645)، وصحيح مسلم (رقم 1444) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Breastfeeding during infancy establishes sacred foster-kinship, creating permanent marital prohibitions identical to blood relations.
 
@@ -691,6 +769,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرٍ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ»**.
 
+* **الرَّاوِي:** عَمْرُو بْنُ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 495)، وجامع الترمذي (رقم 407) — حديث حسن صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -702,6 +782,7 @@
 > *"The Messenger of Allah ﷺ said: "Command your children to pray when they reach seven years of age; discipline them (firmly without injury) concerning it when they reach ten; and separate their sleeping beds."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Amr (رضي الله عنهما).
+* **Canonical Reference:** سنن أبي داود (رقم 495)، وجامع الترمذي (رقم 407) — حديث حسن صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Gradual pedagogical training in religious discipline from age seven establishes lifelong devotional habits and preserves modesty at home.
 
@@ -717,6 +798,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: دَخَلَتِ امْرَأَةٌ مَعَهَا ابْنَتَانِ لَهَا تَسْأَلُ، فَلَمْ تَجِدْ عِنْدِي شَيْئًا غَيْرَ تَمْرَةٍ وَاحِدَةٍ، فَأَعْطَيْتُهَا إِيَّاهَا، فَقَسَمَتْهَا بَيْنَ ابْنَتَيْهَا وَلَمْ تَأْكُلْ مِنْهَا، ثُمَّ قَامَتْ فَخَرَجَتْ، فَدَخَلَ النَّبِيُّ ﷺ عَلَيْنَا فَأَخْبَرْتُهُ فَقَالَ: **«مَنِ ابْتُلِيَ مِنْ هَذِهِ الْبَنَاتِ بِشَيْءٍ كُنَّ لَهُ سِتْرًا مِنَ النَّارِ»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2631) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -728,6 +811,7 @@
 > *"A'ishah reported: A poor mother entered with her two daughters begging for food. I found nothing except a single date, which I gave her. She divided it between her two daughters and ate none of it herself, then stood and left. When the Prophet ﷺ entered, I told him, and he said: "Whoever is tested with daughters and treats them with loving kindness, they will be a shield for him from the Fire."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** صحيح مسلم (رقم 2631) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Loving, self-sacrificing care for daughters erects an impenetrable barrier between parents and the Hellfire.
 
@@ -743,6 +827,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي مَسْعُودٍ الْبَدْرِيِّ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: **«إِذَا أَنْفَقَ الرَّجُلُ عَلَى أَهْلِهِ يَحْتَسِبُهَا، فَهِيَ لَهُ صَدَقَةٌ»**.
 
+* **الرَّاوِي:** ثَوْبَانُ مَوْلَى رَسُولِ اللَّهِ ﷺ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 995) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -754,6 +840,7 @@
 > *"The Prophet ﷺ said: "When a man spends upon his family seeking Allah's reward, it is recorded for him as an act of charity."*
 
 * **Companion Narrator:** Narrated by Abu Mas'ud al-Badri (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 995) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Providing groceries, housing, and comforts for one's wife and children with righteous intention is an ongoing, highly rewarded form of worship.
 
@@ -769,6 +856,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ لَهُ: **«...وَإِنَّكَ لَنْ تُنْفِقَ نَفَقَةً تَبْتَغِي بِهَا وَجْهَ اللَّهِ إِلَّا أُجِرْتَ عَلَيْهَا، حَتَّى مَا تَجْعَلُ فِي فَمِ امْرَأَتِكَ»**.
 
+* **الرَّاوِي:** سَعْدُ بْنُ أَبِي وَقَّاصٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 56)، وصحيح مسلم (رقم 1628) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -780,6 +869,7 @@
 > *"The Messenger of Allah ﷺ said: "...And you will never spend any expenditure seeking thereby the Countenance of Allah except that you will be rewarded for it, even the single morsel of food that you place in the mouth of your wife."*
 
 * **Companion Narrator:** Narrated by Sa'd ibn Abi Waqqas (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 56)، وصحيح مسلم (رقم 1628) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Marital affection and feeding one's spouse with love and playfulness is directly rewarded by the Lord of the Worlds.
 
@@ -795,6 +885,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا: أَنَّ امْرَأَةً قَالَتْ: يَا رَسُولَ اللَّهِ، إِنَّ ابْنِي هَذَا كَانَ بَطْنِي لَهُ وِعَاءً، وَثَدْيِي لَهُ سِقَاءً، وَحِجْرِي لَهُ حِوَاءً، وَإِنَّ أَبَاهُ طَلَّقَنِي، وَأَرَادَ أَنْ يَنْتَزِعَهُ مِنِّي، فَقَالَ لَهَا رَسُولُ اللَّهِ ﷺ: **«أَنْتِ أَحَقُّ بِهِ مَا لَمْ تَنْكِحِي»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 2276)، ومستدرك الحاكم (رقم 2830) — إسناد حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -806,6 +898,7 @@
 > *"A woman came and said: "O Messenger of Allah, my womb was a vessel for this son of mine, my breast was his drink, and my lap was his home; now his father has divorced me and wants to snatch him away from me!" The Messenger of Allah ﷺ said to her: "You have greater right to custody of him as long as you do not remarry."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Amr (رضي الله عنهما).
+* **Canonical Reference:** سنن أبي داود (رقم 2276)، ومستدرك الحاكم (رقم 2830) — إسناد حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Primary child custody after divorce is assigned to the mother due to her innate maternal tenderness and nurturing capability.
 
@@ -821,6 +914,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا، فِي خُطْبَةِ حَجَّةِ الْوَدَاعِ، أَنَّ النَّبِيَّ ﷺ قَالَ: **«فَاتَّقُوا اللَّهَ فِي النِّسَاءِ؛ فَإِنَّكُمْ أَخَذْتُمُوهُنَّ بِأَمَانِ اللَّهِ، وَاسْتَحْلَلْتُمْ فُرُوجَهُنَّ بِكَلِمَةِ اللَّهِ»**.
 
+* **الرَّاوِي:** عُقْبَةُ بْنُ عَامِرٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 2721)، وصحيح مسلم (رقم 1418) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -832,6 +927,7 @@
 > *"In his historic Farewell Sermon, the Prophet ﷺ declared: "Fear Allah concerning women! For you have taken them into your custody by the sacred trust of Allah, and you have made intimacy with them lawful through the Word of Allah."*
 
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 2721)، وصحيح مسلم (رقم 1418) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Marriage is a sacred covenant backed by the guarantee of Allah; abusing or betraying a spouse is a direct violation of divine trust.
 
@@ -847,6 +943,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«الْأَيِّمُ أَحَقُّ بِنَفْسِهَا مِنْ وَلِيِّهَا، وَالْبِكْرُ تُسْتَأْذَنُ فِي نَفْسِهَا، وَإِذْنُهَا صُمَاتُهَا»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 2095)، ومسند أحمد (رقم 23157) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -858,6 +956,7 @@
 > *"The Messenger of Allah ﷺ said: "The matron has greater right to decide concerning herself than her guardian, and the virgin must be consulted regarding herself, and her consent is her silence."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (رضي الله عنهما).
+* **Canonical Reference:** سنن أبي داود (رقم 2095)، ومسند أحمد (رقم 23157) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Complete respect for female autonomy in marital choices, prohibiting forced matrimonial arrangements.
 
@@ -873,6 +972,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ ثَوْبَانَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«أَيُّمَا امْرَأَةٍ سَأَلَتْ زَوْجَهَا طَلَاقًا فِي غَيْرِ مَا بَأْسٍ، فَحَرَامٌ عَلَيْهَا رَائِحَةُ الْجَنَّةِ»**.
 
+* **الرَّاوِي:** ثَوْبَانُ مَوْلَى رَسُولِ اللَّهِ ﷺ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 1187)، وسنن أبي داود (رقم 2226) — حديث حسن.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -884,6 +985,7 @@
 > *"The Messenger of Allah ﷺ said: "Any woman who asks her husband for a divorce without any legitimate harm or severe necessity, the fragrance of Paradise is forbidden for her."*
 
 * **Companion Narrator:** Narrated by Thawban (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 1187)، وسنن أبي داود (رقم 2226) — حديث حسن.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Preserving family stability by forbidding frivolous divorce demands, while preserving legal recourse when genuine harm exists.
 
@@ -899,6 +1001,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«إِنَّ إِبْلِيسَ يَضَعُ عَرْشَهُ عَلَى الْمَاءِ، ثُمَّ يَبْعَثُ سَرَايَاهُ... فَيَجِيءُ أَحَدُهُمْ فَيَقُولُ: مَا تَرَكْتُهُ حَتَّى فَرَّقْتُ بَيْنَهُ وَبَيْنَ امْرَأَتِهِ، قَالَ: فَيُدْنِيهِ مِنْهُ وَيَقُولُ: نِعْمَ أَنْتَ»**.
 
+* **الرَّاوِي:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 2813) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -910,6 +1014,7 @@
 > *"The Messenger of Allah ﷺ said: "Indeed, Iblis places his throne upon the waters and sends out his detachments... One of them comes and says: 'I did not leave him until I caused separation between him and his wife!' Iblis draws him close and says: 'How excellent you are!' and crowns him."*
 
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (رضي الله عنهما).
+* **Canonical Reference:** صحيح مسلم (رقم 2813) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Spousal breakdown and divorce are Satan's greatest strategic victories; protecting marital harmony is an act of spiritual warfare against demonic schemes.
 
@@ -925,6 +1030,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا: **«أَنَّ رَسُولَ اللَّهِ ﷺ كَانَ يَقْسِمُ بَيْنَ نِسَائِهِ فَيَعْدِلُ، وَيَقُولُ: اللَّهُمَّ هَذَا قَسْمِي فِيمَا أَمْلِكُ، فَلَا تَلُمْنِي فِيمَا تَمْلِكُ وَلَا أَمْلِكُ»** (يَعْنِي مَيْلَ الْقَلْبِ).
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** سنن أبي داود (رقم 2134)، وجامع الترمذي (رقم 1140) — صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -936,6 +1043,7 @@
 > *"A'ishah reported that the Messenger of Allah ﷺ used to distribute his time equally among his wives with strict justice, and he would pray: "O Allah, this is my division in what I possess (time, maintenance, housing); so do not blame me for that which You possess and I do not possess (the involuntary inclination of the heart)."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** سنن أبي داود (رقم 2134)، وجامع الترمذي (رقم 1140) — صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Strict external fairness in material distribution is legally required, while uncontrollable emotional feelings of the heart are excused by Allah.
 
@@ -951,6 +1059,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ: **«أَنَّ رَسُولَ اللَّهِ ﷺ نَهَى أَنْ تُنْكَحَ الْمَرْأَةُ عَلَى عَمَّتِهَا، أَوْ عَلَى خَالَتِهَا»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5109)، وصحيح مسلم (رقم 1408) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -962,6 +1072,7 @@
 > *"Abu Hurairah reported that the Messenger of Allah ﷺ forbade that a woman be married concurrently with her paternal aunt or her maternal aunt."*
 
 * **Companion Narrator:** Narrated by Abu Hurairah (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5109)، وصحيح مسلم (رقم 1408) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Islamic family law strictly prevents co-wives from being close blood relatives (sisters, aunts) to prevent co-wife jealousy from destroying sacred family ties.
 
@@ -977,6 +1088,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَمْرِو بْنِ الْأَحْوَصِ رَضِيَ اللَّهُ عَنْهُ: أَنَّ النَّبِيَّ ﷺ قَالَ فِي حَجَّةِ الْوَدَاعِ: **«أَلَا وَاسْتَوْصُوا بِالنِّسَاءِ خَيْرًا؛ فَإِنَّمَا هُنَّ عَوَانٌ عِنْدَكُمْ، لَيْسَ تَمْلِكُونَ مِنْهُنَّ شَيْئًا غَيْرَ ذَلِكَ... أَلَا وَإِنَّ لَكُمْ عَلَى نِسَائِكُمْ حَقًّا، وَلِنِسَائِكُمْ عَلَيْكُمْ حَقًّا»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 1453) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -988,6 +1101,7 @@
 > *"The Prophet ﷺ said in his Farewell Address: "Beware! Treat women with the utmost kindness; for they are partners entrusted to your care... Indeed, you have rights over your wives, and your wives have rights over you."*
 
 * **Companion Narrator:** Narrated by 'Amr ibn al-Ahwas (رضي الله عنه).
+* **Canonical Reference:** صحيح مسلم (رقم 1453) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Marriage is a mutually balanced partnership of reciprocal rights, requiring perpetual justice, respect, and compassionate protection.
 
@@ -1003,6 +1117,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ مُعَاوِيَةَ بْنِ جَاهِمَةَ السَّلَمِيِّ: أَنَّ جَاهِمَةَ جَاءَ إِلَى النَّبِيِّ ﷺ فَقَالَ: يَا رَسُولَ اللَّهِ أَرَدْتُ أَنْ أَغْزُوَ، وَقَدْ جِئْتُ أَسْتَشِيرُكَ، فَقَالَ: **«هَلْ لَكَ مِنْ أُمٍّ؟»** قَالَ: نَعَمْ، قَالَ: **«فَالْزَمْهَا؛ فَإِنَّ الْجَنَّةَ تَحْتَ رِجْلَيْهَا»**.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5971)، وصحيح مسلم (رقم 2548) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1014,6 +1130,7 @@
 > *"Jahimah came to the Prophet ﷺ and said: "O Messenger of Allah, I intend to join the military expedition and have come to consult you." The Prophet ﷺ asked: "Do you have a living mother?" He replied: "Yes." The Prophet ﷺ said: "Then stay devoted to her feet; for indeed, Paradise lies beneath her feet!"*
 
 * **Companion Narrator:** Narrated by Mu'awiyah ibn Jahimah as-Salami (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 5971)، وصحيح مسلم (رقم 2548) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Devoted filial submission and humble service to one's mother is the direct gateway to entering Paradise.
 
@@ -1029,6 +1146,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عُقْبَةَ بْنِ عَامِرٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«أَحَقُّ الشُّرُوطِ أَنْ تُوفُوا بِهِ، مَا اسْتَحْلَلْتُمْ بِهِ الْفُرُوجَ»**.
 
+* **الرَّاوِي:** عُقْبَةُ بْنُ عَامِرٍ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 2721) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1040,6 +1159,7 @@
 > *"The Messenger of Allah ﷺ said: "The most binding conditions that you are obligated to fulfill are those by which you have made marital intimacy lawful (stipulations in the marriage contract)."*
 
 * **Companion Narrator:** Narrated by 'Uqbah ibn 'Amir (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 2721) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Special contractual stipulations agreed upon during the marriage contract (e.g. housing conditions, non-relocation) are religiously binding upon the husband.
 
@@ -1055,6 +1175,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا: **«أَنَّ رَسُولَ اللَّهِ ﷺ نَهَى عَنِ الشِّغَارِ»**، وَالشِّغَارُ: أَنْ يُزَوِّجَ الرَّجُلُ ابْنَتَهُ عَلَى أَنْ يُزَوِّجَهُ الْآخَرُ ابْنَتَهُ، وَلَيْسَ بَيْنَهُمَا صَدَاقٌ.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5112)، وصحيح مسلم (رقم 1415) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1066,6 +1188,7 @@
 > *"Ibn 'Umar reported: "The Messenger of Allah ﷺ forbade Shighar." Shighar is when a man marries his daughter to another man on condition that the other marries his daughter to him, with neither of them paying a dowry."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 5112)، وصحيح مسلم (رقم 1415) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Islamic law outlaws transactional bartering of women without independent consent and individual dowries.
 
@@ -1081,6 +1204,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: **«لَعَنَ رَسُولُ اللَّهِ ﷺ الْمُحَلِّلَ وَالْمُحَلَّلَ لَهُ»**.
 
+* **الرَّاوِي:** عَلِيُّ بْنُ أَبِي طَالِبٍ وَابْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 1119)، وسنن ابن ماجه (رقم 1936) — حديث حسن صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1092,6 +1217,7 @@
 > *"Abdullah ibn Mas'ud reported: "The Messenger of Allah ﷺ cursed the Muhallil (the man who enters a sham marriage with a thrice-divorced woman to make her lawful for her ex-husband) and the Muhallal lahu (the ex-husband who arranges it)."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn Mas'ud (رضي الله عنه).
+* **Canonical Reference:** جامع الترمذي (رقم 1119)، وسنن ابن ماجه (رقم 1936) — حديث حسن صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Fake, temporary sham marriages arranged to circumvent three irrevocable divorces are cursed abominations in Islamic law.
 
@@ -1107,6 +1233,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ ﷺ قَالَ: **«كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ: الْإِمَامُ رَاعٍ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 893)، وصحيح مسلم (رقم 1829) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1118,6 +1246,7 @@
 > *"The Prophet ﷺ said: "Every one of you is a shepherd and every one of you is responsible for his flock: the ruler is a shepherd and responsible for his subjects; the man is a shepherd over his household and responsible for his flock; and the woman is a shepherdess in the home of her husband and responsible for her flock."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 893)، وصحيح مسلم (رقم 1829) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Domestic leadership is founded on shared, defined responsibilities where both spouses are held accountable before Allah for nurturing the family.
 
@@ -1133,6 +1262,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«مَنْ كَانَ لَهُ ثَلَاثُ بَنَاتٍ، أَوْ ثَلَاثُ أَخَوَاتٍ، أَوِ ابْنَتَانِ، أَوْ أُخْتَانِ، فَأَحْسَنَ صُحْبَتَهُنَّ، وَاتَّقَى اللَّهَ فِيهِنَّ، فَلَهُ الْجَنَّةُ»**.
 
+* **الرَّاوِي:** سَهْلُ بْنُ سَعْدٍ السَّاعِدِيُّ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6005) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1144,6 +1275,7 @@
 > *"The Messenger of Allah ﷺ said: "Whoever has three daughters, or three sisters, or two daughters, or two sisters, and treats them with loving kindness and fears Allah concerning them, will enter Paradise."*
 
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (رضي الله عنه).
+* **Canonical Reference:** صحيح البخاري (رقم 6005) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Supporting, educating, and honoring female dependents (daughters or sisters) is an immediate passport to Paradise.
 
@@ -1159,6 +1291,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ أُمِّ خَالِدٍ بِنْتِ خَالِدٍ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: أُتِيَ النَّبِيُّ ﷺ بِثِيَابٍ فِيهَا خَمِيصَةٌ سَوْدَاءُ صَغِيرَةٌ... فَقَالَ: **«ائْتُونِي بِأُمِّ خَالِدٍ»** فَأُتِيَ بِي، فَأَلْبَسَهَا بِيَدِهِ وَقَالَ: **«أَبْلِي وَأَخْلِقِي»** مَرَّتَيْنِ، وَجَعَلَ يَنْظُرُ إِلَى عَلَمِ الْخَمِيصَةِ، وَيُشِيرُ بِيَدِهِ إِلَيَّ وَيَقُولُ: **«يَا أُمَّ خَالِدٍ، هَذَا سَنَاهْ»**، وَسَنَاهْ بِالْحَبَشِيَّةِ: حَسَنٌ.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5997)، وصحيح مسلم (رقم 2318) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1170,6 +1304,7 @@
 > *"Umm Khalid reported: Clothes were brought to the Prophet ﷺ including a small black silk cloak with embroidered borders... He said: "Bring me Umm Khalid." I was brought as a small girl, and he dressed me with his own hands, saying: "May you wear it out and replace it with new garments!" He looked at the colorful patterns and said to me in the Abyssinian language: "O Umm Khalid, this is Sanah!"—and 'Sanah' in Abyssinian means beautiful."*
 
 * **Companion Narrator:** Narrated by Umm Khalid bint Khalid (رضي الله عنها).
+* **Canonical Reference:** صحيح البخاري (رقم 5997)، وصحيح مسلم (رقم 2318) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Exquisite Prophetic tenderness: dressing young children with affection, praying for their long life, and speaking to them in their familiar tongue to delight them.
 
@@ -1185,6 +1320,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: **«مَا غِرْتُ عَلَى امْرَأَةٍ لِلنَّبِيِّ ﷺ مَا غِرْتُ عَلَى خَدِيجَةَ؛ لِكَثْرَةِ ذِكْرِ رَسُولِ اللَّهِ ﷺ إِيَّاهَا، وَلَقَدْ كَانَ يَذْبَحُ الشَّاةَ ثُمَّ يُقَطِّعُهَا أَعْضَاءً، ثُمَّ يَبْعَثُهَا فِي صَدَائِقِ خَدِيجَةَ»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 3818)، وصحيح مسلم (رقم 2435) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1196,6 +1333,7 @@
 > *"A'ishah narrated: "I never felt jealous of any wife of the Prophet ﷺ as I felt jealous of Khadijah, due to the frequency with which the Messenger of Allah ﷺ mentioned her. Whenever he slaughtered a sheep, he would cut it into pieces and send them to the female friends of Khadijah."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** صحيح البخاري (رقم 3818)، وصحيح مسلم (رقم 2435) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Unshakable loyalty: honoring the memory, family, and lifelong companions of a deceased spouse.
 
@@ -1211,6 +1349,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: جَاءَتِ امْرَأَةُ سَعْدِ بْنِ الرَّبِيعِ بِابْنَتَيْهَا مِنْ سَعْدٍ إِلَى رَسُولِ اللَّهِ ﷺ... فَقَالَ رَسُولُ اللَّهِ ﷺ لِعَمِّهِمَا: **«أَعْطِ ابْنَتَيْ سَعْدٍ الثُّلُثَيْنِ، وَأَعْطِ أُمَّهُمَا الثُّمُنَ، وَمَا بَقِيَ فَهُوَ لَكَ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 6723) — سورة النساء: 12.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1222,6 +1362,7 @@
 > *"The widow of Sa'd ibn ar-Rabi' brought her two daughters to the Prophet ﷺ seeking their inheritance rights. The Prophet ﷺ commanded the uncle: "Give the two daughters of Sa'd two-thirds, give their mother one-eighth, and whatever remains is for you."*
 
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 6723) — سورة النساء: 12.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Revolutionary Islamic inheritance legislation securing independent property rights and guaranteed financial estates for widows and orphaned daughters.
 
@@ -1237,6 +1378,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **«كَفَى بِالْمَرْءِ إِثْمًا أَنْ يُضَيِّعَ مَنْ يَقُوتُ»**.
 
+* **الرَّاوِي:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
+* **التَّخْرِيجُ:** صحيح البخاري (رقم 5200)، وصحيح مسلم (رقم 1829) — متفق عليه.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1248,6 +1391,7 @@
 > *"The Messenger of Allah ﷺ said: "It is sufficient sin for a person that he neglects and abandons those whom he is obligated to sustain."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (رضي الله عنهما).
+* **Canonical Reference:** صحيح البخاري (رقم 5200)، وصحيح مسلم (رقم 1829) — متفق عليه.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Willful financial or emotional neglect of one's children and family dependents is a grave mortal sin.
 
@@ -1263,6 +1407,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: قَالَ لِي رَسُولُ اللَّهِ ﷺ: **«إِنِّي لَأَعْلَمُ إِذَا كُنْتِ عَنِّي رَاضِيَةً، وَإِذَا كُنْتِ عَلَيَّ غَضْبَى»**، قَالَتْ: فَقُلْتُ: مِنْ أَيْنَ تَعْرِفُ ذَلِكَ؟ فَقَالَ: **«أَمَّا إِذَا كُنْتِ عَنِّي رَاضِيَةً، فَإِنَّكِ تَقُولِينَ: لَا وَرَبِّ مُحَمَّدٍ، وَإِذَا كُنْتِ عَلَيَّ غَضْبَى، قُلْتِ: لَا وَرَبِّ إِبْرَاهِيمَ»**، قَالَتْ: قُلْتُ: أَجَلْ وَاللَّهِ يَا رَسُولَ اللَّهِ، مَا أَهْجُرُ إِلَّا اسْمَكَ.
 
+* **الرَّاوِي:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
+* **التَّخْرِيجُ:** صحيح مسلم (رقم 1469) — المكتبة الشاملة.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1274,6 +1420,7 @@
 > *"A'ishah reported that the Messenger of Allah ﷺ said to her: "I know when you are pleased with me and when you are upset with me." She asked: "From where do you know that?" He said: "When you are pleased with me, you swear: 'No, by the Lord of Muhammad!' And when you are upset with me, you swear: 'No, by the Lord of Ibrahim!'" She said: "Yes, by Allah, O Messenger of Allah! I only leave your name (while love for you remains firmly in my heart)."*
 
 * **Companion Narrator:** Narrated by 'A'ishah (رضي الله عنها).
+* **Canonical Reference:** صحيح مسلم (رقم 1469) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** Emotional sensitivity and sweet psychological insight into spousal moods, responding to subtle annoyance with gentle understanding.
 
@@ -1289,6 +1436,8 @@
 > **نَصُّ الْحَدِيثِ بِالتَّشْكِيلِ:**  
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ ﷺ قَالَ: **«خَيْرُكُمْ خَيْرُكُمْ لِأَهْلِهِ، وَأَنَا خَيْرُكُمْ لِأَهْلِي»**.
 
+* **الرَّاوِي:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
+* **التَّخْرِيجُ:** جامع الترمذي (رقم 3895)، وسنن ابن ماجه (رقم 1977) — حديث حسن صحيح.
 * **الْحُكْمُ:** صَحِيحٌ (Sahih)
 
 </div>
@@ -1300,6 +1449,7 @@
 > *"The Prophet ﷺ said: "The best among you are those who are the best to their families, and I am the best among you to my family."*
 
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (رضي الله عنهما).
+* **Canonical Reference:** جامع الترمذي (رقم 3895)، وسنن ابن ماجه (رقم 1977) — حديث حسن صحيح.
 * **Scholarly Grading:** **صَحِيحٌ (Sahih)**
 * **Key Lessons & Takeaways:** True Islamic nobility, piety, and honor are proven within the privacy of family life through patience, generosity, affection, and exemplary leadership.
 

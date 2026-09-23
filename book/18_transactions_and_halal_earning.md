@@ -1,4 +1,4 @@
-﻿# Chapter 18: Book of Transactions, Halal Earning & Financial Integrity
+# Chapter 18: Book of Transactions, Halal Earning & Financial Integrity
 # كِتَابُ الْمُعَامَلَاتِ وَالْبُيُوعِ وَالْكَسْبِ الْحَلَالِ
 
 ---
