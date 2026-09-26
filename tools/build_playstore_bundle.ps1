@@ -66,7 +66,7 @@ if (Test-Path $BundlePath) {
     Write-Host "  Output Location: $BundlePath" -ForegroundColor White
     Write-Host "  File Size:       $SizeMB MB" -ForegroundColor White
     Write-Host "  Target Platform: Android (Google Play Store)" -ForegroundColor White
-    Write-Host "  Package ID:      com.sharifibrahim.alfuhadithin" -ForegroundColor White
+    Write-Host "  Package ID:      com.sharifibrahimdev.alfuhadithin" -ForegroundColor White
     Write-Host "`nNext Step: Upload this .aab file to Google Play Console following PLAY_STORE_GUIDE.md" -ForegroundColor Cyan
 } else {
     Write-Host "`n[ERROR] Bundle file not found at expected path: $BundlePath" -ForegroundColor Red
