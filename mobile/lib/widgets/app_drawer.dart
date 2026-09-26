@@ -6,6 +6,7 @@ import '../providers/app_provider.dart';
 import '../screens/hadith_reader_screen.dart';
 import '../screens/book_reader_screen.dart';
 import '../screens/pdf_viewer_screen.dart';
+import '../screens/bibliography_screen.dart';
 
 class AppDrawer extends StatelessWidget {
   final int currentTabIndex;
@@ -233,6 +234,21 @@ class AppDrawer extends StatelessWidget {
                         context,
                         MaterialPageRoute(
                           builder: (_) => const PdfViewerScreen(),
+                        ),
+                      );
+                    },
+                  ),
+                  _DrawerItem(
+                    icon: Icons.library_books_rounded,
+                    iconColor: const Color(0xFF14B8A6),
+                    title: 'Source Bibliography',
+                    subtitle: '39 Canonical Hadith authorities',
+                    onTap: () {
+                      Navigator.pop(context);
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) => const BibliographyScreen(),
                         ),
                       );
                     },

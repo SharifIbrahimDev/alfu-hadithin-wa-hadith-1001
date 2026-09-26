@@ -10,6 +10,7 @@ import 'package:share_plus/share_plus.dart';
 
 import '../models/chapter.dart';
 import '../models/hadith.dart';
+import '../models/bibliography_item.dart';
 import 'hadith_service.dart';
 
 class PdfExportService {
@@ -398,6 +399,169 @@ class PdfExportService {
         ),
       );
     }
+
+    // ==========================================
+    // 5. CANONICAL BIBLIOGRAPHY (39 AUTHORITIES)
+    // ==========================================
+    onProgress?.call(0.96, 'Compiling 39-Source Canonical Bibliography...');
+
+    final bibItems = BibliographyData.items;
+    pdf.addPage(
+      pw.MultiPage(
+        pageFormat: PdfPageFormat.a4,
+        theme: theme,
+        header: (context) {
+          return pw.Container(
+            padding: const pw.EdgeInsets.only(bottom: 6),
+            margin: const pw.EdgeInsets.only(bottom: 10),
+            decoration: const pw.BoxDecoration(
+              border: pw.Border(bottom: pw.BorderSide(color: PdfColors.grey300, width: 0.8)),
+            ),
+            child: pw.Row(
+              mainAxisAlignment: pw.MainAxisAlignment.spaceBetween,
+              children: [
+                pw.Text(
+                  '1001 Authentic Hadith • Canonical Bibliography & Sources',
+                  style: pw.TextStyle(font: englishFont, fontSize: 8, color: PdfColors.grey600),
+                ),
+                pw.Text(
+                  'أَهَمُّ مَرَاجِعِ الْكِتَابِ وَأُمَّهَاتُ كُتُبِ السُّنَّةِ',
+                  textDirection: pw.TextDirection.rtl,
+                  style: pw.TextStyle(font: arabicFont, fontSize: 8.5, color: primaryColor),
+                ),
+              ],
+            ),
+          );
+        },
+        footer: (context) {
+          return pw.Container(
+            padding: const pw.EdgeInsets.only(top: 6),
+            margin: const pw.EdgeInsets.only(top: 8),
+            decoration: const pw.BoxDecoration(
+              border: pw.Border(top: pw.BorderSide(color: PdfColors.grey300, width: 0.8)),
+            ),
+            child: pw.Row(
+              mainAxisAlignment: pw.MainAxisAlignment.spaceBetween,
+              children: [
+                pw.Text(
+                  'Alfu Hadithin Wa Hadith • Ibrahim Sharif Abubakar',
+                  style: pw.TextStyle(font: englishFont, fontSize: 7.5, color: PdfColors.grey500),
+                ),
+                pw.Text(
+                  'Page ${context.pageNumber} of ${context.pagesCount}',
+                  style: pw.TextStyle(font: englishBoldFont, fontSize: 7.5, color: primaryColor),
+                ),
+              ],
+            ),
+          );
+        },
+        build: (context) {
+          final widgets = <pw.Widget>[];
+
+          widgets.add(
+            pw.Container(
+              width: double.infinity,
+              padding: const pw.EdgeInsets.all(14),
+              margin: const pw.EdgeInsets.only(bottom: 16),
+              decoration: pw.BoxDecoration(
+                color: secondaryColor,
+                borderRadius: pw.BorderRadius.circular(8),
+              ),
+              child: pw.Column(
+                crossAxisAlignment: pw.CrossAxisAlignment.center,
+                children: [
+                  pw.Text(
+                    'أَهَمُّ مَرَاجِعِ الْكِتَابِ وَأُمَّهَاتُ كُتُبِ السُّنَّةِ وَشُرُوحِهَا الْمُعْتَمَدَةِ',
+                    textDirection: pw.TextDirection.rtl,
+                    style: pw.TextStyle(font: arabicBoldFont, fontSize: 15, color: PdfColors.white),
+                  ),
+                  pw.SizedBox(height: 4),
+                  pw.Text(
+                    'CANONICAL BIBLIOGRAPHY & SCHOLARLY SOURCES (39 PRIMARY AUTHORITIES)',
+                    style: pw.TextStyle(font: englishBoldFont, fontSize: 10, color: goldColor, letterSpacing: 1.0),
+                  ),
+                  pw.SizedBox(height: 2),
+                  pw.Text(
+                    'Indexed and cross-referenced via Maktaba Shamela',
+                    style: pw.TextStyle(font: englishFont, fontSize: 8, color: PdfColors.white),
+                  ),
+                ],
+              ),
+            ),
+          );
+
+          for (var item in bibItems) {
+            widgets.add(
+              pw.Container(
+                padding: const pw.EdgeInsets.all(8),
+                margin: const pw.EdgeInsets.only(bottom: 6),
+                decoration: pw.BoxDecoration(
+                  color: lightBgColor,
+                  borderRadius: pw.BorderRadius.circular(6),
+                  border: pw.Border.all(color: PdfColors.grey300, width: 0.5),
+                ),
+                child: pw.Row(
+                  crossAxisAlignment: pw.CrossAxisAlignment.start,
+                  children: [
+                    pw.Container(
+                      width: 22,
+                      height: 18,
+                      alignment: pw.Alignment.center,
+                      decoration: pw.BoxDecoration(color: primaryColor, borderRadius: pw.BorderRadius.circular(3)),
+                      child: pw.Text('${item.id}', style: pw.TextStyle(font: englishBoldFont, fontSize: 8, color: PdfColors.white)),
+                    ),
+                    pw.SizedBox(width: 8),
+                    pw.Expanded(
+                      child: pw.Column(
+                        crossAxisAlignment: pw.CrossAxisAlignment.start,
+                        children: [
+                          pw.Row(
+                            mainAxisAlignment: pw.MainAxisAlignment.spaceBetween,
+                            children: [
+                              pw.Text(
+                                item.titleEn,
+                                style: pw.TextStyle(font: englishBoldFont, fontSize: 8.5, color: secondaryColor),
+                              ),
+                              pw.Text(
+                                item.titleAr,
+                                textDirection: pw.TextDirection.rtl,
+                                style: pw.TextStyle(font: arabicBoldFont, fontSize: 9, color: primaryColor),
+                              ),
+                            ],
+                          ),
+                          pw.SizedBox(height: 2),
+                          pw.Row(
+                            mainAxisAlignment: pw.MainAxisAlignment.spaceBetween,
+                            children: [
+                              pw.Text(
+                                'Author: ${item.authorEn} (${item.deathYear})',
+                                style: pw.TextStyle(font: englishFont, fontSize: 7.5, color: PdfColors.grey700),
+                              ),
+                              pw.Text(
+                                'المؤلف: ${item.authorAr}',
+                                textDirection: pw.TextDirection.rtl,
+                                style: pw.TextStyle(font: arabicFont, fontSize: 8, color: PdfColors.grey700),
+                              ),
+                            ],
+                          ),
+                          pw.SizedBox(height: 2),
+                          pw.Text(
+                            item.description,
+                            style: pw.TextStyle(font: englishItalicFont, fontSize: 7, color: PdfColors.grey600),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            );
+          }
+
+          return widgets;
+        },
+      ),
+    );
 
     onProgress?.call(0.98, 'Finalizing and Rendering PDF Document...');
     final pdfBytes = await pdf.save();

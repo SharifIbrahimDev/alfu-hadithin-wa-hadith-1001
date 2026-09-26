@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 import '../providers/app_provider.dart';
 import 'book_reader_screen.dart';
 import 'pdf_viewer_screen.dart';
+import 'bibliography_screen.dart';
 
 class SettingsScreen extends StatelessWidget {
   const SettingsScreen({Key? key}) : super(key: key);
@@ -779,6 +780,36 @@ class SettingsScreen extends StatelessWidget {
                         context,
                         MaterialPageRoute(
                           builder: (_) => const BookReaderScreen(),
+                        ),
+                      );
+                    },
+                  ),
+                  const Divider(height: 20),
+                  ListTile(
+                    contentPadding: EdgeInsets.zero,
+                    leading: Container(
+                      width: 40,
+                      height: 40,
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF14B8A6).withOpacity(0.15),
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                      child: const Icon(Icons.library_books_rounded, color: Color(0xFF14B8A6), size: 22),
+                    ),
+                    title: const Text(
+                      'Source Bibliography (أهم المراجع)',
+                      style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14),
+                    ),
+                    subtitle: const Text(
+                      '39 Canonical Hadith authorities & classical commentaries',
+                      style: TextStyle(fontSize: 11),
+                    ),
+                    trailing: const Icon(Icons.chevron_right, color: Colors.grey),
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) => const BibliographyScreen(),
                         ),
                       );
                     },

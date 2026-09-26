@@ -37,6 +37,8 @@ $filesToCheck = @(
     "mobile/lib/services/pdf_export_service.dart",
     "mobile/lib/screens/pdf_viewer_screen.dart",
     "mobile/lib/screens/book_reader_screen.dart",
+    "mobile/lib/screens/bibliography_screen.dart",
+    "mobile/lib/models/bibliography_item.dart",
     "mobile/lib/screens/home_screen.dart",
     "mobile/lib/screens/chapter_screen.dart",
     "mobile/lib/screens/about_screen.dart",

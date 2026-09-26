@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'book_reader_screen.dart';
 import 'pdf_viewer_screen.dart';
+import 'bibliography_screen.dart';
 
 class AboutScreen extends StatelessWidget {
   const AboutScreen({Key? key}) : super(key: key);
@@ -190,6 +191,25 @@ My Personal Advice to You, Dear Reader:
 
 O Allah, make this work purely for Your Noble Countenance, forgive me, my parents, my teachers, and every reader who learns and practices this light. Amin.''',
               ),
+            ),
+
+            const SizedBox(height: 12),
+
+            _buildBookSectionTile(
+              context: context,
+              icon: Icons.library_books_rounded,
+              titleArabic: 'أَهَمُّ مَرَاجِعِ الْكِتَابِ (39 مَصْدَرًا)',
+              titleEnglish: 'Source Bibliography (Ahamm al-Maraji\')',
+              description: '39 Canonical Hadith collections, Musnads & Classical commentaries',
+              isDark: isDark,
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) => const BibliographyScreen(),
+                  ),
+                );
+              },
             ),
 
             const SizedBox(height: 12),

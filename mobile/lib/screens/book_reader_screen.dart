@@ -5,6 +5,7 @@ import 'package:provider/provider.dart';
 
 import '../models/chapter.dart';
 import '../models/hadith.dart';
+import '../models/bibliography_item.dart';
 import '../providers/app_provider.dart';
 import '../widgets/share_card_dialog.dart';
 import 'pdf_viewer_screen.dart';
@@ -14,6 +15,7 @@ enum BookSection {
   muqaddimah,
   tamheed,
   compendium,
+  bibliography,
   khatimah,
 }
 
@@ -171,6 +173,8 @@ class _BookReaderScreenState extends State<BookReaderScreen> {
                     _buildSectionChip('Muqaddimah', BookSection.muqaddimah),
                     const SizedBox(width: 8),
                     _buildSectionChip('Tamheed', BookSection.tamheed),
+                    const SizedBox(width: 8),
+                    _buildSectionChip('Bibliography (39)', BookSection.bibliography),
                     const SizedBox(width: 8),
                     _buildSectionChip('Khatimah', BookSection.khatimah),
                   ],
@@ -495,6 +499,8 @@ class _BookReaderScreenState extends State<BookReaderScreen> {
         return 'Scholarly Methodology (Al-Tamheed)';
       case BookSection.compendium:
         return '1001 Authentic Hadith Compendium';
+      case BookSection.bibliography:
+        return 'Canonical Bibliography (39 Sources)';
       case BookSection.khatimah:
         return 'Author\'s Epilogue & Testament (Al-Khatimah)';
     }
@@ -510,6 +516,8 @@ class _BookReaderScreenState extends State<BookReaderScreen> {
         return 'تَمْهِيدُ الْكِتَابِ وَمَنْهَجِي';
       case BookSection.compendium:
         return 'المتن والأحاديث النبوية';
+      case BookSection.bibliography:
+        return 'أَهَمُّ مَرَاجِعِ الْكِتَابِ وَأُمَّهَاتُ كُتُبِ السُّنَّةِ';
       case BookSection.khatimah:
         return 'خَاتِمَةُ الْكِتَابِ وَالْوَصِيَّةُ';
     }
@@ -523,6 +531,8 @@ class _BookReaderScreenState extends State<BookReaderScreen> {
         return _buildMuqaddimahView(isDark);
       case BookSection.tamheed:
         return _buildTamheedView(isDark);
+      case BookSection.bibliography:
+        return _buildBibliographyView(isDark);
       case BookSection.khatimah:
         return _buildKhatimahView(isDark);
       case BookSection.compendium:
@@ -733,6 +743,75 @@ I commenced the research and compilation of this compendium—«1001 Authentic H
               ],
             ),
           ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildBibliographyView(bool isDark) {
+    final items = BibliographyData.items;
+
+    return SingleChildScrollView(
+      controller: _scrollController,
+      padding: const EdgeInsets.all(20),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          _buildSectionHeaderCard(
+            titleEn: 'Canonical Bibliography & Sources (39 Authorities)',
+            titleAr: 'أَهَمُّ مَرَاجِعِ الْكِتَابِ وَأُمَّهَاتُ كُتُبِ السُّنَّةِ',
+            dateInfo: 'Verified via Maktaba Shamela',
+            isDark: isDark,
+          ),
+          const SizedBox(height: 16),
+          ...items.map((item) {
+            return Container(
+              margin: const EdgeInsets.only(bottom: 12),
+              padding: const EdgeInsets.all(14),
+              decoration: BoxDecoration(
+                color: isDark ? const Color(0xFF162238) : Colors.white,
+                borderRadius: BorderRadius.circular(14),
+                border: Border.all(color: isDark ? Colors.white.withOpacity(0.08) : Colors.black.withOpacity(0.06)),
+              ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                        decoration: BoxDecoration(color: const Color(0xFF0D9488), borderRadius: BorderRadius.circular(6)),
+                        child: Text('#${item.id.toString().padLeft(2, '0')}', style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 11, color: Colors.white)),
+                      ),
+                      Text('وفاة المؤلف: ${item.deathYear}', textDirection: TextDirection.rtl, style: const TextStyle(fontFamily: 'Amiri', fontSize: 11, color: Color(0xFFF59E0B), fontWeight: FontWeight.bold)),
+                    ],
+                  ),
+                  const SizedBox(height: 6),
+                  Text(
+                    item.titleAr,
+                    textDirection: TextDirection.rtl,
+                    style: const TextStyle(fontFamily: 'Amiri', fontSize: 15, fontWeight: FontWeight.bold, color: Color(0xFF14B8A6)),
+                  ),
+                  Text(
+                    'المؤلف: ${item.authorAr}',
+                    textDirection: TextDirection.rtl,
+                    style: TextStyle(fontFamily: 'Amiri', fontSize: 12, color: isDark ? Colors.grey[400] : Colors.grey[700]),
+                  ),
+                  const SizedBox(height: 6),
+                  Text(
+                    '${item.titleEn} — ${item.authorEn}',
+                    style: const TextStyle(fontWeight: FontWeight.w600, fontSize: 12),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    item.description,
+                    style: TextStyle(fontSize: 11, color: isDark ? Colors.grey[400] : Colors.grey[600]),
+                  ),
+                ],
+              ),
+            );
+          }).toList(),
         ],
       ),
     );
