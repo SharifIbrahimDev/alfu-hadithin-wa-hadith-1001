@@ -211,12 +211,13 @@ class _SplashScreenState extends State<SplashScreen>
 
                       // Subtitle
                       Text(
-                        'Thematic Compendium of Prophetic Traditions',
+                        'The Definitive Thematic Compendium of Strictly Authentic Prophetic Traditions',
                         textAlign: TextAlign.center,
                         style: TextStyle(
-                          fontSize: 13,
+                          fontSize: 12.5,
                           color: isDark ? Colors.grey[400] : Colors.grey[600],
                           letterSpacing: 0.2,
+                          height: 1.3,
                         ),
                       ),
                       const SizedBox(height: 28),

@@ -1,24 +1,40 @@
-# أَلْفُ حَدِيثٍ وَحَدِيثٌ (1001 Authentic Hadith)
-### A Definitive Thematic Compendium of Strictly Authentic Prophetic Traditions (الْأَحَادِيثُ الصَّحِيحَةُ)
+# «أَلْفُ حَدِيثٍ وَحَدِيثٌ فِي صَحِيحِ سُنَنِ خَيْرِ الْبَرِيَّةِ ﷺ»
+## 1001 Authentic Hadith: The Definitive Thematic Compendium of Strictly Authentic Prophetic Traditions
 
-**Author & Compiler (المؤلف والجامع والمحقق):** **Ibrahim Sharif Abubakar** (*إبراهيم شريف أبوبكر*)  
-**Source Methodology:** Strictly authentic traditions sourced from Canonical Sunnah Collections (*Sahih al-Bukhari*, *Sahih Muslim*, *Sunan*, *Muwatta Malik*, *Musnad Ahmad*) indexed via *Maktaba Shamela*.
+**Author & Compiler (المؤلف والجامع والمحقق):** **Ibrahim Sharif Abubakar** (*إِبْرَاهِيم شَرِيف أَبُوبَكْر*)  
+**Source Methodology:** Strictly authentic traditions sourced from **39 Canonical Sunnah Authorities** (*Sahih al-Bukhari*, *Sahih Muslim*, the *Sunan*, *Muwatta Malik*, *Musnad Ahmad*, and classical commentaries) indexed via *Maktaba Shamela*.
 
 ---
 
-## ✍️ Author's Preface & Methodology (مقدمة المؤلف وتوطئة الكتاب)
+## ✍️ Author's Scholarly Preface & Methodology (مقدمة المؤلف وتوطئة الكتاب)
 
 > *"In the Name of Allah, the Entirely Merciful, the Especially Merciful. All praise is due to Allah, Lord of the worlds, and peace and blessings be upon the final Messenger Muhammad, his family, and companions."*
 > 
-> **أَلْفُ حَدِيثٍ وَحَدِيثٌ (1001 Authentic Hadith)** is a comprehensive thematic encyclopedia that I, **Ibrahim Sharif Abubakar**, have compiled, verified, and annotated to serve as an enduring, accessible treasury of authentic prophetic wisdom. In this work, I present **1001 strictly authenticated traditions (*Hadith Sahih*)** arranged across 20 distinct life and spiritual disciplines, preceded by an author's introduction, methodology, and intention prologue, and concluded with a personal epilogue (*Al-Khatimah*).
+> **«أَلْفُ حَدِيثٍ وَحَدِيثٌ فِي صَحِيحِ سُنَنِ خَيْرِ الْبَرِيَّةِ ﷺ» (1001 Authentic Hadith: The Definitive Thematic Compendium of Strictly Authentic Prophetic Traditions)** is a comprehensive thematic encyclopedia that I, **Ibrahim Sharif Abubakar**, have compiled, verified, and annotated to serve as an enduring, accessible treasury of authentic prophetic wisdom. In this work, I present **1001 strictly authenticated traditions (*Hadith Sahih*)** arranged across 20 distinct life and spiritual disciplines, preceded by an author's introduction, methodology, and intention prologue, and concluded with a personal epilogue (*Al-Khatimah*).
 > 
-> I have ensured that every single entry is furnished with complete Arabic vocalization (*Tashkeel*), primary narrator, faithful English translation, canonical reference (*Takhrij*), scholarly grading, and practical takeaways for daily life.
+> I have ensured that every single entry is furnished with complete Arabic vocalization (*Tashkeel*), refined Tarajim subheadings, primary narrator, faithful English translation, canonical reference (*Takhrij*), scholarly grading, and practical takeaways for daily life (*Fawa'idul Hadith* in both Arabic and English).
+
+---
+
+## 🌟 Key Scholarly Enhancements in this Compendium
+
+1. **Refined Tarajim (التراجم والتبويب العلمي المتقن):**
+   - Precise biographical, legal, and spiritual subheadings for every single Hadith.
+   - Dual-language chapter topics reflecting the nuance of prophetic speech.
+2. **Continuous Thematic Tarteeb (الترتيب الموضوعي المتسلسل):**
+   - Symmetrical structure of exactly **20 thematic chapters** containing **50 Hadiths each**, inaugurated by the **Intention Prologue (#0001)**, totaling precisely **1,001 Hadiths**.
+3. **39-Source Canonical Bibliography (المراجع الحديثية التسعة والثلاثون):**
+   - Direct cross-referencing to 39 classical collections, musnads, legal compilations, and Ahlus Sunnah commentaries (see [`BIBLIOGRAPHY.md`](./BIBLIOGRAPHY.md)).
+4. **100% Dual-Language Fawa'idul Hadith (الفوائد والعبر التربوية والفقهية):**
+   - All 1,001 Hadiths feature extracted theological, legal, and spiritual benefits in both **Arabic (الفوائد والعبر)** and **English (Key Lessons)**.
+5. **Scholarly PDF Generation & Download Suite (تصدير الكتاب بصيغة PDF):**
+   - Real-time generation of the complete 1,001 Hadith book (or single chapters) as high-resolution printable PDF documents with custom Arabic typography (*Amiri*), full Tashkeel, and native download & share actions.
+6. **Continuous E-Book Reader (القارئ الإلكتروني المستمر):**
+   - In-app e-Book reader supporting continuous reading from Hadith #0001 to #1001, quick numeric jumps, audio TTS recitations, and custom font adjustments.
 
 ---
 
 ## 📖 Book Structure & Master Table of Contents
-
-The compendium is structured around an opening **Muqaddimah, Tamheed & Prologue** on Intention, followed by **20 thematic chapters** (each comprising **exactly 50 authentic Hadiths**), and sealed with the **Author's Khatimah (Epilogue)**:
 
 | # | Chapter / File | Arabic Title | English Title | Hadith Range | Count |
 |---|---|---|---|:---:|:---:|
@@ -50,12 +66,30 @@ The compendium is structured around an opening **Muqaddimah, Tamheed & Prologue*
 
 ## 🎯 Scholarly Schema for Every Hadith Entry
 
-Each hadith adheres strictly to the scholarly standard:
-1. **Continuous Unique ID:** `#0001` through `#1001`
-2. **Topic & Sub-topic Titles:** Dual Arabic and English classifications
-3. **Arabic Matn with Tashkeel:** Fully vocalized text verified against authentic sources
-4. **Primary Companion Narrator:** Exact attribution
-5. **Accurate English Translation:** Clear, refined, and faithful rendering
-6. **Canonical Takhrij:** Sourced from *Sahih al-Bukhari*, *Sahih Muslim*, *Sunan Abi Dawud*, *Jami' at-Tirmidhi*, *Sunan an-Nasa'i*, *Sunan Ibn Majah*, *Muwatta Malik*, and *Musnad Ahmad* via *Maktaba Shamela*
-7. **Scholarly Authenticity Grading:** Strictly authentic (*Sahih* / *Muttafaqun 'Alayh*)
-8. **Key Benefit / Takeaway:** Actionable spiritual and legal reflections
+Every entry follows this uniform schema:
+1. **Continuous Sequential ID:** `#0001` through `#1001`
+2. **Refined Tarjamah (Topic Header):** Dual Arabic and English classifications
+3. **Vocalized Arabic Matn (نص الحديث بالشكل التام):** Accurate Tashkeel checked against authentic manuscripts
+4. **Primary Companion Narrator:** Explicit attribution (الراوي من الصحابة)
+5. **Faithful English Translation:** Clear, accurate, and modern English rendering
+6. **Canonical Takhrij:** Precise indexing in classical Sunnah collections via *Maktaba Shamela*
+7. **Authenticity Grading:** Strictly authentic (*Sahih* / *Muttafaqun 'Alayh*)
+8. **Fawa'idul Hadith (الفوائد والعبر):** Dual-language actionable lessons for spiritual growth
+
+---
+
+## 📱 Mobile Application Features
+
+- **Continuous Book Reader**: Sequential reading mode from Hadith #0001 to #1001 with quick chapter dropdown navigation and jump-to-hadith dialogs.
+- **PDF Viewer & Downloader**: Export complete compendium or individual chapters as A4 PDFs with instant download to device storage and native sharing.
+- **Audio Recitation (TTS)**: High quality text-to-speech for Arabic matn and English translation.
+- **Visual Themes**: Sleek Dark Mode (default), Warm Sepia Paper, and Crisp Light Mode.
+- **Bilingual Search**: Instant indexing across Arabic (with/without tashkeel) and English text.
+- **Daily Reminders**: Configurable local notifications delivering a Hadith of the Day.
+- **Social Sharing**: One-tap shareable graphics cards with authentic Hadith text and grading.
+
+---
+
+## 📜 Canonical Bibliography (39 Primary Sources)
+
+Refer to [**`BIBLIOGRAPHY.md`**](./BIBLIOGRAPHY.md) for the complete list of 39 canonical Hadith collections, musnads, legal sourcebooks, and classical commentaries utilized in compiling this work.

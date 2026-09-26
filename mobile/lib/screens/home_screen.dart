@@ -6,6 +6,8 @@ import '../models/hadith.dart';
 import '../widgets/share_card_dialog.dart';
 import 'chapter_screen.dart';
 import 'hadith_reader_screen.dart';
+import 'book_reader_screen.dart';
+import 'pdf_viewer_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
@@ -135,6 +137,12 @@ class HomeScreen extends StatelessWidget {
                   ],
                 ),
               ),
+            ),
+          // Complete Book & PDF Export Hero Card
+          SliverToBoxAdapter(
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+              child: _buildBookAndPdfHeroCard(context, isDark),
             ),
           ),
 
@@ -509,6 +517,18 @@ class HomeScreen extends StatelessWidget {
                       ],
                     ),
                   ),
+                  IconButton(
+                    icon: const Icon(Icons.picture_as_pdf_outlined, size: 20, color: Color(0xFFF59E0B)),
+                    tooltip: 'Export Chapter PDF',
+                    onPressed: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) => PdfViewerScreen(chapter: chapter),
+                        ),
+                      );
+                    },
+                  ),
                   const Icon(Icons.chevron_right, color: Colors.grey),
                 ],
               ),
@@ -529,6 +549,160 @@ class HomeScreen extends StatelessWidget {
             ],
           ),
         ),
+      ),
+    );
+  }
+
+  Widget _buildBookAndPdfHeroCard(BuildContext context, bool isDark) {
+    return Container(
+      decoration: BoxDecoration(
+        gradient: LinearGradient(
+          colors: isDark
+              ? [
+                  const Color(0xFF0F2B2B),
+                  const Color(0xFF162238),
+                ]
+              : [
+                  const Color(0xFFF0FDF4),
+                  const Color(0xFFFEF3C7),
+                ],
+          begin: Alignment.topLeft,
+          end: Alignment.bottomRight,
+        ),
+        borderRadius: BorderRadius.circular(18),
+        border: Border.all(
+          color: const Color(0xFFF59E0B).withOpacity(0.4),
+          width: 1.5,
+        ),
+        boxShadow: [
+          BoxShadow(
+            color: const Color(0xFF0D9488).withOpacity(0.12),
+            blurRadius: 10,
+            offset: const Offset(0, 4),
+          ),
+        ],
+      ),
+      padding: const EdgeInsets.all(18),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              Container(
+                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                decoration: BoxDecoration(
+                  color: const Color(0xFFF59E0B),
+                  borderRadius: BorderRadius.circular(20),
+                ),
+                child: const Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Icon(Icons.menu_book_rounded, size: 14, color: Colors.white),
+                    SizedBox(width: 4),
+                    Text(
+                      'COMPLETE COMPENDIUM',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 10,
+                        fontWeight: FontWeight.w900,
+                        letterSpacing: 0.5,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              const Text(
+                '1001 Hadiths',
+                style: TextStyle(
+                  color: Color(0xFF14B8A6),
+                  fontWeight: FontWeight.bold,
+                  fontSize: 12,
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 10),
+          const Text(
+            '«أَلْفُ حَدِيثٍ وَحَدِيثٌ فِي صَحِيحِ سُنَنِ خَيْرِ الْبَرِيَّةِ ﷺ»',
+            textDirection: TextDirection.rtl,
+            style: TextStyle(
+              fontFamily: 'Amiri',
+              fontSize: 16,
+              fontWeight: FontWeight.bold,
+              color: Color(0xFFF59E0B),
+            ),
+          ),
+          const SizedBox(height: 4),
+          const Text(
+            'Read Full Book & Download Verified PDF',
+            style: TextStyle(
+              fontSize: 14,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          const SizedBox(height: 4),
+          Text(
+            'Read all 1001 Hadiths seamlessly with Arabic Tashkeel, English translation & Fawa\'id, or download the formatted PDF book.',
+            style: TextStyle(
+              fontSize: 12,
+              color: isDark ? Colors.grey[400] : Colors.grey[700],
+              height: 1.4,
+            ),
+          ),
+          const SizedBox(height: 14),
+          Row(
+            children: [
+              Expanded(
+                child: ElevatedButton.icon(
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (_) => const BookReaderScreen(),
+                      ),
+                    );
+                  },
+                  icon: const Icon(Icons.auto_stories_rounded, size: 16),
+                  label: const Text(
+                    'Read Book',
+                    style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12.5),
+                  ),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: const Color(0xFF0D9488),
+                    foregroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(vertical: 11),
+                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                    elevation: 0,
+                  ),
+                ),
+              ),
+              const SizedBox(width: 10),
+              Expanded(
+                child: OutlinedButton.icon(
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (_) => const PdfViewerScreen(),
+                      ),
+                    );
+                  },
+                  icon: const Icon(Icons.picture_as_pdf_rounded, size: 16, color: Color(0xFFF59E0B)),
+                  label: const Text(
+                    'Download PDF',
+                    style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12.5, color: Color(0xFFF59E0B)),
+                  ),
+                  style: OutlinedButton.styleFrom(
+                    side: const BorderSide(color: Color(0xFFF59E0B), width: 1.4),
+                    padding: const EdgeInsets.symmetric(vertical: 11),
+                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ],
       ),
     );
   }

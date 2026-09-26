@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/app_provider.dart';
+import 'book_reader_screen.dart';
+import 'pdf_viewer_screen.dart';
 
 class SettingsScreen extends StatelessWidget {
   const SettingsScreen({Key? key}) : super(key: key);
@@ -714,6 +716,78 @@ class SettingsScreen extends StatelessWidget {
             ),
           ),
 
+          // ── DOCUMENT & PDF EXPORT ───────────────────────────────────
+          _SectionHeader(label: 'Book & PDF Documents'),
+
+          SliverToBoxAdapter(
+            child: _SettingsCard(
+              isDark: isDark,
+              child: Column(
+                children: [
+                  ListTile(
+                    contentPadding: EdgeInsets.zero,
+                    leading: Container(
+                      width: 40,
+                      height: 40,
+                      decoration: BoxDecoration(
+                        color: const Color(0xFFF59E0B).withOpacity(0.15),
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                      child: const Icon(Icons.picture_as_pdf_rounded, color: Color(0xFFF59E0B), size: 22),
+                    ),
+                    title: const Text(
+                      'Download Complete Compendium PDF',
+                      style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14),
+                    ),
+                    subtitle: const Text(
+                      '1001 Hadiths with Arabic diacritics, English translation, and Fawa\'id',
+                      style: TextStyle(fontSize: 11),
+                    ),
+                    trailing: const Icon(Icons.chevron_right, color: Colors.grey),
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) => const PdfViewerScreen(),
+                        ),
+                      );
+                    },
+                  ),
+                  const Divider(height: 20),
+                  ListTile(
+                    contentPadding: EdgeInsets.zero,
+                    leading: Container(
+                      width: 40,
+                      height: 40,
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF0D9488).withOpacity(0.15),
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                      child: const Icon(Icons.auto_stories_rounded, color: Color(0xFF14B8A6), size: 22),
+                    ),
+                    title: const Text(
+                      'Continuous E-Book Reader',
+                      style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14),
+                    ),
+                    subtitle: const Text(
+                      'Read full book continuously with chapter jumps & recitations',
+                      style: TextStyle(fontSize: 11),
+                    ),
+                    trailing: const Icon(Icons.chevron_right, color: Colors.grey),
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) => const BookReaderScreen(),
+                        ),
+                      );
+                    },
+                  ),
+                ],
+              ),
+            ),
+          ),
+
           // ── APP INFO ────────────────────────────────────────────────
           _SectionHeader(label: 'App Information'),
 
@@ -726,7 +800,7 @@ class SettingsScreen extends StatelessWidget {
                     icon: Icons.menu_book_rounded,
                     iconColor: const Color(0xFFF59E0B),
                     label: 'Compendium',
-                    value: 'أَلْفُ حَدِيثٍ وَحَدِيثٌ',
+                    value: '«أَلْفُ حَدِيثٍ وَحَدِيثٌ فِي صَحِيحِ سُنَنِ خَيْرِ الْبَرِيَّةِ ﷺ»',
                     isDark: isDark,
                   ),
                   const Divider(height: 24),

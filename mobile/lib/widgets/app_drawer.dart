@@ -4,6 +4,8 @@ import 'package:provider/provider.dart';
 import 'package:share_plus/share_plus.dart';
 import '../providers/app_provider.dart';
 import '../screens/hadith_reader_screen.dart';
+import '../screens/book_reader_screen.dart';
+import '../screens/pdf_viewer_screen.dart';
 
 class AppDrawer extends StatelessWidget {
   final int currentTabIndex;
@@ -205,6 +207,36 @@ class AppDrawer extends StatelessWidget {
                   const Divider(height: 20),
 
                   _SectionTitle(label: 'Quick Actions'),
+                  _DrawerItem(
+                    icon: Icons.auto_stories_rounded,
+                    iconColor: const Color(0xFF14B8A6),
+                    title: 'Complete Book Reader',
+                    subtitle: 'Read all 1,001 Hadiths continuously',
+                    onTap: () {
+                      Navigator.pop(context);
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) => const BookReaderScreen(),
+                        ),
+                      );
+                    },
+                  ),
+                  _DrawerItem(
+                    icon: Icons.picture_as_pdf_rounded,
+                    iconColor: const Color(0xFFF59E0B),
+                    title: 'Download Book as PDF',
+                    subtitle: 'Export complete compendium PDF',
+                    onTap: () {
+                      Navigator.pop(context);
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) => const PdfViewerScreen(),
+                        ),
+                      );
+                    },
+                  ),
                   _DrawerItem(
                     icon: Icons.wb_sunny_rounded,
                     iconColor: const Color(0xFFF59E0B),

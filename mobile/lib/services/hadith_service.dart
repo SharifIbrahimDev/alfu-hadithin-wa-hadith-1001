@@ -30,6 +30,10 @@ class HadithService {
     return _hadiths.where((h) => h.chapterId == chapterId).toList();
   }
 
+  List<Hadith> getHadithsByChapter(int chapterId) {
+    return getHadithsForChapter(chapterId);
+  }
+
   List<Hadith> getHadithsForCategory(ThematicCategory category) {
     if (category.id == 'all' || category.chapterIds.isEmpty) {
       return _hadiths;

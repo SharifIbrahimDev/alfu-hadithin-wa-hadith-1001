@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'book_reader_screen.dart';
+import 'pdf_viewer_screen.dart';
 
 class AboutScreen extends StatelessWidget {
   const AboutScreen({Key? key}) : super(key: key);
@@ -30,21 +32,34 @@ class AboutScreen extends StatelessWidget {
                   const Text('📖', style: TextStyle(fontSize: 40)),
                   const SizedBox(height: 8),
                   const Text(
-                    'أَلْفُ حَدِيثٍ وَحَدِيثٌ',
+                    '«أَلْفُ حَدِيثٍ وَحَدِيثٌ فِي صَحِيحِ سُنَنِ خَيْرِ الْبَرِيَّةِ ﷺ»',
                     textDirection: TextDirection.rtl,
+                    textAlign: TextAlign.center,
                     style: TextStyle(
                       fontFamily: 'Amiri',
-                      fontSize: 26,
+                      fontSize: 22,
                       fontWeight: FontWeight.bold,
+                      height: 1.5,
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  const Text(
+                    '1001 Authentic Hadith',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                      color: Color(0xFF14B8A6),
                     ),
                   ),
                   const SizedBox(height: 4),
-                  const Text(
-                    '1001 Authentic Hadith Compendium',
+                  Text(
+                    'The Definitive Thematic Compendium of Strictly Authentic Prophetic Traditions',
+                    textAlign: TextAlign.center,
                     style: TextStyle(
-                      fontSize: 16,
-                      fontWeight: FontWeight.bold,
-                      color: Color(0xFF14B8A6),
+                      fontSize: 13,
+                      color: isDark ? Colors.grey[400] : Colors.grey[700],
+                      height: 1.3,
                     ),
                   ),
                   const SizedBox(height: 16),
@@ -175,6 +190,44 @@ My Personal Advice to You, Dear Reader:
 
 O Allah, make this work purely for Your Noble Countenance, forgive me, my parents, my teachers, and every reader who learns and practices this light. Amin.''',
               ),
+            ),
+
+            const SizedBox(height: 12),
+
+            _buildBookSectionTile(
+              context: context,
+              icon: Icons.picture_as_pdf_rounded,
+              titleArabic: 'تَحْمِيلُ الْكِتَابِ بِصِيغَةِ PDF',
+              titleEnglish: 'Download Verified PDF Compendium',
+              description: 'Complete 1,001 Hadiths with Arabic & English fonts, Tashkeel & Fawa\'id',
+              isDark: isDark,
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) => const PdfViewerScreen(),
+                  ),
+                );
+              },
+            ),
+
+            const SizedBox(height: 12),
+
+            _buildBookSectionTile(
+              context: context,
+              icon: Icons.auto_stories_rounded,
+              titleArabic: 'الْقِرَاءَةُ الْمُسْتَمِرَّةُ لِلْكِتَابِ',
+              titleEnglish: 'Read Complete Book Sequentially',
+              description: 'Immersive e-Book reader from Hadith #0001 to #1001',
+              isDark: isDark,
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) => const BookReaderScreen(),
+                  ),
+                );
+              },
             ),
 
             const SizedBox(height: 24),

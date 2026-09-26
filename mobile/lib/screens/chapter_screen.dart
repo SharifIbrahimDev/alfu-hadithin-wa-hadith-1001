@@ -6,6 +6,9 @@ import '../models/chapter.dart';
 import '../providers/app_provider.dart';
 import '../widgets/hadith_card.dart';
 
+import 'pdf_viewer_screen.dart';
+import 'book_reader_screen.dart';
+
 class ChapterScreen extends StatelessWidget {
   final Chapter chapter;
 
@@ -43,6 +46,18 @@ class ChapterScreen extends StatelessWidget {
             ],
           ),
           actions: [
+            IconButton(
+              icon: const Icon(Icons.picture_as_pdf_rounded, color: Color(0xFFF59E0B)),
+              tooltip: 'Export Complete Book PDF',
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) => const PdfViewerScreen(),
+                  ),
+                );
+              },
+            ),
             IconButton(
               icon: const Icon(Icons.share_outlined),
               tooltip: 'Share Epilogue',
@@ -84,6 +99,32 @@ class ChapterScreen extends StatelessWidget {
             ),
           ],
         ),
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.auto_stories_rounded),
+            tooltip: 'Read in Book Mode',
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (_) => BookReaderScreen(initialChapterId: chapter.id),
+                ),
+              );
+            },
+          ),
+          IconButton(
+            icon: const Icon(Icons.picture_as_pdf_rounded, color: Color(0xFFF59E0B)),
+            tooltip: 'Export Chapter PDF',
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (_) => PdfViewerScreen(chapter: chapter),
+                ),
+              );
+            },
+          ),
+        ],
       ),
       body: Column(
         children: [

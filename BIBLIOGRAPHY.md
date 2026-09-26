@@ -1,0 +1,101 @@
+# 📚 CANONICAL BIBLIOGRAPHY & SCHOLARLY SOURCES (39 PRIMARY AUTHORITIES)
+## مَرَاجِعُ التَّخْرِيجِ وَأُمَّهَاتُ كُتُبِ السُّنَّةِ وَشُرُوحِهَا الْمُعْتَمَدَةِ
+
+The compendium **«أَلْفُ حَدِيثٍ وَحَدِيثٌ فِي صَحِيحِ سُنَنِ خَيْرِ الْبَرِيَّةِ ﷺ» (1001 Authentic Hadith: The Definitive Thematic Compendium)** compiled and edited by **Ibrahim Sharif Abubakar** draws strictly from **39 canonical Hadith collections, authoritative Sunnah encyclopedias, and classical Ahlus Sunnah commentaries**.
+
+---
+
+### I. Primary Canonical Hadith Collections (أُمَّهَاتُ كُتُبِ الْحَدِيثِ وَالْمَسَانِيدِ)
+
+1. **صحيح البخاري (الجامع المسند الصحيح المختصر)** — الإمام محمد بن إسماعيل البخاري (ت 256 هـ)  
+   *Sahih al-Bukhari* — Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)
+2. **صحيح مسلم (المسند الصحيح المختصر بنقل العدل عن العدل)** — الإمام مسلم بن الحجاج النيسابوري (ت 261 هـ)  
+   *Sahih Muslim* — Imam Muslim ibn al-Hajjaj al-Naysaburi (d. 261 AH)
+3. **سنن أبي داود** — الإمام أبو داود سليمان بن الأشعث السجستاني (ت 275 هـ)  
+   *Sunan Abi Dawud* — Imam Abu Dawud Sulayman ibn al-Ash'ath al-Sijistani (d. 275 AH)
+4. **جامع الترمذي (السنن)** — الإمام أبو عيسى محمد بن عيسى الترمذي (ت 279 هـ)  
+   *Jami' at-Tirmidhi* — Imam Abu 'Isa Muhammad ibn 'Isa at-Tirmidhi (d. 279 AH)
+5. **سنن النسائي (المجتبى والسنن الكبرى)** — الإمام أبو عبد الرحمن أحمد بن شعيب النسائي (ت 303 هـ)  
+   *Sunan an-Nasa'i (Al-Mujtaba)* — Imam Ahmad ibn Shu'ayb an-Nasa'i (d. 303 AH)
+6. **سنن ابن ماجه** — الإمام أبو عبد الله محمد بن يزيد بن ماجه القزويني (ت 273 هـ)  
+   *Sunan Ibn Majah* — Imam Muhammad ibn Yazid ibn Majah al-Qazwini (d. 273 AH)
+7. **موطأ الإمام مالك** — إمام دار الهجرة مالك بن أنس الأصبحي (ت 179 هـ)  
+   *Muwatta Malik* — Imam Malik ibn Anas al-Asbahi (d. 179 AH)
+8. **مسند الإمام أحمد بن حنبل** — إمام أهل السنة أحمد بن محمد بن حنبل الشيباني (ت 241 هـ)  
+   *Musnad Ahmad ibn Hanbal* — Imam Ahmad ibn Hanbal (d. 241 AH)
+9. **صحيح ابن خزيمة** — الإمام أبو بكر محمد بن إسحاق بن خزيمة النيسابوري (ت 311 هـ)  
+   *Sahih Ibn Khuzaymah* — Imam Abu Bakr Muhammad ibn Ishaq ibn Khuzaymah (d. 311 AH)
+10. **صحيح ابن حبان (التقاسيم والأنواع)** — الإمام أبو حاتم محمد بن حبان البستي (ت 354 هـ)  
+    *Sahih Ibn Hibban* — Imam Abu Hatim Muhammad ibn Hibban al-Busti (d. 354 AH)
+11. **المستدرك على الصحيحين** — الإمام الحافظ أبو عبد الله الحاكم النيسابوري (ت 405 هـ)  
+    *Al-Mustadrak 'ala al-Sahihayn* — Imam al-Hakim an-Naysaburi (d. 405 AH)
+12. **السنن الكبرى والسنن الصغرى** — الإمام الحافظ أبو بكر أحمد بن الحسين البيهقي (ت 458 هـ)  
+    *Al-Sunan al-Kubra & al-Sughra* — Imam al-Bayhaqi (d. 458 AH)
+13. **سنن الدارقطني** — الإمام أبو الحسن علي بن عمر الدارقطني (ت 385 هـ)  
+    *Sunan al-Daraqutni* — Imam Abu al-Hasan Ali ibn Umar al-Daraqutni (d. 385 AH)
+14. **سنن الدارمي (المسند)** — الإمام أبو محمد عبد الله بن عبد الرحمن الدارمي (ت 255 هـ)  
+    *Sunan al-Darimi* — Imam Abu Muhammad Abd Allah al-Darimi (d. 255 AH)
+15. **مصنف عبد الرزاق** — الحافظ أبو بكر عبد الرزاق بن همام الصنعاني (ت 211 هـ)  
+    *Musannaf Abd al-Razzaq* — Hafiz Abd al-Razzaq as-San'ani (d. 211 AH)
+16. **مصنف ابن أبي شيبة** — الإمام أبو بكر عبد الله بن محمد بن أبي شيبة الكوفي (ت 235 هـ)  
+    *Musannaf Ibn Abi Shaybah* — Imam Ibn Abi Shaybah (d. 235 AH)
+17. **مسند أبي يعلى الموصلي** — الحافظ أحمد بن علي بن المثنى التميمي (ت 307 هـ)  
+    *Musnad Abi Ya'la al-Mawsili* — Hafiz Ahmad ibn Ali al-Mawsili (d. 307 AH)
+18. **المعجم الكبير والمعجم الأوسط والمعجم الصغير** — الإمام أبو القاسم سليمان بن أحمد الطبراني (ت 360 هـ)  
+    *Al-Mu'jam al-Kabir, al-Awsat & al-Saghir* — Imam Sulayman at-Tabarani (d. 360 AH)
+19. **مسند الشاميين** — الإمام الطبراني (ت 360 هـ)  
+    *Musnad al-Shamiyyin* — Imam at-Tabarani (d. 360 AH)
+20. **مسند البزار (البحر الزخار)** — الإمام الحافظ أبو بكر أحمد بن عمرو البزار (ت 292 هـ)  
+    *Musnad al-Bazzar* — Imam Abu Bakr al-Bazzar (d. 292 AH)
+
+---
+
+### II. Authoritative Hadith Compendiums & Legal Hadith Selections (جَوَامِعُ السُّنَّةِ وَأَحَادِيثِ الْأَحْكَامِ)
+
+21. **رياض الصالحين من كلام سيد المرسلين** — الإمام محيي الدين يحيى بن شرف النووي (ت 676 هـ)  
+    *Riyadh as-Salihin* — Imam Yahya ibn Sharaf an-Nawawi (d. 676 AH)
+22. **بلوغ المرام من أدلة الأحكام** — الحافظ شهاب الدين ابن حجر العسقلاني (ت 852 هـ)  
+    *Bulugh al-Maram* — Hafiz Ibn Hajar al-Asqalani (d. 852 AH)
+23. **عمدة الأحكام من كلام خير الأنام** — الإمام عبد الغني بن عبد الواحد المقدسي (ت 600 هـ)  
+    *Umdat al-Ahkam* — Imam Abd al-Ghani al-Maqdisi (d. 600 AH)
+24. **مشكاة المصابيح** — الإمام محمد بن عبد الله الخطيب التبريزي (ت 741 هـ)  
+    *Mishkat al-Masabih* — Imam al-Khatib at-Tabrizi (d. 741 AH)
+25. **شرح السنة** — الإمام الحسين بن مسعود الفراء البغوي (ت 516 هـ)  
+    *Sharh as-Sunnah* — Imam al-Husayn ibn Mas'ud al-Baghawi (d. 516 AH)
+26. **الجامع الصغير وزيادته** — الإمام جلال الدين السيوطي (ت 911 هـ)  
+    *Al-Jami' as-Saghir* — Imam Jalal al-Din as-Suyuti (d. 911 AH)
+27. **مجمع الزوائد ومنبع الفوائد** — الحافظ نور الدين علي بن أبي بكر الهيثمي (ت 807 هـ)  
+    *Majma' az-Zawa'id* — Hafiz Nur al-Din al-Haythami (d. 807 AH)
+28. **الأربعون النووية** — الإمام يحيى بن شرف النووي (ت 676 هـ)  
+    *Al-Arba'un an-Nawawiyyah (40 Hadith)* — Imam an-Nawawi (d. 676 AH)
+29. **جامع العلوم والحكم في شرح خمسين حديثا من جوامع الكلم** — الإمام زين الدين عبد الرحمن بن رجب الحنبلي (ت 795 هـ)  
+    *Jami' al-Ulum wal-Hikam* — Imam Ibn Rajab al-Hanbali (d. 795 AH)
+
+---
+
+### III. Canonical Classical Commentaries & Takhrij References (شُرُوحُ كُتُبِ السُّنَّةِ وَالتَّخْرِيجُ)
+
+30. **فتح الباري بشرح صحيح البخاري** — الحافظ أحمد بن علي بن حجر العسقلاني (ت 852 هـ)  
+    *Fath al-Bari Sharh Sahih al-Bukhari* — Hafiz Ibn Hajar al-Asqalani (d. 852 AH)
+31. **المنهاج شرح صحيح مسلم بن الحجاج** — الإمام محيي الدين يحيى بن شرف النووي (ت 676 هـ)  
+    *Al-Minhaj Sharh Sahih Muslim* — Imam an-Nawawi (d. 676 AH)
+32. **عون المعبود شرح سنن أبي داود** — العلامة محمد شمس الحق العظيم آبادي (ت 1329 هـ)  
+    *'Awn al-Ma'bud Sharh Sunan Abi Dawud* — Allamah Muhammad Shams al-Haqq al-Azimabadi (d. 1329 AH)
+33. **تحفة الأحوذي بشرح جامع الترمذي** — العلامة محمد عبد الرحمن بن عبد الرحيم المباركفوري (ت 1353 هـ)  
+    *Tuhfat al-Ahwadhi Sharh Jami' at-Tirmidhi* — Allamah al-Mubarakpuri (d. 1353 AH)
+34. **حاشية السندي على سنن النسائي** — العلامة محمد بن عبد الهادي السندي (ت 1138 هـ)  
+    *Hashiyat as-Sindi 'ala Sunan an-Nasa'i* — Allamah as-Sindi (d. 1138 AH)
+35. **حاشية السندي على سنن ابن ماجه** — العلامة محمد بن عبد الهادي السندي (ت 1138 هـ)  
+    *Hashiyat as-Sindi 'ala Sunan Ibn Majah* — Allamah as-Sindi (d. 1138 AH)
+36. **سبل السلام الموصلة إلى بلوغ المرام** — الإمام محمد بن إسماعيل الصنعاني (ت 1182 هـ)  
+    *Subul as-Salam* — Imam Muhammad ibn Isma'il as-San'ani (d. 1182 AH)
+37. **نيل الأوطار من أسرار منتقى الأخبار** — الإمام محمد بن علي الشوكاني (ت 1250 هـ)  
+    *Nayl al-Awtar* — Imam Muhammad ibn Ali ash-Shawkani (d. 1250 AH)
+38. **مرقاة المفاتيح شرح مشكاة المصابيح** — العلامة علي بن سلطان محمد القاري الهروي (ت 1014 هـ)  
+    *Mirqat al-Mafatih Sharh Mishkat al-Masabih* — Allamah Mulla Ali al-Qari (d. 1014 AH)
+39. **سلسلة الأحاديث الصحيحة وشيء من فقهها وفوائدها** — المحدث محمد ناصر الدين الألباني (ت 1420 هـ)  
+    *Silsilat al-Ahadith as-Sahihah* — Shaykh Muhammad Nasir al-Din al-Albani (d. 1420 AH)
+
+---
+
+*All Hadiths in this compendium are verified and cross-referenced with exact numbering via **Maktaba Shamela (المكتبة الشاملة)** to ensure 100% academic rigour, doctrinal soundess, and authenticity according to the methodology of Ahlus Sunnah wal-Jama'ah.*
