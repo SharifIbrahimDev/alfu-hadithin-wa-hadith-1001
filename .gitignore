@@ -25,3 +25,7 @@ env/
 **/.flutter-plugins-dependencies
 **/.pub-cache/
 **/.pub/
+*.jks
+*.keystore
+key.properties
+

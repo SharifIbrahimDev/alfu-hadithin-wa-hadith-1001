@@ -1,0 +1,8 @@
+# Android Release Keystore Configuration Template
+# Copy this file to 'key.properties' in the mobile/android directory and fill in your actual credentials.
+# NOTE: Never commit 'key.properties' or your .jks/.keystore file to version control (Git).
+
+keyAlias=upload
+keyPassword=YourKeystorePasswordHere
+storeFile=C:\\Users\\USER\\flutter_projects\\Alfu Hadithin Wa Hadith 1001\\mobile\\upload-keystore.jks
+storePassword=YourKeystorePasswordHere
