@@ -12,11 +12,13 @@ import '../services/pdf_export_service.dart';
 class PdfViewerScreen extends StatefulWidget {
   final Chapter? chapter;
   final String? customTitle;
+  final HadithPdfLanguageMode initialLanguageMode;
 
   const PdfViewerScreen({
     Key? key,
     this.chapter,
     this.customTitle,
+    this.initialLanguageMode = HadithPdfLanguageMode.both,
   }) : super(key: key);
 
   @override
@@ -30,10 +32,12 @@ class _PdfViewerScreenState extends State<PdfViewerScreen> {
   String _statusMessage = 'Preparing PDF document...';
   String? _errorMessage;
   bool _isSaving = false;
+  late HadithPdfLanguageMode _currentLanguageMode;
 
   @override
   void initState() {
     super.initState();
+    _currentLanguageMode = widget.initialLanguageMode;
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _generatePdf();
     });
@@ -60,10 +64,12 @@ class _PdfViewerScreenState extends State<PdfViewerScreen> {
         bytes = await PdfExportService.buildChapterPdf(
           chapter: widget.chapter!,
           hadiths: hadiths,
+          languageMode: _currentLanguageMode,
         );
       } else {
         bytes = await PdfExportService.buildCompleteBookPdf(
           service: provider.service,
+          languageMode: _currentLanguageMode,
           onProgress: (progress, status) {
             if (mounted) {
               setState(() {
@@ -93,11 +99,15 @@ class _PdfViewerScreenState extends State<PdfViewerScreen> {
   }
 
   String get _defaultFilename {
+    final modeSuffix = _currentLanguageMode == HadithPdfLanguageMode.arabicOnly
+        ? '_Arabic'
+        : (_currentLanguageMode == HadithPdfLanguageMode.englishOnly ? '_English' : '_Bilingual');
+
     if (widget.chapter != null) {
       final cleanTitle = widget.chapter!.englishTitle.replaceAll(RegExp(r'[^a-zA-Z0-9_-]'), '_');
-      return '1001_Hadith_Chapter_${widget.chapter!.id}_$cleanTitle.pdf';
+      return '1001_Hadith_Chapter_${widget.chapter!.id}_${cleanTitle}$modeSuffix.pdf';
     }
-    return '1001_Authentic_Hadith_Complete_Compendium.pdf';
+    return '1001_Authentic_Hadith_Compendium$modeSuffix.pdf';
   }
 
   Future<void> _downloadAndSavePdf() async {
@@ -216,6 +226,51 @@ class _PdfViewerScreenState extends State<PdfViewerScreen> {
           ],
         ),
         actions: [
+          PopupMenuButton<HadithPdfLanguageMode>(
+            icon: const Icon(Icons.language_rounded, color: Color(0xFF14B8A6)),
+            tooltip: 'Select Language Edition (Both / Arabic / English)',
+            initialValue: _currentLanguageMode,
+            onSelected: (mode) {
+              if (mode != _currentLanguageMode) {
+                setState(() {
+                  _currentLanguageMode = mode;
+                });
+                _generatePdf();
+              }
+            },
+            itemBuilder: (context) => [
+              const PopupMenuItem(
+                value: HadithPdfLanguageMode.both,
+                child: Row(
+                  children: [
+                    Icon(Icons.menu_book_rounded, color: Color(0xFF0D9488), size: 18),
+                    SizedBox(width: 10),
+                    Text('1. Bilingual (Arabic + English)'),
+                  ],
+                ),
+              ),
+              const PopupMenuItem(
+                value: HadithPdfLanguageMode.arabicOnly,
+                child: Row(
+                  children: [
+                    Icon(Icons.format_align_right, color: Color(0xFFF59E0B), size: 18),
+                    SizedBox(width: 10),
+                    Text('2. Arabic Only (النسخة العربية)'),
+                  ],
+                ),
+              ),
+              const PopupMenuItem(
+                value: HadithPdfLanguageMode.englishOnly,
+                child: Row(
+                  children: [
+                    Icon(Icons.translate_rounded, color: Color(0xFF3B82F6), size: 18),
+                    SizedBox(width: 10),
+                    Text('3. English Only (English Edition)'),
+                  ],
+                ),
+              ),
+            ],
+          ),
           if (!_isLoading && _pdfBytes != null) ...[
             IconButton(
               icon: _isSaving

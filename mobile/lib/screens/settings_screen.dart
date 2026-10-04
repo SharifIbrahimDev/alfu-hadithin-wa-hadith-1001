@@ -816,12 +816,7 @@ class SettingsScreen extends StatelessWidget {
                     ),
                     trailing: const Icon(Icons.chevron_right, color: Colors.grey),
                     onTap: () {
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                          builder: (_) => const PdfViewerScreen(),
-                        ),
-                      );
+                      _showPdfLanguageEditionSelector(context);
                     },
                   ),
                   const Divider(height: 20),
@@ -1418,5 +1413,131 @@ Widget _buildDialogStep(String title, String desc) {
         Text(desc, style: const TextStyle(fontSize: 11, height: 1.3)),
       ],
     ),
+  );
+}
+
+void _showPdfLanguageEditionSelector(BuildContext context) {
+  final isDark = Theme.of(context).brightness == Brightness.dark;
+
+  showModalBottomSheet(
+    context: context,
+    backgroundColor: isDark ? const Color(0xFF111B2D) : Colors.white,
+    shape: const RoundedRectangleBorder(
+      borderRadius: BorderRadius.vertical(top: Radius.circular(20)),
+    ),
+    builder: (ctx) {
+      return SafeArea(
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 20),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Row(
+                children: [
+                  Container(
+                    padding: const EdgeInsets.all(8),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFF0D9488).withOpacity(0.15),
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: const Icon(Icons.picture_as_pdf_rounded, color: Color(0xFF14B8A6), size: 22),
+                  ),
+                  const SizedBox(width: 12),
+                  const Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        'Select PDF Edition',
+                        style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                      ),
+                      Text(
+                        'Choose which language version to download',
+                        style: TextStyle(fontSize: 12, color: Colors.grey),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+              const SizedBox(height: 18),
+
+              // 1. Both (Bilingual)
+              ListTile(
+                contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(12),
+                  side: BorderSide(color: const Color(0xFF0D9488).withOpacity(0.4)),
+                ),
+                leading: const CircleAvatar(
+                  backgroundColor: Color(0xFF0D9488),
+                  child: Icon(Icons.menu_book_rounded, color: Colors.white, size: 20),
+                ),
+                title: const Text('1. Bilingual Edition (Both)', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+                subtitle: const Text('Arabic Matn with Tashkeel + English Translation & Dual Fawā\'id', style: TextStyle(fontSize: 11)),
+                onTap: () {
+                  Navigator.pop(ctx);
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (_) => const PdfViewerScreen(initialLanguageMode: HadithPdfLanguageMode.both),
+                    ),
+                  );
+                },
+              ),
+              const SizedBox(height: 10),
+
+              // 2. Arabic Only
+              ListTile(
+                contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(12),
+                  side: BorderSide(color: const Color(0xFFF59E0B).withOpacity(0.4)),
+                ),
+                leading: const CircleAvatar(
+                  backgroundColor: Color(0xFFF59E0B),
+                  child: Icon(Icons.format_align_right, color: Colors.white, size: 20),
+                ),
+                title: const Text('2. Arabic Edition (النسخة العربية الكاملة)', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+                subtitle: const Text('نص الأحاديث النبوية بالشكل التام + التخريج + الفوائد والعبر', style: TextStyle(fontSize: 11, fontFamily: 'Amiri')),
+                onTap: () {
+                  Navigator.pop(ctx);
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (_) => const PdfViewerScreen(initialLanguageMode: HadithPdfLanguageMode.arabicOnly),
+                    ),
+                  );
+                },
+              ),
+              const SizedBox(height: 10),
+
+              // 3. English Only
+              ListTile(
+                contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(12),
+                  side: BorderSide(color: const Color(0xFF3B82F6).withOpacity(0.4)),
+                ),
+                leading: const CircleAvatar(
+                  backgroundColor: Color(0xFF3B82F6),
+                  child: Icon(Icons.translate_rounded, color: Colors.white, size: 20),
+                ),
+                title: const Text('3. English Edition (Complete English)', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+                subtitle: const Text('English Translation + Canonical Reference + Scholarly Lessons', style: TextStyle(fontSize: 11)),
+                onTap: () {
+                  Navigator.pop(ctx);
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (_) => const PdfViewerScreen(initialLanguageMode: HadithPdfLanguageMode.englishOnly),
+                    ),
+                  );
+                },
+              ),
+            ],
+          ),
+        ),
+      );
+    },
   );
 }

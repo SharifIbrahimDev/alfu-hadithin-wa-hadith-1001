@@ -13,14 +13,27 @@ import '../models/hadith.dart';
 import '../models/bibliography_item.dart';
 import 'hadith_service.dart';
 
+enum HadithPdfLanguageMode {
+  both,
+  arabicOnly,
+  englishOnly,
+}
+
 class PdfExportService {
   /// Generate the Complete 1,001 Hadith Compendium as a high-quality PDF document.
   static Future<Uint8List> buildCompleteBookPdf({
     required HadithService service,
+    HadithPdfLanguageMode languageMode = HadithPdfLanguageMode.both,
     void Function(double progress, String status)? onProgress,
   }) async {
+    final modeLabel = languageMode == HadithPdfLanguageMode.arabicOnly
+        ? ' (النسخة العربية الكاملة)'
+        : (languageMode == HadithPdfLanguageMode.englishOnly
+            ? ' (Complete English Edition)'
+            : ' (Bilingual Edition / النسخة ثنائية اللغة)');
+
     final pdf = pw.Document(
-      title: '1001 Authentic Hadith: The Definitive Thematic Compendium',
+      title: '1001 Authentic Hadith: The Definitive Thematic Compendium$modeLabel',
       author: 'Ibrahim Sharif Abubakar (إبراهيم شريف أبوبكر)',
       subject: 'Authentic Prophetic Traditions (ألف حديث وحديث في صحيح سنن خير البرية ﷺ)',
       keywords: 'Hadith, Sunnah, Bukhari, Muslim, Islam, Fawaid, Authentic',
@@ -386,7 +399,19 @@ class PdfExportService {
 
             // Render each Hadith in the chapter
             for (var h in chapterHadiths) {
-              widgets.add(_buildHadithPdfCard(h, arabicFont, arabicBoldFont, englishFont, englishBoldFont, englishItalicFont, primaryColor, secondaryColor, goldColor, lightBgColor));
+              widgets.add(_buildHadithPdfCard(
+                h,
+                arabicFont,
+                arabicBoldFont,
+                englishFont,
+                englishBoldFont,
+                englishItalicFont,
+                primaryColor,
+                secondaryColor,
+                goldColor,
+                lightBgColor,
+                languageMode: languageMode,
+              ));
               widgets.add(pw.SizedBox(height: 14));
             }
 
@@ -569,9 +594,16 @@ class PdfExportService {
   static Future<Uint8List> buildChapterPdf({
     required Chapter chapter,
     required List<Hadith> hadiths,
+    HadithPdfLanguageMode languageMode = HadithPdfLanguageMode.both,
   }) async {
+    final modeLabel = languageMode == HadithPdfLanguageMode.arabicOnly
+        ? ' (النسخة العربية)'
+        : (languageMode == HadithPdfLanguageMode.englishOnly
+            ? ' (English Edition)'
+            : ' (Bilingual Edition)');
+
     final pdf = pw.Document(
-      title: 'Chapter ${chapter.id}: ${chapter.englishTitle}',
+      title: 'Chapter ${chapter.id}: ${chapter.englishTitle}$modeLabel',
       author: 'Ibrahim Sharif Abubakar',
     );
 
@@ -639,7 +671,19 @@ class PdfExportService {
           );
 
           for (var h in hadiths) {
-            widgets.add(_buildHadithPdfCard(h, arabicFont, arabicBoldFont, englishFont, englishBoldFont, englishItalicFont, primaryColor, secondaryColor, goldColor, lightBgColor));
+            widgets.add(_buildHadithPdfCard(
+              h,
+              arabicFont,
+              arabicBoldFont,
+              englishFont,
+              englishBoldFont,
+              englishItalicFont,
+              primaryColor,
+              secondaryColor,
+              goldColor,
+              lightBgColor,
+              languageMode: languageMode,
+            ));
             widgets.add(pw.SizedBox(height: 14));
           }
 
@@ -689,8 +733,12 @@ class PdfExportService {
     PdfColor primaryColor,
     PdfColor secondaryColor,
     PdfColor goldColor,
-    PdfColor lightBgColor,
-  ) {
+    PdfColor lightBgColor, {
+    HadithPdfLanguageMode languageMode = HadithPdfLanguageMode.both,
+  }) {
+    final showArabic = languageMode == HadithPdfLanguageMode.both || languageMode == HadithPdfLanguageMode.arabicOnly;
+    final showEnglish = languageMode == HadithPdfLanguageMode.both || languageMode == HadithPdfLanguageMode.englishOnly;
+
     return pw.Container(
       padding: const pw.EdgeInsets.all(12),
       decoration: pw.BoxDecoration(
@@ -712,87 +760,100 @@ class PdfExportService {
                   borderRadius: pw.BorderRadius.circular(4),
                 ),
                 child: pw.Text(
-                  'Hadith #${h.id.toString().padLeft(4, '0')}',
-                  style: pw.TextStyle(font: englishBoldFont, fontSize: 8.5, color: PdfColors.white),
-                ),
-              ),
-              pw.Expanded(
-                child: pw.Padding(
-                  padding: const pw.EdgeInsets.symmetric(horizontal: 8),
-                  child: pw.Text(
-                    h.topicEn.isNotEmpty ? h.topicEn.toUpperCase() : '',
-                    maxLines: 1,
-                    style: pw.TextStyle(font: englishBoldFont, fontSize: 8.5, color: primaryColor),
+                  showEnglish
+                      ? 'Hadith #${h.id.toString().padLeft(4, '0')}'
+                      : 'الحديث رقم ${h.id}',
+                  textDirection: showEnglish ? pw.TextDirection.ltr : pw.TextDirection.rtl,
+                  style: pw.TextStyle(
+                    font: showEnglish ? englishBoldFont : arabicBoldFont,
+                    fontSize: 8.5,
+                    color: PdfColors.white,
                   ),
                 ),
               ),
-              pw.Text(
-                'الحديث رقم: ${h.id}',
-                textDirection: pw.TextDirection.rtl,
-                style: pw.TextStyle(font: arabicBoldFont, fontSize: 9, color: goldColor),
-              ),
+              if (showEnglish && h.topicEn.isNotEmpty)
+                pw.Expanded(
+                  child: pw.Padding(
+                    padding: const pw.EdgeInsets.symmetric(horizontal: 8),
+                    child: pw.Text(
+                      h.topicEn.toUpperCase(),
+                      maxLines: 1,
+                      style: pw.TextStyle(font: englishBoldFont, fontSize: 8.5, color: primaryColor),
+                    ),
+                  ),
+                ),
+              if (showArabic)
+                pw.Text(
+                  h.topicAr.isNotEmpty ? h.topicAr : 'الحديث رقم: ${h.id}',
+                  textDirection: pw.TextDirection.rtl,
+                  style: pw.TextStyle(font: arabicBoldFont, fontSize: 9, color: goldColor),
+                ),
             ],
           ),
           pw.SizedBox(height: 8),
 
-          // Arabic Matn (with Tashkeel)
-          pw.Container(
-            width: double.infinity,
-            padding: const pw.EdgeInsets.all(10),
-            decoration: pw.BoxDecoration(
-              color: lightBgColor,
-              borderRadius: pw.BorderRadius.circular(6),
-              border: pw.Border.all(color: PdfColors.grey200),
-            ),
-            child: pw.Column(
-              crossAxisAlignment: pw.CrossAxisAlignment.end,
-              children: [
-                pw.Text(
-                  h.arabicMatn,
-                  textDirection: pw.TextDirection.rtl,
-                  textAlign: pw.TextAlign.justify,
-                  style: pw.TextStyle(
-                    font: arabicBoldFont,
-                    fontSize: 12.5,
-                    lineSpacing: 5.5,
-                    color: secondaryColor,
-                  ),
-                ),
-                if (h.narratorAr.isNotEmpty) ...[
-                  pw.SizedBox(height: 4),
+          // Arabic Section (Matn, Narrator, Arabic Fawa'id)
+          if (showArabic) ...[
+            pw.Container(
+              width: double.infinity,
+              padding: const pw.EdgeInsets.all(10),
+              decoration: pw.BoxDecoration(
+                color: lightBgColor,
+                borderRadius: pw.BorderRadius.circular(6),
+                border: pw.Border.all(color: PdfColors.grey200),
+              ),
+              child: pw.Column(
+                crossAxisAlignment: pw.CrossAxisAlignment.end,
+                children: [
                   pw.Text(
-                    'الراوي: ${h.narratorAr}',
+                    h.arabicMatn,
                     textDirection: pw.TextDirection.rtl,
-                    style: pw.TextStyle(font: arabicFont, fontSize: 8.5, color: PdfColors.grey700),
+                    textAlign: pw.TextAlign.justify,
+                    style: pw.TextStyle(
+                      font: arabicBoldFont,
+                      fontSize: 12.5,
+                      lineSpacing: 5.5,
+                      color: secondaryColor,
+                    ),
                   ),
+                  if (h.narratorAr.isNotEmpty) ...[
+                    pw.SizedBox(height: 4),
+                    pw.Text(
+                      'الراوي: ${h.narratorAr}',
+                      textDirection: pw.TextDirection.rtl,
+                      style: pw.TextStyle(font: arabicFont, fontSize: 8.5, color: PdfColors.grey700),
+                    ),
+                  ],
+                  if (h.benefitsAr.isNotEmpty) ...[
+                    pw.SizedBox(height: 6),
+                    pw.Divider(color: PdfColors.grey300, thickness: 0.5),
+                    pw.Text(
+                      'الفوائد والعبر:\n${h.benefitsAr}',
+                      textDirection: pw.TextDirection.rtl,
+                      style: pw.TextStyle(font: arabicFont, fontSize: 9.5, lineSpacing: 3, color: primaryColor),
+                    ),
+                  ],
                 ],
-                if (h.benefitsAr.isNotEmpty) ...[
-                  pw.SizedBox(height: 6),
-                  pw.Divider(color: PdfColors.grey300, thickness: 0.5),
-                  pw.Text(
-                    'الفوائد والعبر:\n${h.benefitsAr}',
-                    textDirection: pw.TextDirection.rtl,
-                    style: pw.TextStyle(font: arabicFont, fontSize: 9.5, lineSpacing: 3, color: primaryColor),
-                  ),
-                ],
-              ],
+              ),
             ),
-          ),
-          pw.SizedBox(height: 8),
+            if (showEnglish) pw.SizedBox(height: 8),
+          ],
 
           // English Translation
-          pw.Text(
-            '"${h.englishTranslation}"',
-            style: pw.TextStyle(
-              font: englishItalicFont,
-              fontSize: 9.5,
-              lineSpacing: 2.5,
-              color: secondaryColor,
+          if (showEnglish) ...[
+            pw.Text(
+              '"${h.englishTranslation}"',
+              style: pw.TextStyle(
+                font: englishItalicFont,
+                fontSize: 9.5,
+                lineSpacing: 2.5,
+                color: secondaryColor,
+              ),
             ),
-          ),
-          pw.SizedBox(height: 6),
+            pw.SizedBox(height: 6),
+          ],
 
-          // Metadata Row: Reference, Grading, Narrator & Lessons
+          // Metadata Row: Reference, Grading, English Lessons
           pw.Container(
             padding: const pw.EdgeInsets.symmetric(horizontal: 8, vertical: 5),
             decoration: pw.BoxDecoration(
@@ -804,18 +865,32 @@ class PdfExportService {
               children: [
                 pw.Row(
                   children: [
-                    pw.Text('Reference: ', style: pw.TextStyle(font: englishBoldFont, fontSize: 7.5, color: PdfColors.grey700)),
+                    pw.Text(
+                      showEnglish ? 'Reference: ' : 'التخريج: ',
+                      textDirection: showEnglish ? pw.TextDirection.ltr : pw.TextDirection.rtl,
+                      style: pw.TextStyle(
+                        font: showEnglish ? englishBoldFont : arabicBoldFont,
+                        fontSize: 7.5,
+                        color: PdfColors.grey700,
+                      ),
+                    ),
                     pw.Expanded(
-                      child: pw.Text(h.takhrij, style: pw.TextStyle(font: englishFont, fontSize: 7.5, color: secondaryColor)),
+                      child: pw.Text(
+                        h.takhrij,
+                        style: pw.TextStyle(font: englishFont, fontSize: 7.5, color: secondaryColor),
+                      ),
                     ),
                     pw.Container(
                       padding: const pw.EdgeInsets.symmetric(horizontal: 5, vertical: 1.5),
                       decoration: pw.BoxDecoration(color: goldColor, borderRadius: pw.BorderRadius.circular(3)),
-                      child: pw.Text(h.grading, style: pw.TextStyle(font: englishBoldFont, fontSize: 7, color: PdfColors.white)),
+                      child: pw.Text(
+                        h.grading,
+                        style: pw.TextStyle(font: englishBoldFont, fontSize: 7, color: PdfColors.white),
+                      ),
                     ),
                   ],
                 ),
-                if (h.benefitsEn.isNotEmpty) ...[
+                if (showEnglish && h.benefitsEn.isNotEmpty) ...[
                   pw.SizedBox(height: 3),
                   pw.Row(
                     crossAxisAlignment: pw.CrossAxisAlignment.start,
