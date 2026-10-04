@@ -29,3 +29,21 @@ env/
 *.keystore
 key.properties
 
+# Scratch / One-off Auditing tools & reports
+mobile/tools/
+tools/fawaid/
+tools/audit_*
+tools/check_*
+tools/dump_*
+tools/inspect_*
+tools/restore_*
+tools/find_*
+tools/apply_*
+tools/export_*
+tools/extract_*
+tools/flagged_*
+tools/get_env.ps1
+tools/stats_ranges.ps1
+tools/verify_all_chapters_alignment.ps1
+tools/search_batch2a.dart
+tools/sync_book_fawaid.ps1

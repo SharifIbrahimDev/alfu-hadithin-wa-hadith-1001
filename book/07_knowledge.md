@@ -1,4 +1,4 @@
-# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
+﻿# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
 ## كِتَابُ الْعِلْمِ
 ### Chapter 7: Book of Knowledge (Hadiths #0302 – #0351)
 *المصدر والتحقيق: نصوص محررة ومحققة وفق المطبوعات المعتمدة في المكتبة الشاملة (صحيح البخاري، صحيح مسلم، السنن الأربعة، وموطأ مالك)*
@@ -34,6 +34,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن ابن ماجه (رقم 224)، المعجم الأوسط للطبراني (رقم 61) — المكتبة الشاملة، وصححه الإمام المزي وابن عبد البر والألباني بمجموع طرقه.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Seeking sacred knowledge is an obligatory duty upon every Muslim according to their daily religious needs.
+2. Knowledge of creed, halal, and haram forms the indispensable foundation of a righteous life.
 
 ---
 
@@ -64,6 +67,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2699)، سنن أبي داود (رقم 3643) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Whoever sets out on a path seeking knowledge, Allah makes easy for them a path leading directly to Paradise.
+2. Striving in sacred learning is the most direct route to eternal salvation.
 
 ---
 
@@ -94,6 +100,9 @@
 * **Companion Narrator:** أَبُو الدَّرْدَاءِ عُوَيْمِرُ بْنُ زَيْدٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 3641)، سنن الترمذي (رقم 2682) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The scholars are the true inheritors of the Prophets; prophets leave behind neither gold nor silver, but knowledge.
+2. Whoever acquires knowledge has taken an abundant, noble share of prophetic inheritance.
 
 ---
 
@@ -124,6 +133,9 @@
 * **Companion Narrator:** مُعَاوِيَةُ بْنُ أَبِي سُفْيَانَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 71)، صحيح مسلم (رقم 1037) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. When Allah intends supreme good for a person, He grants them deep understanding (Fiqh) of the religion.
+2. Comprehension of divine revelation is the highest mark of divine favor.
 
 ---
 
@@ -154,6 +166,9 @@
 * **Companion Narrator:** أَبُو مُوسَى الْأَشْعَرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 79)، صحيح مسلم (رقم 2282) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The parable of divine guidance and knowledge is like abundant rain falling upon different soils: fertile land absorbs water and produces lush vegetation, hard ground retains water for people to drink and irrigate, and barren ground yields nothing.
+2. Human hearts differ in receiving prophetic revelation: some absorb, practice, and teach; some preserve and transmit faithfully; and some turn away heedlessly.
 
 ---
 
@@ -184,6 +199,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 3461) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Obligation of conveying prophetic guidance and inviting to Allah according to one's capacity, even if it is a single verified verse or hadith.
+2. Every believer is an ambassador of Islam, entrusted with transmitting authentic truth with accuracy and sincerity.
 
 ---
 
@@ -214,6 +232,9 @@
 * **Companion Narrator:** عَلِيُّ بْنُ أَبِي طَالِبٍ وَجَمْعٌ مِنَ الصَّحَابَةِ رَضِيَ اللَّهُ عَنْهُمْ (حَدِيثٌ مُتَوَاتِرٌ).
 * **Canonical Reference:** صحيح البخاري (رقم 106، 107، 108)، صحيح مسلم (رقم 1، 2، 3، 4) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ مُتَوَاتِرٌ قَطْعِيُّ الثُّبُوتِ**
+* **Key Lessons & Takeaways:**
+1. Severe warning against intentionally fabricating statements or attributing falsehood to the Messenger of Allah ﷺ; whoever does so prepares their seat in Hellfire.
+2. Establishing rigorous verification, scholarly transmission, and absolute fidelity in preserving Hadith.
 
 ---
 
@@ -244,6 +265,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ وَزَيْدُ بْنُ ثَابِتٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن أبي داود (رقم 3660)، سنن الترمذي (رقم 2656) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The Prophet's ﷺ beautiful prayer for radiance and illumination of face for whoever hears his speech, comprehends it, memorizes it, and conveys it as heard.
+2. Dignity and immense blessing of transmitting authentic Sunnah to subsequent generations.
 
 ---
 
@@ -274,6 +298,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 73)، صحيح مسلم (رقم 816) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Admirable envy (Ghibtah/noble emulation) is praiseworthy in only two matters: a person whom Allah grants wealth and they expend it entirely in truth, and a person granted wisdom and they judge by it and teach it.
+2. Channeling human aspiration toward benevolent generosity and scholarly guidance.
 
 ---
 
@@ -304,6 +331,9 @@
 * **Companion Narrator:** سَهْلُ بْنُ سَعْدٍ السَّاعِدِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 3701)، صحيح مسلم (رقم 2406) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. By Allah, that Allah guides a single human being through you is vastly superior for you than possessing the finest worldly treasures (red camels).
+2. The supreme nobility of calling to Allah and rescuing souls from misguidance.
 
 ---
 
@@ -334,6 +364,9 @@
 * **Companion Narrator:** أَبُو مَسْعُودٍ عُقْبَةُ بْنُ عَمْرٍو الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1893) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Whoever guides someone to a good deed receives the exact same reward as the one who performs it, without diminishing anything from their reward.
+2. Immense multiplied blessings of teaching, mentoring, and facilitating righteous actions.
 
 ---
 
@@ -364,6 +397,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2674) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Whoever calls to guidance receives the reward of all who follow them until the Day of Resurrection; and whoever calls to misguidance bears the sin of all who follow it.
+2. Enduring generational impact of moral leadership and scholarly instruction.
 
 ---
 
@@ -394,6 +430,9 @@
 * **Companion Narrator:** أَبُو أُمَامَةَ الْبَاهِلِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 2685) — المكتبة الشاملة، وقال الترمذي: حسن صحيح غريب.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. All creation—even the ants in their burrows and the fish in the depths of the sea—send blessings and pray for forgiveness for the teacher of good.
+2. Cosmic reverence and divine favor bestowed upon those who illuminate human minds with sacred truth.
 
 ---
 
@@ -424,6 +463,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 100)، صحيح مسلم (رقم 2673) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Knowledge is not withdrawn by tearing it out from the hearts of men, but is taken away by the demise of genuine scholars.
+2. Severe danger of unqualified, ignorant people assuming religious leadership and misguiding themselves and others.
 
 ---
 
@@ -454,6 +496,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** المستدرك للحاكم (رقم 312)، شعب الإيمان للبيهقي (رقم 9811) — المكتبة الشاملة، وصححه الألباني في صحيح الجامع (رقم 6624).
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The insatiable seeker: two types of people are never satisfied—the seeker of knowledge and the seeker of worldly wealth.
+2. Exalting the noble, boundless quest for intellectual and spiritual enlightenment.
 
 ---
 
@@ -484,6 +529,9 @@
 * **Companion Narrator:** كَعْبُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 2654)، سنن ابن ماجه (رقم 253) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Stern warning against seeking sacred knowledge for worldly prestige, disputing with fools, showing off in assemblies, or seeking to turn people's faces toward oneself.
+2. Sincerity of intention (Ikhlas) is the absolute prerequisite for the acceptance of knowledge.
 
 ---
 
@@ -514,6 +562,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 3664)، سنن ابن ماجه (رقم 252) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Whoever acquires knowledge that should be sought for Allah's sake, but learns it solely to attain a worldly gain, will not even smell the fragrance of Paradise on Judgment Day.
+2. Dire peril of using sacred religion as an instrument for worldly ambition and materialism.
 
 ---
 
@@ -544,6 +595,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 3658)، سنن الترمذي (رقم 2649) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Severe warning: whoever is asked about beneficial knowledge that they possess and conceals it will be bridled with a bridle of fire on the Day of Resurrection.
+2. Scholarly obligation of disseminating guidance and clarifying truth to those who ask.
 
 ---
 
@@ -574,6 +628,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح مسلم (رقم 332)، صحيح البخاري تعليقاً بصيغة الجزم (كتاب العلم) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Praising the women of the Ansar whose modesty and shyness never prevented them from asking deep questions to understand their religion and its rulings.
+2. Eradicating false bashfulness in the pursuit of essential religious understanding.
 
 ---
 
@@ -604,6 +661,9 @@
 * **Companion Narrator:** مُجَاهِدُ بْنُ جَبْرٍ (تَابِعِيٌّ جَلِيلٌ) وَرَوَاهُ الْبُخَارِيُّ فِي صَحِيحِهِ.
 * **Canonical Reference:** صحيح البخاري (كتاب العلم، باب الحياء في العلم، تعليقاً بصيغة الجزم) — المكتبة الشاملة.
 * **Scholarly Grading:** **أَثَرٌ صَحِيحٌ مَقْبُولٌ**
+* **Key Lessons & Takeaways:**
+1. The best among people in Islam are those who were best in the pre-Islamic era (Jahiliyyah), provided they gain deep juristic understanding (Fiqh) of the religion.
+2. Natural human virtues and leadership abilities achieve their greatest brilliance when illuminated by sacred knowledge.
 
 ---
 
@@ -634,6 +694,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 3599)، سنن ابن ماجه (رقم 251) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Asking good questions and seeking clarification with humility is a foundational pillar of learning.
+2. Etiquette of seeking knowledge: gentle inquiry unlocks deep oceans of juristic wisdom.
 
 ---
 
@@ -664,6 +727,9 @@
 * **Companion Narrator:** زَيْدُ بْنُ أَرْقَمَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2722) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Seeking refuge in Allah from four: knowledge that does not benefit, a heart that does not fear, a soul that is never satisfied, and a prayer that is not answered.
+2. True sacred knowledge must produce fear of Allah, righteous action, and refinement of character.
 
 ---
 
@@ -694,6 +760,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ أُمُّ سَلَمَةَ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** سنن ابن ماجه (رقم 925)، مسند أحمد (رقم 26521) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Recommended prophetic morning supplication: 'O Allah, I ask You for beneficial knowledge, wholesome sustenance, and accepted deeds.'
+2. The ultimate triad for a blessed, purposeful, and spiritually fulfilled daily life.
 
 ---
 
@@ -724,6 +793,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 143)، صحيح مسلم (رقم 2477) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The Prophet's ﷺ special supplication for Abdullah ibn 'Abbas: 'O Allah, grant him deep understanding (Fiqh) in religion and teach him interpretation (Ta'wil).'
+2. Attaining the pinnacle of Qur'anic exegesis through profound comprehension and divine gift.
 
 ---
 
@@ -754,6 +826,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 95) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Pedagogical excellence in teaching: speaking deliberately and repeating important points three times to ensure thorough comprehension and retention.
+2. Patience and pedagogical clarity in communicating complex religious principles.
 
 ---
 
@@ -784,6 +859,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 68)، صحيح مسلم (رقم 2821) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Taking care of students' attention spans by spacing out admonitions and lectures to avoid boredom, lethargy, and mental fatigue.
+2. Balanced educational scheduling that sustains enthusiasm and joy in learning.
 
 ---
 
@@ -814,6 +892,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 69)، صحيح مسلم (رقم 1734) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Foundational educational maxim: 'Make things easy and do not make them difficult; give glad tidings and do not cause aversion.'
+2. Gentleness, encouragement, and accessibility in religious instruction, legal verdicts, and preaching.
 
 ---
 
@@ -844,6 +925,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 112، 113)، صحيح مسلم (رقم 1355) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Permissibility and importance of recording Hadith and compiling scholarly treatises: 'Write for Abu Shah.'
+2. Documentation, systematic recording, and publishing as vital instruments for preserving sacred knowledge.
 
 ---
 
@@ -874,6 +958,9 @@
 * **Companion Narrator:** أُسَامَةُ بْنُ زَيْدٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 3267)، صحيح مسلم (رقم 2989) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Stern warning against hypocrisy in guidance: enjoining good upon others while neglecting it oneself, and forbidding evil while committing it.
+2. Scholarly integrity requires congruent harmony between what a teacher professes and how they live.
 
 ---
 
@@ -904,6 +991,9 @@
 * **Companion Narrator:** أَبُو بَرْزَةَ نَضْلَةُ بْنُ عُبَيْدٍ الْأَسْلَمِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 2417)، الدارمي (رقم 546) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. On the Day of Resurrection, no servant's feet will move until questioned about their knowledge and what they acted upon regarding it.
+2. Knowledge is a decisive proof either for or against its possessor; true knowledge must bear fruit in righteous deeds.
 
 ---
 
@@ -934,6 +1024,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 3657)، سنن ابن ماجه (رقم 53) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Grave danger of daring to issue religious rulings (Fatwa) without verifiable knowledge; the sin falls upon the one who misinformed.
+2. Absolute imperative of scholarly honesty, caution, and rigorous verification in counseling others.
 
 ---
 
@@ -964,6 +1057,9 @@
 * **Companion Narrator:** عَمْرُو بْنُ الْعَاصِ وَأَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 7352)، صحيح مسلم (رقم 1716) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. When a qualified jurist strives their utmost (Ijtihad) and arrives at the correct ruling, they receive two rewards; if they err, they still receive one reward for their sincere striving.
+2. Honoring sincere scholarly effort and assuring divine pardon for unintentional mistakes made by qualified scholars.
 
 ---
 
@@ -994,6 +1090,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 4774)، صحيح مسلم (رقم 2798) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The religious integrity of the scholar lies in saying 'I do not know' and 'Allah knows best' when lacking knowledge, avoiding guesswork and baseless speech about Allah.
+2. Saying 'I do not know' is half of knowledge and the hallmark of genuine piety.
 
 ---
 
@@ -1024,6 +1123,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 2697)، صحيح مسلم (رقم 1718) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Decisive criterion for outward deeds: 'Whoever introduces into this affair of ours anything that is not from it, it is rejected.'
+2. Protection of Islamic worship and theology against innovations (Bida'), fabrications, and unauthorized alterations.
 
 ---
 
@@ -1054,6 +1156,9 @@
 * **Companion Narrator:** الْعِرْبَاضُ بْنُ سَارِيَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 4607)، سنن الترمذي (رقم 2676) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Obligation of clinging firmly to the Prophet's Sunnah and the guidance of the Rightly-Guided Caliphs, biting onto it with the molar teeth during times of controversy.
+2. Adherence to authentic Sunnah provides infallible protection against theological deviance.
 
 ---
 
@@ -1084,6 +1189,9 @@
 * **Companion Narrator:** جَرِيرُ بْنُ عَبْدِ اللَّهِ الْبَجَلِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1017) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Immense reward for reviving forgotten Sunnahs and establishing beneficial, righteous institutions and precedents (Sunnah Hasanah).
+2. Warning against initiating corrupt, destructive innovations (Sunnah Sayyi'ah) whose guilt carries across generations.
 
 ---
 
@@ -1114,6 +1222,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ وَعَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمْ.
 * **Canonical Reference:** موطأ مالك (رقم 1601)، المستدرك للحاكم (رقم 318) — المكتبة الشاملة، وصححه الألباني.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The Qur'an and the authentic Sunnah are the two infallible sources left by the Prophet ﷺ; clinging to them guarantees eternal protection against misguidance.
+2. Unshakable foundation of Muslim unity, legal authority, and spiritual survival.
 
 ---
 
@@ -1144,6 +1255,9 @@
 * **Companion Narrator:** عُبَادَةُ بْنُ الصَّامِتِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** مسند أحمد (رقم 22755)، سنن الترمذي (رقم 1919) — المكتبة الشاملة، وحسنه الألباني.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Obligation of acknowledging the rights of scholars, showing reverence to the elders, and having mercy on the young; whoever fails in this is not of our methodology.
+2. Upholding moral hierarchy, filial respect, and high etiquette toward educators and mentors.
 
 ---
 
@@ -1174,6 +1288,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 3510)، مسند أحمد (رقم 12526) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Assemblies of Dhikr, Qur'anic study, and sacred knowledge are the Gardens of Paradise upon this earth; believers are urged to pasture therein with joy.
+2. Experiencing spiritual tranquility, solace, and fellowship in gatherings of divine learning.
 
 ---
 
@@ -1204,6 +1321,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2699) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Four great divine gifts bestowed upon assemblies gathered in the mosque to recite and study Allah's Book: serenity descends, mercy envelops them, angels surround them, and Allah mentions them to those with Him.
+2. Heavenly honor and peace enveloping serious circles of Qur'anic and Hadith study.
 
 ---
 
@@ -1234,6 +1354,9 @@
 * **Companion Narrator:** ثَوْبَانُ مَوْلَى رَسُولِ اللَّهِ ﷺ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1920)، صحيح البخاري بنحوه (رقم 7311) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Glad tidings: a triumphant group (At-Ta'ifah al-Mansurah) from this Ummah will remain steadfast upon the truth, unharmed by those who oppose or abandon them, until Allah's command arrives.
+2. Continuous preservation of pure orthodox truth throughout every turbulent era.
 
 ---
 
@@ -1264,6 +1387,9 @@
 * **Companion Narrator:** بُرَيْدَةُ بْنُ الْحُصَيْبِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 3573)، سنن الترمذي (رقم 1322) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Great responsibility of judicial authority: of the three types of judges, one is in Paradise (the one who knew the truth and judged by it) and two are in the Fire.
+2. High warning against injustice, corruption, or judging between people in state of ignorance.
 
 ---
 
@@ -1294,6 +1420,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 2687)، سنن ابن ماجه (رقم 4169) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ مَشْهُورٌ مَعْنَاهُ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Wisdom is the lost property of the believer; wherever they find it, they have the greatest right to take it.
+2. Openness to truth, beneficial insights, and sound logic from every wholesome source.
 
 ---
 
@@ -1324,6 +1453,9 @@
 * **Companion Narrator:** أَبُو ذَرٍّ الْغِفَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن ابن ماجه (رقم 219) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ**
+* **Key Lessons & Takeaways:**
+1. Superiority of engaging in learning and teaching prophetic guidance over solitary voluntary devotions, because beneficial knowledge spreads light to the entire community.
+2. Transcendent merit of the scholar whose influence illuminates hearts across generations.
 
 ---
 
@@ -1354,6 +1486,9 @@
 * **Companion Narrator:** أَمِيرُ الْمُؤْمِنِينَ عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** جامع بيان العلم وفضله لابن عبد البر (رقم 758) — المكتبة الشاملة.
 * **Scholarly Grading:** **أَثَرٌ صَحِيحٌ مَشْهُورٌ فِي آدَابِ الطَّلَبِ**
+* **Key Lessons & Takeaways:**
+1. Sublime etiquette of the seeker of knowledge: showing deep humility, reverence, and gratitude before teachers and spiritual mentors.
+2. Humility before educators unlocks understanding and invites divine barakah into learning.
 
 ---
 
@@ -1384,6 +1519,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري تعليقاً بصيغة الجزم (كتاب العلم، باب الخروج في طلب العلم)، ومسند أحمد (رقم 16042) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Inspiring diligence of the Companions and early generations: traveling great distances across deserts and continents to verify a single hadith.
+2. Unwavering dedication to scholarly precision, oral verification, and unbroken chains of transmission.
 
 ---
 
@@ -1414,6 +1552,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن الدارمي (رقم 617)، المستدرك للحاكم (رقم 322) — المكتبة الشاملة.
 * **Scholarly Grading:** **أَثَرٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Consolidating knowledge through constant review, discussion, and mutual questioning among peers.
+2. Regular review prevents sacred traditions from slipping away from memory.
 
 ---
 
@@ -1444,6 +1585,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** الأدب المفرد للبخاري (رقم 788)، موطأ مالك (رقم 525) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Warning against issuing religious opinions based on mere personal conjecture without solid scriptural proof.
+2. The danger of oratorical eloquence that is hollow and devoid of true juristic grounding.
 
 ---
 
@@ -1474,6 +1618,9 @@
 * **Companion Narrator:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن ابن ماجه (رقم 247)، سنن الترمذي (رقم 2650) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ**
+* **Key Lessons & Takeaways:**
+1. The Prophet's ﷺ explicit bequest to honor, welcome, and generously teach seekers of knowledge.
+2. Fostering warm hospitality and mentorship for students arriving to learn the Sunnah.
 
 ---
 
@@ -1504,5 +1651,8 @@
 * **Companion Narrator:** إِبْرَاهِيمُ بْنُ عَبْدِ الرَّحْمَنِ الْعُذْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** السنن الكبرى للبيهقي (رقم 20911)، مشكاة المصابيح (رقم 248) — المكتبة الشاملة، وصححه الإمام أحمد وابن عبد البر والألباني بمجموع شواهده.
 * **Scholarly Grading:** **حَدِيثٌ صَحِيحٌ بِمَجْمُوعِ طُرُقِهِ وَشَوَاهِدِهِ**
+* **Key Lessons & Takeaways:**
+1. In every generation, upright, trustworthy scholars will carry this sacred knowledge, defending it against distortions of extremists and fabricators.
+2. The divine preservation of the Sunnah through dedicated, rigorous scholarship until the Day of Judgment.
 
 ---

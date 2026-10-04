@@ -1,4 +1,4 @@
-# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
+﻿# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
 ## كِتَابُ الْإِيمَانِ وَالْعَقِيدَةِ
 ### Chapter 1: Book of Faith & Creed (Hadiths #0002 – #0051)
 *المصدر والتحقيق: نصوص محررة ومحققة وفق المطبوعات المعتمدة في المكتبة الشاملة (صحيح البخاري، صحيح مسلم، السنن الأربعة، ومسند أحمد)*
@@ -39,6 +39,10 @@
 * **Companion Narrator:** عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 8) — الشاملة، وصحيح البخاري بنحوه (رقم 50).
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Faith comprises three ascending tiers: Islam (outward practices), Iman (inward convictions), and Ihsan (excellence through acute God-consciousness).
+2. Affirms the six fundamental pillars of faith required of every believer.
+3. Demonstrates the prophetic pedagogy of question-and-answer and angelic descent.
 
 ---
 
@@ -69,6 +73,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 8)، صحيح مسلم (رقم 16) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Compares Islam to an integrated edifice supported by five foundational pillars; neglecting any pillar threatens the integrity of one's religion.
+2. Prioritizes the Shahadah and Salat as the foremost daily duties of the Muslim.
 
 ---
 
@@ -100,6 +107,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 9)، صحيح مسلم (رقم 35) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Faith is holistic, encompassing verbal declarations, internal convictions, and physical acts of service.
+2. Modesty (Haya') is a crown branch of faith that restrains one from sin and inspires noble conduct.
 
 ---
 
@@ -130,6 +140,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 16)، صحيح مسلم (رقم 43) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. True faith yields a profound sweetness of heart when love for Allah and His Messenger supersedes all worldly desires.
+2. Loving fellow believers purely for Allah's sake and abhorring disbelief are prerequisites for experiencing this sweetness.
 
 ---
 
@@ -160,6 +173,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 15)، صحيح مسلم (رقم 44) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Complete and obligatory faith requires placing love for the Prophet ﷺ above oneself, one's parents, children, and all mankind.
+2. Manifesting this love is realized through strict obedience to his Sunnah.
 
 ---
 
@@ -190,6 +206,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 13)، صحيح مسلم (رقم 45) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Pure faith demands wishing goodness, guidance, and well-being for one's fellow Muslims just as one desires for oneself.
+2. Cleansing the heart of envy, malice, and selfishness is essential for spiritual maturity.
 
 ---
 
@@ -220,6 +239,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 10)، صحيح مسلم (رقم 40) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. A true Muslim actively safeguards others from harm caused by their tongue (slander, gossip) and hands (injustice, aggression).
+2. True emigration (Hijrah) in peacetime is abandoning what Allah has prohibited.
 
 ---
 
@@ -250,6 +272,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 33)، صحيح مسلم (رقم 59) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Severe warning against the practical traits of hypocrisy: lying in speech, breaking promises, and betraying trusts.
+2. Integrity and honesty are bedrock characteristics of genuine believers.
 
 ---
 
@@ -280,6 +305,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 2766)، صحيح مسلم (رقم 89) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Associating partners with Allah (Shirk) is the greatest and most destructive of all sins, followed by unjust killing and adultery.
+2. Sanctity of human life, honor, and lineage in the Islamic moral order.
 
 ---
 
@@ -310,6 +338,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 6018)، صحيح مسلم (رقم 47) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Belief in Allah and the Last Day requires moral excellence: speaking good or maintaining silence, honoring neighbors, and being generous to guests.
+2. Restraining the tongue is one of the greatest safeguards against calamity.
 
 ---
 
@@ -340,6 +371,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 2736)، صحيح مسلم (رقم 2677) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Memorizing, understanding, affirming, and living by the ninety-nine Most Beautiful Names of Allah leads directly to Paradise.
+2. Encourages continuous supplication and contemplation of Allah's divine attributes.
 
 ---
 
@@ -370,6 +404,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 3194)، صحيح مسلم (رقم 2751) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Allah's boundless mercy precedes and overcomes His wrath, opening wide the gates of hope and repentance for sinners.
+2. Encourages perpetual return to Allah without ever despairing of His forgiveness.
 
 ---
 
@@ -400,6 +437,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 7405)، صحيح مسلم (رقم 2675) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Encourages holding positive expectations of Allah; He treats His servant according to their belief and reliance upon Him.
+2. Allah responds with swift nearness, acceptance, and multiplied reward whenever the servant turns toward Him.
 
 ---
 
@@ -431,6 +471,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1145)، صحيح مسلم (رقم 758) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Affirms Allah's Divine Descent in the last third of the night in a manner befitting His majesty without anthropomorphism or denial.
+2. High virtue of night prayer (Tahajjud), sincere supplication, and seeking forgiveness before dawn.
 
 ---
 
@@ -461,6 +504,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** جامع الترمذي (رقم 2516)، مسند أحمد (رقم 2669) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Instills pure Tawhid, total reliance upon Allah, and fearlessness before creation, as benefit and harm are solely in Allah's hands.
+2. The Pen has dried upon Divine Decree; striving with lawful means accompanies unwavering trust in Allah.
 
 ---
 
@@ -491,6 +537,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2664) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Harmonizes pursuing beneficial means with seeking Allah's assistance and submitting with contentment to His decree.
+2. Forbids uttering 'if only' (law) in remorse over past outcomes, as it opens the door for Satanic whispers.
 
 ---
 
@@ -521,6 +570,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 3208)، صحيح مسلم (رقم 2643) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Detailed stages of human creation in the womb affirm Allah's absolute knowledge, preordainment of sustenance, lifespan, and ultimate destiny.
+2. Steadfastness until the end of life is critical, urging constant prayer for a good ending (Husn al-Khatimah).
 
 ---
 
@@ -552,6 +604,9 @@
 * **Companion Narrator:** جَرِيرُ بْنُ عَبْدِ اللَّهِ الْبَجَلِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 554)، صحيح مسلم (رقم 633) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Beholding the Countenance of Allah in the Hereafter is the supreme bliss and greatest reward of the people of Paradise.
+2. Diligent preservation of the Fajr and 'Asr prayers is a direct path to attaining this ultimate honor.
 
 ---
 
@@ -582,6 +637,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2278) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Confirms the glorious Station of Praise (Al-Maqam al-Mahmud) and the Great Intercession (Ash-Shafa'ah al-'Uzma) granted exclusively to Prophet Muhammad ﷺ.
+2. Reflects the supreme honor Allah bestowed upon the final Messenger before all creation on the Day of Resurrection.
 
 ---
 
@@ -612,6 +670,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1385)، صحيح مسلم (رقم 2658) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Every human is born upon the pure, innate disposition (Fitrah) of monotheism before corrupting external influences alter their creed.
+2. Underscores the vital duty of parents and mentors in nurturing and preserving childhood faith.
 
 ---
 
@@ -642,6 +703,9 @@
 * **Companion Narrator:** الْعَبَّاسُ بْنُ عَبْدِ الْمُطَّلِبِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 34) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Contentment with Allah as Lord, Islam as one's religion, and Muhammad ﷺ as Messenger unlocks the sweetness of faith and inner tranquility.
+2. Complete surrender to divine legislation brings peace in this life and salvation in the next.
 
 ---
 
@@ -672,6 +736,9 @@
 * **Companion Narrator:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 49) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Changing or stopping evil is an obligatory communal duty according to capacity: with the hand (authority), the tongue (advice), or the heart (disapproval).
+2. Hating evil in the heart is an absolute obligation upon every Muslim that can never be waived.
 
 ---
 
@@ -702,6 +769,9 @@
 * **Companion Narrator:** تَمِيمُ بْنُ أَوْسٍ الدَّارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 55) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Sincere counsel (Nasihah) is the bedrock of the entire religion: toward Allah, His Book, His Messenger, the leaders of Muslims, and the general public.
+2. Sincerity manifests in obeying commandments, defending the truth, and wishing guidance for all.
 
 ---
 
@@ -732,6 +802,9 @@
 * **Companion Narrator:** أَبُو ذَرٍّ الْغِفَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 5827)، صحيح مسلم (رقم 94) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Sincere proclamation of the Testimony of Faith (La ilaha illallah) from the heart is the master key to Paradise and salvation from Hellfire.
+2. Complete monotheism shields the believer from eternal punishment.
 
 ---
 
@@ -762,6 +835,9 @@
 * **Companion Narrator:** مُعَاذُ بْنُ جَبَلٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 2856)، صحيح مسلم (رقم 30) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Dedicating worship solely to Allah and eradicating all forms of polytheism is the foundational right of Allah upon His servants.
+2. Whoever fulfills this right without associating partners with Allah is promised immunity from eternal punishment.
 
 ---
 
@@ -792,6 +868,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 32)، صحيح مسلم (رقم 124) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Polytheism (Shirk) is the greatest injustice because it directs worship to powerless creation rather than the Creator.
+2. True spiritual safety in both worlds is reserved exclusively for those who keep their faith pure from Shirk.
 
 ---
 
@@ -822,6 +901,9 @@
 * **Companion Narrator:** مَحْمُودُ بْنُ لَبِيدٍ الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** مسند أحمد (رقم 23630) — المكتبة الشاملة، وصححه الألباني في السلسلة الصحيحة (رقم 951).
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Severe warning against ostentation (Riya') and minor polytheism, which nullifies deeds performed for human praise.
+2. Sincerity of intention must be continuously guarded throughout every act of devotion.
 
 ---
 
@@ -852,6 +934,9 @@
 * **Companion Narrator:** عُقْبَةُ بْنُ عَامِرٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** مسند أحمد (رقم 17404، 17422) — المكتبة الشاملة، وصححه الألباني في السلسلة الصحيحة (رقم 492).
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Prohibition of wearing amulets, charms, and talismans to ward off evil or attract fortune; reliance must be upon Allah alone.
+2. Permissibility of prescribed Ruqyah through the Qur'an and authentic prophetic prayers.
 
 ---
 
@@ -882,6 +967,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 2679)، سنن الترمذي (رقم 1535) — المكتبة الشاملة، وصححه الترمذي والألباني.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Reverence in swearing: absolute oath-taking is consecrated for Allah alone and His attributes; swearing by anything else constitutes Shirk.
+2. Muslims must guard their tongues against customary oaths that mention created beings.
 
 ---
 
@@ -912,6 +1000,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 5756)، صحيح مسلم (رقم 2224) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Rejection of superstition, bad omens (Tiyarah), and pessimism; Islam commands optimism (Fa'l) and good hope in Allah.
+2. Reliance on Allah dissolves the psychological paralysis caused by superstition.
 
 ---
 
@@ -942,6 +1033,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ حَفْصَةُ بِنْتُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 2230) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Unseen knowledge belongs exclusively to Allah; consulting or believing fortune-tellers, astrologers, and soothsayers compromises Islamic creed.
+2. Rejecting occultism is essential for protecting Tawhid.
 
 ---
 
@@ -972,6 +1066,9 @@
 * **Companion Narrator:** عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 2344)، مسند أحمد (رقم 205) — المكتبة الشاملة، وقال الترمذي: حسن صحيح.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. True reliance (Tawakkul) seamlessly combines complete heart dependence upon Allah with proactive pursuit of legitimate means (like the soaring birds).
+2. Passivity and neglect of effort contradict genuine prophetic reliance.
 
 ---
 
@@ -1002,6 +1099,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 2517) — المكتبة الشاملة، وحسنه الألباني في صحيح الترمذي.
 * **Scholarly Grading:** **حَسَنٌ**
+* **Key Lessons & Takeaways:**
+1. Seeking medical treatment and legitimate remedies does not contradict reliance upon Allah, but fulfills His divine decree through His laws of cause and effect.
+2. Allah created a cure for every illness, encouraging hope and medical exploration.
 
 ---
 
@@ -1032,6 +1132,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2755)، صحيح البخاري بنحوه (رقم 6469) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Genuine faith balances between the two wings of reverent fear of Allah's justice and hopeful longing for His mercy.
+2. The believer neither feels falsely secure from Allah's plan nor ever desponds of His mercy.
 
 ---
 
@@ -1062,6 +1165,9 @@
 * **Companion Narrator:** صُهَيْبُ بْنُ سِنَانٍ الرُّومِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2999) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The believer is always victorious: responding to ease and blessing with gratitude, and meeting adversity and hardship with patience.
+2. Transforming every circumstance of life into an avenue for multiplied spiritual reward.
 
 ---
 
@@ -1092,6 +1198,9 @@
 * **Companion Narrator:** أَبُو سَعِيدٍ الْخُدْرِيُّ وَأَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 5641)، صحيح مسلم (رقم 2573) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Trials, illnesses, pain, grief, and fatigue expiate the sins of the patient believer and elevate their rank.
+2. Replaces despair during hardship with reassurance and anticipation of divine reward.
 
 ---
 
@@ -1122,6 +1231,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 660)، صحيح مسلم (رقم 1031) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Sincerity, private God-consciousness, and devotion earn the ultimate protection and shade under Allah's Throne on the Day of Judgment.
+2. Highlights seven noble categories of believers who mastered self-restraint and charity.
 
 ---
 
@@ -1152,6 +1264,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 6133)، صحيح مسلم (رقم 2998) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The believer is vigilant, prudent, and insightful, learning from experience and avoiding the repetition of mistakes in religious and worldly matters.
+2. Combines spiritual wisdom with practical shrewdness.
 
 ---
 
@@ -1182,6 +1297,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 2877) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Strongly encourages maintaining the highest optimism and hope in Allah's boundless mercy and forgiveness at the time of death.
+2. Departing this life with deep trust in Allah's pardon.
 
 ---
 
@@ -1212,6 +1330,9 @@
 * **Companion Narrator:** الْبَرَاءُ بْنُ عَازِبٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1369)، صحيح مسلم (رقم 2871) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Confirms the reality of the grave's bliss, torment, and the questioning of the two angels (Munkar and Nakir).
+2. Firmness in answering in the grave is a divine gift granted to sincere, steadfast believers.
 
 ---
 
@@ -1242,6 +1363,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 6579)، صحيح مسلم (رقم 2292) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Affirms belief in the Prophet's ﷺ noble Cistern (Al-Hawd), from which anyone who drinks will never thirst again.
+2. Reaffirms the necessity of holding firmly to the Sunnah and avoiding blameworthy religious innovations.
 
 ---
 
@@ -1272,6 +1396,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 6406)، صحيح مسلم (رقم 2694) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Affirms the physical reality of the Scales (Al-Mizan) on the Day of Resurrection to weigh deeds with supreme justice.
+2. Easy, light words on the tongue—like 'Subhanallahi wa bihamdih, Subhanallahil-Azim'—carry immense weight on the Scales.
 
 ---
 
@@ -1302,6 +1429,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 806)، صحيح مسلم (رقم 182) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Affirms belief in the Bridge (As-Sirat) erected over Hellfire, across which people will pass according to their deeds.
+2. Straightness on Allah's path in this worldly life determines the ease of traversing the Bridge in the Hereafter.
 
 ---
 
@@ -1332,6 +1462,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 2790) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Encourages high spiritual ambition by asking Allah for the highest station of Paradise: Jannat al-Firdaws al-A'la.
+2. Firdaws is the highest part of Paradise, directly beneath the Throne of the Most Merciful.
 
 ---
 
@@ -1362,6 +1495,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 6571)، صحيح مسلم (رقم 186) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Reflects the unimaginable vastness of Allah's generosity and the endless expanse of the lowest tier of Paradise.
+2. Inspires awe at Allah's royal grace bestowed even upon the last person entering Paradise.
 
 ---
 
@@ -1392,6 +1528,9 @@
 * **Companion Narrator:** صُهَيْبُ بْنُ سِنَانٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 181) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Gaze upon the Countenance of Allah the Almighty is the pinnacle of delight, surpassing all material pleasures of Paradise.
+2. Validates the Ahlus Sunnah belief in the direct vision of Allah in the Hereafter.
 
 ---
 
@@ -1422,6 +1561,9 @@
 * **Companion Narrator:** عُبَادَةُ بْنُ الصَّامِتِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 4700)، سنن الترمذي (رقم 2155، 3319) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Affirms the four levels of Divine Decree (Al-Qadar): Knowledge, Writing in the Preserved Tablet, Will, and Creation.
+2. Provides unwavering tranquility through knowing all cosmic events are governed by Allah's wisdom.
 
 ---
 
@@ -1452,6 +1594,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** المستدرك على الصحيحين للحاكم (رقم 5)، المعجم الكبير للطبراني (رقم 14668) — المكتبة الشاملة، وصححه الألباني في السلسلة الصحيحة (رقم 1585).
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Faith increases with acts of obedience and decreases with heedlessness and sin.
+2. Constantly renewing faith through dhikr, heartfelt du'a, and Qur'anic contemplation is essential.
 
 ---
 
@@ -1482,6 +1627,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 2654) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. All human hearts are under the absolute dominion and sovereign control of the Most Merciful, affirming the constant necessity of begging Allah for steadfastness upon guidance.
+2. Affirms Allah's Divine Attributes in a manner befitting His majesty, prompting the frequent prophetic prayer: 'O Turner of hearts, turn our hearts towards Your obedience.'
 
 ---
 
@@ -1512,5 +1660,8 @@
 * **Companion Narrator:** سُفْيَانُ بْنُ عَبْدِ اللَّهِ الثَّقَفِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 38)، مسند أحمد (رقم 15416) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Faith is not merely a passive claim; its reality is verified through righteous action and inner purity.
+2. Guarding against self-delusion and maintaining spiritual consistency until death.
 
 ---

@@ -418,7 +418,7 @@ class _BookReaderScreenState extends State<BookReaderScreen> {
 
     final currentChapter = chapters.firstWhere(
       (c) => c.id == _selectedChapterId,
-      orElse: () => chapters.isNotEmpty ? chapters.first : Chapter(id: 0, englishTitle: 'Prologue', arabicTitle: 'المقدمة', hadithCount: 1, startId: 1, endId: 1, description: ''),
+      orElse: () => chapters.isNotEmpty ? chapters.first : Chapter(id: 0, filename: '', englishTitle: 'Prologue', arabicTitle: 'المقدمة', hadithCount: 1, startId: 1, endId: 1),
     );
 
     return Scaffold(

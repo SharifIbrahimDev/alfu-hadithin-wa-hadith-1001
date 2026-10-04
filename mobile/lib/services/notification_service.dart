@@ -17,8 +17,9 @@ class NotificationService {
       FlutterLocalNotificationsPlugin();
 
   static const int dailyReminderNotificationId = 1001;
+  static const int dailyReminderOneShotId = 1002;
   static const int testNotificationId = 9999;
-  static const String channelId = 'daily_hadith_reminder_channel_v5';
+  static const String channelId = 'daily_hadith_reminder_channel_v6';
   static const String channelName = 'Daily Hadith Reminder';
   static const String channelDescription =
       'Daily authentic Hadith reminders and notifications from 1001 Authentic Hadith';
@@ -43,7 +44,7 @@ class NotificationService {
       // iOS / macOS Darwin settings
       const DarwinInitializationSettings darwinSettings =
           DarwinInitializationSettings(
-        requestAlertPermission: false, // Explicitly requested via UI/startup
+        requestAlertPermission: false,
         requestBadgePermission: false,
         requestSoundPermission: false,
       );
@@ -77,6 +78,7 @@ class NotificationService {
           await androidNotificationPlugin.deleteNotificationChannel('daily_hadith_reminder_channel_v2');
           await androidNotificationPlugin.deleteNotificationChannel('daily_hadith_reminder_channel_v3');
           await androidNotificationPlugin.deleteNotificationChannel('daily_hadith_reminder_channel_v4');
+          await androidNotificationPlugin.deleteNotificationChannel('daily_hadith_reminder_channel_v5');
         } catch (_) {}
 
         await androidNotificationPlugin.createNotificationChannel(
@@ -161,6 +163,20 @@ class NotificationService {
     return true;
   }
 
+  /// Checks whether exact alarms can be scheduled on Android 12+
+  Future<bool> canScheduleExactAlarms() async {
+    if (!Platform.isAndroid) return true;
+    try {
+      final androidImplementation = _notificationsPlugin
+          .resolvePlatformSpecificImplementation<
+              AndroidFlutterLocalNotificationsPlugin>();
+      return await androidImplementation?.canScheduleExactAlarms() ?? true;
+    } catch (e) {
+      debugPrint('Error checking exact alarms: $e');
+      return true;
+    }
+  }
+
   /// Requests runtime notification and exact alarm permissions
   Future<bool> requestPermissions() async {
     try {
@@ -174,7 +190,9 @@ class NotificationService {
 
           try {
             await androidImplementation.requestExactAlarmsPermission();
-          } catch (_) {}
+          } catch (e) {
+            debugPrint('Error requesting exact alarm permission: $e');
+          }
 
           return notifGranted ?? false;
         }
@@ -197,6 +215,20 @@ class NotificationService {
     return true;
   }
 
+  /// Explicitly prompt for exact alarm permission (Android 12/13/14+)
+  Future<void> requestExactAlarmsPermission() async {
+    try {
+      if (Platform.isAndroid) {
+        final androidImplementation = _notificationsPlugin
+            .resolvePlatformSpecificImplementation<
+                AndroidFlutterLocalNotificationsPlugin>();
+        await androidImplementation?.requestExactAlarmsPermission();
+      }
+    } catch (e) {
+      debugPrint('Error in requestExactAlarmsPermission: $e');
+    }
+  }
+
   tz.TZDateTime _nextInstanceOfTime(int hour, int minute) {
     final now = tz.TZDateTime.now(tz.local);
     var scheduledDate = tz.TZDateTime(
@@ -209,9 +241,17 @@ class NotificationService {
       0,
     );
 
-    // If the scheduled time is in the past or current second, schedule for tomorrow
+    // If the scheduled time is in the past or current minute, schedule for tomorrow
     if (scheduledDate.isBefore(now) || scheduledDate.isAtSameMomentAs(now)) {
-      scheduledDate = scheduledDate.add(const Duration(days: 1));
+      scheduledDate = tz.TZDateTime(
+        tz.local,
+        now.year,
+        now.month,
+        now.day + 1,
+        hour,
+        minute,
+        0,
+      );
     }
     return scheduledDate;
   }
@@ -228,7 +268,15 @@ class NotificationService {
       0,
     );
     if (scheduled.isBefore(now) || scheduled.isAtSameMomentAs(now)) {
-      scheduled = scheduled.add(const Duration(days: 1));
+      scheduled = tz.TZDateTime(
+        tz.local,
+        now.year,
+        now.month,
+        now.day + 1,
+        hour,
+        minute,
+        0,
+      );
     }
     return scheduled.difference(now);
   }
@@ -292,6 +340,7 @@ class NotificationService {
     required Hadith hadith,
   }) async {
     try {
+      await _configureLocalTimeZone();
       await cancelDailyReminder();
 
       final scheduledDate = _nextInstanceOfTime(hour, minute);
@@ -309,7 +358,45 @@ class NotificationService {
         subText: subText,
       );
 
-      // Attempt exactAllowWhileIdle first for repeating daily schedule
+      debugPrint('NotificationService: Scheduling daily reminder for $scheduledDate (current local: ${tz.TZDateTime.now(tz.local)})');
+
+      // ── DUAL-LAYER SCHEDULING ───────────────────────────────────────────────
+      // Layer A: Dedicated one-shot exact alarm for the immediate next occurrence.
+      // Uses Android AlarmClock mode which is exempt from Doze mode and OEM battery sleep.
+      try {
+        await _notificationsPlugin.zonedSchedule(
+          dailyReminderOneShotId,
+          title,
+          previewText,
+          scheduledDate,
+          details,
+          androidScheduleMode: AndroidScheduleMode.alarmClock,
+          uiLocalNotificationDateInterpretation:
+              UILocalNotificationDateInterpretation.absoluteTime,
+          payload: hadith.id.toString(),
+        );
+        debugPrint('NotificationService: Layer A (one-shot alarmClock) scheduled for $scheduledDate');
+      } catch (e) {
+        debugPrint('NotificationService: alarmClock one-shot failed ($e), falling back to exactAllowWhileIdle');
+        try {
+          await _notificationsPlugin.zonedSchedule(
+            dailyReminderOneShotId,
+            title,
+            previewText,
+            scheduledDate,
+            details,
+            androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
+            uiLocalNotificationDateInterpretation:
+                UILocalNotificationDateInterpretation.absoluteTime,
+            payload: hadith.id.toString(),
+          );
+          debugPrint('NotificationService: Layer A (one-shot exactAllowWhileIdle) scheduled for $scheduledDate');
+        } catch (e2) {
+          debugPrint('NotificationService: One-shot exact fallback error: $e2');
+        }
+      }
+
+      // Layer B: Recurring daily alarm component (DateTimeComponents.time).
       try {
         await _notificationsPlugin.zonedSchedule(
           dailyReminderNotificationId,
@@ -323,9 +410,9 @@ class NotificationService {
           matchDateTimeComponents: DateTimeComponents.time,
           payload: hadith.id.toString(),
         );
-        debugPrint('Scheduled exactAllowWhileIdle daily reminder for $scheduledDate');
+        debugPrint('NotificationService: Layer B (recurring exactAllowWhileIdle) scheduled for $scheduledDate');
       } catch (e) {
-        debugPrint('exactAllowWhileIdle failed, falling back to inexactAllowWhileIdle: $e');
+        debugPrint('NotificationService: recurring exact failed ($e), trying inexact fallback');
         try {
           await _notificationsPlugin.zonedSchedule(
             dailyReminderNotificationId,
@@ -339,10 +426,16 @@ class NotificationService {
             matchDateTimeComponents: DateTimeComponents.time,
             payload: hadith.id.toString(),
           );
-          debugPrint('Scheduled inexactAllowWhileIdle daily reminder for $scheduledDate');
-        } catch (e2) {
-          debugPrint('Error in fallback daily reminder: $e2');
+          debugPrint('NotificationService: Layer B (recurring inexactAllowWhileIdle) scheduled for $scheduledDate');
+        } catch (e3) {
+          debugPrint('NotificationService: recurring inexact schedule error: $e3');
         }
+      }
+
+      final pending = await _notificationsPlugin.pendingNotificationRequests();
+      debugPrint('NotificationService: Active pending requests count = ${pending.length}');
+      for (final p in pending) {
+        debugPrint('  - ID: ${p.id}, Title: ${p.title}');
       }
     } catch (e) {
       debugPrint('Error scheduling daily reminder: $e');
@@ -350,16 +443,25 @@ class NotificationService {
   }
 
   Future<void> scheduleTestNotification({
-    int seconds = 10,
+    int seconds = 15,
     required Hadith hadith,
   }) async {
     try {
       await requestPermissions();
+      await _configureLocalTimeZone();
 
       _testTimer?.cancel();
+      try {
+        await _notificationsPlugin.cancel(testNotificationId);
+      } catch (_) {}
+
       final fireTime = tz.TZDateTime.now(tz.local).add(Duration(seconds: seconds));
 
-      final title = '📖 Test Hadith (${seconds}s): ${hadith.topicEn}';
+      final durationLabel = seconds >= 60
+          ? (seconds % 60 == 0 ? '${seconds ~/ 60}m' : '${seconds ~/ 60}m ${seconds % 60}s')
+          : '${seconds}s';
+
+      final title = '📖 Hadith Reminder ($durationLabel): ${hadith.topicEn}';
       final previewText = hadith.englishTranslation.isNotEmpty
           ? (hadith.englishTranslation.length > 200
               ? '${hadith.englishTranslation.substring(0, 197)}...'
@@ -373,16 +475,14 @@ class NotificationService {
         subText: subText,
       );
 
-      try {
-        await _notificationsPlugin.cancel(testNotificationId);
-      } catch (_) {}
+      // In-app timer fallback for short tests when app stays open
+      if (seconds <= 30) {
+        _testTimer = Timer(Duration(seconds: seconds), () async {
+          await showInstantTestNotification(hadith: hadith);
+        });
+      }
 
-      // 1. In-app Timer backup for when the user stays inside the app
-      _testTimer = Timer(Duration(seconds: seconds), () async {
-        await showInstantTestNotification(hadith: hadith);
-      });
-
-      // 2. Android scheduled Alarm for when screen is locked or app is in background
+      // Android hardware alarm to wake device from deep Doze
       try {
         await _notificationsPlugin.zonedSchedule(
           testNotificationId,
@@ -390,14 +490,15 @@ class NotificationService {
           previewText,
           fireTime,
           details,
-          androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
+          androidScheduleMode: AndroidScheduleMode.alarmClock,
           uiLocalNotificationDateInterpretation:
               UILocalNotificationDateInterpretation.absoluteTime,
           payload: hadith.id.toString(),
         );
-        debugPrint('Scheduled exactAllowWhileIdle test notification in $seconds seconds ($fireTime)');
+        debugPrint('NotificationService: Scheduled alarmClock test alarm in $seconds seconds ($fireTime)');
+        return;
       } catch (e) {
-        debugPrint('exactAllowWhileIdle failed, trying alarmClock: $e');
+        debugPrint('alarmClock test failed ($e), trying exactAllowWhileIdle');
         try {
           await _notificationsPlugin.zonedSchedule(
             testNotificationId,
@@ -405,13 +506,14 @@ class NotificationService {
             previewText,
             fireTime,
             details,
-            androidScheduleMode: AndroidScheduleMode.alarmClock,
+            androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
             uiLocalNotificationDateInterpretation:
                 UILocalNotificationDateInterpretation.absoluteTime,
             payload: hadith.id.toString(),
           );
+          debugPrint('NotificationService: Scheduled exactAllowWhileIdle test in $seconds seconds');
         } catch (e2) {
-          debugPrint('alarmClock failed, trying inexact: $e2');
+          debugPrint('exactAllowWhileIdle failed ($e2), trying inexact fallback');
           await _notificationsPlugin.zonedSchedule(
             testNotificationId,
             title,
@@ -461,10 +563,21 @@ class NotificationService {
     }
   }
 
+  Future<List<PendingNotificationRequest>> getPendingNotifications() async {
+    try {
+      return await _notificationsPlugin.pendingNotificationRequests();
+    } catch (e) {
+      debugPrint('Error querying pending notifications: $e');
+      return [];
+    }
+  }
+
   Future<void> cancelDailyReminder() async {
     try {
       _testTimer?.cancel();
       await _notificationsPlugin.cancel(dailyReminderNotificationId);
+      await _notificationsPlugin.cancel(dailyReminderOneShotId);
+      debugPrint('NotificationService: Cancelled daily reminders ($dailyReminderNotificationId, $dailyReminderOneShotId)');
     } catch (e) {
       debugPrint('Error cancelling daily reminder: $e');
     }
@@ -474,6 +587,7 @@ class NotificationService {
     try {
       _testTimer?.cancel();
       await _notificationsPlugin.cancelAll();
+      debugPrint('NotificationService: Cancelled all notifications');
     } catch (e) {
       debugPrint('Error cancelling all notifications: $e');
     }

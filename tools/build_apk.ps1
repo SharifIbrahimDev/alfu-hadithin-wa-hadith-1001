@@ -7,6 +7,66 @@ Write-Host "=========================================================" -Foregrou
 Write-Host " 1001 AUTHENTIC HADITH - ANDROID APK BUILDER" -ForegroundColor Cyan
 Write-Host "=========================================================" -ForegroundColor Cyan
 
+# ── 1. Locate and Setup Flutter Environment ──────────────────────────────────
+function Resolve-FlutterCommand {
+    # Check if flutter is already in current PATH
+    $cmd = Get-Command flutter -ErrorAction SilentlyContinue
+    if ($cmd) {
+        return "flutter"
+    }
+
+    # Check User & Machine registry paths
+    $regPaths = @(
+        [Environment]::GetEnvironmentVariable("Path", "User"),
+        [Environment]::GetEnvironmentVariable("Path", "Machine")
+    ) -join ";" -split ";" | Where-Object { -not [string]::IsNullOrWhiteSpace($_) }
+
+    foreach ($p in $regPaths) {
+        $candidate = Join-Path $p "flutter.bat"
+        if (Test-Path $candidate) {
+            $env:PATH = "$p;$env:PATH"
+            Write-Host "  -> Added Flutter to session PATH from: $p" -ForegroundColor Gray
+            return "flutter"
+        }
+    }
+
+    # Common Windows Flutter installation directories
+    $commonDirs = @(
+        "C:\flutter\bin",
+        "C:\src\flutter\bin",
+        "C:\tools\flutter\bin",
+        "C:\Program Files\flutter\bin",
+        "$env:USERPROFILE\flutter\bin",
+        "$env:USERPROFILE\src\flutter\bin",
+        "$env:USERPROFILE\development\flutter\bin",
+        "$env:USERPROFILE\dev\flutter\bin",
+        "$env:LOCALAPPDATA\flutter\bin",
+        "$env:LOCALAPPDATA\Programs\flutter\bin",
+        "D:\flutter\bin",
+        "D:\src\flutter\bin",
+        "E:\flutter\bin"
+    )
+
+    foreach ($dir in $commonDirs) {
+        $candidate = Join-Path $dir "flutter.bat"
+        if (Test-Path $candidate) {
+            $env:PATH = "$dir;$env:PATH"
+            Write-Host "  -> Found Flutter at: $dir" -ForegroundColor Green
+            return "flutter"
+        }
+    }
+
+    return $null
+}
+
+$flutter = Resolve-FlutterCommand
+if (-not $flutter) {
+    Write-Host "`n[ERROR] Flutter SDK not found in PATH or standard installation locations." -ForegroundColor Red
+    Write-Host "Please ensure Flutter is installed and added to your System Environment PATH." -ForegroundColor Yellow
+    Write-Host "Example: C:\flutter\bin" -ForegroundColor Yellow
+    exit 1
+}
+
 $WorkspaceRoot = (Get-Item -Path $PSScriptRoot).Parent.FullName
 $MobileDir = Join-Path $WorkspaceRoot "mobile"
 

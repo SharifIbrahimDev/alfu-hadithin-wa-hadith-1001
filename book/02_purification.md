@@ -1,4 +1,4 @@
-# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
+﻿# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
 ## كِتَابُ الطَّهَارَةِ
 ### Chapter 2: Book of Purification (Hadiths #0052 – #0101)
 *المصدر والتحقيق: نصوص محررة ومحققة وفق المطبوعات المعتمدة في المكتبة الشاملة (صحيح البخاري، صحيح مسلم، السنن الأربعة، وموطأ مالك)*
@@ -34,6 +34,9 @@
 * **Companion Narrator:** أَبُو مَالِكٍ الْأَشْعَرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 223) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Purification is half of faith, encompassing both physical cleanliness from impurities and spiritual purification of the heart from polytheism and sins.
+2. Emphasizes the immense spiritual reward of Tasbih (Subhan Allah), Tahmid (Alhamdulillah), and regular prayer as radiant guidance.
 
 ---
 
@@ -64,6 +67,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 224) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Ritual purity (Taharah) is an indispensable prerequisite without which no prayer is accepted by Allah.
+2. Pure lawful earnings are mandatory for the acceptance of charity and spending in Allah's path.
 
 ---
 
@@ -94,6 +100,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 135)، صحيح مسلم (رقم 225) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Minor ritual impurity (Hadath) invalidates ceremonial purity and necessitates performing ablution (Wudu) before prayer can be established.
+2. Reinforces the constant state of readiness and reverent cleanliness required before standing in divine worship.
 
 ---
 
@@ -124,6 +133,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 136)، صحيح مسلم (رقم 246) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The noble mark of distinction for the Prophet's ﷺ Ummah on the Day of Resurrection will be radiant illumination on their faces, hands, and feet originating from regular ablution.
+2. Encourages thorough washing of all ablution limbs to maximize this heavenly brightness.
 
 ---
 
@@ -154,6 +166,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 244) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Meticulously performing ablution washes away minor sins committed by the eyes, hands, and feet with the very last drops of water.
+2. Ablution serves as an ongoing physical and spiritual expiation before every prayer.
 
 ---
 
@@ -184,6 +199,9 @@
 * **Companion Narrator:** عُثْمَانُ بْنُ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 159)، صحيح مسلم (رقم 226) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Provides the comprehensive, canonical demonstration of the complete Sunnah ablution as performed by the Messenger of Allah ﷺ.
+2. Emphasizes beginning with the right side, washing thrice, wiping the head, and washing the feet up to the ankles.
 
 ---
 
@@ -214,6 +232,9 @@
 * **Companion Narrator:** عُثْمَانُ بْنُ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 164)، صحيح مسلم (رقم 226) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Highly recommends performing two voluntary units of prayer following ablution (Sunnat al-Wudu) with complete presence of heart and mind.
+2. Sincere focus and devotion in these two units guarantees the complete forgiveness of previous sins.
 
 ---
 
@@ -244,6 +265,9 @@
 * **Companion Narrator:** عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 234)، سنن الترمذي (رقم 55) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Unites outward physical purification through water with inward spiritual purification through sincere declaration of Tawhid and supplication for repentance.
+2. Reciting the post-ablution supplication opens wide all eight gates of Paradise for the believer.
 
 ---
 
@@ -274,6 +298,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 887)، صحيح مسلم (رقم 252) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Demonstrates the Prophet's ﷺ profound mercy and consideration for his Ummah by not imposing the toothstick (Siwak) as an obligatory burden before every prayer.
+2. Highlighting the extreme merit and hygienic priority Islam places on oral cleanliness.
 
 ---
 
@@ -304,6 +331,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** سنن النسائي (رقم 5)، صحيح ابن خزيمة (رقم 135)، وعلقه البخاري بصيغة الجزم — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The toothstick (Siwak) achieves a dual virtue: physical purification of the mouth and spiritual attainment of Allah's divine pleasure.
+2. Encourages using the Miswak regularly throughout the day, particularly during worship.
 
 ---
 
@@ -334,6 +364,9 @@
 * **Companion Narrator:** حُذَيْفَةُ بْنُ الْيَمَانِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 245)، صحيح مسلم (رقم 255) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Strongly recommends cleansing the mouth with the Miswak immediately upon awakening from night sleep to refresh the breath and remove sluggishness.
+2. Prepares the mouth and spirit for recitation of the Qur'an and intimate night prayer (Tahajjud).
 
 ---
 
@@ -364,6 +397,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 5889)، صحيح مسلم (رقم 257) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Outlines five foundational innate hygienic practices of the prophetic disposition (Sunan al-Fitrah): circumcision, shaving pubic hair, trimming the mustache, clipping nails, and plucking underarm hair.
+2. Highlights the perfection of Islamic teachings in personal grooming and holistic hygiene.
 
 ---
 
@@ -394,6 +430,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح مسلم (رقم 261) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Enumerates ten noble habits of natural human decency, including growing the beard, using the toothstick, rinsing the nose, and cleaning between joints and folds.
+2. Reflects the Islamic standard of elegance, dignity, and elevated personal care.
 
 ---
 
@@ -424,6 +463,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 258) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Specifies a maximum threshold of forty nights for clipping nails, trimming the mustache, and removing pubic and armpit hair.
+2. Discourages neglecting personal hygiene beyond this duration to preserve pristine cleanliness.
 
 ---
 
@@ -454,6 +496,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 60)، صحيح مسلم (رقم 241) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Stern warning against haste in ablution that leaves parts of the heels dry; washing the feet thoroughly up to the ankles is an absolute obligation.
+2. Incomplete washing invalidates the ablution and endangers the validity of the subsequent prayer.
 
 ---
 
@@ -484,6 +529,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 251) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Immense spiritual reward for perfecting ablution thoroughly despite adverse conditions, severe cold, and physical discomfort.
+2. Steadfast patience during challenging obedience elevates ranks and expiates misdeeds.
 
 ---
 
@@ -514,6 +562,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 161)، صحيح مسلم (رقم 237) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Prescribes inhaling water into the nostrils (Istinshaq) and blowing it out forcefully (Istinthar) to cleanse the nasal passages of impurities.
+2. Expels diabolical remnants and maintains respiratory cleanliness during morning ablution.
 
 ---
 
@@ -544,6 +595,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 162)، صحيح مسلم (رقم 278) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Obligation of washing both hands three times upon awakening from night sleep before dipping them into any water vessel.
+2. Safeguards water reservoirs against unintended contamination during unconscious slumber.
 
 ---
 
@@ -574,6 +628,9 @@
 * **Companion Narrator:** لَقِيطُ بْنُ صَبِرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 142)، سنن الترمذي (رقم 788) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Highly recommends thorough and deep inhalation of water into the nose during ablution, except when observing a fast to prevent water from reaching the throat.
+2. Demonstrates the meticulous precision and balance of Islamic jurisprudence.
 
 ---
 
@@ -604,6 +661,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 145)، الحاكم في المستدرك (رقم 507) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah of running wet fingers through a thick beard to ensure water reaches the underlying skin and hair roots.
+2. Guarantees complete purification for facial hair during ablution.
 
 ---
 
@@ -634,6 +694,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن الترمذي (رقم 39)، سنن ابن ماجه (رقم 447) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Mandatory diligence in passing wet fingers between the fingers and toes (Takhlil) to ensure no dry skin remains between the digits.
+2. Thoroughness in ritual purity ensures tranquil confidence in worship.
 
 ---
 
@@ -664,6 +727,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ زَيْدِ بْنِ عَاصِمٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 185)، صحيح مسلم (رقم 235) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The definitive prophetic method of wiping the head consists of passing wet hands from the front hairline back to the nape and returning them to the front in a single motion.
+2. Wiping the ears along with the head completes the cranial purification.
 
 ---
 
@@ -694,6 +760,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 198)، صحيح مسلم (رقم 325) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Absolute prohibition of extravagance and wasting water during ablution and bathing, even when beside an abundant flowing river.
+2. Environmental stewardship and conservation of natural resources are core Islamic values.
 
 ---
 
@@ -724,6 +793,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مُغَفَّلٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 96)، سنن ابن ماجه (رقم 3864) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Condemns spiritual transgression in purification, such as obsessing over whispers (Waswas) or exceeding three washings per limb.
+2. True piety adheres strictly to the balanced Sunnah without exceeding limits.
 
 ---
 
@@ -754,6 +826,9 @@
 * **Companion Narrator:** ثَوْبَانُ مَوْلَى رَسُولِ اللَّهِ ﷺ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن ابن ماجه (رقم 277)، موطأ مالك (رقم 160) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Constantly maintaining ritual purity (Wudu) is an unmistakable outward hallmark of profound inward faith.
+2. Preserving ablution throughout the day shields the believer from heedlessness and diabolical whispers.
 
 ---
 
@@ -784,6 +859,9 @@
 * **Companion Narrator:** أَمِيرُ الْمُؤْمِنِينَ عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 276) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Divine concession allowing wiping over leather socks (Khuffayn) or thick footwear: valid for one day and night for residents, and three days and nights for travelers.
+2. Manifests the inherent ease and mercy of Islamic legislation during travel and winter.
 
 ---
 
@@ -814,6 +892,9 @@
 * **Companion Narrator:** الْمُغِيرَةُ بْنُ شُعْبَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 206)، صحيح مسلم (رقم 274) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Mandatory prerequisite for wiping over socks: they must be put on only after completing a full, valid ritual ablution with water.
+2. If put on in a state of ritual impurity, wiping over them is invalid.
 
 ---
 
@@ -844,6 +925,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ زَيْدٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 137)، صحيح مسلم (رقم 361) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Cardinal legal maxim: 'Certainty is not overruled by mere doubt.'
+2. Rebuffs Satanic whispers (Waswas) by instructing the worshiper to remain in prayer unless they hear a definitive sound or detect a smell.
 
 ---
 
@@ -874,6 +958,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ سَمُرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 360) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Consuming camel meat invalidates ablution and necessitates renewing Wudu as an act of devotional submission to the Prophet's ﷺ explicit command.
+2. Distinguishes camel meat from mutton and other livestock regarding ritual purity.
 
 ---
 
@@ -904,6 +991,9 @@
 * **Companion Narrator:** عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 203)، سنن ابن ماجه (رقم 477) — المكتبة الشاملة، وحسنه الإمام النووي والألباني.
 * **Scholarly Grading:** **حَسَنٌ**
+* **Key Lessons & Takeaways:**
+1. Deep, heavy sleep that removes conscious perception and muscle control invalidates ablution.
+2. Light drowsiness where awareness is maintained does not require repeating Wudu.
 
 ---
 
@@ -934,6 +1024,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 142)، صحيح مسلم (رقم 375) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Sunnah of seeking refuge in Allah before entering the lavatory from unclean spirits and impure devils (male and female).
+2. Fortifies the believer with divine protection in places of waste and exposure.
 
 ---
 
@@ -964,6 +1057,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** سنن أبي داود (رقم 30)، سنن الترمذي (رقم 7) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Sunnah of uttering 'Ghufranaka' (I seek Your forgiveness) upon exiting the lavatory.
+2. Manifests deep gratitude to Allah for relieving bodily harm and discomfort, paired with seeking pardon for spiritual shortcomings.
 
 ---
 
@@ -994,6 +1090,9 @@
 * **Companion Narrator:** أَبُو أَيُّوبَ الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 144)، صحيح مسلم (رقم 264) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Forbids facing or turning one's back directly toward the Qiblah (the Ka'bah) when relieving oneself in open, unshielded outdoor spaces.
+2. Venerates the sacred orientation of Islamic prayer under all circumstances.
 
 ---
 
@@ -1024,6 +1123,9 @@
 * **Companion Narrator:** أَبُو قَتَادَةَ الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 153)، صحيح مسلم (رقم 267) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Honors the right hand for eating, drinking, and noble deeds, while restricting cleansing after urination and defecation (Istinja') strictly to the left hand.
+2. Cultivates elevated hygienic etiquette and physical dignity.
 
 ---
 
@@ -1054,6 +1156,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 161)، سنن أبي داود (رقم 35) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Recommends using an odd number of clean stones or absorbent materials (Istijmar)—a minimum of three—when water is unavailable.
+2. Complete cleaning of excretory passages prevents contamination of clothing.
 
 ---
 
@@ -1084,6 +1189,9 @@
 * **Companion Narrator:** سَلْمَانُ الْفَارِسِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 262) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Strict prohibition of using bones or dried animal dung for cleaning after relieving oneself, as bones are food for our Jinni brethren and dung is food for their beasts.
+2. Comprehensive scope of Islamic ethics extending kindness and consideration to all unseen creation.
 
 ---
 
@@ -1114,6 +1222,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 218)، صحيح مسلم (رقم 292) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Severe warning that failing to guard oneself from urine splashes and carelessness in cleansing is among the primary causes of grave torment.
+2. Demands meticulous vigilance to keep body and garments completely clean from bodily waste.
 
 ---
 
@@ -1144,6 +1255,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 279)، صحيح البخاري بنحوه (رقم 172) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. If a dog licks a vessel, it must be washed seven times, the first or one of them thoroughly with clean soil/earth.
+2. Neutralizes microscopic pathogens and purifies domestic utensils according to prophetic instruction.
 
 ---
 
@@ -1174,6 +1288,9 @@
 * **Companion Narrator:** أُمُّ قَيْسٍ بِنْتُ مِحْصَنٍ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 223)، صحيح مسلم (رقم 287) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Juristic leniency regarding the urine of an unweaned male infant who consumes only milk: sprinkling water over the area suffices without rigorous washing.
+2. Female infant urine requires standard washing, balancing cleanliness with practical domestic ease.
 
 ---
 
@@ -1204,6 +1321,9 @@
 * **Companion Narrator:** أَسْمَاءُ بِنْتُ أَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 227)، صحيح مسلم (رقم 291) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Menstrual blood is ritually impure and must be scraped, rubbed, washed thoroughly with water, and sprinkled before garments can be worn for prayer.
+2. Remaining stains that cannot be removed after thorough washing are pardoned.
 
 ---
 
@@ -1234,6 +1354,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 335)، صحيح مسلم (رقم 521) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Unique blessing bestowed upon the Prophet Muhammad ﷺ: the entire earth is consecrated as a pure sanctuary for prayer and its clean soil made a means of purification.
+2. Believers are never deprived of establishing prayer wherever its appointed time arrives.
 
 ---
 
@@ -1264,6 +1387,9 @@
 * **Companion Narrator:** عَمَّارُ بْنُ يَاسِرٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 338)، صحيح مسلم (رقم 368) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Canonical method of Tayammum (dry ablution): striking clean earth once with both hands, lightly blowing away excess dust, and wiping the face and hands.
+2. Valid legal substitute for water during scarcity, travel, or medical inability.
 
 ---
 
@@ -1294,6 +1420,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 248)، صحيح مسلم (رقم 316) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Mother of the Believers Aisha (RA) outlines the complete prophetic ritual bath (Ghusl): beginning with washing hands, cleansing private parts, performing standard Wudu, pouring water over the head thrice, and encompassing the entire body.
+2. Absolute coverage of every inch of skin and hair is required to lift major ritual impurity.
 
 ---
 
@@ -1324,6 +1453,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ مَيْمُونَةُ بِنْتُ الْحَارِثِ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 249)، صحيح مسلم (رقم 317) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Maymunah (RA) details the Prophet's ﷺ Ghusl, demonstrating the washing of limbs and stepping aside to wash the feet at the conclusion.
+2. Encourages modesty, privacy, and thorough hygiene in domestic marital life.
 
 ---
 
@@ -1354,6 +1486,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ أُمُّ سَلَمَةَ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح مسلم (رقم 330) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Leniency for women with braided hair during Ghusl from Janabah: pouring three handfuls over the head suffices without untying braids, provided water reaches the scalp.
+2. Removes repetitive hardship for Muslim women while safeguarding ritual purity.
 
 ---
 
@@ -1384,6 +1519,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 291)، صحيح مسلم (رقم 348) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Ghusl becomes compulsory immediately upon intimate marital contact and the meeting of private parts, regardless of whether emission occurs.
+2. Clarifies the definitive legal boundary of major ritual impurity.
 
 ---
 
@@ -1414,6 +1552,9 @@
 * **Companion Narrator:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 879)، صحيح مسلم (رقم 846) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. High emphasis on taking a complete bath (Ghusl), applying scent, and wearing clean garments before attending the Friday congregational prayer (Jumu'ah).
+2. Elevates communal gatherings with pleasant hygiene and mutual respect.
 
 ---
 
@@ -1444,6 +1585,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 83)، سنن الترمذي (رقم 69)، موطأ مالك (رقم 43) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Sea water is intrinsically pure and purifying for ablution and ritual baths, and its dead marine creatures are completely lawful (Halal) to consume.
+2. Removes doubts for sailors, fishermen, and coastal communities regarding oceanic resources.
 
 ---
 
@@ -1474,6 +1618,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن أبي داود (رقم 63)، سنن الترمذي (رقم 67) — المكتبة الشاملة، وصححه الحاكم وابن حبان والألباني.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. When standing water reaches the volume of two large earthen jars (Qullatayn—approximately 200 liters), it does not carry impurity unless its color, taste, or odor is altered.
+2. Establishes the scientific legal metric distinguishing large bodies of water from small vulnerable containers.
 
 ---
 
@@ -1504,5 +1651,8 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 283)، صحيح مسلم (رقم 371) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The believer is fundamentally pure in body, sweat, and physical presence, and never becomes inherently impure (Najas) in life or death.
+2. States of ritual impurity (Hadath) are legal statuses precluding worship, not physical unworthiness.
 
 ---

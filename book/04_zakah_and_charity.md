@@ -1,4 +1,4 @@
-# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
+﻿# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
 ## كِتَابُ الزَّكَاةِ وَالصَّدَقَاتِ
 ### Chapter 4: Book of Zakah & Charity (Hadiths #0152 – #0201)
 *المصدر والتحقيق: نصوص محررة ومحققة وفق المطبوعات المعتمدة في المكتبة الشاملة (صحيح البخاري، صحيح مسلم، السنن الأربعة، وموطأ مالك)*
@@ -34,6 +34,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1395)، صحيح مسلم (رقم 19) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Paying obligatory Zakah is a fundamental pillar of Islam immediately following Tawhid and Prayer; its primary objective is social solidarity by taking from the wealthy and giving to the poor.
+2. Preserving community balance and eradicating destitute poverty through systematic divine distribution.
 
 ---
 
@@ -64,6 +67,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1403)، صحيح مسلم (رقم 987) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Severe warning against withholding obligatory Zakah: unpurified wealth transforms into a venomous, bald serpent encircling the miser's neck on the Day of Resurrection.
+2. Wealth withheld from Allah's right becomes a source of excruciating punishment and humiliation.
 
 ---
 
@@ -94,6 +100,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 987)، صحيح البخاري بنحوه (رقم 1402) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Severe warning against withholding Zakah on livestock (camels, cattle, and sheep): they will trample and gore the owner on Judgment Day.
+2. Wealth withheld from its obligatory divine rights becomes an agonizing instrument of retribution.
 
 ---
 
@@ -124,6 +133,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 2588) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Charity never decreases wealth; rather, Allah blesses, purifies, and multiplies whatever is spent in His cause.
+2. Forgiving wrongdoing elevates personal honor, and humbling oneself purely for Allah brings divine elevation.
 
 ---
 
@@ -154,6 +166,9 @@
 * **Companion Narrator:** حَكِيمُ بْنُ حِزَامٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1427)، صحيح مسلم (رقم 1034) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The upper giving hand is vastly superior to the lower receiving hand; believers are commanded to begin spending with their immediate dependents.
+2. Cultivating self-reliance, chastity, and proactive generosity in the community.
 
 ---
 
@@ -184,6 +199,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 1691)، سنن النسائي (رقم 2535) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The juristic priority of financial expenditure: begin with oneself, then one's spouse and dependents, then relatives, then general charity.
+2. Fulfilling household obligations takes precedence over voluntary public donations.
 
 ---
 
@@ -214,6 +232,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1423)، صحيح مسلم (رقم 1031) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The supreme rank of sincere charity: giving so discreetly that the left hand does not know what the right hand spends.
+2. Secures the coveted divine shade under the Throne of the Most Merciful on the Day when there is no shade but His.
 
 ---
 
@@ -244,6 +265,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** المعجم الأوسط للطبراني (رقم 3450)، وصححه الألباني في صحيح الترغيب والترهيب (رقم 888) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Secret, discreet charity extinguishes the anger of the Lord and averts tragic, evil deaths and calamities.
+2. Concealing benevolent acts purifies intentions from ostentation (Riya') and preserves human dignity.
 
 ---
 
@@ -274,6 +298,9 @@
 * **Companion Narrator:** مُعَاذُ بْنُ جَبَلٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 2616)، سنن ابن ماجه (رقم 3973) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Charity directly extinguishes sins and transgressions just as cool water extinguishes blazing fire.
+2. Continuous giving serves as ongoing spiritual expiation for daily shortcomings.
 
 ---
 
@@ -304,6 +331,9 @@
 * **Companion Narrator:** عُقْبَةُ بْنُ عَامِرٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** مسند أحمد (رقم 17333)، صحيح ابن حبان (رقم 3310) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Charity is an obligation upon every Muslim; if they have no wealth, working with their hands to benefit themselves and give charity suffices; if unable, helping the distressed; if unable, enjoining good; and refraining from harming others is a personal charity.
+2. Broadening the concept of charity to encompass all forms of moral and physical helpfulness.
 
 ---
 
@@ -334,6 +364,9 @@
 * **Companion Narrator:** عَدِيُّ بْنُ حَاتِمٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1417)، صحيح مسلم (رقم 1016) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Protecting oneself from the punishment of the Fire even with a fraction of a date or a gentle, pleasant word.
+2. Motivation to expend whatever small means are available without feeling contempt for humble gifts.
 
 ---
 
@@ -364,6 +397,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1442)، صحيح مسلم (رقم 1010) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Regular descending of angels supplicating for divine replacement for the charitable giver and loss for the stingy miser.
+2. Spiritual assurance that expenditure in obedience brings abundant divine compensation.
 
 ---
 
@@ -394,6 +430,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1443)، صحيح مسلم (رقم 1021) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The parable of the charitable spender and the miser is like two men wearing coats of iron armor: when the spender gives, it expands comfortably, while for the miser it tightens and constricts.
+2. Generosity brings expansive peace to the chest and soul, while greed causes constriction and anxiety.
 
 ---
 
@@ -424,6 +463,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1410)، صحيح مسلم (رقم 1014) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Allah accepts only pure, lawfully earned charity, receiving it with His Right Hand and nurturing it as one nurtures a young foal until it becomes like a massive mountain.
+2. Strict prerequisite of pure Halal earnings for deeds to be accepted and multiplied by Allah.
 
 ---
 
@@ -454,6 +496,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 4684)، صحيح مسلم (رقم 993) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Hadith Qudsi: 'Spend, O son of Adam, and I shall spend upon you.'
+2. Divine assurance that giving in Allah's path opens the boundless treasures of heavenly sustenance.
 
 ---
 
@@ -484,6 +529,9 @@
 * **Companion Narrator:** أَبُو مُوسَى الْأَشْعَرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1445)، صحيح مسلم (رقم 1008) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The best charity is that given when a person is in sound health, longing for wealth and fearing poverty, rather than postponing until death approaches.
+2. Warning against procrastination in fulfilling charitable duties until the final moments of life.
 
 ---
 
@@ -514,6 +562,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 2989)، صحيح مسلم (رقم 1009) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Every single joint of the human body (360 joints) owes daily gratitude and charity: reconciling between disputing people, helping someone with their mount, speaking good words, every step to the mosque, and removing harm from paths.
+2. Offering two units of Duha prayer in the forenoon suffices as fulfillment for all these daily bodily charities.
 
 ---
 
@@ -544,6 +595,9 @@
 * **Companion Narrator:** أَبُو ذَرٍّ الْغِفَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 1956) — المكتبة الشاملة، وصححه ابن حبان والألباني.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. A warm, pleasant smile in the face of your fellow brother is recorded as an accepted act of charity.
+2. Cultivating approachable warmth, good manners, and mutual love in daily human interactions.
 
 ---
 
@@ -574,6 +628,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 2320)، صحيح مسلم (رقم 1553) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. High exhortation toward cultivating land, farming, and planting trees; whatever birds, animals, or humans eat from it is recorded as continuous charity for the planter until Judgment Day.
+2. Islamic environmental stewardship, sustainability, and persistent reward beyond death.
 
 ---
 
@@ -604,6 +661,9 @@
 * **Companion Narrator:** سَهْلُ بْنُ سَعْدٍ السَّاعِدِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 5304، 6005) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Immense rank of sponsoring, sheltering, and spending on orphans, granting the sponsor the highest rank of eternal companionship with the Prophet ﷺ in Paradise.
+2. Compassion for orphans reflects the tenderness and purity of genuine faith.
 
 ---
 
@@ -634,6 +694,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 5353)، صحيح مسلم (رقم 2982) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Dedicating time and effort to serve destitute widows and the needy carries the transcendent reward of continuous fasting, unbroken night prayers, and striving in Allah's cause.
+2. Elevating humanitarian social solidarity to the highest level of devotional worship.
 
 ---
 
@@ -664,6 +727,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1631) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Three continuous deeds that outlive a human being after death: enduring charity (Sadaqah Jariyah/Waqf), beneficial knowledge taught to others, and a righteous child who supplicates for them.
+2. Investing in enduring endowments, education, and moral child-rearing for ongoing post-mortem rewards.
 
 ---
 
@@ -694,6 +760,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1388)، صحيح مسلم (رقم 1004) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Filial devotion to parents after their demise: giving charity on their behalf and praying for them; the reward reaches the deceased and benefits their scale.
+2. Ongoing spiritual connection and benefit between living relatives and deceased loved ones.
 
 ---
 
@@ -724,6 +793,9 @@
 * **Companion Narrator:** سَعْدُ بْنُ عُبَادَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 1681)، سنن النسائي (رقم 3664) — المكتبة الشاملة، وصححه الألباني.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Digging wells and providing pure drinking water to communities in need is among the greatest and most enduring forms of ongoing charity.
+2. Prioritizing essential human survival needs in charitable contributions.
 
 ---
 
@@ -754,6 +826,9 @@
 * **Companion Narrator:** سَلْمَانُ بْنُ عَامِرٍ الضَّبِّيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 658)، سنن النسائي (رقم 2182) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Charity given to a needy relative carries a multiplied twofold reward: the reward of charity and the reward of upholding kinship ties (Silat ar-Rahim).
+2. Prioritizing close relatives when distributing voluntary charity to strengthen family harmony.
 
 ---
 
@@ -784,6 +859,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 995) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Obligatory expenditure upon one's wife, children, and immediate dependents takes absolute precedence over voluntary charities and carries the greatest reward when given with sincere intention.
+2. Fulfilling household financial duties is an elevated devotional act.
 
 ---
 
@@ -814,6 +892,9 @@
 * **Companion Narrator:** سَعْدُ بْنُ أَبِي وَقَّاصٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 56)، صحيح مسلم (رقم 1628) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Treating one's wife with kindness, affection, and generous provision—even the single morsel placed in her mouth—is recorded as an accepted act of charity.
+2. Transforming routine domestic life into rewarded worship through sincere, loving intention.
 
 ---
 
@@ -844,6 +925,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1503)، صحيح مسلم (رقم 984) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Obligation of Zakat al-Fitr (one Sa' of food) upon every Muslim—male and female, young and old—who possesses sustenance beyond their daily needs at the conclusion of Ramadan.
+2. Fulfilling the communal responsibility before the Eid prayer to ensure every household celebrates with dignity.
 
 ---
 
@@ -874,6 +958,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن أبي داود (رقم 1609)، سنن ابن ماجه (رقم 1827) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Dual objective of Zakat al-Fitr: a purification for the fasting person from idle talk and obscenities, and food provision to enrich the needy from begging on the day of Eid.
+2. Perfect holistic harmony between spiritual purification and social justice.
 
 ---
 
@@ -904,6 +991,9 @@
 * **Companion Narrator:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1405)، صحيح مسلم (رقم 979) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Divine justice and precision in determining the minimum wealth thresholds (Nisab) for agricultural produce, silver, gold, and livestock so Zakah is levied only on genuine wealth.
+2. Protection of modest earners while mobilizing collective wealth for community welfare.
 
 ---
 
@@ -934,6 +1024,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1483) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Legal equity in agricultural taxation: crops naturally watered by rain or rivers owe one-tenth (10%), while crops watered by laborious artificial irrigation owe one-twentieth (5%).
+2. Consideration of human labor, cost, and physical exertion in Islamic legislation.
 
 ---
 
@@ -964,6 +1057,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1499)، صحيح مسلم (رقم 1710) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Obligation of paying one-fifth (20%) on ancient buried treasures (Rikaz) discovered without extensive cost or mining operations.
+2. Channeling natural windfalls and unearned discoveries toward public communal welfare.
 
 ---
 
@@ -994,6 +1090,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ أَبِي أَوْفَى رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1497)، صحيح مسلم (رقم 1078) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah for Zakah collectors and leaders to supplicate for blessing, mercy, and forgiveness upon the Zakah payer, fulfilling the divine command: {And pray for them; indeed, your prayer is a reassurance for them}.
+2. Fostering mutual love, prayer, and warmth between administrators and citizens.
 
 ---
 
@@ -1024,6 +1123,9 @@
 * **Companion Narrator:** عَبْدُ الْمُطَّلِبِ بْنُ رَبِيعَةَ بْنِ الْحَارِثِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1072) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Strict prohibition of Zakah and charity for the Prophet Muhammad ﷺ and his noble household (Ahl al-Bayt) as an act of divine honor, veneration, and ritual purity.
+2. Elevating the prophetic family above receiving public alms, keeping their status immaculate.
 
 ---
 
@@ -1054,6 +1156,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 2589)، صحيح مسلم (رقم 1622) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Severe prohibition against reclaiming a gift or charity once given; the Prophet ﷺ likened it to a dog returning to its own vomit.
+2. Absolute finality and sincerity in spending for Allah, eradicating second thoughts and regret.
 
 ---
 
@@ -1084,6 +1189,9 @@
 * **Companion Narrator:** عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1490)، صحيح مسلم (رقم 1620) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Prohibition against the charitable spender buying back their own charity, even at a cheap or discounted price, to sever all lingering attachment to wealth released for Allah.
+2. Purifying intentions from disguised recoupment or taking advantage of the poor.
 
 ---
 
@@ -1114,6 +1222,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1419)، صحيح مسلم (رقم 1032) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The best and most meritorious charity is that given during youthful vigor and good health, when one hopes for wealth and fears poverty, rather than waiting until death approaches.
+2. Proactive generosity during life surpasses deathbed bequests.
 
 ---
 
@@ -1144,6 +1255,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1421)، صحيح مسلم (رقم 1022) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Acceptance and full spiritual reward for the sincere spender even if their charity inadvertently falls into the hands of an unworthy recipient (such as a thief, wealthy person, or adulteress).
+2. Allah looks at the sincerity and pure intention of the heart, overriding outward circumstances.
 
 ---
 
@@ -1174,6 +1288,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1425)، صحيح مسلم (رقم 1024) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. A wife and domestic servant share in the spiritual reward of charity when spending from the household wealth in goodness with the husband's explicit or customary consent.
+2. Emphasizes mutual cooperation and shared benevolence in the Muslim family.
 
 ---
 
@@ -1204,6 +1321,9 @@
 * **Companion Narrator:** أَبُو مُوسَى الْأَشْعَرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1438)، صحيح مسلم (رقم 1023) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The noble virtue and trust of the honest storekeeper or treasurer who dispenses charity cheerfully and faithfully as commanded.
+2. Sincerity and integrity in distributing charitable and public funds earns a reward equal to that of the donor.
 
 ---
 
@@ -1234,6 +1354,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1474)، صحيح مسلم (رقم 1040) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Dislike and humiliation of unnecessary begging, and warning against requesting money from people without genuine, compelling poverty.
+2. Safeguarding personal dignity and relying upon Allah through honest earnings.
 
 ---
 
@@ -1264,6 +1387,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1041) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Severe prohibition against begging and asking people for wealth out of greed or accumulation; such wealth turns into burning embers of Hellfire.
+2. Distinguishes legitimate need from deceitful profiteering through begging.
 
 ---
 
@@ -1294,6 +1420,9 @@
 * **Companion Narrator:** الزُّبَيْرُ بْنُ الْعَوَّامِ وَأَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1471)، صحيح مسلم (رقم 1042) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Exhortation toward hard work, manual production, and earning one's own livelihood to preserve human dignity and self-respect.
+2. Cutting wood and carrying it on one's back is far superior to asking people, whether they give or refuse.
 
 ---
 
@@ -1324,6 +1453,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1479)، صحيح مسلم (رقم 1039) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The true destitute person (Al-Miskin) is the modest individual who does not have enough to enrich themself, yet their condition goes unnoticed so they receive no charity, and they do not beg from people.
+2. Obligation of proactively seeking out and supporting self-respecting, discreet poor families.
 
 ---
 
@@ -1354,6 +1486,9 @@
 * **Companion Narrator:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1469)، صحيح مسلم (رقم 1053) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Whoever seeks chastity and refrains from begging, Allah will preserve their dignity; and whoever seeks self-sufficiency, Allah will enrich them.
+2. True wealth lies in the contentment and self-sufficiency of the soul.
 
 ---
 
@@ -1384,6 +1519,9 @@
 * **Companion Narrator:** أَبُو مُوسَى الْأَشْعَرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 5373) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Comprehensive social benevolence: feeding the hungry, visiting the sick, and ransoming the captive.
+2. Universal humanitarian solidarity and relieving distress in the Muslim community.
 
 ---
 
@@ -1414,6 +1552,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 2466)، صحيح مسلم (رقم 2244) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The vast mercy of Islam and the boundless favor of Allah: extending kindness, water, and food even to animals and living creatures is a cause for forgiveness of sins and entrance into Paradise.
+2. In every living being with a moist liver there is a divine reward for charity.
 
 ---
 
@@ -1444,6 +1585,9 @@
 * **Companion Narrator:** أَبُو ذَرٍّ الْغِفَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 106) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Nullification of the reward of charity through reminding recipients of favors and causing emotional harm; charity must be purified purely for Allah's sake.
+2. Sincere charity is given with humility without seeking dominance or praise.
 
 ---
 
@@ -1474,6 +1618,9 @@
 * **Companion Narrator:** أَبُو مَسْعُودٍ عُقْبَةُ بْنُ عَمْرٍو الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1892) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Fulfilling the divine promise of the verse: {The parable of those who spend their wealth in the way of Allah is that of a grain of corn which grows seven ears...}.
+2. Spending even a single camel or resource for Allah's cause is multiplied seven hundred times on the Day of Resurrection.
 
 ---
 
@@ -1504,5 +1651,8 @@
 * **Companion Narrator:** أُمُّ سَلَمَةَ وَأَبُو أُمَامَةَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** المعجم الكبير للطبراني (رقم 8014)، المستدرك للحاكم (رقم 2141) — المكتبة الشاملة، وصححه الألباني في صحيح الجامع (رقم 3795).
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Good deeds and acts of benevolence protect their doer from disastrous misfortunes, evil deaths, and calamities in both this life and the Hereafter.
+2. Secret charity extinguishes the anger of the Lord, and upholding family ties prolongs life and blessed memory.
 
 ---

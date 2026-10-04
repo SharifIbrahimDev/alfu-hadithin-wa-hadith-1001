@@ -1,4 +1,4 @@
-# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
+﻿# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
 ## كِتَابُ الصِّيَامِ
 ### Chapter 5: Book of Fasting (Hadiths #0202 – #0251)
 *المصدر والتحقيق: نصوص محررة ومحققة وفق المطبوعات المعتمدة في المكتبة الشاملة (صحيح البخاري، صحيح مسلم، السنن الأربعة، وموطأ مالك)*
@@ -34,6 +34,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1894)، صحيح مسلم (رقم 1151) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Fasting is exclusively attributed to Allah ('Fasting is for Me, and I shall reward it') due to its freedom from ostentation (Riya') and its boundless multiplied compensation.
+2. Fasting is a protective shield (Junnah) against sin in this world and Hellfire in the Hereafter; when provoked, the faster responds: 'Indeed, I am fasting.'
 
 ---
 
@@ -64,6 +67,9 @@
 * **Companion Narrator:** سَهْلُ بْنُ سَعْدٍ السَّاعِدِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1896)، صحيح مسلم (رقم 1152) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. In Paradise there is a designated private portal named Ar-Rayyan through which exclusively the fasting believers will enter on the Day of Resurrection.
+2. Whoever enters through Ar-Rayyan drinks from its celestial springs and will never experience thirst again for all eternity.
 
 ---
 
@@ -94,6 +100,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 38)، صحيح مسلم (رقم 760) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Whoever fasts the month of Ramadan with sincere faith and conscious anticipation of Allah's divine reward (Imanan wa Ihtisaban) will have all their past minor sins forgiven.
+2. Sincerity and willing submission without resentment are prerequisites for attaining complete annual forgiveness.
 
 ---
 
@@ -124,6 +133,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 37)، صحيح مسلم (رقم 759) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah of establishing night prayer during Ramadan (Tarawih and Qiyam al-Layl) with faith and anticipation of reward to expiate past sins.
+2. Illuminating the nights of the sacred month with devout standing, recitation of the Qur'an, and contemplation.
 
 ---
 
@@ -154,6 +166,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1901)، صحيح مسلم (رقم 760) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Standing in devotional prayer during Laylat al-Qadr (the Night of Decree) with firm faith and anticipation of reward expiates all prior sins.
+2. Worship on Laylat al-Qadr surpasses the value of an entire human lifetime (a thousand months).
 
 ---
 
@@ -184,6 +199,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 2017)، صحيح مسلم (رقم 1169) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Diligent quest to seek and anticipate Laylat al-Qadr specifically during the odd-numbered nights of the final ten days of Ramadan (21st, 23rd, 25th, 27th, and 29th).
+2. Maximizing spiritual focus and devotional vigilance as the blessed month draws to its close.
 
 ---
 
@@ -214,6 +232,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 2024)، صحيح مسلم (رقم 1174) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The Prophet's ﷺ supreme dedication during the last ten nights of Ramadan: tightening his waist belt, spending the nights awake in worship, and awakening his family to participate.
+2. Mobilizing the entire household for intensive spiritual revival during the pinnacle nights of the year.
 
 ---
 
@@ -244,6 +265,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** سنن الترمذي (رقم 3513)، سنن ابن ماجه (رقم 3850) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The comprehensive prophetic supplication taught to Mother of the Believers Aisha for Laylat al-Qadr: 'O Allah, You are Most Forgiving, You love forgiveness, so forgive me.'
+2. Humbling oneself before the divine attribute of pardon ('Afw) as the ultimate blessing.
 
 ---
 
@@ -274,6 +298,9 @@
 * **Companion Narrator:** عُثْمَانُ بْنُ أَبِي الْعَاصِ الثَّقَفِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن النسائي (رقم 2230)، سنن ابن ماجه (رقم 1639)، مسند أحمد (رقم 16278) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Fasting acts as an impregnable fortress protecting the Muslim from sinful carnal passions in worldly life and shielding them from the torment of Hellfire in the Hereafter.
+2. The moral discipline of fasting fortifies willpower against spiritual decay.
 
 ---
 
@@ -304,6 +331,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1904)، صحيح مسلم (رقم 1151) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The fasting person experiences two profound moments of joy: earthly happiness and relief upon breaking the fast, and supreme eternal delight upon meeting their Lord.
+2. Balancing legitimate physical refreshment with radiant spiritual anticipation.
 
 ---
 
@@ -334,6 +364,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1894)، صحيح مسلم (رقم 1151) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The breath of the fasting servant's mouth is sweeter and more fragrant to Allah on the Day of Resurrection than the finest musk.
+2. Divine love and honor bestowed upon the physical signs of sincere worship.
 
 ---
 
@@ -364,6 +397,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1894)، صحيح مسلم (رقم 1151) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Rising above vulgarity and insult: when provoked or verbally attacked while fasting, one should respond with dignity: 'Indeed, I am fasting.'
+2. True fasting trains emotional composure, patience, and verbal restraint.
 
 ---
 
@@ -394,6 +430,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1903) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Whoever fails to abandon false speech, dishonest conduct, and acting in ignorance, Allah has no need for them to leave their food and drink.
+2. True fasting purifies the heart and limbs from deceit and backbiting, not merely abstaining from nourishment.
 
 ---
 
@@ -424,6 +463,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ وَعَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمْ.
 * **Canonical Reference:** صحيح البخاري (رقم 1909)، صحيح مسلم (رقم 1081) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Fasting and concluding the month of Ramadan must be established strictly upon physical sighting of the new crescent moon: 'Fast when you see it and break fast when you see it; if clouded, complete thirty days.'
+2. Universal simplicity of Islamic ritual timing reliant upon natural astronomical observation without burdensome complexity.
 
 ---
 
@@ -454,6 +496,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1913)، صحيح مسلم (رقم 1080) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The lunar calendar month consists of either twenty-nine or thirty days, never thirty-one.
+2. Practical reliance upon natural celestial markers for religious seasons.
 
 ---
 
@@ -484,6 +529,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1914)، صحيح مسلم (رقم 1082) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Clear prohibition against fasting the 'Day of Doubt' (the 30th of Sha'ban before sighting confirmation) or anticipating Ramadan with a day or two of fasting.
+2. Maintaining distinct boundaries between obligatory and voluntary rituals according to the Sunnah.
 
 ---
 
@@ -514,6 +562,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1923)، صحيح مسلم (رقم 1095) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. High encouragement to consume the pre-dawn meal (Suhur): 'Take the Suhur, for indeed in Suhur there is divine blessing (Barakah).'
+2. Provides physical nourishment, spiritual vitality, and follows the blessed prophetic tradition.
 
 ---
 
@@ -544,6 +595,9 @@
 * **Companion Narrator:** عَمْرُو بْنُ الْعَاصِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1096) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Consuming Suhur is the defining distinguishing feature separating our Islamic fast from the fasting of the People of the Book.
+2. Pride in authentic Islamic identity and practical ease in divine devotions.
 
 ---
 
@@ -574,6 +628,9 @@
 * **Companion Narrator:** زَيْدُ بْنُ ثَابِتٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1921)، صحيح مسلم (رقم 1097) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah of delaying the Suhur meal until close to the true dawn (Fajr), maintaining approximately fifty verses between meal and prayer.
+2. Maximizing physical endurance and ensuring punctual attendance at the Fajr congregational prayer.
 
 ---
 
@@ -604,6 +661,9 @@
 * **Companion Narrator:** سَهْلُ بْنُ سَعْدٍ السَّاعِدِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1957)، صحيح مسلم (رقم 1098) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The Muslim community will continue to remain upon goodness as long as they hasten to break the fast (Iftar) immediately upon the setting of the sun.
+2. Conforming precisely to prophetic instruction and rejecting fanatical ascetic delay.
 
 ---
 
@@ -634,6 +694,9 @@
 * **Companion Narrator:** سَلْمَانُ بْنُ عَامِرٍ الضَّبِّيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 2355)، سنن الترمذي (رقم 658) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah of breaking the fast upon fresh ripe dates (Rutab); if unavailable, upon dry dates (Tamr); and if unavailable, upon pure water.
+2. Wise prophetic dietary etiquette that restores blood glucose gently and cleanses the digestive system.
 
 ---
 
@@ -664,6 +727,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن أبي داود (رقم 2357)، المستدرك للحاكم (رقم 1536) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Recommended supplication upon breaking the fast: 'The thirst has gone, the veins are moistened, and the reward is confirmed, if Allah wills.'
+2. Gratitude to the Sustainer paired with joyful affirmation of divine recompense.
 
 ---
 
@@ -694,6 +760,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 3598)، سنن ابن ماجه (رقم 1752) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Sincere supplication of the fasting person is never rejected, especially at the sacred moment of breaking the fast.
+2. Seizing this daily golden hour of divine acceptance with heartfelt prayers for oneself and the Ummah.
 
 ---
 
@@ -724,6 +793,9 @@
 * **Companion Narrator:** زَيْدُ بْنُ خَالِدٍ الْجُهَنِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 807)، سنن ابن ماجه (رقم 1746) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Providing food for a fasting person to break their fast earns the provider the exact same reward as the faster, without diminishing anything from the faster's reward.
+2. Tremendous multiplier of community hospitality, feeding the hungry, and shared brotherhood during Ramadan.
 
 ---
 
@@ -754,6 +826,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1933)، صحيح مسلم (رقم 1155) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Divine mercy and pardon: whoever eats or drinks out of genuine forgetfulness while fasting should complete their fast, for it was Allah who fed them and gave them drink.
+2. No makeup (Qada') or expiation is required for genuine unintentional errors.
 
 ---
 
@@ -784,6 +859,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 2380)، سنن الترمذي (رقم 720) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Involuntary vomiting that overcomes a fasting person does not break their fast and requires no makeup; but whoever intentionally induces vomiting invalidates their fast and must make it up.
+2. Clear juristic distinction between helpless physical necessity and deliberate violation.
 
 ---
 
@@ -814,6 +892,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1939) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Permissibility of therapeutic cupping (Hijama) for the fasting person, provided it does not cause severe physical weakness that forces them to break fast.
+2. Flexibility in essential healthcare during non-debilitating fasting.
 
 ---
 
@@ -844,6 +925,9 @@
 * **Companion Narrator:** عَامِرُ بْنُ رَبِيعَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 725)، سنن أبي داود (رقم 2364)، وعلقه البخاري في صحيحه — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ**
+* **Key Lessons & Takeaways:**
+1. Recommended practice of using the tooth-stick (Siwak) for the fasting person throughout the entire day to preserve oral freshness and cleanliness.
+2. Consistent prophetic priority on oral hygiene in all states of worship.
 
 ---
 
@@ -874,6 +958,9 @@
 * **Companion Narrator:** أُمَّهَاتُ الْمُؤْمِنِينَ عَائِشَةُ وَأُمُّ سَلَمَةَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1925)، صحيح مسلم (رقم 1109) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Awakening in the morning in a state of major ritual impurity (Janabah) does not invalidate the fast; delaying Ghusl until after the break of dawn is valid and permissible.
+2. Removing psychological anxiety regarding domestic intimacy and ritual bath timing.
 
 ---
 
@@ -904,6 +991,9 @@
 * **Companion Narrator:** حَمْزَةُ بْنُ عَمْرٍو الْأَسْلَمِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1943)، صحيح مسلم (رقم 1121) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Concession allowing the traveler to choose between fasting or breaking fast during travel, according to what is easiest and most manageable without hardship.
+2. Inherent mercy of Islamic jurisprudence accommodating travel circumstances.
 
 ---
 
@@ -934,6 +1024,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1946)، صحيح مسلم (رقم 1115) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. It is not an act of true piety or righteousness to insist upon fasting during travel when it leads to severe physical exhaustion, fainting, or hardship.
+2. Prioritizing Allah's merciful concessions (Rukhsah) over stubborn, self-inflicted harm.
 
 ---
 
@@ -964,6 +1057,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1936)، صحيح مسلم (رقم 1111) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Severe sanctity of the daylight hours of Ramadan: intentional marital intercourse during fasting requires major compounded expiation (Kaffarah): freeing a slave, or fasting two consecutive months, or feeding sixty poor persons.
+2. Absolute gravity of violating the holy month's boundaries and establishing rigorous legal deterrents.
 
 ---
 
@@ -994,6 +1090,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1952)، صحيح مسلم (رقم 1147) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Fulfilling divine obligations for deceased loved ones: whoever dies with obligatory Ramadan fasts unfulfilled, their guardian or relative may fast on their behalf.
+2. Settling spiritual debts and clearing the deceased person's accountability before Allah.
 
 ---
 
@@ -1024,6 +1123,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1950)، صحيح مسلم (رقم 1146) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Permissibility of delaying making up missed Ramadan fasts throughout the entire year until Sha'ban before the arrival of the next Ramadan.
+2. Realistic flexibility in fulfilling missed obligations around personal and family obligations.
 
 ---
 
@@ -1054,6 +1156,9 @@
 * **Companion Narrator:** أَبُو أَيُّوبَ الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1164) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Immense reward of following Ramadan with six days of fasting in Shawwal: since good deeds are multiplied tenfold, thirty days equal ten months and six days equal two months, totaling a full year.
+2. Continual attachment to worship and spiritual renewal immediately following the obligatory month.
 
 ---
 
@@ -1084,6 +1189,9 @@
 * **Companion Narrator:** أَبُو قَتَادَةَ الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1162) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Supreme virtue of fasting the Day of 'Arafah for non-pilgrims: it expiates the minor sins of both the preceding year and the coming year.
+2. Manifestation of Allah's vast mercy in granting two years of expiation for a single day of fasting.
 
 ---
 
@@ -1114,6 +1222,9 @@
 * **Companion Narrator:** أَبُو قَتَادَةَ الْأَنْصَارِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1162) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Fasting the Day of 'Ashura (10th of Muharram) expiates the sins of the entire preceding year in gratitude to Allah for saving Prophet Musa and the believers.
+2. Connects the Muslim Ummah with the continuous chain of prophetic history and deliverance.
 
 ---
 
@@ -1144,6 +1255,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 1134) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Recommendation to fast the ninth of Muharram (Tasu'a) along with the tenth ('Ashura) to distinguish Islamic practice from the fast of the People of the Book.
+2. Wisdom in asserting the distinct, independent identity of the Muslim Ummah in ritual practices.
 
 ---
 
@@ -1174,6 +1288,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1163) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The best fast after the obligatory month of Ramadan is fasting in Allah's sacred month of Muharram.
+2. Associating the month directly with Allah ('the month of Allah') signifies its sacred honor and spiritual potency.
 
 ---
 
@@ -1204,6 +1321,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1969)، صحيح مسلم (رقم 1156) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Highly recommended to increase fasting during the month of Sha'ban as spiritual preparation and training before the arrival of Ramadan.
+2. Vigilance during Sha'ban, a month often neglected between Rajab and Ramadan when deeds are raised to the Lord of the worlds.
 
 ---
 
@@ -1234,6 +1354,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1975)، صحيح مسلم (رقم 1159) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Recommendation of fasting the three White Days (13th, 14th, and 15th) of every lunar month, which equals fasting the entire lifetime.
+2. Ongoing monthly spiritual tune-up and holistic physical detoxification.
 
 ---
 
@@ -1264,6 +1387,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ وَأَبُو قَتَادَةَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن الترمذي (رقم 747)، صحيح مسلم (رقم 1162) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Recommended to fast on Mondays and Thursdays because deeds are presented to Allah on these two days, and Monday is the day the Prophet ﷺ was born and received revelation.
+2. Presenting one's weekly record of deeds while in a state of humble devotion and fasting.
 
 ---
 
@@ -1294,6 +1420,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1976)، صحيح مسلم (رقم 1159) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The best and most balanced voluntary fast is the fast of Prophet David (Dawud): fasting on alternate days, without weakening the body or neglecting obligations.
+2. Moderation in worship: avoiding extremism that impairs family, work, and communal duties.
 
 ---
 
@@ -1324,6 +1453,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1964)، صحيح مسلم (رقم 1102) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Dislike and prohibition of continuous fasting without breaking (Wisal) overnight out of prophetic mercy and protection of the Ummah from extremism.
+2. Islam honors human physical needs and commands balanced nourishment.
 
 ---
 
@@ -1354,6 +1486,9 @@
 * **Companion Narrator:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1991)، صحيح مسلم (رقم 827) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Strict consensus on the prohibition of fasting on the two Eid days (Eid al-Fitr and Eid al-Adha), as they are days of joyful celebration, feasting, and Allah's hospitality.
+2. Obeying Allah in eating on Eid is just as much an act of worship as obeying Him in fasting during Ramadan.
 
 ---
 
@@ -1384,6 +1519,9 @@
 * **Companion Narrator:** نُبَيْشَةُ الْهُذَلِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1141) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Prohibition of fasting during the Days of Tashriq (11th, 12th, and 13th of Dhul-Hijjah) except for pilgrims without sacrificial animals; these are days of eating, drinking, and remembering Allah.
+2. Celebrating communal joy while sanctifying physical nourishment with praise and Dhikr.
 
 ---
 
@@ -1414,6 +1552,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1985)، صحيح مسلم (رقم 1144) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Dislike of singling out Friday exclusively for voluntary fasting because it is the weekly Eid of the Muslims, a day dedicated to congregational prayer and supplication.
+2. To fast Friday, one should combine it with Thursday or Saturday unless it coincides with a customary fast.
 
 ---
 
@@ -1444,6 +1585,9 @@
 * **Companion Narrator:** أُمُّ هَانِئٍ بِنْتُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** سنن الترمذي (رقم 732)، مسند أحمد (رقم 26860) — المكتبة الشاملة، وصححه الحاكم والألباني.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The person observing a voluntary fast is the master of their own fast: they are permitted to complete it or break it for an excuse or to honor a host without mandatory makeup.
+2. Manifests the ease, flexibility, and grace of non-obligatory Islamic devotions.
 
 ---
 
@@ -1474,6 +1618,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 2026)، صحيح مسلم (رقم 1172) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. High virtue of spiritual seclusion (I'tikaf) during the last ten nights of Ramadan, detaching from worldly preoccupations to devote oneself to Qur'an, Dhikr, and seeking Laylat al-Qadr.
+2. The continuous prophetic practice maintained by the Prophet ﷺ throughout his life and followed by his wives after him.
 
 ---
 
@@ -1504,5 +1651,8 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1902)، صحيح مسلم (رقم 2308) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Recommendation of studying and reciting the Qur'an and multiplying charity, generosity, and benevolence during the blessed month of Ramadan.
+2. The Prophet's ﷺ generosity in Ramadan was swifter and more encompassing than the life-giving blowing wind.
 
 ---

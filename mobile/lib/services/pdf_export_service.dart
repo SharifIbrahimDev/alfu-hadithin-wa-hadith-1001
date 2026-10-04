@@ -29,17 +29,13 @@ class PdfExportService {
     onProgress?.call(0.05, 'Loading Arabic & English Typography...');
 
     // Load custom fonts for Arabic and English rendering
-    final arabicFont = await PdfGoogleFonts.amiriRegular();
-    final arabicBoldFont = await PdfGoogleFonts.amiriBold();
-    final englishFont = await PdfGoogleFonts.plusJakartaSansRegular();
-    final englishBoldFont = await PdfGoogleFonts.plusJakartaSansBold();
-    final englishItalicFont = await PdfGoogleFonts.plusJakartaSansItalic();
-
-    final theme = pw.ThemeData.withFont(
-      base: englishFont,
-      bold: englishBoldFont,
-      italic: englishItalicFont,
-    );
+    final fonts = await _loadPdfFonts();
+    final arabicFont = fonts.arabicFont;
+    final arabicBoldFont = fonts.arabicBoldFont;
+    final englishFont = fonts.englishFont;
+    final englishBoldFont = fonts.englishBoldFont;
+    final englishItalicFont = fonts.englishItalicFont;
+    final theme = fonts.theme;
 
     const primaryColor = PdfColor.fromInt(0xFF0D9488); // Teal
     const secondaryColor = PdfColor.fromInt(0xFF0F172A); // Slate dark
@@ -579,17 +575,13 @@ class PdfExportService {
       author: 'Ibrahim Sharif Abubakar',
     );
 
-    final arabicFont = await PdfGoogleFonts.amiriRegular();
-    final arabicBoldFont = await PdfGoogleFonts.amiriBold();
-    final englishFont = await PdfGoogleFonts.plusJakartaSansRegular();
-    final englishBoldFont = await PdfGoogleFonts.plusJakartaSansBold();
-    final englishItalicFont = await PdfGoogleFonts.plusJakartaSansItalic();
-
-    final theme = pw.ThemeData.withFont(
-      base: englishFont,
-      bold: englishBoldFont,
-      italic: englishItalicFont,
-    );
+    final fonts = await _loadPdfFonts();
+    final arabicFont = fonts.arabicFont;
+    final arabicBoldFont = fonts.arabicBoldFont;
+    final englishFont = fonts.englishFont;
+    final englishBoldFont = fonts.englishBoldFont;
+    final englishItalicFont = fonts.englishItalicFont;
+    final theme = fonts.theme;
 
     const primaryColor = PdfColor.fromInt(0xFF0D9488);
     const secondaryColor = PdfColor.fromInt(0xFF0F172A);
@@ -879,6 +871,54 @@ class PdfExportService {
           ),
         ],
       ),
+    );
+  }
+
+  /// Load robust typography: local bundled Amiri fonts for 100% offline Arabic glyphs + fontFallback
+  static Future<({pw.Font arabicFont, pw.Font arabicBoldFont, pw.Font englishFont, pw.Font englishBoldFont, pw.Font englishItalicFont, pw.ThemeData theme})> _loadPdfFonts() async {
+    pw.Font arabicFont;
+    pw.Font arabicBoldFont;
+
+    try {
+      final regData = await rootBundle.load('assets/fonts/Amiri-Regular.ttf');
+      final boldData = await rootBundle.load('assets/fonts/Amiri-Bold.ttf');
+      arabicFont = pw.Font.ttf(regData);
+      arabicBoldFont = pw.Font.ttf(boldData);
+    } catch (e) {
+      debugPrint('Local Arabic font asset load failed: $e, falling back to PdfGoogleFonts');
+      arabicFont = await PdfGoogleFonts.amiriRegular();
+      arabicBoldFont = await PdfGoogleFonts.amiriBold();
+    }
+
+    pw.Font englishFont;
+    pw.Font englishBoldFont;
+    pw.Font englishItalicFont;
+
+    try {
+      englishFont = await PdfGoogleFonts.plusJakartaSansRegular();
+      englishBoldFont = await PdfGoogleFonts.plusJakartaSansBold();
+      englishItalicFont = await PdfGoogleFonts.plusJakartaSansItalic();
+    } catch (e) {
+      debugPrint('Google Fonts English failed: $e, falling back to Helvetica');
+      englishFont = pw.Font.helvetica();
+      englishBoldFont = pw.Font.helveticaBold();
+      englishItalicFont = pw.Font.helveticaOblique();
+    }
+
+    final theme = pw.ThemeData.withFont(
+      base: englishFont,
+      bold: englishBoldFont,
+      italic: englishItalicFont,
+      fontFallback: [arabicFont, arabicBoldFont],
+    );
+
+    return (
+      arabicFont: arabicFont,
+      arabicBoldFont: arabicBoldFont,
+      englishFont: englishFont,
+      englishBoldFont: englishBoldFont,
+      englishItalicFont: englishItalicFont,
+      theme: theme,
     );
   }
 }

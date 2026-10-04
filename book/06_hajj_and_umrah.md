@@ -1,4 +1,4 @@
-# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
+﻿# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
 ## كِتَابُ الْحَجِّ وَالْعُمْرَةِ
 ### Chapter 6: Book of Hajj & Umrah (Hadiths #0252 – #0301)
 *المصدر والتحقيق: نصوص محررة ومحققة وفق المطبوعات المعتمدة في المكتبة الشاملة (صحيح البخاري، صحيح مسلم، السنن الأربعة، وموطأ مالك)*
@@ -34,6 +34,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1337)، صحيح البخاري بنحوه (رقم 7288) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Hajj is an obligatory fundamental pillar of Islam required once in a lifetime upon every adult, sane Muslim who possesses physical and financial ability.
+2. Inherent mercy of Islamic law in not requiring Hajj every year, which would cause unbearable hardship upon the Ummah.
 
 ---
 
@@ -64,6 +67,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1773)، صحيح مسلم (رقم 1349) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. An accepted pilgrimage (Hajj Mabrur) has no reward other than Paradise; and one Umrah to the next expiates what is between them.
+2. Hajj Mabrur is that which is performed purely for Allah's sake, free from sin, disputes, and worldly ostentation.
 
 ---
 
@@ -94,6 +100,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1521)، صحيح مسلم (رقم 1350) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Whoever performs Hajj purely for Allah without committing sexual misconduct, obscenity, or sin returns home as pure and sinless as the day their mother gave birth to them.
+2. A complete spiritual reset and total wiping of the slate of sins through sincere pilgrimage.
 
 ---
 
@@ -124,6 +133,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 810)، سنن النسائي (رقم 2631) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The supreme Jihad for the weak, the elderly, and women is the peaceful, flawless pilgrimage (Hajj Mabrur).
+2. Equal opportunity for the highest spiritual ranks and divine rewards without physical combat.
 
 ---
 
@@ -154,6 +166,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1520) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Exhortation to hasten toward performing the obligatory Hajj as soon as financial and physical ability are attained.
+2. Warning against postponing pilgrimage, as unexpected illness, sudden poverty, or unforeseen emergencies may prevent fulfillment.
 
 ---
 
@@ -184,6 +199,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1524)، صحيح مسلم (رقم 1181) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Divine designation of specific geographical boundary stations (Mawaqit) surrounding Makkah for entering the sacred state of Ihram.
+2. Strict prohibition against crossing these sacred boundaries toward Makkah for pilgrimage without being in a state of Ihram.
 
 ---
 
@@ -214,6 +232,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح مسلم (رقم 1183)، سنن أبي داود (رقم 1739) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The Miqat of Dhat 'Irq established for the people of Iraq and those arriving from eastern lands.
+2. Demonstrates the prophetic foresight and institutionalization of sacred geographic perimeters for all future generations.
 
 ---
 
@@ -244,6 +265,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1549)، صحيح مسلم (رقم 1184) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The Talbiyah ('Labbayk Allahumma Labbayk') is the profound banner of pure Tawhid and sincere devotional surrender, renouncing every form of polytheism and partnership with Allah.
+2. Continual chanting of the Talbiyah from the moment of entering Ihram until commencing the stoning of Jamrat al-'Aqabah.
 
 ---
 
@@ -274,6 +298,9 @@
 * **Companion Narrator:** السَّائِبُ بْنُ خَلَّادٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 1814)، سنن الترمذي (رقم 829)، موطأ مالك (رقم 744) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah for men to raise their voices loudly and proudly when chanting the sacred Talbiyah.
+2. Cosmic solidarity: the Prophet ﷺ informed that every stone, tree, and clod of earth to the right and left of the pilgrim joins in chanting the Talbiyah.
 
 ---
 
@@ -304,6 +331,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1542)، صحيح مسلم (رقم 1177) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Prescribed attire of Ihram for men: unstitched two-piece garments (Izar and Rida'), leaving the head uncovered and wearing sandals below the ankles.
+2. Prohibition of stitched tailored clothing, head-coverings for men, and applying perfume while in the sacred state of Ihram.
 
 ---
 
@@ -334,6 +364,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1538، 1539)، صحيح مسلم (رقم 1189) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah to apply pleasant fragrance directly to the body immediately before entering Ihram and making the intention.
+2. The remaining fragrance and glistening traces of perfume on the hair and beard after entering Ihram do not violate its sanctity.
 
 ---
 
@@ -364,6 +397,9 @@
 * **Companion Narrator:** عُثْمَانُ بْنُ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1409) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Strict prohibition of contracting a marriage, proposing marriage, or engaging in intimate marital contact while in the state of Ihram.
+2. Any marriage contract performed while either party is in Ihram is legally null and void (Batil).
 
 ---
 
@@ -394,6 +430,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1265)، صحيح مسلم (رقم 1206) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Immense honor and perpetual blessing for the one who dies in the state of Ihram: they are washed with water and lote-tree leaves, shrouded in their two Ihram garments without perfume or covering the head.
+2. They will be resurrected on the Day of Judgment proudly chanting the sacred Talbiyah.
 
 ---
 
@@ -424,6 +463,9 @@
 * **Companion Narrator:** كَعْبُ بْنُ عُجْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1814)، صحيح مسلم (رقم 1201) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Merciful divine concession (Fidyah of ailment) for the pilgrim compelled to shave their head or commit a restricted act due to lice, illness, or severe harm.
+2. Flexible three-way choice for expiation: fasting three days, feeding six destitute persons, or slaughtering a sacrificial sheep.
 
 ---
 
@@ -454,6 +496,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1829)، صحيح مسلم (رقم 1198) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Permissibility of killing five noxious pests even within the sacred sanctuary and while in Ihram: the crow, the kite, the scorpion, the rat, and the vicious dog/predator.
+2. Prioritizing human safety and hygiene, removing harmful creatures without violating the sanctity of the Haram.
 
 ---
 
@@ -484,6 +529,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1834)، صحيح مسلم (رقم 1353) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The eternal sanctity, peace, and inviolability of Makkah al-Mukarramah established by Allah until the Day of Resurrection.
+2. Absolute prohibition of shedding blood, hunting wildlife, uprooting trees, cutting green pasture, or taking lost items except to announce them in the Sacred Precincts.
 
 ---
 
@@ -514,6 +562,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 1297)، سنن النسائي (رقم 3062) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The golden universal maxim of pilgrimage: 'Learn your pilgrimage rites from me, for I do not know whether I will perform Hajj after this year of mine.'
+2. Mandatory obligation of strictly patterning all pilgrimage acts upon the authentic Farewell Pilgrimage of the Prophet ﷺ.
 
 ---
 
@@ -544,6 +595,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن أبي داود (رقم 1874)، سنن النسائي (رقم 2924) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah of touching and kissing the Black Stone (Al-Hajar al-Aswad) and pointing toward it with Takbir during each circuit of Tawaf.
+2. Following the prophetic tradition with reverence and ease, avoiding pushing, hurting, or crowding fellow pilgrims.
 
 ---
 
@@ -574,6 +628,9 @@
 * **Companion Narrator:** أَمِيرُ الْمُؤْمِنِينَ عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1597)، صحيح مسلم (رقم 1270) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. 'Umar ibn al-Khattab's foundational monotheistic declaration: 'I know you are merely a stone that can neither benefit nor harm; had I not seen the Messenger of Allah ﷺ kiss you, I would never have kissed you.'
+2. Complete liberation from superstition and pure devotional obedience to the Sunnah without venerating inanimate objects.
 
 ---
 
@@ -604,6 +661,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن الترمذي (رقم 959)، سنن النسائي (رقم 2919) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Touching the Black Stone and the Yemeni Corner (Ar-Rukn al-Yamani) during Tawaf expiates sins and wipes away transgressions.
+2. High spiritual virtue of circumambulating the Ancient House (Al-Bayt al-'Atiq) with mindfulness and reverence.
 
 ---
 
@@ -634,6 +694,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن الترمذي (رقم 877)، مسند أحمد (رقم 2792) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The Black Stone descended from Paradise whiter than milk, but was blackened by the sins, polytheism, and transgressions of human beings.
+2. Reminder of the corrosive, tarnishing nature of sins upon pure creation and upon human hearts.
 
 ---
 
@@ -664,6 +727,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1603)، صحيح مسلم (رقم 1261) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah of Raml (walking briskly with short steps and puffed chest) for men during the first three circuits of Tawaf al-Qudum and Tawaf al-'Umrah.
+2. Commemorating early Muslim resilience, physical dignity, and unity in Makkah.
 
 ---
 
@@ -694,6 +760,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 1218) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Sunnah of praying two units of prayer behind the Station of Abraham (Maqam Ibrahim) immediately following the completion of Tawaf, reciting Surat al-Kafirun and Surat al-Ikhlas.
+2. Connecting with the ancient legacy of Prophet Ibrahim and affirming pure monotheism.
 
 ---
 
@@ -724,6 +793,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 1218) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Sa'i between the hills of As-Safa and Al-Marwah for seven laps is an essential pillar of Hajj and Umrah, commencing at Safa and concluding at Marwah.
+2. Reenacting the desperate, unwavering reliance (Tawakkul) of Lady Hajar searching for sustenance for her child.
 
 ---
 
@@ -754,6 +826,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 1261)، صحيح البخاري بنحوه (رقم 1644) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Sunnah for men to jog briskly (Harwalah) between the two green markers in the valley of the Mas'a, while walking normally along the remainder of the path.
+2. Replicating the determined striving of Hajar while preserving calm and safety in crowded spaces.
 
 ---
 
@@ -784,6 +859,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ وَأَبُو ذَرٍّ الْغِفَارِيُّ رَضِيَ اللَّهُ عَنْهُمْ.
 * **Canonical Reference:** سنن ابن ماجه (رقم 3062)، صحيح مسلم (رقم 2473) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The immense barakah, healing, and physical nourishment of Zamzam water: 'The water of Zamzam serves whatever purpose it is drunk for.'
+2. Drinking deeply to full satisfaction (At-Tadallu') and supplicating for the goodness of both this life and the Hereafter.
 
 ---
 
@@ -814,6 +892,9 @@
 * **Companion Narrator:** عَبْدُ الرَّحْمَنِ بْنُ يَعْمَرَ الدِّيلِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 889)، سنن أبي داود (رقم 1949) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The supreme, indispensable cornerstone of Hajj: 'Hajj is 'Arafah.' Whoever reaches the plains of 'Arafah before the dawn of the Day of Nahr has secured their Hajj.
+2. The entire Hajj hinges upon presence and standing in worship on the plains of 'Arafat.
 
 ---
 
@@ -844,6 +925,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن الترمذي (رقم 3585) — المكتبة الشاملة، وحسنه الألباني.
 * **Scholarly Grading:** **حَسَنٌ**
+* **Key Lessons & Takeaways:**
+1. The supreme supplication is the supplication on the Day of 'Arafah: 'The best thing I and the prophets before me have said is: La ilaha illallahu wahdahu la sharika lah...'
+2. Dedicating the entire afternoon of 'Arafah to tearful repentance, intense Tawhid, and passionate supplication.
 
 ---
 
@@ -874,6 +958,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح مسلم (رقم 1348) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Allah boasts to the assembled angels of the pilgrims gathered on the plains of 'Arafat, granting boundless forgiveness and freedom from Hellfire.
+2. There is no day on which Allah frees more servants from the Fire than the Day of 'Arafah.
 
 ---
 
@@ -904,6 +991,9 @@
 * **Companion Narrator:** أَبُو بَكْرَةَ نُفَيْعُ بْنُ الْحَارِثِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1741)، صحيح مسلم (رقم 1679) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The Prophet's ﷺ Farewell Sermon emphasizes foundational human rights: absolute sanctity of Muslim lives, property, and honor until the Day of Judgment.
+2. Uncompromising prohibition of injustice, bloodshed, oppression, and violation of human dignity.
 
 ---
 
@@ -934,6 +1024,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1671)، صحيح مسلم (رقم 1282) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Obligation of departing from 'Arafah toward Muzdalifah with calm, dignity, and serenity (As-Sakinah), avoiding recklessness, crowding, or harming others.
+2. True piety and righteousness are manifested in gentleness, composure, and consideration for fellow pilgrims.
 
 ---
 
@@ -964,6 +1057,9 @@
 * **Companion Narrator:** أُسَامَةُ بْنُ زَيْدٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1674)، صحيح مسلم (رقم 1280) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Sunnah of combining Maghrib and 'Isha' prayers at Muzdalifah with one Adhan and two Iqamahs, and spending the night there until Fajr.
+2. Manifests the structured discipline and serene unity of the millions in pilgrimage rites.
 
 ---
 
@@ -994,6 +1090,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1681)، صحيح مسلم (رقم 1290) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Concession allowing the elderly, women, children, and the weak to depart from Muzdalifah after midnight to stone the Jamarat before the dense crowds arrive.
+2. Practical compassion and safety prioritized in Islamic ritual legislation.
 
 ---
 
@@ -1024,6 +1123,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 1299)، صحيح البخاري بنحوه (رقم 1746) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Stoning the major pillar (Jamrat al-'Aqabah) on the Day of Nahr (10th of Dhul-Hijjah) with seven small pebbles, uttering Takbir with every throw.
+2. Symbolic rejection of Satanic whispering and reaffirmation of unwavering monotheism.
 
 ---
 
@@ -1054,6 +1156,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن النسائي (رقم 3057)، سنن ابن ماجه (رقم 3029)، مسند أحمد (رقم 1851) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Stern warning against extremism and exaggeration in religion: stones for the Jamarat must be small pebble-sized (Hasa al-Khadhf), not large boulders.
+2. Adherence to prophetic moderation shields the community from fanatical excess.
 
 ---
 
@@ -1084,6 +1189,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1727)، صحيح مسلم (رقم 1301) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Superiority of shaving the head (Halq) over shortening hair (Taqsir) for men in Hajj and Umrah, emphasized by the Prophet's ﷺ three supplications for those who shave.
+2. Symbolizes complete surrender, humility, and spiritual renewal before the Creator.
 
 ---
 
@@ -1114,6 +1222,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1721)، صحيح مسلم (رقم 1306) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Inherent ease, tolerance, and flexibility of Islamic law: on the Day of Nahr, whatever rite was performed before or after another—slaughtering, stoning, shaving, or circumambulating—the Prophet ﷺ replied: 'Do so and there is no blame.'
+2. Removing distress and anxiety from the hearts of pilgrims navigating complex rites.
 
 ---
 
@@ -1144,6 +1255,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 1218) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Tawaf al-Ifadah is an indispensable pillar of Hajj through which the pilgrim achieves the major release from all Ihram restrictions.
+2. High virtue of serving pilgrims and providing them with clean water and nourishment.
 
 ---
 
@@ -1174,6 +1288,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1744)، صحيح مسلم (رقم 1315) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Obligation of staying overnight in Mina during the nights of Tashriq (11th, 12th, and 13th) for those without valid exemptions such as shepherds and water suppliers.
+2. Deepening communal fellowship, shared remembrance of Allah, and devotion in sacred valleys.
 
 ---
 
@@ -1204,6 +1321,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1755)، صحيح مسلم (رقم 1328) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The Farewell Circumambulation (Tawaf al-Wada') is an obligatory final rite before leaving Makkah, ensuring the pilgrim's last contact with the Sacred House is worship.
+2. Compassionate exemption granted to menstruating women to depart without performing it and without penalty.
 
 ---
 
@@ -1234,6 +1354,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1757)، صحيح مسلم (رقم 1211) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. If a woman performs Tawaf al-Ifadah and then menstruates, she is permitted to travel home and Tawaf al-Wada' is dropped from her without any expiation.
+2. Relieving Muslim women of travel delays, logistical hardship, and financial burden.
 
 ---
 
@@ -1264,6 +1387,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1513)، صحيح مسلم (رقم 1334) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Permissibility of proxy pilgrimage (Hajj al-Badal) on behalf of permanently disabled or elderly parents who have financial means but cannot endure travel.
+2. Manifests filial devotion, compassion, and fulfilling sacred obligations for loved ones.
 
 ---
 
@@ -1294,6 +1420,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن أبي داود (رقم 1811)، سنن ابن ماجه (رقم 2903) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. A person cannot perform Hajj on behalf of another until they have first fulfilled the obligatory Hajj for themselves (Hadith of Shubrumah).
+2. Establishing personal responsibility and correct sequencing in divine duties.
 
 ---
 
@@ -1324,6 +1453,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 1336) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Validity of the young child's Hajj, with the reward recorded for both the child and their guardian.
+2. However, it does not exempt the child from the obligatory Hajj of Islam once they reach adulthood.
 
 ---
 
@@ -1354,6 +1486,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1863)، صحيح مسلم (رقم 1256) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Performing Umrah during the blessed month of Ramadan equals the reward of Hajj with the Prophet ﷺ in spiritual merit, though it does not replace the obligatory Hajj.
+2. Highlighting the tremendous spiritual multiplier of performing righteous deeds during Ramadan.
 
 ---
 
@@ -1384,6 +1519,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1189)، صحيح مسلم (رقم 1397) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Solemn religious journeys are only undertaken to three designated sanctuaries: Al-Masjid al-Haram in Makkah, the Prophet's Mosque in Madinah, and Al-Masjid al-Aqsa in Jerusalem.
+2. Preserving the unique monotheistic sanctity and status of the three prophetic sanctuaries.
 
 ---
 
@@ -1414,6 +1552,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** مسند أحمد (رقم 14694)، سنن ابن ماجه (رقم 1406) — المكتبة الشاملة، وصححه ابن عبد البر والألباني.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. One prayer in Al-Masjid al-Haram in Makkah equals 100,000 prayers elsewhere, and one prayer in the Prophet's Mosque in Madinah equals 1,000 prayers elsewhere.
+2. Unrivaled spiritual elevation and boundless reward in the two holy sanctuaries.
 
 ---
 
@@ -1444,6 +1585,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ زَيْدٍ وَأَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1195)، صحيح مسلم (رقم 1390) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. High sanctity of the Noble Rawdah in the Prophet's Mosque: 'Between my house and my pulpit is a garden from the gardens of Paradise, and my pulpit is upon my Cistern.'
+2. Recommending prayer, Dhikr, and peaceful supplication within this sacred sanctuary.
 
 ---
 
@@ -1474,6 +1618,9 @@
 * **Companion Narrator:** أَمِيرُ الْمُؤْمِنِينَ عَلِيُّ بْنُ أَبِي طَالِبٍ وَأَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1867)، صحيح مسلم (رقم 1370) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Madinah is a sacred sanctuary: its trees shall not be felled, game hunted, nor innovations introduced; severe warning against causing mischief or harboring innovators in it.
+2. Preserving the peace, purity, and veneration of the city of the Messenger of Allah ﷺ.
 
 ---
 
@@ -1504,5 +1651,8 @@
 * **Companion Narrator:** سَهْلُ بْنُ حُنَيْفٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن ابن ماجه (رقم 1412)، سنن النسائي (رقم 699)، مسند أحمد (رقم 15982) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah of purifying oneself at home and visiting Masjid Quba' to pray two units of prayer, earning the complete reward of an Umrah.
+2. Honoring the first mosque established in Islam with regular visitation and devotion.
 
 ---

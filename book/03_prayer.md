@@ -1,4 +1,4 @@
-# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
+﻿# أَلْفُ حَدِيثٍ وَحَدِيثٍ — 1001 Authentic Hadith
 ## كِتَابُ الصَّلَاةِ
 ### Chapter 3: Book of Prayer (Hadiths #0102 – #0151)
 *المصدر والتحقيق: نصوص محررة ومحققة وفق المطبوعات المعتمدة في المكتبة الشاملة (صحيح البخاري، صحيح مسلم، السنن الأربعة، وموطأ مالك)*
@@ -34,6 +34,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 528)، صحيح مسلم (رقم 667) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The supreme virtue of the five daily prayers in purifying souls and continuously expiating minor sins and shortcomings.
+2. Compares regular prayer to bathing five times daily in a pure, flowing river.
 
 ---
 
@@ -64,6 +67,9 @@
 * **Companion Narrator:** بُرَيْدَةُ بْنُ الْحُصَيْبِ الْأَسْلَمِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 2621)، سنن النسائي (رقم 463)، سنن ابن ماجه (رقم 1079) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The decisive covenant that distinguishes Muslims from disbelief is the prayer; neglecting it places faith in grave peril.
+2. Prayer is the indispensable pillar sustaining Islamic identity.
 
 ---
 
@@ -94,6 +100,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن الترمذي (رقم 413)، سنن النسائي (رقم 465) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Prayer is the very first deed evaluated on the Day of Judgment; if sound, all other deeds succeed.
+2. Voluntary prayers compensate for any deficiencies in obligatory prayers.
 
 ---
 
@@ -124,6 +133,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 349)، صحيح مسلم (رقم 162) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Prayer was directly ordained above the seven heavens during the Mi'raj, signifying its supreme status.
+2. Divine grace in reducing the requirement to five prayers while preserving the reward of fifty.
 
 ---
 
@@ -154,6 +166,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** سنن أبي داود (رقم 495)، مسند أحمد (رقم 6689) — المكتبة الشاملة.
 * **Scholarly Grading:** **حَدِيثٌ حَسَنٌ صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Obligation of progressive child education: commanding children to pray at age seven and reinforcing discipline at age ten.
+2. Nurturing lifelong habits of worship from early childhood.
 
 ---
 
@@ -184,6 +199,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 527)، صحيح مسلم (رقم 85) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Performing prayer at its earliest appointed time is among the most beloved deeds to Allah, alongside honoring parents.
+2. Prioritizing divine appointments above all worldly distractions.
 
 ---
 
@@ -214,6 +232,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 612) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Defines the precise celestial and temporal boundaries for each of the five obligatory daily prayers.
+2. Punctuality and adherence to prescribed prayer windows.
 
 ---
 
@@ -244,6 +265,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 536)، صحيح مسلم (رقم 615) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Delaying the Zuhr prayer slightly for cooler weather during intense heat promotes inner tranquility (Khushu').
+2. Islamic law prioritizes ease and removal of hardship in worship.
 
 ---
 
@@ -274,6 +298,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ وَبُرَيْدَةُ الْأَسْلَمِيُّ رَضِيَ اللَّهُ عَنْهُمْ.
 * **Canonical Reference:** صحيح البخاري (رقم 552، 553)، صحيح مسلم (رقم 626) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Severe warning against missing the 'Asr prayer; whoever misses it is as if they lost their family and entire wealth.
+2. Special sanctity and emphasis on preserving the middle prayer ('Asr).
 
 ---
 
@@ -304,6 +331,9 @@
 * **Companion Narrator:** أَبُو مُوسَى الْأَشْعَرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 574)، صحيح مسلم (رقم 635) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Consistently performing the two cool prayers (Fajr and 'Asr) is a guaranteed pathway to entering Paradise.
+2. Overcoming morning sleep and afternoon fatigue demonstrates genuine devotion.
 
 ---
 
@@ -334,6 +364,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 555)، صحيح مسلم (رقم 632) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The shift change of recording angels occurs at Fajr and 'Asr, where they testify before Allah about the worshipers.
+2. Honored angelic witnessing for those who attend dawn and afternoon congregations.
 
 ---
 
@@ -364,6 +397,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 608)، صحيح مسلم (رقم 389) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The immense blessing of the Adhan causes Satan to flee forcefully with wind so as not to hear the call to prayer.
+2. Warning against Satanic whispering (Waswas) during prayer attempting to distract the worshiper from tranquil presence of heart.
 
 ---
 
@@ -394,6 +430,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 521)، سنن الترمذي (رقم 212) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Supplication between the Adhan and Iqamah is never rejected; believers are urged to seize this blessed interval to ask Allah for the good of this life and the Hereafter.
+2. High virtue of regular presence in the mosque before prayer commences.
 
 ---
 
@@ -424,6 +463,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 384) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. High reward for repeating the words after the Mu'adhin, sending blessings upon the Prophet ﷺ, and supplicating for Al-Wasilah.
+2. Earning the Prophet's ﷺ personal intercession on the Day of Resurrection.
 
 ---
 
@@ -454,6 +496,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 614) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Sublime virtue of reciting the comprehensive post-Adhan supplication asking Allah to grant Prophet Muhammad ﷺ Al-Wasilah, Al-Fadilah, and the praised station.
+2. Secures the guaranteed intercession of the Prophet ﷺ on Judgment Day.
 
 ---
 
@@ -484,6 +529,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 645)، صحيح مسلم (رقم 650) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Congregational prayer surpasses individual solitary prayer by twenty-seven degrees in virtue and multiplied reward.
+2. Fosters community equality, brotherhood, and collective spiritual strength.
 
 ---
 
@@ -514,6 +562,9 @@
 * **Companion Narrator:** بُرَيْدَةُ بْنُ الْحُصَيْبِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 561)، سنن الترمذي (رقم 223) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Glad tidings of complete, radiant light on the Day of Resurrection for those who walk through darkness to the mosques for Fajr and 'Isha congregational prayers.
+2. Divine compensation illuminating the believers across the Sirat bridge.
 
 ---
 
@@ -544,6 +595,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 666) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. When a believer performs ablution thoroughly at home and walks to the mosque, with each step one sin is removed and their rank elevated by one degree.
+2. Physical steps walked in devotion are permanently recorded in the scale of good deeds.
 
 ---
 
@@ -574,6 +628,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ وَالنُّعْمَانُ بْنُ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 723، 717)، صحيح مسلم (رقم 433، 436) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Severe command to straighten and align rows in prayer: 'Straighten your rows, or Allah will cause dissension between your hearts and faces.'
+2. External physical alignment reflects and fosters internal communal unity.
 
 ---
 
@@ -604,6 +661,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 440) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The best rows for men are the front rows and the worst are the rear; the best rows for women in shared spaces are the rear and the worst are the front.
+2. Encourages men to hasten to the front row and safeguards modesty for women.
 
 ---
 
@@ -634,6 +694,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ وَأَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 689)، صحيح مسلم (رقم 411) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Strict obligation of following the Imam in prayer: moving after him in Takbir, bowing, prostrating, and rising without preceding him or moving simultaneously.
+2. Emphasizes disciplined leadership, submission to authority, and communal order.
 
 ---
 
@@ -664,6 +727,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 757)، صحيح مسلم (رقم 397) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Tranquil composure (Itmi'nan) and calm stillness in bowing, rising, and prostration is an indispensable pillar (Rukn) without which prayer is legally invalid.
+2. The Hadith of the man who prayed badly establishes that rushing through prayer invalidates it entirely.
 
 ---
 
@@ -694,6 +760,9 @@
 * **Companion Narrator:** مَالِكُ بْنُ الْحُوَيْرِثِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 631)، صحيح مسلم (رقم 674) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Foundational legal principle: 'Pray as you have seen me pray.'
+2. Mandatory obligation to pattern all bodily postures, recitations, and etiquettes of prayer strictly upon the prophetic Sunnah.
 
 ---
 
@@ -724,6 +793,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 744)، صحيح مسلم (رقم 598) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah of reciting the opening supplication (Du'a al-Istiftah) after the opening Takbir before commencing Surat al-Fatihah.
+2. Prepares the heart for reverent contemplation and intimate dialogue with Allah.
 
 ---
 
@@ -754,6 +826,9 @@
 * **Companion Narrator:** عُبَادَةُ بْنُ الصَّامِتِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 756)، صحيح مسلم (رقم 394) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Reciting Surat al-Fatihah is an essential, mandatory pillar in every single unit (Rak'ah) of obligatory and voluntary prayer; no prayer is valid without it.
+2. Al-Fatihah is the foundational core of all prayer and divine communication.
 
 ---
 
@@ -784,6 +859,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 780)، صحيح مسلم (رقم 410) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Sunnah of uttering 'Amin' aloud with the Imam in audible prayers; when the congregation's 'Amin' coincides with the angels' 'Amin', all prior minor sins are forgiven.
+2. Celestial harmony between the supplications of earthly worshipers and the heavenly host.
 
 ---
 
@@ -814,6 +892,9 @@
 * **Companion Narrator:** حُذَيْفَةُ بْنُ الْيَمَانِ وَابْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمْ.
 * **Canonical Reference:** صحيح مسلم (رقم 772، 479) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Proper method of bowing (Ruku'): leveling the back horizontally, placing hands firmly on the knees, and glorifying Allah with 'Subhana Rabbiyal-'Azim'.
+2. Manifests physical symmetry, majesty, and reverent surrender before the Almighty.
 
 ---
 
@@ -844,6 +925,9 @@
 * **Companion Narrator:** رِفَاعَةُ بْنُ رَافِعٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 799) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Immense spiritual reward of the supplication upon rising from bowing: 'Rabbana wa lakal-hamd, hamdan kathiran tayyiban mubarakan feeh.'
+2. Over thirty angels hasten to compete over which of them will record and ascend with this blessed praise first.
 
 ---
 
@@ -874,6 +958,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 482) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The closest a servant ever comes to their Lord is while in prostration (Sujud); therefore, multiply earnest supplications while prostrating.
+2. Peak of human spiritual elevation achieved at the moment of utmost physical humility.
 
 ---
 
@@ -904,6 +991,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 812)، صحيح مسلم (رقم 490) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Mandatory obligation of prostrating firmly upon seven bodily bones: the forehead (including the nose), both hands, both knees, and the toes of both feet.
+2. Proper grounding of all seven contact points ensures the validity of Sujud.
 
 ---
 
@@ -934,6 +1024,9 @@
 * **Companion Narrator:** أَنَسُ بْنُ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 822)، صحيح مسلم (رقم 493) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Moderation in prostration: keeping elbows raised off the floor and away from the torso, avoiding sprawling the forearms flat like a resting dog.
+2. Instills physical alertness, dignity, and elegance in divine worship.
 
 ---
 
@@ -964,6 +1057,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 831)، صحيح مسلم (رقم 402) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The canonical, authentic wording of the Tashahhud taught by the Prophet ﷺ to Ibn Mas'ud as he would teach a chapter of the Qur'an.
+2. Prescribed recitation of divine greetings, prayers of peace, and the two testimonies of faith in the final sitting.
 
 ---
 
@@ -994,6 +1090,9 @@
 * **Companion Narrator:** كَعْبُ بْنُ عُجْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 3370)، صحيح مسلم (رقم 405) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah of reciting the Abrahamic Prayer (As-Salat al-Ibrahimiyyah) upon the Prophet ﷺ and his family in the final Tashahhud.
+2. The most complete, sublime formula for sending blessings upon the Messenger of Allah ﷺ.
 
 ---
 
@@ -1024,6 +1123,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 588) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Confirmed Sunnah of seeking refuge in Allah from four catastrophic evils before the concluding Tasleem: the punishment of Hell, the torment of the grave, the trials of life and death, and the evil trial of the False Messiah (Dajjal).
+2. Fortifies the worshiper with essential spiritual immunity at the culmination of prayer.
 
 ---
 
@@ -1054,6 +1156,9 @@
 * **Companion Narrator:** سَهْلُ بْنُ أَبِي حَثْمَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** سنن أبي داود (رقم 695)، سنن النسائي (رقم 748) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Recommended Sunnah of setting a barrier (Sutrah) close in front of the praying person (whether Imam or solitary worshiper) to preserve focus and protect the sacred prayer zone.
+2. Safeguarding concentration and preventing distractions from passersby.
 
 ---
 
@@ -1084,6 +1189,9 @@
 * **Companion Narrator:** أَبُو جُهَيْمِ بْنُ الْحَارِثِ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 510)، صحيح مسلم (رقم 507) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Severe warning against passing directly between a praying person and their Sutrah: 'If the passerby knew what sin they incurred, waiting forty would be better than crossing.'
+2. Venerates the sacred orientation of the believer standing in intimate communion with Allah.
 
 ---
 
@@ -1114,6 +1222,9 @@
 * **Companion Narrator:** ثَوْبَانُ مَوْلَى رَسُولِ اللَّهِ ﷺ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 591) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Sunnah of initiating post-prayer remembrance with asking forgiveness (Astaghfirullah thrice) to compensate for any lapses, heedlessness, or shortcomings during worship.
+2. Fosters ongoing humility and awareness of human imperfection even after noble obedience.
 
 ---
 
@@ -1144,6 +1255,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 597) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Immense virtue of reciting Tasbih (Subhan Allah 33 times), Tahmid (Alhamdulillah 33 times), and Takbir (Allahu Akbar 33 times), completing one hundred with the declaration of Tawhid after every obligatory prayer.
+2. Guarantees complete forgiveness of minor sins even if they equal the white foam of the vast ocean.
 
 ---
 
@@ -1174,6 +1288,9 @@
 * **Companion Narrator:** أَبُو أُمَامَةَ الْبَاهِلِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** السنن الكبرى للنسائي (رقم 9848)، المعجم الكبير للطبراني (رقم 7532) — المكتبة الشاملة، وصححه ابن حبان والألباني.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Ayat al-Kursi is the greatest single verse in the Noble Qur'an; reciting it immediately after every obligatory prayer guarantees that nothing stands between the believer and entering Paradise except death.
+2. Establishes daily protective armor and profound theological contemplation.
 
 ---
 
@@ -1204,6 +1321,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ أُمُّ حَبِيبَةَ رَمْلَةُ بِنْتُ أَبِي سُفْيَانَ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح مسلم (رقم 728)، سنن الترمذي (رقم 415) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Whoever preserves twelve voluntary Sunnah units daily (four before Zuhr, two after it, two after Maghrib, two after 'Isha, and two before Fajr), Allah builds a palace for them in Paradise.
+2. Daily devotion that guards the obligatory prayers and secures heavenly dwellings.
 
 ---
 
@@ -1234,6 +1354,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح مسلم (رقم 725) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The two voluntary Sunnah units before the obligatory Fajr prayer are better than this entire earthly world and everything contained within it.
+2. The most emphasized of all daily Sunan Rawatib, preserved by the Prophet ﷺ in residence and during travel.
 
 ---
 
@@ -1264,6 +1387,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 1981)، صحيح مسلم (رقم 721) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The forenoon prayer (Salat al-Duha) is the prayer of the penitents (Salat al-Awwabin), fulfilling the daily charity due on all 360 joints of the human body.
+2. Spiritual renewal and bodily gratitude during the active working hours of the day.
 
 ---
 
@@ -1294,6 +1420,9 @@
 * **Companion Narrator:** عَبْدُ اللَّهِ بْنُ عُمَرَ وَعَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُمْ.
 * **Canonical Reference:** صحيح البخاري (رقم 998)، صحيح مسلم (رقم 751)، سنن أبي داود (رقم 1416) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Confirmed Sunnah of concluding the night's prayers with the Witr prayer, consisting of an odd number of units (at minimum one unit).
+2. 'Allah is One and loves that which is odd-numbered'; bringing closure to daily devotions with pure Tawhid.
 
 ---
 
@@ -1324,6 +1453,9 @@
 * **Companion Narrator:** أُمُّ الْمُؤْمِنِينَ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا.
 * **Canonical Reference:** صحيح البخاري (رقم 4837)، صحيح مسلم (رقم 2820) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Standing in night prayer (Tahajjud) is the authentic expression of gratitude to Allah for His continuous blessings: 'Should I not be a grateful servant?'
+2. Overcoming bodily sleep to find sweetness and joy in communion with the Creator in the quiet of the night.
 
 ---
 
@@ -1354,6 +1486,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 1163) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. The best prayer after the obligatory prayers is the night prayer (Qiyam al-Layl).
+2. The practice of the righteous, an expiation for misdeeds, a shield against sin, and an elevation of honor.
 
 ---
 
@@ -1384,6 +1519,9 @@
 * **Companion Narrator:** أَبُو مَسْعُودٍ الْأَنْصَارِيُّ وَعَائِشَةُ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1041)، صحيح مسلم (رقم 901) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. Prescribed Sunnah of performing the Eclipse Prayer (Salat al-Kusuf/Khusuf) with two bowings and two prostrations in each unit during solar or lunar eclipses.
+2. Recognizing cosmic celestial signs as warnings from Allah, urging people to prayer, charity, supplication, and seeking forgiveness.
 
 ---
 
@@ -1414,6 +1552,9 @@
 * **Companion Narrator:** جَابِرُ بْنُ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا.
 * **Canonical Reference:** صحيح البخاري (رقم 1162) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Friday prayer possesses immense virtue: listening attentively to the Khutbah and praying expiates minor sins committed between that Friday and the next, with three days added.
+2. Walking calmly to the mosque and engaging in voluntary prayer before the sermon maximizes divine forgiveness.
 
 ---
 
@@ -1444,6 +1585,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح مسلم (رقم 233) — المكتبة الشاملة.
 * **Scholarly Grading:** **صَحِيحٌ**
+* **Key Lessons & Takeaways:**
+1. Consistently attending the Friday congregational prayer serves as an ongoing weekly expiation for minor sins, provided major sins are avoided.
+2. Highlights the central communal importance of Friday worship in spiritual renewal.
 
 ---
 
@@ -1474,6 +1618,9 @@
 * **Companion Narrator:** أَبُو هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 935)، صحيح مسلم (رقم 852) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. On Friday there is a sacred, blessed hour in which no Muslim servant asks Allah for anything good while standing in prayer except that He grants it.
+2. Encourages diligent devotion throughout Friday, especially during the final hour before sunset after 'Asr.
 
 ---
 
@@ -1504,5 +1651,8 @@
 * **Companion Narrator:** أَبُو سَعِيدٍ الْخُدْرِيُّ رَضِيَ اللَّهُ عَنْهُ.
 * **Canonical Reference:** صحيح البخاري (رقم 956)، صحيح مسلم (رقم 889) — المكتبة الشاملة.
 * **Scholarly Grading:** **مُتَّفَقٌ عَلَيْهِ**
+* **Key Lessons & Takeaways:**
+1. The established Sunnah is to perform the two Eid prayers in the open outdoor prayer ground (Musalla) to manifest the unity, strength, and joy of the Muslim community.
+2. Highlights performing prayer prior to delivering the sermon and celebrating Islamic festivities with public devotion.
 
 ---

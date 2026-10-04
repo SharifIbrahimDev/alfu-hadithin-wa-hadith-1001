@@ -138,6 +138,7 @@ class HomeScreen extends StatelessWidget {
                 ),
               ),
             ),
+          ),
           // Complete Book & PDF Export Hero Card
           SliverToBoxAdapter(
             child: Padding(

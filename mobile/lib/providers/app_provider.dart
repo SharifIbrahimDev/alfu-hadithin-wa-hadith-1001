@@ -44,6 +44,8 @@ class AppProvider with ChangeNotifier {
   bool get dailyReminderEnabled => _dailyReminderEnabled;
   TimeOfDay get dailyReminderTime => _dailyReminderTime;
   bool get notificationPermissionGranted => _notificationPermissionGranted;
+  bool _exactAlarmPermissionGranted = true;
+  bool get exactAlarmPermissionGranted => _exactAlarmPermissionGranted;
 
   AppProvider() {
     _init();
@@ -100,6 +102,7 @@ class AppProvider with ChangeNotifier {
       _dailyReminderTime = TimeOfDay(hour: hour, minute: minute);
 
       _notificationPermissionGranted = await _notificationService.areNotificationsEnabled();
+      _exactAlarmPermissionGranted = await _notificationService.canScheduleExactAlarms();
 
       if (_dailyReminderEnabled && _service.allHadiths.isNotEmpty) {
         try {
@@ -156,6 +159,22 @@ class AppProvider with ChangeNotifier {
 
     final prefs = await SharedPreferences.getInstance();
     await prefs.setInt('last_read_hadith_id', hadithId);
+    await prefs.setStringList('read_hadiths', _readHadiths.map((id) => id.toString()).toList());
+  }
+
+  void toggleRead(int hadithId) async {
+    if (_readHadiths.contains(hadithId)) {
+      _readHadiths.remove(hadithId);
+    } else {
+      _readHadiths.add(hadithId);
+      _lastReadHadithId = hadithId;
+    }
+    notifyListeners();
+
+    final prefs = await SharedPreferences.getInstance();
+    if (_lastReadHadithId != null) {
+      await prefs.setInt('last_read_hadith_id', _lastReadHadithId!);
+    }
     await prefs.setStringList('read_hadiths', _readHadiths.map((id) => id.toString()).toList());
   }
 
@@ -232,6 +251,17 @@ class AppProvider with ChangeNotifier {
     notifyListeners();
   }
 
+  Future<void> requestExactAlarmsPermission() async {
+    await _notificationService.requestExactAlarmsPermission();
+    if (_dailyReminderEnabled && _service.allHadiths.isNotEmpty) {
+      await _notificationService.scheduleDailyHadithReminder(
+        hour: _dailyReminderTime.hour,
+        minute: _dailyReminderTime.minute,
+        hadith: _service.getDailyHadith(),
+      );
+    }
+  }
+
   // ── BOOKMARKS ─────────────────────────────────────────────────────────────
 
   void toggleBookmark(int hadithId) async {
@@ -305,6 +335,7 @@ class AppProvider with ChangeNotifier {
     if (enabled) {
       final granted = await _notificationService.requestPermissions();
       _notificationPermissionGranted = granted;
+      _exactAlarmPermissionGranted = await _notificationService.canScheduleExactAlarms();
       notifyListeners();
 
       if (_service.allHadiths.isNotEmpty) {
@@ -316,6 +347,27 @@ class AppProvider with ChangeNotifier {
       }
     } else {
       await _notificationService.cancelDailyReminder();
+    }
+  }
+
+  Future<bool> checkAndRequestNotificationPermissions() async {
+    final granted = await _notificationService.requestPermissions();
+    _notificationPermissionGranted = granted;
+    _exactAlarmPermissionGranted = await _notificationService.canScheduleExactAlarms();
+    notifyListeners();
+    return granted;
+  }
+
+  Future<void> requestExactAlarmPermission() async {
+    await _notificationService.requestExactAlarmsPermission();
+    _exactAlarmPermissionGranted = await _notificationService.canScheduleExactAlarms();
+    notifyListeners();
+    if (_dailyReminderEnabled && _service.allHadiths.isNotEmpty) {
+      await _notificationService.scheduleDailyHadithReminder(
+        hour: _dailyReminderTime.hour,
+        minute: _dailyReminderTime.minute,
+        hadith: _service.getDailyHadith(),
+      );
     }
   }
 
