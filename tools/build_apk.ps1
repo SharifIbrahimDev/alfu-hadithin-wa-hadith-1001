@@ -96,7 +96,7 @@ if (Test-Path $ApkPath) {
     Write-Host "=========================================================" -ForegroundColor Green
     Write-Host "  Output Location: $ApkPath" -ForegroundColor White
     Write-Host "  File Size:       $SizeMB MB" -ForegroundColor White
-    Write-Host "  Package ID:      com.sharifibrahimdev.alfuhadithin" -ForegroundColor White
+    Write-Host "  Package ID:      com.sharifibrahimdev.alfuhadithinwahadith" -ForegroundColor White
     Write-Host "=========================================================" -ForegroundColor Green
 } else {
     Write-Host "`n[ERROR] APK file not found at: $ApkPath" -ForegroundColor Red

@@ -1,4 +1,4 @@
-package com.sharifibrahimdev.alfuhadithin
+package com.sharifibrahimdev.alfuhadithinwahadith
 
 import android.app.PendingIntent
 import android.appwidget.AppWidgetManager

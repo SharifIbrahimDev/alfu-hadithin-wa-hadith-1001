@@ -15,7 +15,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.sharifibrahimdev.alfuhadithin"
+    namespace = "com.sharifibrahimdev.alfuhadithinwahadith"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -30,7 +30,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.sharifibrahimdev.alfuhadithin"
+        applicationId = "com.sharifibrahimdev.alfuhadithinwahadith"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

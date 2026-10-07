@@ -1,4 +1,4 @@
-package com.sharifibrahimdev.alfuhadithin
+package com.sharifibrahimdev.alfuhadithinwahadith
 
 import io.flutter.embedding.android.FlutterActivity
 
