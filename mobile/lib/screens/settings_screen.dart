@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/app_provider.dart';
+import '../services/pdf_export_service.dart';
 import 'book_reader_screen.dart';
 import 'pdf_viewer_screen.dart';
 import 'bibliography_screen.dart';
@@ -655,51 +656,7 @@ class SettingsScreen extends StatelessWidget {
                       ),
                     ),
 
-                    const Divider(height: 24),
-
-                    // Test Notifications & Multi-Duration Wake Tests
-                    Row(
-                      children: [
-                        Expanded(
-                          child: OutlinedButton.icon(
-                            onPressed: () async {
-                              await provider.sendTestNotification();
-                              if (context.mounted) {
-                                ScaffoldMessenger.of(context).showSnackBar(
-                                  const SnackBar(
-                                    content: Text('🔔 Instant test notification dispatched! Check your status bar.'),
-                                    backgroundColor: Color(0xFF0D9488),
-                                    behavior: SnackBarBehavior.floating,
-                                  ),
-                                );
-                              }
-                            },
-                            icon: const Icon(Icons.notifications_active_outlined, size: 16),
-                            label: const Text('Instant Test', style: TextStyle(fontSize: 12)),
-                            style: OutlinedButton.styleFrom(
-                              foregroundColor: const Color(0xFF14B8A6),
-                              side: const BorderSide(color: Color(0xFF14B8A6)),
-                              padding: const EdgeInsets.symmetric(vertical: 8),
-                            ),
-                          ),
-                        ),
-                        const SizedBox(width: 8),
-                        Expanded(
-                          child: OutlinedButton.icon(
-                            onPressed: () => _showTestScheduleModal(context, provider, isDark),
-                            icon: const Icon(Icons.alarm, size: 16),
-                            label: const Text('Test Sleep Alarm…', style: TextStyle(fontSize: 12)),
-                            style: OutlinedButton.styleFrom(
-                              foregroundColor: const Color(0xFFF59E0B),
-                              side: const BorderSide(color: Color(0xFFF59E0B)),
-                              padding: const EdgeInsets.symmetric(vertical: 8),
-                            ),
-                          ),
-                        ),
-                      ],
-                    ),
-
-                    const SizedBox(height: 10),
+                    const SizedBox(height: 12),
 
                     // Reliability & Battery Optimization Notice
                     Container(
@@ -1312,91 +1269,6 @@ void _showSleepOptimizationDialog(BuildContext context, bool isDark) {
   );
 }
 
-void _showTestScheduleModal(BuildContext context, AppProvider provider, bool isDark) {
-  final options = [
-    {'label': '1 Minute (60s)', 'seconds': 60, 'sub': 'Quick lock-screen wake test'},
-    {'label': '3 Minutes (180s)', 'seconds': 180, 'sub': 'Screen off sleep test'},
-    {'label': '5 Minutes (300s)', 'seconds': 300, 'sub': 'Initial Android Doze mode test'},
-    {'label': '10 Minutes (600s)', 'seconds': 600, 'sub': 'Standard deep sleep test'},
-    {'label': '20 Minutes (1200s)', 'seconds': 1200, 'sub': 'Deep Doze idle test'},
-    {'label': '30 Minutes (1800s)', 'seconds': 1800, 'sub': 'Extended overnight test'},
-  ];
-
-  showModalBottomSheet(
-    context: context,
-    backgroundColor: isDark ? const Color(0xFF162238) : Colors.white,
-    shape: const RoundedRectangleBorder(
-      borderRadius: BorderRadius.vertical(top: Radius.circular(20)),
-    ),
-    builder: (ctx) => SafeArea(
-      child: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Row(
-              children: [
-                const Icon(Icons.alarm_add_rounded, color: Color(0xFF14B8A6), size: 24),
-                const SizedBox(width: 10),
-                const Text(
-                  'Schedule Wake-Up Alarm Test',
-                  style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
-                ),
-                const Spacer(),
-                IconButton(
-                  icon: const Icon(Icons.close, size: 20),
-                  onPressed: () => Navigator.pop(ctx),
-                ),
-              ],
-            ),
-            const SizedBox(height: 4),
-            Text(
-              'Select a duration, then lock your phone and leave it undisturbed. The alarm will wake your device from deep Doze:',
-              style: TextStyle(fontSize: 12, color: Colors.grey[500]),
-            ),
-            const SizedBox(height: 12),
-            ...options.map((opt) {
-              return ListTile(
-                contentPadding: const EdgeInsets.symmetric(horizontal: 4, vertical: 0),
-                dense: true,
-                leading: Container(
-                  width: 34,
-                  height: 34,
-                  decoration: BoxDecoration(
-                    color: const Color(0xFF14B8A6).withOpacity(0.12),
-                    borderRadius: BorderRadius.circular(8),
-                  ),
-                  child: const Icon(Icons.timer_outlined, color: Color(0xFF14B8A6), size: 18),
-                ),
-                title: Text(opt['label'] as String, style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 13)),
-                subtitle: Text(opt['sub'] as String, style: TextStyle(fontSize: 11, color: Colors.grey[500])),
-                trailing: const Icon(Icons.arrow_forward_ios_rounded, size: 12),
-                onTap: () async {
-                  Navigator.pop(ctx);
-                  final seconds = opt['seconds'] as int;
-                  final label = opt['label'] as String;
-                  await provider.scheduleTestNotification(seconds: seconds);
-                  if (context.mounted) {
-                    ScaffoldMessenger.of(context).showSnackBar(
-                      SnackBar(
-                        content: Text('⏰ Test alarm set for $label! Please lock your phone now to test deep sleep delivery.'),
-                        backgroundColor: const Color(0xFF0D9488),
-                        behavior: SnackBarBehavior.floating,
-                        duration: const Duration(seconds: 5),
-                      ),
-                    );
-                  }
-                },
-              );
-            }).toList(),
-            const SizedBox(height: 8),
-          ],
-        ),
-      ),
-    ),
-  );
-}
 
 Widget _buildDialogStep(String title, String desc) {
   return Container(

@@ -1,4 +1,4 @@
-﻿# Chapter 19: Book of Virtues, Merits & Prophetic Companions
+# Chapter 19: Book of Virtues, Merits & Prophetic Companions
 # كِتَابُ الْفَضَائِلِ وَالْمَنَاقِبِ
 
 ---
@@ -16,11 +16,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «أَنَا سَيِّدُ وَلَدِ آدَمَ يَوْمَ الْقِيَامَةِ، وَأَوَّلُ مَنْ يَنْشَقُّ عَنْهُ الْقَبْرُ، وَأَوَّلُ شَافِعٍ وَأَوَّلُ مُشَفَّعٍ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2278) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2278) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. لا تسبوا الحمى؛ فإنها تذهب خطايا بني آدم كما يذهب الكير خبث الحديد.
-2. الرضا بالمرض واحتساب الألم أجراً وتكفيراً للذنوب وتطهيراً للنفس.
+1. ثبوت سيادة النبي محمد ﷺ لولد آدم جميعاً يوم القيامة بلا فخر، وإثبات شرفه وعلو مقامه.
+2. اختصاصه ﷺ بأنه أول من تنشق عنه الأرض عند البعث، وأول شافع وأول مشفّع في الخلائق.
+
+
 
 </div>
 
@@ -33,7 +35,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2278) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2278) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Affirmation of the supreme, unmatched status of the Prophet Muhammad ﷺ above all creation on the Day of Judgment.
+* **Key Lessons & Takeaways:**
+Affirmation of the supreme, unmatched status of the Prophet Muhammad ﷺ above all creation on the Day of Judgment.
+
 
 ---
 
@@ -48,11 +52,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قِيلَ: يَا رَسُولَ اللَّهِ، ادْعُ عَلَى الْمُشْرِكِينَ، قَالَ: «إِنِّي لَمْ أُبْعَثْ لَعَّانًا، وَإِنَّمَا بُعِثْتُ رَحْمَةً».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2599) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2599) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الطاعون رجز أُرسل على من كان قبلكم؛ فإذا سمعتم به بأرض فلا تدخلوها، وإذا وقع بأرض وأنتم بها فلا تخرجوا فراراً منه.
-2. وضع أسس الحجر الصحي الوقائي الصارم لمنع انتشار الأوبئة والأمراض المعدية.
+1. كمال رسالة النبي ﷺ وأنها رحمة مهداة للعالمين كافة من إنس وجن، لا نقمة ولا هلاكاً.
+2. عظمة خلق النبي ﷺ في العفو والصفح وامتناعه عن اللعن والتشفي من أعدائه وأهل الجاهلية.
+
+
 
 </div>
 
@@ -65,7 +71,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2599) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2599) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** The core mission of the Final Prophet ﷺ is boundless mercy, compassion, and divine guidance for humanity.
+* **Key Lessons & Takeaways:**
+The core mission of the Final Prophet ﷺ is boundless mercy, compassion, and divine guidance for humanity.
+
 
 ---
 
@@ -80,11 +88,13 @@
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ: «أُعْطِيتُ خَمْسًا لَمْ يُعْطَهُنَّ أَحَدٌ قَبْلِي: نُصِرْتُ بِالرُّعْبِ مَسِيرَةَ شَهْرٍ، وَجُعِلَتْ لِيَ الْأَرْضُ مَسْجِدًا وَطَهُورًا، فَأَيُّمَا رَجُلٍ مِنْ أُمَّتِي أَدْرَكَتْهُ الصَّلَاةُ فَلْيُصَلِّ، وَأُحِلَّتْ لِيَ الْمَغَانِمُ وَلَمْ تَحِلَّ لِأَحَدٍ قَبْلِي، وَأُعْطِيتُ الشَّفَاعَةَ، وَكَانَ النَّبِيُّ يُبْعَثُ إِلَى قَوْمِهِ خَاصَّةً وَبُعِثْتُ إِلَى النَّاسِ عَامَّةً».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (438), Sahih Muslim (521) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (438), Sahih Muslim (521) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ليس من رجل يقع الطاعون فيمكث في بلده صابراً محتسباً يعلم أنه لا يصيبه إلا ما كتب الله له إلا كان له مثل أجر الشهيد.
-2. الجمع بين الصبر واليقين بالقدر والأخذ بأسباب الوقاية العامة.
+1. بيان الخصائص الخمس الكبرى التي تفضل الله بها على نبيه محمد ﷺ دون سائر الأنبياء قبله.
+2. نصر النبي ﷺ بالرعب مسيرة شهر، وجعل الأرض كلها مسجداً وطهوراً، وعموم رسالته لجميع الثقلين.
+
+
 
 </div>
 
@@ -97,7 +107,9 @@
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (438), Sahih Muslim (521) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (438), Sahih Muslim (521) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Highlighting the universal scope of Muhammad's ﷺ prophethood and unique theological privileges bestowed upon his Ummah.
+* **Key Lessons & Takeaways:**
+Highlighting the universal scope of Muhammad's ﷺ prophethood and unique theological privileges bestowed upon his Ummah.
+
 
 ---
 
@@ -112,11 +124,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «مَثَلِي وَمَثَلُ الْأَنْبِيَاءِ مِنْ قَبْلِي، كَمَثَلِ رَجُلٍ بَنَى بَيْتًا فَأَحْسَنَهُ وَأَجْمَلَهُ، إِلَّا مَوْضِعَ لَبِنَةٍ مِنْ زَاوِيَةٍ، فَجَعَلَ النَّاسُ يَطُوفُونَ بِهِ، وَيَعْجَبُونَ لَهُ، وَيَقُولُونَ: هَلَّا وُضِعَتْ هَذِهِ اللَّبِنَةُ؟ قَالَ: فَأَنَا اللَّبِنَةُ، وَأَنَا خَاتَمُ النَّبِيِّينَ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3535), Sahih Muslim (2286) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3535), Sahih Muslim (2286) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. فر من المجذوم كما تفر من الأسد، ولا يوردن ممرض على مصح.
-2. الأخذ بأسباب الوقاية الطبية وتجنب مخالطة الأمراض المعدية عملاً بالأسباب.
+1. مثل النبي ﷺ والأنبياء قبله كمثل قصر بديع البنيان اكتمل وتم بوضع لبنته الأخيرة.
+2. إثبات أن محمداً ﷺ هو خاتم الأنبياء والمرسلين واللبنة المتممة لصرح النبوة والرسالة الإلهية.
+
+
 
 </div>
 
@@ -129,7 +143,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3535), Sahih Muslim (2286) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3535), Sahih Muslim (2286) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Muhammad ﷺ is the final, culminating perfection of divine revelation, after whom no new prophet or revelation will ever come.
+* **Key Lessons & Takeaways:**
+Muhammad ﷺ is the final, culminating perfection of divine revelation, after whom no new prophet or revelation will ever come.
+
 
 ---
 
@@ -144,11 +160,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «أَنَا أَوْلَى النَّاسِ بِعِيسَى ابْنِ مَرْيَمَ فِي الدُّنْيَا وَالْآخِرَةِ، وَالْأَنْبِيَاءُ إِخْوَةٌ لِعَلَّاتٍ، أُمَّهَاتُهُمْ شَتَّى وَدِينُهُمْ وَاحِدٌ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3442), Sahih Muslim (2365) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3442), Sahih Muslim (2365) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. لا عدوى ولا طيرة؛ نفي اعتقاد الجاهلية أن المرض يعدي بذاته دون مشيئة الله وقدره.
-2. الأمراض تنتقل بأسباب جعلها الله، والفاعل الحقيقي هو مسبب الأسباب سبحانه.
+1. الأنبياء إخوة لعلّات؛ دينهم وعقيدتهم واحدة في توحيد الله مع تنوع شرائعهم في الفروع والأحكام.
+2. بيان المكانة العظيمة لعيسى بن مريم عليه السلام وكمال قرابة النبي محمد ﷺ ومودته له.
+
+
 
 </div>
 
@@ -161,7 +179,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3442), Sahih Muslim (2365) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3442), Sahih Muslim (2365) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** All true prophets share an identical theological core of monotheistic worship, demonstrating absolute cosmic unity in divine guidance.
+* **Key Lessons & Takeaways:**
+All true prophets share an identical theological core of monotheistic worship, demonstrating absolute cosmic unity in divine guidance.
+
 
 ---
 
@@ -176,11 +196,13 @@
 > عَنْ وَاثِلَةَ بْنِ الْأَسْقَعِ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: «إِنَّ اللَّهَ اصْطَفَى كِنَانَةَ مِنْ وَلَدِ إِسْمَاعِيلَ، وَاصْطَفَى قُرَيْشًا مِنْ كِنَانَةَ، وَاصْطَفَى مِنْ قُرَيْشٍ بَنِي هَاشِمٍ، وَاصْطَفَانِي مِنْ بَنِي هَاشِمٍ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2276) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2276) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. عظم الجزاء مع عظم البلاء، وإن الله إذا أحب قوماً ابتلاهم؛ فمن رضي فله الرضا ومن سخط فله السخط.
-2. الابتلاءات دلالة على المحبة الإلهية وتمحيص لإيمان العبد لرفعة درجاته.
+1. اصطفاء الله تعالى لكنانة من ولد إسماعيل، وقريش من كنانة، وبني هاشم من قريش، والنبي ﷺ من بني هاشم.
+2. طهارة النسب النبوي الشريف ونقاؤه من دنس الجاهلية في جميع طبقات آبائه وأجداده.
+
+
 
 </div>
 
@@ -193,7 +215,9 @@
 * **Companion Narrator:** Narrated by Wathilah ibn al-Asqa' (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2276) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2276) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** The Prophet Muhammad ﷺ was chosen from the purest and most noble lineage in human history to carry the ultimate message of guidance.
+* **Key Lessons & Takeaways:**
+The Prophet Muhammad ﷺ was chosen from the purest and most noble lineage in human history to carry the ultimate message of guidance.
+
 
 ---
 
@@ -208,11 +232,13 @@
 > عَنْ جُبَيْرِ بْنِ مُطْعِمٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «لِي خَمْسَةُ أَسْمَاءٍ: أَنَا مُحَمَّدٌ، وَأَنَا أَحْمَدُ، وَأَنَا الْمَاحِي الَّذِي يَمْحُو اللَّهُ بِيَ الْكُفْرَ، وَأَنَا الْحَاشِرُ الَّذِي يُحْشَرُ النَّاسُ عَلَى قَدَمِي، وَأَنَا الْعَاقِبُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3532), Sahih Muslim (2354) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3532), Sahih Muslim (2354) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. أشد الناس بلاءً الأنبياء ثم الأمثل فالأمثل؛ يُبتلى الرجل على حسب دينه، فإن كان في دينه صلابة زيد في بلائه.
-2. الابتلاء وسام شرف للصادقين وتطهير مستمر حتى يمشي العبد على الأرض وما عليه خطيئة.
+1. أسماء النبي ﷺ تدل على أوصافه الجليلة: محمد، وأحمد، والماحي، والحاشر، والعاقب.
+2. محو الله تعالى به الكفر، وحشر الناس على قدمه، وأنه الخاتم الذي لا نبي بعده ﷺ.
+
+
 
 </div>
 
@@ -225,7 +251,9 @@
 * **Companion Narrator:** Narrated by Jubayr ibn Mut'im (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3532), Sahih Muslim (2354) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3532), Sahih Muslim (2354) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The Prophetic names reflect his divine roles as the ultimate praiser of Allah, the eliminator of polytheism, and the final seal of messengers.
+* **Key Lessons & Takeaways:**
+The Prophetic names reflect his divine roles as the ultimate praiser of Allah, the eliminator of polytheism, and the final seal of messengers.
+
 
 ---
 
@@ -240,11 +268,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ النَّبِيُّ صلى الله عليه وسلم: «حَوْضِي مَسِيرَةُ شَهْرٍ، مَاؤُهُ أَبْيَضُ مِنَ اللَّبَنِ، وَرِيحُهُ أَطْيَبُ مِنَ الْمِسْكِ، وَكِيزَانُهُ كَنُجُومِ السَّمَاءِ، مَنْ شَرِبَ مِنْهَا فَلَا يَظْمَأُ أَبَدًا».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (6579), Sahih Muslim (2292) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (6579), Sahih Muslim (2292) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. عجباً لأمر المؤمن إن أمره كله له خير: إن أصابته سراء شكر فكان خيراً له، وإن أصابته ضراء صبر فكان خيراً له، وليس ذلك لأحد إلا للمؤمن.
-2. السعادة النفسية والراحة المطلقة في التقلب بين مقامي الشكر والصبر.
+1. إثبات حوض النبي ﷺ في عرصات القيامة، ماؤه أبيض من اللبن وأحلى من العسل وآنيته كنجوم السماء.
+2. فضل الاستمساك بالسنة المطهرة لنيل شرف الشرب من حوضه ﷺ شربة هنيئة لا ظمأ بعدها أبداً.
+
+
 
 </div>
 
@@ -257,7 +287,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Amr (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (6579), Sahih Muslim (2292) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (6579), Sahih Muslim (2292) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Drinking from the Prophetic Basin is an eternal honor reserved for the sincere followers of the authentic Sunnah.
+* **Key Lessons & Takeaways:**
+Drinking from the Prophetic Basin is an eternal honor reserved for the sincere followers of the authentic Sunnah.
+
 
 ---
 
@@ -272,11 +304,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «لِكُلِّ نَبِيٍّ دَعْوَةٌ مُسْتَجَابَةٌ فَتَعَجَّلَ كُلُّ نَبِيٍّ دَعْوَتَهُ، وَإِنِّي اخْتَبَأْتُ دَعْوَتِي شَفَاعَةً لِأُمَّتِي يَوْمَ الْقِيَامَةِ، فَهِيَ نَائِلَةٌ إِنْ شَاءَ اللَّهُ مَنْ مَاتَ مِنْ أُمَّتِي لَا يُشْرِكُ بِاللَّهِ شَيْئًا».
 
 * **التَّخْرِيجُ:** Sahih Muslim (199) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (199) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ما يصيب المسلم من نصب ولا وصب ولا هم ولا حزن ولا أذى ولا غم حتى الشوكة يشاكها إلا كفر الله بها من خطاياه.
-2. الأجر والمغفرة حاصلان بكل ألم نفسي أو جسدي عند احتساب الأجر.
+1. الشفاعة العظمى لرسول الله ﷺ وإدخاره دعوته المستجابة لإنقاذ أمته وأهل التوحيد يوم القيامة.
+2. شمول الشفاعة النبوية الكريمة بإذن الله لكل من مات من هذه الأمة لا يشرك بالله شيئاً.
+
+
 
 </div>
 
@@ -289,7 +323,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (199) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (199) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** The immense compassion of the Prophet ﷺ in reserving his greatest prayer to rescue the monotheistic believers from the terrors of the Day of Judgment.
+* **Key Lessons & Takeaways:**
+The immense compassion of the Prophet ﷺ in reserving his greatest prayer to rescue the monotheistic believers from the terrors of the Day of Judgment.
+
 
 ---
 
@@ -304,11 +340,13 @@
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «إِنَّ مِنْ أَمَنِّ النَّاسِ عَلَيَّ فِي صُحْبَتِهِ وَمَالِهِ أَبَا بَكْرٍ، وَلَوْ كُنْتُ مُتَّخِذًا خَلِيلًا غَيْرَ رَبِّي لَاتَّخَذْتُ أَبَا بَكْرٍ، وَلَكِنْ أُخُوَّةُ الْإِسْلَامِ وَمَوَدَّتُهُ، لَا يَبْقَيَنَّ فِي الْمَسْجِدِ بَابٌ إِلَّا سُدَّ إِلَّا بَابَ أَبِي بَكْرٍ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3654), Sahih Muslim (2382) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3654), Sahih Muslim (2382) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إن عظم ثواب الصابرين عند فقد البصر: 'إذا ابتليت عبدي بحبيبتيه (عينيه) فصبر عوضته منهما الجنة'.
-2. فضل الصبر على العاهات الجسدية ونيل أعظم العوض في دار البقاء.
+1. مناقب أبي بكر الصديق رضي الله عنه وأنه أمنّ الناس على النبي ﷺ في صحبته وبذل ماله ونفسه.
+2. ثبوت المنزلة الفريدة لأبي بكر، وأنه لو كان النبي ﷺ متخذاً خليلاً غير ربه لاتخذ أبا بكر خليلاً.
+
+
 
 </div>
 
@@ -321,7 +359,9 @@
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3654), Sahih Muslim (2382) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3654), Sahih Muslim (2382) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Abu Bakr as-Siddiq is the foremost human after the prophets, recognized for unequaled financial sacrifice and spiritual companionship.
+* **Key Lessons & Takeaways:**
+Abu Bakr as-Siddiq is the foremost human after the prophets, recognized for unequaled financial sacrifice and spiritual companionship.
+
 
 ---
 
@@ -336,11 +376,13 @@
 > عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: كُنْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذْ طَلَعَ أَبُو بَكْرٍ وَعُمَرُ، فَقَالَ: «هَذَانِ سَيِّدَا كُهُولِ أَهْلِ الْجَنَّةِ مِنَ الْأَوَّلِينَ وَالْآخِرِينَ، إِلَّا النَّبِيِّينَ وَالْمُرْسَلِينَ، لَا تُخْبِرْهُمَا يَا عَلِيُّ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (3666), Sunan Ibn Majah (95) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (3666), Sunan Ibn Majah (95) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من يرد الله به خيراً يُصب منه (يبتليه بالمصائب ليرفعه ويهذبه).
-2. الرؤية الإيمانية الإيجابية للمحن والشدائد الدنيوية.
+1. فضل الشيخين أبي بكر وعمر رضي الله عنهما، وأنهما سيدا كهول أهل الجنة من الأولين والآخرين سوى الأنبياء.
+2. شهادة أمير المؤمنين علي بن أبي طالب رضي الله عنه بمقام الشيخين ومحبته وتقديره لهما.
+
+
 
 </div>
 
@@ -353,7 +395,9 @@
 * **Companion Narrator:** Narrated by 'Ali ibn Abi Talib (may Allah be pleased with him)
 * **Canonical Reference:** Sunan at-Tirmidhi (3666), Sunan Ibn Majah (95) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (3666), Sunan Ibn Majah (95) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** The joint peerless virtue of the two greatest Caliphs, Abu Bakr and 'Umar, directly praised by 'Ali ibn Abi Talib.
+* **Key Lessons & Takeaways:**
+The joint peerless virtue of the two greatest Caliphs, Abu Bakr and 'Umar, directly praised by 'Ali ibn Abi Talib.
+
 
 ---
 
@@ -368,11 +412,13 @@
 > عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «إِيهًا يَا ابْنَ الْخَطَّابِ، وَالَّذِي نَفْسِي بِيَدِهِ، مَا لَقِيَكَ الشَّيْطَانُ سَالِكًا فَجًّا قَطُّ إِلَّا سَلَكَ فَجًّا غَيْرَ فَجِّكَ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3683), Sahih Muslim (2396) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3683), Sahih Muslim (2396) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الصبر ضياء، والقرآن حجة لك أو عليك، والصدقة برهان، والطهور شطر الإيمان.
-2. الصبر نور يكشف ظلمات الفتن ويثبت الأقدام على الحق.
+1. مناقب عمر بن الخطاب رضي الله عنه وشدة هيبته في الحق حتى إن الشيطان ليفر من طريقه وفجه.
+2. قوة إيمان عمر وتأييد الله له في موافقاته القرآنية وحكمته البالغة في سياسة الأمة وإعزاز الدين.
+
+
 
 </div>
 
@@ -385,7 +431,9 @@
 * **Companion Narrator:** Narrated by Sa'd ibn Abi Waqqas (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3683), Sahih Muslim (2396) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3683), Sahih Muslim (2396) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** 'Umar's profound spiritual strength, uncompromising adherence to truth, and awe-inspiring presence caused Satan to flee from him.
+* **Key Lessons & Takeaways:**
+'Umar's profound spiritual strength, uncompromising adherence to truth, and awe-inspiring presence caused Satan to flee from him.
+
 
 ---
 
@@ -400,11 +448,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «لَقَدْ كَانَ فِيمَنْ كَانَ قَبْلَكُمْ مِنَ الْأُمَمِ نَاسٌ مُحَدَّثُونَ، فَإِنْ يَكُ فِي أُمَّتِي أَحَدٌ، فَإِنَّهُ عُمَرُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3689), Sahih Muslim (2398) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3689), Sahih Muslim (2398) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الصبر عند الصدمة الأولى؛ فضيلة ضبط النفس والتسليم في اللحظات الحرجة الأولى لوقوع المصيبة.
-2. الصبر الحقيقي هو الذي يظهر فور نزول البلاء لا بعد فوات الغضب.
+1. ثبوت الملهمين والمحدثين في الأمم السابقة، وأن عمر بن الخطاب هو الملهم المحدث في هذه الأمة.
+2. سداد رأي عمر وفراسته الإيمانية العميقة ونور بصيرته التي شهد لها الوحي والواقع التاريخي.
+
+
 
 </div>
 
@@ -417,7 +467,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3689), Sahih Muslim (2398) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3689), Sahih Muslim (2398) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** 'Umar's exceptional spiritual insight and deep alignment with divine revelation frequently matched subsequent Quranic revelations.
+* **Key Lessons & Takeaways:**
+'Umar's exceptional spiritual insight and deep alignment with divine revelation frequently matched subsequent Quranic revelations.
+
 
 ---
 
@@ -432,11 +484,13 @@
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «أَلَا أَسْتَحْيِي مِنْ رَجُلٍ تَسْتَحْيِي مِنْهُ الْمَلَائِكَةُ؟!».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2401) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2401) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ما أُعطي أحد عطاءً خيراً وأوسع من الصبر.
-2. الصبر زاد المؤمن في رحلته إلى الله لمواجهة مشاق التكليف وأقدار المؤلمة.
+1. مناقب عثمان بن عفان ذي النورين رضي الله عنه وشدة حيائه حتى كانت تستحي منه ملائكة الرحمن.
+2. عظمة خلق الحياء في الإسلام وأنه زينة المؤمن ورأس مكارم الأخلاق والفضائل الإيمانية.
+
+
 
 </div>
 
@@ -449,7 +503,9 @@
 * **Companion Narrator:** Narrated by 'A'ishah (may Allah be pleased with her)
 * **Canonical Reference:** Sahih Muslim (2401) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2401) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** 'Uthman Dhu an-Nurayn possessed unmatched modest dignity and purity of character, commanding veneration from the heavenly hosts.
+* **Key Lessons & Takeaways:**
+'Uthman Dhu an-Nurayn possessed unmatched modest dignity and purity of character, commanding veneration from the heavenly hosts.
+
 
 ---
 
@@ -464,11 +520,13 @@
 > عَنْ عَبْدِ الرَّحْمَنِ بْنِ خَبَّابٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: شَهِدْتُ النَّبِيَّ صلى الله عليه وسلم وَهُوَ يَحُثُّ عَلَى جَيْشِ الْعُسْرَةِ، فَقَامَ عُثْمَانُ فَتَصَدَّقَ بِمِائَةِ بَعِيرٍ بِأَحْلَاسِهَا وَأَقْتَابِهَا... فَرَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ: «مَا ضَرَّ عُثْمَانَ مَا عَمِلَ بَعْدَ الْيَوْمِ، مَا ضَرَّ عُثْمَانَ مَا عَمِلَ بَعْدَ الْيَوْمِ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (3700), Musnad Ahmad (16972) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (3700), Musnad Ahmad (16972) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من يستعفف يعفه الله، ومن يستغنِ يغنه الله، ومن يتصبر يصبره الله.
-2. المجاهدة واكتساب الفضائل بالتدريب والتكرار والاستعانة بالله.
+1. فضل إنفاق عثمان رضي الله عنه في تجهيز جيش العسرة في تبوك وبذله مئات البعائر بأحلاسها لله.
+2. شهادة النبي ﷺ لعثمان بالأمان والجنة: 'ما ضر عثمان ما عمل بعد اليوم' جزاء تضحيته الكبرى.
+
+
 
 </div>
 
@@ -481,7 +539,9 @@
 * **Companion Narrator:** Narrated by 'Abdur-Rahman ibn Khabbab (may Allah be pleased with him)
 * **Canonical Reference:** Sunan at-Tirmidhi (3700), Musnad Ahmad (16972) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (3700), Musnad Ahmad (16972) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** 'Uthman's legendary philanthropy in rescuing the Muslim community during existential crises guaranteed his everlasting salvation.
+* **Key Lessons & Takeaways:**
+'Uthman's legendary philanthropy in rescuing the Muslim community during existential crises guaranteed his everlasting salvation.
+
 
 ---
 
@@ -496,11 +556,13 @@
 > عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لِعَلِيٍّ: «أَمَا تَرْضَى أَنْ تَكُونَ مِنِّي بِمَنْزِلَةِ هَارُونَ مِنْ مُوسَى، إِلَّا أَنَّهُ لَا نُبُوَّةَ بَعْدِي؟».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3706), Sahih Muslim (2404) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3706), Sahih Muslim (2404) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. المؤمن القوي خير وأحب إلى الله من المؤمن الضعيف وفي كل خير.
-2. احرص على ما ينفعك، واستعن بالله ولا تعجز، وإن أصابك شيء فلا تقل لو أني فعلت كان كذا ولكن قل: قدر الله وما شاء فعل؛ فإن 'لو' تفتح عمل الشيطان.
+1. مناقب علي بن أبي طالب رضي الله عنه ومنزلته الرفيعة: 'أنت مني بمنزلة هارون من موسى إلا أنه لا نبي بعدي'.
+2. حب علي وشجاعته وفقهه ومكانته في آل بيت رسول الله ﷺ وخلافته الراشدة الراسخة.
+
+
 
 </div>
 
@@ -513,7 +575,9 @@
 * **Companion Narrator:** Narrated by Sa'd ibn Abi Waqqas (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3706), Sahih Muslim (2404) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3706), Sahih Muslim (2404) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** A definitive testament to the towering virtue, trust, and intimate spiritual status of 'Ali ibn Abi Talib.
+* **Key Lessons & Takeaways:**
+A definitive testament to the towering virtue, trust, and intimate spiritual status of 'Ali ibn Abi Talib.
+
 
 ---
 
@@ -528,11 +592,13 @@
 > عَنْ سَهْلِ بْنِ سَعْدٍ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ يَوْمَ خَيْبَرَ: «لَأُعْطِيَنَّ هَذِهِ الرَّايَةَ غَدًا رَجُلًا يَفْتَحُ اللَّهُ عَلَى يَدَيْهِ، يُحِبُّ اللَّهَ وَرَسُولَهُ وَيُحِبُّهُ اللَّهُ وَرَسُولُهُ»، فَبَاتَ النَّاسُ يَدُوكُونَ لَيْلَتَهُمْ أَيُّهُمْ يُعْطَاهَا، فَلَمَّا أَصْبَحُوا غَدَوْا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم كُلُّهُمْ يَرْجُو أَنْ يُعْطَاهَا، فَقَالَ: «أَيْنَ عَلِيُّ بْنُ أَبِي طَالِبٍ؟»... فَأَعْطَاهُ الرَّايَةَ فَفَتَحَ اللَّهُ عَلَيْهِ.
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3701), Sahih Muslim (2406) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3701), Sahih Muslim (2406) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. المؤمن الذي يخالط الناس ويصبر على أذاهم خير وأعظم أجراً من المؤمن الذي لا يخالط الناس ولا يصبر على أذاهم.
-2. فضل العمل الاجتماعي والمشاركة الإيجابية والدعوة إلى الله رغم التحديات.
+1. فتح خيبر على يدي علي بن أبي طالب بشهادة النبي ﷺ: 'رجل يحب الله ورسوله ويحبه الله ورسوله'.
+2. بركة دعاء النبي ﷺ لعلي وشفاء عينيه، وتأكيد أن هداية رجل واحد خير للمسلم من حمر النعم.
+
+
 
 </div>
 
@@ -545,7 +611,9 @@
 * **Companion Narrator:** Narrated by Sahl ibn Sa'd (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3701), Sahih Muslim (2406) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3701), Sahih Muslim (2406) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Explicit divine testimony that 'Ali loves Allah and His Messenger and is loved by Allah and His Messenger.
+* **Key Lessons & Takeaways:**
+Explicit divine testimony that 'Ali loves Allah and His Messenger and is loved by Allah and His Messenger.
+
 
 ---
 
@@ -560,11 +628,13 @@
 > عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: «وَالَّذِي فَلَقَ الْحَبَّةَ وَبَرَأَ النَّسَمَةَ، إِنَّهُ لَعَهْدُ النَّبِيِّ الْأُمِّيِّ صلى الله عليه وسلم إِلَيَّ: أَنْ لَا يُحِبَّنِي إِلَّا مُؤْمِنٌ، وَلَا يُبْغِضَنِي إِلَّا مُنَافِقٌ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (78) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (78) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. المسلم مرآة أخيه؛ إذا رأى فيه عيباً أصلحه بلطف وستر.
-2. النصيحة الصادقة والتكامل التربوي بين أفراد المجتمع المسلم.
+1. حب أمير المؤمنين علي بن أبي طالب علامة من علامات الإيمان، وبغضه من علامات النفاق.
+2. وصية النبي ﷺ بحفظ حق علي ومودته والاقتداء بعدله وبطولته في إعلاء راية الإسلام.
+
+
 
 </div>
 
@@ -577,7 +647,9 @@
 * **Companion Narrator:** Narrated by 'Ali ibn Abi Talib (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (78) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (78) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Loving 'Ali and the Prophet's household in accordance with the Sunnah is a vital criterion of genuine faith.
+* **Key Lessons & Takeaways:**
+Loving 'Ali and the Prophet's household in accordance with the Sunnah is a vital criterion of genuine faith.
+
 
 ---
 
@@ -592,11 +664,13 @@
 > عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ: «خَيْرُ نِسَائِهَا مَرْيَمُ ابْنَةُ عِمْرَانَ، وَخَيْرُ نِسَائِهَا خَدِيجَةُ بِنْتُ خُوَيْلِدٍ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3815), Sahih Muslim (2430) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3815), Sahih Muslim (2430) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه من الخير والهدى والصلاح.
-2. نقاء القلب وسلامة الصدر من الغل والحسد والأنانية.
+1. مناقب خديجة بنت خويلد رضي الله عنها وأنها خير نساء زمانها كما كانت مريم خير نساء زمانها.
+2. سابقة خديجة العظيمة في نصرة النبي ﷺ والتصديق برسالته في أحلك أوقات البعثة الشريفة.
+
+
 
 </div>
 
@@ -609,7 +683,9 @@
 * **Companion Narrator:** Narrated by 'Ali ibn Abi Talib (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3815), Sahih Muslim (2430) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3815), Sahih Muslim (2430) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Khadijah holds the highest rank among the women of this Ummah for her early steadfast faith, sacrifice, and unwavering support of the Messenger of Allah ﷺ.
+* **Key Lessons & Takeaways:**
+Khadijah holds the highest rank among the women of this Ummah for her early steadfast faith, sacrifice, and unwavering support of the Messenger of Allah ﷺ.
+
 
 ---
 
@@ -624,11 +700,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: أَتَى جِبْرِيلُ النَّبِيَّ صلى الله عليه وسلم فَقَالَ: يَا رَسُولَ اللَّهِ، هَذِهِ خَدِيجَةُ قَدْ أَتَتْ مَعَهَا إِنَاءٌ فِيهِ إِدَامٌ أَوْ طَعَامٌ أَوْ شَرَابٌ، فَإِذَا هِيَ أَتَتْكَ فَاقْرَأْ عَلَيْهَا السَّلَامَ مِنْ رَبِّهَا وَمِنِّي، وَبَشِّرْهَا بِبَيْتٍ فِي الْجَنَّةِ مِنْ قَصَبٍ لَا صَخَبَ فِيهِ وَلَا نَصَبَ.
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3820), Sahih Muslim (2432) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3820), Sahih Muslim (2432) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. تهادوا تحابوا؛ أثر الهدايا الرمزية في تطييب النفوس وإزالة الأحقاد وبناء جسور الود.
-2. الكرم ونشر ثقافة العطاء بين الأهل والجيران والأصدقاء.
+1. سلام الله تعالى وسلام جبريل عليه السلام على خديجة رضي الله عنها تكريماً لوفائها وبذلها.
+2. تبشير خديجة ببيت في الجنة من قصب (لؤلؤ مجوف) لا صخب فيه ولا نصب جزاء سكينتها ودعمها للنبي ﷺ.
+
+
 
 </div>
 
@@ -641,7 +719,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3820), Sahih Muslim (2432) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3820), Sahih Muslim (2432) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The extraordinary honor of receiving personal greetings of peace from Allah the Almighty and Angel Jibril.
+* **Key Lessons & Takeaways:**
+The extraordinary honor of receiving personal greetings of peace from Allah the Almighty and Angel Jibril.
+
 
 ---
 
@@ -656,11 +736,13 @@
 > عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «كَمُلَ مِنَ الرِّجَالِ كَثِيرٌ، وَلَمْ يَكْمُلْ مِنَ النِّسَاءِ إِلَّا مَرْيَمُ بِنْتُ عِمْرَانَ، وَآسِيَةُ امْرَأَةُ فِرْعَوْنَ، وَإِنَّ فَضْلَ عَائِشَةَ عَلَى النِّسَاءِ كَفَضْلِ الثَّرِيدِ عَلَى سَائِرِ الطَّعَامِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3769), Sahih Muslim (2446) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3769), Sahih Muslim (2446) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ليس الواصل بالمكافئ ولكن الواصل من إذا قطعت رحمه وصلها.
-2. كمال الإحسان بمقابلة القطيعة بالصلة والإساءة بالعفو والمغفرة.
+1. مناقب أم المؤمنين عائشة الصديقة بنت الصديق وفضلها على سائر النساء كفضل الثريد على سائر الطعام.
+2. سعة علم عائشة وفقهها وذكاؤها ونقلها للأمة أحكام السنة النبوية الشريفة وأسرار بيت النبوة.
+
+
 
 </div>
 
@@ -673,7 +755,9 @@
 * **Companion Narrator:** Narrated by Abu Musa al-Ash'ari (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3769), Sahih Muslim (2446) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3769), Sahih Muslim (2446) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** 'A'ishah's unparalleled scholarship, jurisprudence, deep intellect, and status as the beloved wife of the Prophet ﷺ.
+* **Key Lessons & Takeaways:**
+'A'ishah's unparalleled scholarship, jurisprudence, deep intellect, and status as the beloved wife of the Prophet ﷺ.
+
 
 ---
 
@@ -688,11 +772,13 @@
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لِفَاطِمَةَ رَضِيَ اللَّهُ عَنْهَا: «يَا فَاطِمَةُ، أَمَا تَرْضَيْنَ أَنْ تَكُونِي سَيِّدَةَ نِسَاءِ الْمُؤْمِنِينَ، أَوْ سَيِّدَةَ نِسَاءِ هَذِهِ الْأُمَّةِ؟».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (6285), Sahih Muslim (2450) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (6285), Sahih Muslim (2450) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. خياركم خياركم لنسائهم خلقاً ورفقاً وإحساناً.
-2. معيار التقوى والرجولة الحقيقية يتجلى في التكريم والوفاء للزوجة والأهل.
+1. مناقب فاطمة الزهراء رضي الله عنها وأنها سيدة نساء المؤمنين وسيدة نساء أهل الجنة.
+2. كمال شرف فاطمة وطهارتها وبرها بأبيها المصطفى ﷺ ورفعة مكانتها في الدنيا والآخرة.
+
+
 
 </div>
 
@@ -720,11 +806,13 @@
 > عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «فَاطِمَةُ بَضْعَةٌ مِنِّي، فَمَنْ أَغْضَبَهَا أَغْضَبَنِي».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3714), Sahih Muslim (2449) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3714), Sahih Muslim (2449) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إنما النساء شقائق الرجال؛ التكافؤ التام في الكرامة الإنسانية والأجر والجزاء عند الله.
-2. حفظ حقوق المرأة وصيانتها في المنظومة التشريعية الإسلامية.
+1. خصوصية فاطمة رضي الله عنها وأنها بضعة من النبي ﷺ يسره ما يسرها ويريبه ما يريبها ويغضبه ما يغضبها.
+2. وجوب توقير آل بيت النبي ﷺ والحرص على ما يدخل السرور عليهم واجتناب أذيتهم.
+
+
 
 </div>
 
@@ -737,7 +825,9 @@
 * **Companion Narrator:** Narrated by Al-Miswar ibn Makhramah (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (3714), Sahih Muslim (2449) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3714), Sahih Muslim (2449) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Sanctity of the Prophet's daughter; causing grief or injury to Fatimah is directly injuring the Messenger of Allah ﷺ.
+* **Key Lessons & Takeaways:**
+Sanctity of the Prophet's daughter; causing grief or injury to Fatimah is directly injuring the Messenger of Allah ﷺ.
+
 
 ---
 
@@ -752,11 +842,13 @@
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «الْحَسَنُ وَالْحُسَيْنُ سَيِّدَا شَبَابِ أَهْلِ الْجَنَّةِ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (3768), Sunan Ibn Majah (118) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (3768), Sunan Ibn Majah (118) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. رحم الله والداً أعان ولده على بره بالإحسان والرفق والعدل في المعاملة.
-2. توفير البيئة الأسرية الإيجابية المشجعة على الطاعة وحسن الخلق.
+1. مناقب السبطين الحسن والحسين رضي الله عنهما وأنهما سيدا شباب أهل الجنة وريحانتا النبي ﷺ.
+2. بشارة النبي ﷺ بمكانتهما ومحبة المؤمنين لهما والاقتداء بفضلهما ومناقبهما العلية.
+
+
 
 </div>
 
@@ -769,7 +861,9 @@
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (may Allah be pleased with him)
 * **Canonical Reference:** Sunan at-Tirmidhi (3768), Sunan Ibn Majah (118) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (3768), Sunan Ibn Majah (118) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** The sublime spiritual station of the two noble grandsons of the Prophet ﷺ in the eternal gardens of Paradise.
+* **Key Lessons & Takeaways:**
+The sublime spiritual station of the two noble grandsons of the Prophet ﷺ in the eternal gardens of Paradise.
+
 
 ---
 
@@ -784,11 +878,13 @@
 > عَنِ الْبَرَاءِ بْنِ عَازِبٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم وَالْحَسَنُ عَلَى عَاتِقِهِ يَقُولُ: «اللَّهُمَّ إِنِّي أُحِبُّهُ فَأَحِبَّهُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3749), Sahih Muslim (2422) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3749), Sahih Muslim (2422) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. أثقل شيء في ميزان العبد يوم القيامة تقوى الله وحسن الخلق.
-2. الجمع بين تصحيح العلاقة مع الخالق (التقوى) وحسن التعامل مع الخلق (الأخلاق).
+1. شدة حب النبي ﷺ للحسن والحسين وحمله لهما على عاتقه ودعاؤه لهما: 'اللهم إني أحبه فأحبه'.
+2. استحقاق من أحب الحسن والحسين وسار على نهجهما لمحبة الله تعالى ورضوانه الواسع.
+
+
 
 </div>
 
@@ -801,7 +897,9 @@
 * **Companion Narrator:** Narrated by Al-Bara' ibn 'Azib (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (3749), Sahih Muslim (2422) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3749), Sahih Muslim (2422) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Loving the noble grandchildren of the Prophet ﷺ is a means of attaining the direct love of Allah Almighty.
+* **Key Lessons & Takeaways:**
+Loving the noble grandchildren of the Prophet ﷺ is a means of attaining the direct love of Allah Almighty.
+
 
 ---
 
@@ -816,11 +914,13 @@
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: خَرَجَ النَّبِيُّ صلى الله عليه وسلم غَدَاةً وَعَلَيْهِ مِرْطٌ مُرَحَّلٌ مِنْ شَعْرٍ أَسْوَدَ، فَجَاءَ الْحَسَنُ فَأَدْخَلَهُ، ثُمَّ جَاءَ الْحُسَيْنُ فَدَخَلَ مَعَهُ، ثُمَّ جَاءَتْ فَاطِمَةُ فَأَدْخَلَهَا، ثُمَّ جَاءَ عَلِيٌّ فَأَدْخَلَهُ، ثُمَّ قَالَ: «﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا﴾».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2424) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2424) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. أكثر ما يدخل الناس الجنة تقوى الله وحسن الخلق، وأكثر ما يدخل الناس النار الفم والفرج.
-2. صيانة اللسان والعفة هما الدرع الواقي من السقوط في الهاوية.
+1. فضائل أهل بيت النبي ﷺ وجمع النبي ﷺ لعلي وفاطمة والحسن والحسين تحت الكساء الشريف.
+2. دعاء النبي ﷺ لهم بإذهاب الرجس عنهم وتطهيرهم تطهيراً استجابة لقوله تعالى في سورة الأحزاب.
+
+
 
 </div>
 
@@ -833,7 +933,9 @@
 * **Companion Narrator:** Narrated by 'A'ishah (may Allah be pleased with her)
 * **Canonical Reference:** Sahih Muslim (2424) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2424) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Affirming the divine purification and sublime station of the immediate family of the Prophet ﷺ (Ahl al-Bayt).
+* **Key Lessons & Takeaways:**
+Affirming the divine purification and sublime station of the immediate family of the Prophet ﷺ (Ahl al-Bayt).
+
 
 ---
 
@@ -848,11 +950,13 @@
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «إِنَّ لِكُلِّ نَبِيٍّ حَوَارِيًّا، وَإِنَّ حَوَارِيَّ الزُّبَيْرُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2997), Sahih Muslim (2415) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2997), Sahih Muslim (2415) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من كظم غيظاً ملأ الله قلبه أمناً وإيماناً ورضاً يوم القيامة.
-2. عظيم السكينة الداخلية وثواب السيطرة على الانفعالات والغضب.
+1. مناقب الزبير بن العوام رضي الله عنه وشهادة النبي ﷺ له: 'إن لكل نبي حوارياً، وحواريّ الزبير'.
+2. شجاعة الزبير وبسالته في نصرة النبي ﷺ وفداؤه له بنفسه وماله في الغزوات والمواطن كلها.
+
+
 
 </div>
 
@@ -880,11 +984,13 @@
 > عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: «مَا رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يُفَدِّي رَجُلًا بَعْدَ سَعْدٍ، سَمِعْتُهُ يَقُولُ: ارْمِ فِدَاكَ أَبِي وَأُمِّي».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3725), Sahih Muslim (2411) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3725), Sahih Muslim (2411) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. التواضع لله رفعة وشرف؛ ما تواضع أحد لله إلا رفعه الله في الدنيا والآخرة.
-2. نبذ الكبر والغرور واستشعار عظمة الخالق سبحانه وتعالى.
+1. مناقب سعد بن أبي وقاص رضي الله عنه وفداء النبي ﷺ له بأبويه يوم أحد: 'ارمِ فداك أبي وأمي'.
+2. فضل رمي السهام في سبيل الله وإجابة دعوة سعد بن أبي وقاص وسابقته المضيئة في الفتوح.
+
+
 
 </div>
 
@@ -897,7 +1003,9 @@
 * **Companion Narrator:** Narrated by 'Ali ibn Abi Talib (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3725), Sahih Muslim (2411) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3725), Sahih Muslim (2411) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Sa'd's distinction as the master archer of Islam and one whose supplications were instantaneously answered.
+* **Key Lessons & Takeaways:**
+Sa'd's distinction as the master archer of Islam and one whose supplications were instantaneously answered.
+
 
 ---
 
@@ -912,11 +1020,13 @@
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «إِنَّ لِكُلِّ أُمَّةٍ أَمِينًا، وَإِنَّ أَمِينَنَا أَيَّتُهَا الْأُمَّةُ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3744), Sahih Muslim (2419) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3744), Sahih Muslim (2419) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الكبر بطر الحق (رده واستنكافه) وغمط الناس (احتقارهم وازدراؤهم).
-2. تطهير القلب من كل احتقار لأي مخلوق؛ فالفضل بيد الله يؤتيه من يشاء.
+1. مناقب أبي عبيدة بن الجراح رضي الله عنه وشهادة النبي ﷺ له: 'أمين هذه الأمة أبو عبيدة'.
+2. كمال أمانة أبي عبيدة وزهده وحسن قيادته للجيوش الإسلامية ورفقه بالمسلمين وتواضعه التام.
+
+
 
 </div>
 
@@ -929,7 +1039,9 @@
 * **Companion Narrator:** Narrated by Anas ibn Malik (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3744), Sahih Muslim (2419) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3744), Sahih Muslim (2419) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Abu 'Ubaydah's absolute integrity, selflessness, and reliability in carrying out the command of Islam.
+* **Key Lessons & Takeaways:**
+Abu 'Ubaydah's absolute integrity, selflessness, and reliability in carrying out the command of Islam.
+
 
 ---
 
@@ -944,11 +1056,13 @@
 > عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «أَبُو بَكْرٍ فِي الْجَنَّةِ، وَعُمَرُ فِي الْجَنَّةِ، وَعُثْمَانُ فِي الْجَنَّةِ، وَعَلِيٌّ فِي الْجَنَّةِ، وَطَلْحَةُ فِي الْجَنَّةِ، وَالزُّبَيْرُ فِي الْجَنَّةِ، وَعَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ فِي الْجَنَّةِ، وَسَعْدٌ فِي الْجَنَّةِ، وَسَعِيدٌ فِي الْجَنَّةِ، وَأَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ فِي الْجَنَّةِ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (3747), Sunan Abi Dawud (4649) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (3747), Sunan Abi Dawud (4649) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الصدق طمأنينة والكذب ريبة؛ الفطرة الإيمانية ترتاح للحق وتنفر من الباطل والخداع.
-2. التزام الصدق في جميع المعاملات يورث راحة البال وانشراح الصدر.
+1. فضل العشرة المبشرين بالجنة وتسميتهم في نص نبوي واحد: الخلفاء الأربعة وبقية الستة الأبرار.
+2. ثبوت الفضل والسبق لهؤلاء الأعلام الذين أسسوا معالم الدولة الإسلامية وحملوا راية التوحيد.
+
+
 
 </div>
 
@@ -976,11 +1090,13 @@
 > عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ فِي قِصَّةِ حَاطِبِ بْنِ أَبِي بَلْتَعَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ: «وَمَا يُدْرِيكَ لَعَلَّ اللَّهَ أَنْ يَكُونَ قَدِ اطَّلَعَ عَلَى أَهْلِ بَدْرٍ فَقَالَ: اعْمَلُوا مَا شِئْتُمْ فَقَدْ غَفَرْتُ لَكُمْ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3007), Sahih Muslim (2494) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3007), Sahih Muslim (2494) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. استحيوا من الله حق الحياء: من استحيا من الله حق الحياء فليحفظ الرأس وما وعى، والبطن وما حوى، وليذكر الموت والبلى.
-2. الحياء الحقيقي عبودية شاملة لحفظ السمع والبصر واللسان والجوف من المحرمات.
+1. علو منزلة أهل بدر الكرام وشهادة النبي ﷺ لهم: 'لعل الله اطلع على أهل بدر فقال اعملوا ما شئتم فقد غفرت لكم'.
+2. غفران الله تعالى لأهل بدر وثبوت سابقتهم العظيمة التي لا تدانيها سابقة في تاريخ الإسلام.
+
+
 
 </div>
 
@@ -993,7 +1109,9 @@
 * **Companion Narrator:** Narrated by 'Ali ibn Abi Talib (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3007), Sahih Muslim (2494) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3007), Sahih Muslim (2494) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The three hundred and thirteen warriors of Badr hold the highest military and spiritual rank in the history of the Ummah.
+* **Key Lessons & Takeaways:**
+The three hundred and thirteen warriors of Badr hold the highest military and spiritual rank in the history of the Ummah.
+
 
 ---
 
@@ -1008,11 +1126,13 @@
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «لَا يَدْخُلُ النَّارَ أَحَدٌ مِمَّنْ بَايَعَ تَحْتَ الشَّجَرَةِ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (1856), Sunan Abi Dawud (4653) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (1856), Sunan Abi Dawud (4653) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. طوبى لمن وجد في صحيفته استغفاراً كثيراً يوم القيامة.
-2. الاستكثار من الاستغفار وسيلة لتبييض الصحائف وستر العيوب وتثقيل الموازين.
+1. فضل أهل بيعة الرضوان تحت الشجرة في الحديبية وأنه لا يدخل النار أحد بايع تحت الشجرة.
+2. رضوان الله الأبدي على أولئك الأبطال الألف وأربعمائة الذين صدقوا ما عاهدوا الله عليه في ساعة العسرة.
+
+
 
 </div>
 
@@ -1025,7 +1145,9 @@
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih Muslim (1856), Sunan Abi Dawud (4653) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (1856), Sunan Abi Dawud (4653) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Complete immunity from Hellfire granted to the fourteen hundred companions who pledged their lives to Allah at Hudaybiyyah.
+* **Key Lessons & Takeaways:**
+Complete immunity from Hellfire granted to the fourteen hundred companions who pledged their lives to Allah at Hudaybiyyah.
+
 
 ---
 
@@ -1040,11 +1162,13 @@
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ النَّبِيُّ صلى الله عليه وسلم: «لَا تَسُبُّوا أَصْحَابِي، فَلَوْ أَنَّ أَحَدَكُمْ أَنْفَقَ مِثْلَ أُحُدٍ ذَهَبًا، مَا بَلَغَ مُدَّ أَحَدِهِمْ وَلَا نَصِيفَهُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3673), Sahih Muslim (2540) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3673), Sahih Muslim (2540) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من قال حين يصبح وحين يمسي: سبحان الله وبحمده مائة مرة لم يأتِ أحد يوم القيامة بأفضل مما جاء به إلا أحد قال مثل ما قال أو زاد عليه.
-2. فضل هذا الورد اليومي العظيم في حصد الحسنات ومغفرة الذنوب.
+1. تحريم سب الصحابة الكرام أو تنقصهم والطعن في أمانتهم وعدالتهم التي زكاها الله ورسوله.
+2. عظيم فضل الصحابة؛ فلو أنفق المتأخر مثل جبل أحد ذهباً ما بلغ مد أحدهم ولا نصيفه لصدقهم وسابقتهم.
+
+
 
 </div>
 
@@ -1057,7 +1181,9 @@
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3673), Sahih Muslim (2540) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3673), Sahih Muslim (2540) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The immense sincerity and precedence of the Sahabah make their smallest deeds vastly superior to mountains of gold given by later generations.
+* **Key Lessons & Takeaways:**
+The immense sincerity and precedence of the Sahabah make their smallest deeds vastly superior to mountains of gold given by later generations.
+
 
 ---
 
@@ -1072,11 +1198,13 @@
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «آيَةُ الْإِيمَانِ حُبُّ الْأَنْصَارِ، وَآيَةُ النِّفَاقِ بُغْضُ الْأَنْصَارِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (17), Sahih Muslim (74) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (17), Sahih Muslim (74) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. سيد الاستغفار: اعتراف بالربوبية، والإنعام الإلهي، والتقصير البشري، واللجوء لطلب الغفران.
-2. من قاله في يومه موقناً به فمات دخل الجنة بإذن الله تعالى.
+1. حب الأنصار رضي الله عنهم علامة فارقة من علامات الإيمان، وبغضهم علامة صريحة من علامات النفاق.
+2. جزاء الأنصار على إيوائهم لرسول الله ﷺ والمهاجرين وبذلهم ديارهم وأموالهم ودماءهم لنصرة الدين.
+
+
 
 </div>
 
@@ -1089,7 +1217,9 @@
 * **Companion Narrator:** Narrated by Anas ibn Malik (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (17), Sahih Muslim (74) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (17), Sahih Muslim (74) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Loving the indigenous Muslim inhabitants of Madinah who sheltered the Prophet ﷺ and sacrificed their lives for Islam is a defining core of faith.
+* **Key Lessons & Takeaways:**
+Loving the indigenous Muslim inhabitants of Madinah who sheltered the Prophet ﷺ and sacrificed their lives for Islam is a defining core of faith.
+
 
 ---
 
@@ -1104,11 +1234,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «لَوْلَا الْهِجْرَةُ لَكُنْتُ امْرَأً مِنَ الْأَنْصَارِ، وَلَوْ سَلَكَ النَّاسُ شِعْبًا وَسَلَكَتِ الْأَنْصَارُ شِعْبًا لَسَلَكْتُ شِعْبَ الْأَنْصَارِ، الْأَنْصَارُ شِعَارٌ وَالنَّاسُ دِثَارٌ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (4330), Sahih Muslim (1061) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (4330), Sahih Muslim (1061) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. كلمتان خفيفتان على اللسان، ثقيلتان في الميزان، حبيبتان إلى الرحمن: سبحان الله وبحمده، سبحان الله العظيم.
-2. ختم الصحائف والمجالس بالتسبيح والتحميد لرب العالمين.
+1. عظيم مكانة الأنصار في قلب النبي ﷺ: 'الأنصار شعار والناس دثار، ولولا الهجرة لكنت امرأً من الأنصار'.
+2. وفاء النبي ﷺ ومحبته الشديدة لأهل يثرب ودعاؤه لهم ولأبنائهم وأبناء أبنائهم بالمغفرة والرحمة.
+
+
 
 </div>
 
@@ -1136,11 +1268,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لِبِلَالٍ عِنْدَ صَلَاةِ الْفَجْرِ: «يَا بِلَالُ، حَدِّثْنِي بِأَرْجَى عَمَلٍ عَمِلْتَهُ فِي الْإِسْلَامِ، فَإِنِّي سَمِعْتُ دَفَّ نَعْلَيْكَ بَيْنَ يَدَيَّ فِي الْجَنَّةِ». قَالَ: مَا عَمِلْتُ عَمَلًا أَرْجَى عِنْدِي: أَنِّي لَمْ أَتَطَهَّرْ طَهُورًا فِي سَاعَةِ لَيْلٍ أَوْ نَهَارٍ إِلَّا صَلَّيْتُ بِذَلِكَ الطُّهُورِ مَا كُتِبَ لِي أَنْ أُصَلِّيَ.
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (1149), Sahih Muslim (2458) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (1149), Sahih Muslim (2458) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. أحب الكلام إلى الله أربع: سبحان الله، والحمد لله، ولا إله إلا الله، والله أكبر؛ لا يضرك بأيهن بدأت.
-2. غراس الجنة الدائم والباقيات الصالحات.
+1. مناقب بلال بن رباح رضي الله عنه وسماع النبي ﷺ لصوت نعليه بين يديه في الجنة في ليلة الإسراء.
+2. بركة المحافظة على الوضوء وصلاة ركعتي سنة الوضوء في كل وقت وحين اقتداءً ببلال المؤذن.
+
+
 
 </div>
 
@@ -1153,7 +1287,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (1149), Sahih Muslim (2458) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (1149), Sahih Muslim (2458) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The supreme station of Bilal, whose consistent habitual Sunnah prayer after Wudu raised him to be heard in Paradise during the Prophet's lifetime.
+* **Key Lessons & Takeaways:**
+The supreme station of Bilal, whose consistent habitual Sunnah prayer after Wudu raised him to be heard in Paradise during the Prophet's lifetime.
+
 
 ---
 
@@ -1168,11 +1304,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم: «اقْرَأْ عَلَيَّ»، قُلْتُ: أَقْرَأُ عَلَيْكَ وَعَلَيْكَ أُنْزِلَ؟! قَالَ: «إِنِّي أُحِبُّ أَنْ أَسْمَعَهُ مِنْ غَيْرِي»، فَقَرَأْتُ عَلَيْهِ سُورَةَ النِّسَاءِ حَتَّى جِئْتُ إِلَى هَذِهِ الْآيَةِ: ﴿فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَى هَؤُلَاءِ شَهِيدًا﴾ قَالَ: «حَسْبُكَ الْآنَ»، فَالْتَفَتُّ إِلَيْهِ فَإِذَا عَيْنَاهُ تَذْرِفَانِ.
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (4582), Sahih Muslim (800) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (4582), Sahih Muslim (800) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. لا حول ولا قوة إلا بالله كنز من تحت العرش وباب عظيم من أبواب الفرج.
-2. تفويض الأمر كله لله والتبري من الحول والقوة الذاتية.
+1. مناقب عبد الله بن مسعود رضي الله عنه وحسن قراءته للقرآن الكريم واستماع النبي ﷺ لتلاوته وبكائه.
+2. استحباب استماع القرآن من حسن الصوت والتدبر الخاشع في آيات الوعيد والشهادة على الأمم.
+
+
 
 </div>
 
@@ -1185,7 +1323,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn Mas'ud (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (4582), Sahih Muslim (800) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (4582), Sahih Muslim (800) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Ibn Mas'ud's profound Quranic recitation and deep understanding which moved the Prophet ﷺ to copious tears.
+* **Key Lessons & Takeaways:**
+Ibn Mas'ud's profound Quranic recitation and deep understanding which moved the Prophet ﷺ to copious tears.
+
 
 ---
 
@@ -1200,11 +1340,13 @@
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ النَّبِيُّ صلى الله عليه وسلم لِأُبَيٍّ: «إِنَّ اللَّهَ أَمَرَنِي أَنْ أَقْرَأَ عَلَيْكَ: ﴿لَمْ يَكُنِ الَّذِينَ كَفَرُوا﴾»، قَالَ: وَسَمَّانِي لَكَ؟! قَالَ: «نَعَمْ»، فَبَكَى أُبَيٌّ.
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (4960), Sahih Muslim (246) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (4960), Sahih Muslim (246) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من صلى عليّ واحدة صلى الله عليه بها عشراً، ومحا عنه عشر خطيئات، ورفع له عشر درجات.
-2. إكثار الصلاة والسلام على رسول الله ﷺ مفتاح لنيل الرحمات والدرجات العلى.
+1. مناقب أبيّ بن كعب رضي الله عنه وأمر الله تعالى لنبيه ﷺ أن يقرأ عليه سورة البينة باسمه الشريف.
+2. بكاء أبيّ بن كعب من شدة الفرح والخشوع لذكر الله لاسمه في الملأ الأعلى فوق سبع سموات.
+
+
 
 </div>
 
@@ -1217,7 +1359,9 @@
 * **Companion Narrator:** Narrated by Anas ibn Malik (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (4960), Sahih Muslim (246) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (4960), Sahih Muslim (246) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The supreme honor of having one's name specifically mentioned by the Lord of the Worlds to His Messenger.
+* **Key Lessons & Takeaways:**
+The supreme honor of having one's name specifically mentioned by the Lord of the Worlds to His Messenger.
+
 
 ---
 
@@ -1232,11 +1376,13 @@
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «أَرْحَمُ أُمَّتِي بِأُمَّتِي أَبُو بَكْرٍ، وَأَشَدُّهُمْ فِي أَمْرِ اللَّهِ عُمَرُ، وَأَصْدَقُهُمْ حَيَاءً عُثْمَانُ، وَأَقْرَؤُهُمْ لِكِتَابِ اللَّهِ أُبَيُّ بْنُ كَعْبٍ، وَأَفْرَضُهُمْ زَيْدُ بْنُ ثَابِتٍ، وَأَعْلَمُهُمْ بِالْحَلَالِ وَالْحَرَامِ مُعَاذُ بْنُ جَبَلٍ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (3790), Sunan Ibn Majah (154) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (3790), Sunan Ibn Majah (154) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. البخيل من ذُكرت عنده فلم يصلِّ عليّ؛ وجوب الصلاة على النبي ﷺ عند سماع اسمه الشريف.
-2. محبة النبي ﷺ وتوقيره ولهج اللسان بالصلاة والسلام عليه.
+1. تنوع مواهب الصحابة وتكاملها: رحمة أبي بكر، وشدة عمر، وحياء عثمان، وفقه معاذ في الحلال والحرام.
+2. علو كعب معاذ بن جبل في معرفة الأحكام وتقدمه على العلماء يوم القيامة برتوة (رمية حجر).
+
+
 
 </div>
 
@@ -1264,11 +1410,13 @@
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَعَى زَيْدًا وَجَعْفَرًا وَابْنَ رَوَاحَةَ لِلنَّاسِ قَبْلَ أَنْ يَأْتِيَهُمْ خَبَرُهُمْ، فَقَالَ: «أَخَذَ الرَّايَةَ زَيْدٌ فَأُصِيبَ، ثُمَّ أَخَذَ جَعْفَرٌ فَأُصِيبَ، ثُمَّ أَخَذَ ابْنُ رَوَاحَةَ فَأُصِيبَ - وَعَيْنَاهُ تَذْرِفَانِ - حَتَّى أَخَذَ الرَّايَةَ سَيْفٌ مِنْ سُيُوفِ اللَّهِ، حَتَّى فَتَحَ اللَّهُ عَلَيْهِمْ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3757) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih al-Bukhari (3757) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الدعاء هو العبادة؛ فالافتقار والتذلل لله هو حقيقة التوحيد وجوهر التعبد.
-2. إدامة سؤال الله والتضرع إليه في كل حاجة وموقف.
+1. مناقب خالد بن الوليد رضي الله عنه وتسميته 'سيف الله المسلول' لعبقريته العسكرية في غزوة مؤتة.
+2. فضل الشجاعة والجهاد في سبيل الله وتأييد الله لجيوش المسلمين بالفتح على يدي سيفه المسلول.
+
+
 
 </div>
 
@@ -1296,11 +1444,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «رَأَيْتُ جَعْفَرًا يَطِيرُ فِي الْجَنَّةِ مَعَ الْمَلَائِكَةِ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (3763), Al-Mustadrak by al-Hakim (4984) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 3465).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (3763), Al-Mustadrak by al-Hakim (4984) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 3465).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من لم يسأل الله يغضب عليه؛ فالكريم يحب أن يُسأل ويستجيب لعباده.
-2. اللجوء الدائم إلى الله في الشدة والرخاء.
+1. مناقب جعفر بن أبي طالب ذي الجناحين رضي الله عنه ورؤية النبي ﷺ له يطير في الجنة مع الملائكة.
+2. إبدال الله تعالى لجعفر عن يديه المقطوعتين في مؤتة جناحين من زمرد يطير بهما حيث يشاء في الجنة.
+
+
 
 </div>
 
@@ -1313,7 +1463,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sunan at-Tirmidhi (3763), Al-Mustadrak by al-Hakim (4984) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 3465).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (3763), Al-Mustadrak by al-Hakim (4984) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 3465)**
-* **Key Lessons & Takeaways:** Allah rewarded Ja'far's sacrifice of both his arms in battle by giving him two luminous wings to soar wherever he wills in Paradise.
+* **Key Lessons & Takeaways:**
+Allah rewarded Ja'far's sacrifice of both his arms in battle by giving him two luminous wings to soar wherever he wills in Paradise.
+
 
 ---
 
@@ -1328,11 +1480,13 @@
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «سَيِّدُ الشُّهَدَاءِ حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ، وَرَجُلٌ قَامَ إِلَى إِمَامٍ جَائِرٍ فَأَمَرَهُ وَنَهَاهُ فَقَتَلَهُ».
 
 * **التَّخْرِيجُ:** Al-Mustadrak 'ala al-Sahihayn by al-Hakim (4880) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 3675).
-* **الْحُكْمُ:** Al-Mustadrak 'ala al-Sahihayn by al-Hakim (4880) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 3675).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. دعوة المسلم لأخيه بظهر الغيب مستجابة؛ عند رأسه ملك موكل يقول: آمين ولك بمثل.
-2. نشر المودة وتطهير القلوب بالدعاء الصالح للإخوان والغائبين.
+1. مناقب حمزة بن عبد المطلب رضي الله عنه وأنه سيد الشهداء يوم القيامة وأسد الله وأسد رسوله.
+2. علو أجر من قام إلى سلطان جائر فأمره ونهاه فقتله في سبيل إعلاء كلمة الحق ومواجهة الظلم.
+
+
 
 </div>
 
@@ -1345,7 +1499,9 @@
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (may Allah be pleased with them both)
 * **Canonical Reference:** Al-Mustadrak 'ala al-Sahihayn by al-Hakim (4880) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 3675).
 * **Scholarly Grading:** **Al-Mustadrak 'ala al-Sahihayn by al-Hakim (4880) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 3675)**
-* **Key Lessons & Takeaways:** The lion of Allah and His Messenger, Hamzah, holds the supreme title of Master of Martyrs for his valor at Badr and Uhud.
+* **Key Lessons & Takeaways:**
+The lion of Allah and His Messenger, Hamzah, holds the supreme title of Master of Martyrs for his valor at Badr and Uhud.
+
 
 ---
 
@@ -1360,11 +1516,13 @@
 > عَنْ عَائِذِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُ، أَنَّ أَبَا سُفْيَانَ أَتَى عَلَى سَلْمَانَ وَصُهَيْبٍ وَبِلَالٍ فِي نَفَرٍ، فَقَالُوا: مَا أَخَذَتْ سُيُوفُ اللَّهِ مِنْ عُنُقِ عَدُوِّ اللَّهِ مَأْخَذَهَا! فَقَالَ أَبُو بَكْرٍ: أَتَقُولُونَ هَذَا لِشَيْخِ قُرَيْشٍ وَسَيِّدِهِمْ؟! فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَأَخْبَرَهُ، فَقَالَ: «يَا أَبَا بَكْرٍ، لَعَلَّكَ أَغْضَبْتَهُمْ؟ لَئِنْ كُنْتَ أَغْضَبْتَهُمْ لَقَدْ أَغْضَبْتَ رَبَّكَ»، فَأَتَاهُمْ أَبُو بَكْرٍ فَقَالَ: يَا إِخْوَتَاهْ أَغْضَبْتُكُمْ؟ قَالُوا: لَا، يَغْفِرُ اللَّهُ لَكَ يَا أَخِي.
 
 * **التَّخْرِيجُ:** Sahih Muslim (2504) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2504) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اتق دعوة المظلوم؛ فإنه ليس بينها وبين الله حجاب.
-2. الخوف من عواقب الظلم ورد المظالم إلى أهلها فوراً.
+1. تعظيم حرمة الضعفاء من السابقين كسلْمان وصهيب وبلال والتحذير من إغضابهم أو إيذائهم.
+2. غضب الله تعالى لغضب عباده الصالحين الأولياء ولو كان المغضِب في مقام أبي بكر الصديق رضي الله عنه.
+
+
 
 </div>
 
@@ -1377,7 +1535,9 @@
 * **Companion Narrator:** Narrated by 'A'idh ibn 'Amr (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2504) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2504) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Angering the humble, sincere, and persecuted pioneers of faith is incurring the direct displeasure of Allah Almighty.
+* **Key Lessons & Takeaways:**
+Angering the humble, sincere, and persecuted pioneers of faith is incurring the direct displeasure of Allah Almighty.
+
 
 ---
 
@@ -1392,11 +1552,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: «مَا أَظَلَّتِ الْخَضْرَاءُ وَلَا أَقَلَّتِ الْغَبْرَاءُ مِنْ ذِي لَهْجَةٍ أَصْدَقَ وَلَا أَوْفَى مِنْ أَبِي ذَرٍّ، شِبْهِ عِيسَى ابْنِ مَرْيَمَ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (3801), Sunan Ibn Majah (156) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (3801), Sunan Ibn Majah (156) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. يستجاب لأحدكم ما لم يعجل؛ يقول: دعوت فلم يستجب لي.
-2. الصبر والمداومة على الدعاء مع اليقين برحمة الله وحكمته في التوقيت.
+1. مناقب أبي ذر الغفاري رضي الله عنه وصدق لهجته وأنه ما أظلت الخضراء ولا أقلت الغبراء أصدق لهجة منه.
+2. تشبيه أبي ذر بعيسى بن مريم عليه السلام في زهده في حطام الدنيا وتجرده التام للحق والصراحة.
+
+
 
 </div>
 
@@ -1409,7 +1571,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Amr (may Allah be pleased with them both)
 * **Canonical Reference:** Sunan at-Tirmidhi (3801), Sunan Ibn Majah (156) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (3801), Sunan Ibn Majah (156) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** Abu Dharr's uncompromising honesty, radical detachment from worldly wealth, and absolute frankness in truth.
+* **Key Lessons & Takeaways:**
+Abu Dharr's uncompromising honesty, radical detachment from worldly wealth, and absolute frankness in truth.
+
 
 ---
 
@@ -1424,11 +1588,13 @@
 > عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: اسْتَأْذَنَ عَمَّارٌ عَلَى النَّبِيِّ صلى الله عليه وسلم، فَقَالَ: «ائْذَنُوا لَهُ، مَرْحَبًا بِالطَّيِّبِ الْمُطَيَّبِ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (3798), Sunan Ibn Majah (146) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (3798), Sunan Ibn Majah (146) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ما من مسلم يدعو بدعوة ليس فيها إثم ولا قطيعة رحم إلا أعطاه الله بها إحدى ثلاث: إما أن تعجل له دعوته، وإما أن يدخرها له في الآخرة، وإما أن يصرف عنه من السوء مثلها.
-2. كرم الله المطلق وفضل الدعاء الذي لا يضيع أبداً.
+1. مناقب عمار بن ياسر رضي الله عنه وترحيب النبي ﷺ به: 'مرحباً بالطيب المُطيَّب'.
+2. امتلاء عمار بن ياسر بالإيمان الراسخ من قرنه إلى قدمه وصبره العظيم على التعذيب في بدء الإسلام.
+
+
 
 </div>
 
@@ -1441,7 +1607,9 @@
 * **Companion Narrator:** Narrated by 'Ali ibn Abi Talib (may Allah be pleased with him)
 * **Canonical Reference:** Sunan at-Tirmidhi (3798), Sunan Ibn Majah (146) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (3798), Sunan Ibn Majah (146) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** 'Ammar ibn Yasir, who endured brutal early torture in Makkah, was characterized by pure, unshakeable faith throughout his life.
+* **Key Lessons & Takeaways:**
+'Ammar ibn Yasir, who endured brutal early torture in Makkah, was characterized by pure, unshakeable faith throughout his life.
+
 
 ---
 
@@ -1456,11 +1624,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «أَتَاكُمْ أَهْلُ الْيَمَنِ، هُمْ أَرَقُّ أَفْئِدَةً وَأَلْيَنُ قُلُوبًا، الْإِيمَانُ يَمَانٍ وَالْحِكْمَةُ يَمَانِيَةٌ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (4388), Sahih Muslim (52) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (4388), Sahih Muslim (52) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اسم الله الأعظم الذي إذا دُعي به أجاب وإذا سُئل به أعطى: في التوسل بالتوحد والصمدية والحي القيوم.
-2. افتتاح الأدعية بتمجيد الله والثناء عليه بأسمائه الحسنى.
+1. فضل أهل اليمن ورقة أفئدتهم ولين قلوبهم وسرعة استجابتهم لنداء الإسلام وهدي النبوة.
+2. شهادة النبي ﷺ بأن: 'الإيمان يمانٍ والحكمة يمانية' تكريماً لصدق إيمانهم ونقاء سريرتهم.
+
+
 
 </div>
 
@@ -1473,7 +1643,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (4388), Sahih Muslim (52) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (4388), Sahih Muslim (52) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Praise for the people of Yemen for their rapid embracing of Islam, tender spiritual nature, and profound wisdom.
+* **Key Lessons & Takeaways:**
+Praise for the people of Yemen for their rapid embracing of Islam, tender spiritual nature, and profound wisdom.
+
 
 ---
 
@@ -1488,11 +1660,13 @@
 > عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «إِنَّ الْأَشْعَرِيِّينَ إِذَا أَرْمَلُوا فِي الْغَزْوِ، أَوْ قَلَّ طَعَامُ عِيَالِهِمْ بِالْمَدِينَةِ، جَمَعُوا مَا كَانَ عِنْدَهُمْ فِي ثَوْبٍ وَاحِدٍ، ثُمَّ اقْتَسَمُوهُ بَيْنَهُمْ فِي إِنَاءٍ وَاحِدٍ بِالسَّوِيَّةِ، فَهُمْ مِنِّي وَأَنَا مِنْهُمْ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2486), Sahih Muslim (2500) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2486), Sahih Muslim (2500) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. يا مقلب القلوب ثبت قلبي على دينك؛ كثرة دعاء النبي ﷺ لطلب الثبات واليقين.
-2. القلوب سريعة التقلب والافتقار إلى الهداية الإلهية دائم في كل لحظة.
+1. مناقب الأشعريين وفضل التكافل الاجتماعي عندهم بجمع طعامهم في ثوب واحد وقسمته بالتساوي.
+2. ثناء النبي ﷺ العاطر عليهم: 'فهم مني وأنا منهم' ترسيخاً لمبدأ الإيثار والمواساة في الأزمات.
+
+
 
 </div>
 
@@ -1505,7 +1679,9 @@
 * **Companion Narrator:** Narrated by Abu Musa al-Ash'ari (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2486), Sahih Muslim (2500) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2486), Sahih Muslim (2500) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Beautiful praise for selfless social solidarity and communal sharing during times of collective hardship.
+* **Key Lessons & Takeaways:**
+Beautiful praise for selfless social solidarity and communal sharing during times of collective hardship.
+
 
 ---
 
@@ -1520,11 +1696,13 @@
 > عَنْ عِمْرَانَ بْنِ حُصَيْنٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «خَيْرُ أُمَّتِي قَرْنِي، ثُمَّ الَّذِينَ يَلُونَهُمْ، ثُمَّ الَّذِينَ يَلُونَهُمْ - قَالَ عِمْرَانُ: فَلَا أَدْرِي أَذَكَرَ بَعْدَ قَرْنِهِ قَرْنَيْنِ أَوْ ثَلَاثَةً - ثُمَّ إِنَّ بَعْدَكُمْ قَوْمًا يَشْهَدُونَ وَلَا يُسْتَشْهَدُونَ، وَيَخُونُونَ وَلَا يُؤْتَمَنُونَ، وَيَنْذِرُونَ وَلَا يَفُونَ، وَيَظْهَرُ فِيهِمُ السِّمَنُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2651), Sahih Muslim (2535) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2651), Sahih Muslim (2535) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار؛ جوامع الدعاء القرآني والنبوي.
-2. التوازن الشامل بين صلاح الدين واستقامة المعاش والنجاة في المعاد.
+1. فضل القرون الثلاثة الأولى المفضلة (الصحابة ثم التابعون ثم تابعوهم) وأنهم خير أمة محمد ﷺ.
+2. التحذير من فساد الزمان بعدهم بظهور الخيانة وشهادة الزور ونكث النذور والانهماك في الترف والسمن.
+
+
 
 </div>
 
@@ -1537,7 +1715,9 @@
 * **Companion Narrator:** Narrated by 'Imran ibn Husayn (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (2651), Sahih Muslim (2535) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2651), Sahih Muslim (2535) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The Salaf (the first three generations) represent the golden standard of Islamic faith, character, and scholarship.
+* **Key Lessons & Takeaways:**
+The Salaf (the first three generations) represent the golden standard of Islamic faith, character, and scholarship.
+
 
 ---
 
@@ -1552,11 +1732,13 @@
 > عَنْ ثَوْبَانَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «لَا تَزَالُ طَائِفَةٌ مِنْ أُمَّتِي ظَاهِرِينَ عَلَى الْحَقِّ، لَا يَضُرُّهُمْ مَنْ خَذَلَهُمْ، حَتَّى يَأْتِيَ أَمْرُ اللَّهِ وَهُمْ كَذَلِكَ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (1920) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (1920) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اللهم إني أسألك الهدى والتقى والعفاف والغنى؛ الأركان الأربعة للحياة الإيمانية الطيبة.
-2. كمال السعادة في البصيرة والورع وصيانة العرض والاستغناء بالله.
+1. ثبوت بقاء طائفة منصورة من الأمة المحمدية قائمة على الحق وظاهرة عليه إلى قيام الساعة.
+2. ثبات أهل الحق واستعلائهم باليقين، وأنه لا يضرهم خذلان الخاذلين ولا عداوة المتربصين حتى يأتي أمر الله.
+
+
 
 </div>
 
@@ -1569,7 +1751,9 @@
 * **Companion Narrator:** Narrated by Thawban (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (1920) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (1920) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Glad tidings that authentic truth, sound creed, and Sunnah will always be vigorously preserved and defended by steadfast believers until the end of time.
+* **Key Lessons & Takeaways:**
+Glad tidings that authentic truth, sound creed, and Sunnah will always be vigorously preserved and defended by steadfast believers until the end of time.
+
 
 ---
 
@@ -1584,11 +1768,12 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَتَى الْمَقْبَرَةَ فَقَالَ: «السَّلَامُ عَلَيْكُمْ دَارَ قَوْمٍ مُؤْمِنِينَ، وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُونَ، وَدِدْتُ أَنَّا قَدْ رَأَيْنَا إِخْوَانَنَا»، قَالُوا: أَوَلَسْنَا إِخْوَانَكَ يَا رَسُولَ اللَّهِ؟ قَالَ: «أَنْتُمْ أَصْحَابِي، وَإِخْوَانُنَا الَّذِينَ لَمْ يَلْحَقُوا بَعْدُ... أَنَا فَرَطُهُمْ عَلَى الْحَوْضِ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (249) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (249) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اللهم إني أعوذ بك من زوال نعمتك، وتحول عافيتك، وفجاءة نقمتك، وجميع سخطك.
-2. دوام شكر النعم وسؤال استمرار العافية والحفظ من كل مكروه.
+1. شوق النبي ﷺ لرؤية إخوانه الذين يؤمنون به ولم يروه ويفدونه بأنفسهم وأهليهم وأموالهم.
+2. معرفة النبي ﷺ لأمته يوم القيامة عند الحوض بالتحجيل وبياض النور الناجم عن إسباغ الوضوء في الدنيا.
+
 
 </div>
 

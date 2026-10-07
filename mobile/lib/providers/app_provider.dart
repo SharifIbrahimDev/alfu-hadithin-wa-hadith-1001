@@ -350,14 +350,6 @@ class AppProvider with ChangeNotifier {
     }
   }
 
-  Future<bool> checkAndRequestNotificationPermissions() async {
-    final granted = await _notificationService.requestPermissions();
-    _notificationPermissionGranted = granted;
-    _exactAlarmPermissionGranted = await _notificationService.canScheduleExactAlarms();
-    notifyListeners();
-    return granted;
-  }
-
   Future<void> requestExactAlarmPermission() async {
     await _notificationService.requestExactAlarmsPermission();
     _exactAlarmPermissionGranted = await _notificationService.canScheduleExactAlarms();

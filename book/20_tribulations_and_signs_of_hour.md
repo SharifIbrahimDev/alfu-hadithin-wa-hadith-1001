@@ -1,4 +1,4 @@
-﻿# Chapter 20: Book of Tribulations, Signs of the Hour & The Final Journey
+# Chapter 20: Book of Tribulations, Signs of the Hour & The Final Journey
 # كِتَابُ الْفِتَنِ وَأَشْرَاطِ السَّاعَةِ وَالْبَعْثِ
 
 ---
@@ -16,11 +16,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «بَادِرُوا بِالْأَعْمَالِ فِتَنًا كَقِطَعِ اللَّيْلِ الْمُظْلِمِ، يُصْبِحُ الرَّجُلُ مُؤْمِنًا وَيُمْسِي كَافِرًا، أَوْ يُمْسِي مُؤْمِنًا وَيُصْبِحُ كَافِرًا، يَبِيعُ دِينَهُ بِعَرَضٍ مِنَ الدُّنْيَا».
 
 * **التَّخْرِيجُ:** Sahih Muslim (118) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (118) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اللهم إني أعوذ بك من الهم والحزن، والعجز والكسل، والجبن والبخل، وضلع الدين وغلبة الرجال.
-2. الاستعاذة النبوية الشاملة من آفات النفس والمجتمع والمال.
+1. وجوب المبادرة والمسارعة إلى الأعمال الصالحة قبل هجوم فتن مظلمة كقطع الليل تلتبس فيها الحقائق.
+2. خطورة الانتكاس والردة في آخر الزمان بحيث يصبح الرجل مؤمناً ويمسي كافراً يبيع دينه بعرض دنيوي زائل.
+
+
 
 </div>
 
@@ -33,7 +35,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (118) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (118) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** An urgent command to fortify one's soul with consistent righteous deeds before confusing spiritual and social crises compromise faith.
+* **Key Lessons & Takeaways:**
+An urgent command to fortify one's soul with consistent righteous deeds before confusing spiritual and social crises compromise faith.
+
 
 ---
 
@@ -48,11 +52,13 @@
 > عَنْ أُسَامَةَ بْنِ زَيْدٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: أَشْرَفَ النَّبِيُّ صلى الله عليه وسلم عَلَى أُطُمٍ مِنْ آطَامِ الْمَدِينَةِ، فَقَالَ: «هَلْ تَرَوْنَ مَا أَرَى؟ إِنِّي لَأَرَى مَوَاقِعَ الْفِتَنِ خِلَالَ بُيُوتِكُمْ كَمَوَاقِعِ الْقَطْرِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (1878), Sahih Muslim (2885) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (1878), Sahih Muslim (2885) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اللهم إني أعوذ بك من جهد البلاء، ودرك الشقاء، وسوء القضاء، وشماتة الأعداء.
-2. طلب السلامة التامة والتفويض الكامل لرب العالمين.
+1. إشراف النبي ﷺ على آطام المدينة وإخباره بنزول مواقع الفتن خلال البيوت كمواقع القطر من المطر.
+2. معجزة نبوية في استشراف المستقبل وتحذير الأمة من التناحر الداخلي والاقتتال الأسري والسياسي.
+
+
 
 </div>
 
@@ -80,11 +86,13 @@
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «يَأْتِي عَلَى النَّاسِ زَمَانٌ الصَّابِرُ فِيهِمْ عَلَى دِينِهِ كَالْقَابِضِ عَلَى الْجَمْرِ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (2260) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 8002).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (2260) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 8002).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اللهم إني أعوذ بك من منكرات الأخلاق والأعمال والأهواء والأدواء.
-2. سلامة العقيدة والسلوك والبدن غاية شريفة في الإسلام.
+1. غربة الدين في آخر الزمان وشدة البلاء على المتمسكين بالكتاب والسنة حتى يصير كالقابض على الجمر.
+2. عظمة أجر الصابرين على دينهم في أزمنة الشبهات والشهوات ومضاعفة ثوابهم عند الله تعالى.
+
+
 
 </div>
 
@@ -97,7 +105,9 @@
 * **Companion Narrator:** Narrated by Anas ibn Malik (may Allah be pleased with him)
 * **Canonical Reference:** Sunan at-Tirmidhi (2260) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 8002).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (2260) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 8002)**
-* **Key Lessons & Takeaways:** Adhering strictly to Islamic principles during times of rampant moral decay requires tremendous perseverance, fortitude, and immense sacrifice.
+* **Key Lessons & Takeaways:**
+Adhering strictly to Islamic principles during times of rampant moral decay requires tremendous perseverance, fortitude, and immense sacrifice.
+
 
 ---
 
@@ -112,11 +122,13 @@
 > عَنْ حُذَيْفَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: «تُعْرَضُ الْفِتَنُ عَلَى الْقُلُوبِ كَالْحَصِيرِ عُودًا عُودًا، فَأَيُّ قَلْبٍ أُشْرِبَهَا نُكِتَ فِيهِ نُكْتَةٌ سَوْدَاءُ، وَأَيُّ قَلْبٍ أَنْكَرَهَا نُكِتَ فِيهِ نُكْتَةٌ بَيْضَاءُ، حَتَّى تَصِيرَ عَلَى قَلْبَيْنِ: عَلَى أَبْيَضَ مِثْلِ الصَّفَا فَلَا تَضُرُّهُ فِتْنَةٌ مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ، وَالْآخَرِ أَسْوَدَ مُرْبَادًّا كَالْكُوزِ مُجَخِّيًا، لَا يَعْرِفُ مَعْرُوفًا وَلَا يُنْكِرُ مُنْكَرًا، إِلَّا مَا أُشْرِبَ مِنْ هَوَاهُ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (144) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (144) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اللهم إني أعوذ بك من شر ما عملت ومن شر ما لم أعمل.
-2. استشعار التقصير البشري والافتقار الدائم إلى عفو الله ورحمته.
+1. عرض الفتن والشهوات على القلوب كالحصير عوداً عوداً، وانقسام القلوب إلى قلب أبيض نقي وقلب أسود مرباد.
+2. القلب المنكوس لا يعرف معروفاً ولا ينكر منكراً إلا ما وافق هواه، بخلاف القلب الحي الذي لا تضره فتنة.
+
+
 
 </div>
 
@@ -129,7 +141,9 @@
 * **Companion Narrator:** Narrated by Hudhayfah ibn al-Yaman (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (144) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (144) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Exposing the soul to repeated sins and corrupt ideologies slowly desensitizes the heart until it completely loses the ability to discern truth from falsehood.
+* **Key Lessons & Takeaways:**
+Exposing the soul to repeated sins and corrupt ideologies slowly desensitizes the heart until it completely loses the ability to discern truth from falsehood.
+
 
 ---
 
@@ -144,11 +158,13 @@
 > عَنْ حُذَيْفَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كُنَّا جُلُوسًا عِنْدَ عُمَرَ فَقَالَ: أَيُّكُمْ يَحْفَظُ قَوْلَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الْفِتْنَةِ؟... فَقَالَ عُمَرُ: لَيْسَ هَذَا أُرِيدُ، وَلَكِنِ الْفِتْنَةُ الَّتِي تَمُوجُ كَمَوْجِ الْبَحْرِ. قَالَ: لَيْسَ عَلَيْكَ مِنْهَا بَأْسٌ يَا أَمِيرَ الْمُؤْمِنِينَ، إِنَّ بَيْنَكَ وَبَيْنَهَا بَابًا مُغْلَقًا. قَالَ عُمَرُ: أَيُكْسَرُ الْبَابُ أَمْ يُفْتَحُ؟ قَالَ: لَا، بَلْ يُكْسَرُ. قَالَ عُمَرُ: إِذًا لَا يُغْلَقَ أَبَدًا... وَالْبَابُ عُمَرُ.
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (1435), Sahih Muslim (144) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (1435), Sahih Muslim (144) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. أعوذ بكلمات الله التامات من شر ما خلق؛ الحصن النبوي عند النزول في أي منزل أو سفر.
-2. التوكل على الله واستدفاع الشرور بالكلمات التامات.
+1. علم عمر بن الخطاب رضي الله عنه بأمر الفتنة وأن بين الأمة وبين الفتنة المائجة باباً وثيقاً مغلقاً.
+2. كسر الباب بمقتل عمر واستشهاده رضي الله عنه، مما أذن بانفتاح أبواب الفتن التي لا تغلق إلى قيام الساعة.
+
+
 
 </div>
 
@@ -161,7 +177,9 @@
 * **Companion Narrator:** Narrated by Hudhayfah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (1435), Sahih Muslim (144) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (1435), Sahih Muslim (144) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The justice and firmness of 'Umar held the gates against internal dissension; his martyrdom opened the floodgates of historical civil tribulations.
+* **Key Lessons & Takeaways:**
+The justice and firmness of 'Umar held the gates against internal dissension; his martyrdom opened the floodgates of historical civil tribulations.
+
 
 ---
 
@@ -176,11 +194,13 @@
 > عَنْ مَعْقِلِ بْنِ يَسَارٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «الْعِبَادَةُ فِي الْهَرْجِ كَهِجْرَةٍ إِلَيَّ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2948) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2948) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم؛ ثلاث مرات صباحاً ومساءً.
-2. الأمان التام والحماية الشاملة من كل طوارق الليل والنهار.
+1. فضل العبادة ولزوم الطاعة والأذكار في زمن الهرج والفتن والقتل، وأن أجرها كهجرة إلى النبي ﷺ.
+2. النأي بالنفس عن الخوض في الدماء والنزاعات السياسية والاشتغال بإصلاح النفس والعبادة الخالصة.
+
+
 
 </div>
 
@@ -193,7 +213,9 @@
 * **Companion Narrator:** Narrated by Ma'qil ibn Yasar (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2948) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2948) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Maintaining devotional consistency, dhikr, and prayer while the masses are distracted by political upheaval yields the immense spiritual status of the early Emigrants.
+* **Key Lessons & Takeaways:**
+Maintaining devotional consistency, dhikr, and prayer while the masses are distracted by political upheaval yields the immense spiritual status of the early Emigrants.
+
 
 ---
 
@@ -208,11 +230,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «سَتَكُونُ فِتَنٌ الْقَاعِدُ فِيهَا خَيْرٌ مِنَ الْقَائِمِ، وَالْقَائِمُ فِيهَا خَيْرٌ مِنَ الْمَاشِي، وَالْمَاشِي فِيهَا خَيْرٌ مِنَ السَّاعِي، وَمَنْ يُشْرِفْ لَهَا تَسْتَشْرِفْهُ، وَمَنْ وَجَدَ مَلْجَأً أَوْ مَعَاذًا فَلْيَعُذْ بِهِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3601), Sahih Muslim (2886) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3601), Sahih Muslim (2886) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. بسم الله توكلت على الله لا حول ولا قوة إلا بالله؛ يقال له: هُديت وكُفيت ووُقيت وتنحى عنه الشيطان.
-2. استصحاب معية الله وتفويض الأمور إليه عند الخروج من المنزل.
+1. وجوب اعتزال الفتن العمياء التي لا يتميز فيها محق من مبطل: القاعد فيها خير من القائم والساعي.
+2. التحذير من الاستشراف للفتن والدخول فيها، واستحباب التماس الملاجئ والمخابئ للسلامة في الدين.
+
+
 
 </div>
 
@@ -225,7 +249,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3601), Sahih Muslim (2886) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3601), Sahih Muslim (2886) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** When confusing civil conflicts arise among Muslims where right cannot be distinguished from wrong, absolute non-participation and isolation are commanded.
+* **Key Lessons & Takeaways:**
+When confusing civil conflicts arise among Muslims where right cannot be distinguished from wrong, absolute non-participation and isolation are commanded.
+
 
 ---
 
@@ -240,11 +266,13 @@
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ، أَنَّهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «يُوشِكُ أَنْ يَكُونَ خَيْرَ مَالِ الْمُسْلِمِ غَنَمٌ يَتَّبِعُ بِهَا شَعَفَ الْجِبَالِ وَمَوَاقِعَ الْقَطْرِ، يَفِرُّ بِدِينِهِ مِنَ الْفِتَنِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (19) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih al-Bukhari (19) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ذكر الله عند دخول المنزل وعند الطعام يطرد الشيطان ويحرمه من المبيت والعشاء في البيت.
-2. تحصين البيوت والأسر بذكر اسم الله تعالى.
+1. مشروعية الفرار بالدين من الفتن إلى رؤوس الجبال ومواقع القطر عند تعذر إقامة الشريعة وفساد المجتمع.
+2. سلامة دين المسلم وعقيدته مقدمة على الأموال والمناصب والمدن متى خاف على نفسه الوقوع في الردة.
+
+
 
 </div>
 
@@ -257,7 +285,9 @@
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (19) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih al-Bukhari (19) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Safeguarding one's spiritual faith from public corruption takes absolute priority over prestigious worldly positions and urban luxury.
+* **Key Lessons & Takeaways:**
+Safeguarding one's spiritual faith from public corruption takes absolute priority over prestigious worldly positions and urban luxury.
+
 
 ---
 
@@ -272,11 +302,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «لَا تَقُومُ السَّاعَةُ حَتَّى يَحْسِرَ الْفُرَاتُ عَنْ جَبَلٍ مِنْ ذَهَبٍ، يَقْتَتِلُ النَّاسُ عَلَيْهِ، فَيُقْتَلُ مِنْ كُلِّ مِائَةٍ تِسْعَةٌ وَتِسْعُونَ، وَيَقُولُ كُلُّ رَجُلٍ مِنْهُمْ: لَعَلِّي أَكُونُ أَنَا الَّذِي أَنْجُو».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (7119), Sahih Muslim (2894) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (7119), Sahih Muslim (2894) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. بسم الله اللهم جنبنا الشيطان وجنب الشيطان ما رزقتنا؛ حماية الذرية من مس الشيطان وشره.
-2. استحضار النية الصالحة والذكر في كل مباح.
+1. نبوءة حسر نهر الفرات عن جبل من ذهب في آخر الزمان واقتتال الناس عليه حتى يقتل 99 من كل مئة.
+2. نهي النبي ﷺ لمن حضر ذلك الكنز عن أخذ شيء منه لشدة فتنته وسفك الدماء العظيم المترتب عليه.
+
+
 
 </div>
 
@@ -289,7 +321,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (7119), Sahih Muslim (2894) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (7119), Sahih Muslim (2894) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** A warning against material greed leading to apocalyptic warfare; Muslims are commanded not to participate in taking from that uncovered treasure.
+* **Key Lessons & Takeaways:**
+A warning against material greed leading to apocalyptic warfare; Muslims are commanded not to participate in taking from that uncovered treasure.
+
 
 ---
 
@@ -304,11 +338,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «لَا تَقُومُ السَّاعَةُ حَتَّى يَتَقَارَبَ الزَّمَانُ، فَتَكُونَ السَّنَةُ كَالشَّهْرِ، وَيَكُونَ الشَّهْرُ كَالْجُمُعَةِ، وَتَكُونَ الْجُمُعَةُ كَالْيَوْمِ، وَيَكُونَ الْيَوْمُ كَالسَّاعَةِ، وَتَكُونَ السَّاعَةُ كَالضَّرْمَةِ بِالنَّارِ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (2332), Musnad Ahmad (10560) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 7422).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (2332), Musnad Ahmad (10560) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 7422).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اللهم إني أعوذ بك من الخبث والخبائث عند دخول الخلاء.
-2. التحصن بذكر الله في أماكن النجاسات ومواطن حضور الشياطين.
+1. علامة تقارب الزمان في آخر الزمان وسرعة انقضاء الأيام والسنين ونزع البركة من الأوقات والأعمار.
+2. تحول السنة كالشهر والشهر كالجمعة والجمعة كاليوم واليوم كاحتراق السعفة بالنار لدنو أجل الدنيا.
+
+
 
 </div>
 
@@ -336,11 +372,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: بَيْنَمَا النَّبِيُّ صلى الله عليه وسلم فِي مَجْلِسٍ يُحَدِّثُ الْقَوْمَ، جَاءَهُ أَعْرَابِيٌّ فَقَالَ: مَتَى السَّاعَةُ؟ فَقَالَ: «إِذَا ضُيِّعَتِ الْأَمَانَةُ فَانْتَظِرِ السَّاعَةَ». قَالَ: كَيْفَ إِضَاعَتُهَا؟ قَالَ: «إِذَا وُسِّدَ الْأَمْرُ إِلَى غَيْرِ أَهْلِهِ فَانْتَظِرِ السَّاعَةَ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (59) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih al-Bukhari (59) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. غفرانك عند الخروج من الخلاء؛ شكر الله على تخفيف الأذى واعتراف بالتقصير في شكر النعم.
-2. دوام الاتصال القلبي بالله في جميع الأحوال.
+1. ضياع الأمانة في المعاملات والأخلاق من علامات اقتراب قيام الساعة وأشراطها الصغرى الظاهرة.
+2. إسناد الأمور والولايات والمناصب العامة إلى غير المؤهلين من أهل الجهل والفساد نذير بخراب العالم.
+
+
 
 </div>
 
@@ -353,7 +391,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (59) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih al-Bukhari (59) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Systemic nepotism, moral incompetence in leadership, and collapse of institutional integrity are major portents of the end times.
+* **Key Lessons & Takeaways:**
+Systemic nepotism, moral incompetence in leadership, and collapse of institutional integrity are major portents of the end times.
+
 
 ---
 
@@ -368,11 +408,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ فِي حَدِيثِ جِبْرِيلَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ فِي أَشْرَاطِ السَّاعَةِ: «...وَإِذَا رَأَيْتَ الْحُفَاةَ الْعُرَاةَ الْعَالَةَ رِعَاءَ الشَّاءِ يَتَطَاوَلُونَ فِي الْبُنْيَانِ، فِي خَمْسٍ لَا يَعْلَمُهُنَّ إِلَّا اللَّهُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (50), Sahih Muslim (9) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (50), Sahih Muslim (9) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. سبحان الذي سخر لنا هذا وما كنا له مقرنين وإنا إلى ربنا لمنقلبون عند ركوب الدواب والمركبات.
-2. استشعار نعم الله وتذكر السفر الأكبر والرحيل إلى الآخرة.
+1. نبوءة تطاول رعاة الشاء الحفاة العراة العالة في البنيان وتشييد ناطحات السحاب والأبراج الشاهقة.
+2. انقلاب الموازين الاجتماعية وظهور الترف والمباهاة بالقصور بعد الفقر المدقع في بلاد العرب.
+
+
 
 </div>
 
@@ -385,7 +427,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (50), Sahih Muslim (9) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (50), Sahih Muslim (9) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** A miraculous geographic and sociological prophecy describing the rapid transformation of desert nomadic societies into builders of mega-skyscrapers.
+* **Key Lessons & Takeaways:**
+A miraculous geographic and sociological prophecy describing the rapid transformation of desert nomadic societies into builders of mega-skyscrapers.
+
 
 ---
 
@@ -400,11 +444,13 @@
 > عَنْ سَهْلِ بْنِ سَعْدٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ بِإِصْبَعَيْهِ هَكَذَا، بِالْوُسْطَى وَالَّتِي تَلِي الْإِبْهَامَ: «بُعِثْتُ أَنَا وَالسَّاعَةَ كَهَاتَيْنِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (4936), Sahih Muslim (2950) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (4936), Sahih Muslim (2950) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. دعاء السفر: سؤال البر والتقوى وتيسير الطريق وحفظ الأهل والمال والخلف الصالح.
-2. الجمع بين التوكل على الله والأخذ بأسباب السلامة في الأسفار.
+1. بعثة النبي محمد ﷺ مقترنة بالساعة كاقتران السبابة والوسطى؛ فهو خاتم النبيين ولا أمة بعد أمته.
+2. قصر عمر الدنيا المتبقي بعد بعثته ﷺ مقارنة بما مضى من تاريخ البشرية والقرون السالفة.
+
+
 
 </div>
 
@@ -417,7 +463,9 @@
 * **Companion Narrator:** Narrated by Sahl ibn Sa'd (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (4936), Sahih Muslim (2950) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (4936), Sahih Muslim (2950) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The advent of the Final Prophet Muhammad ﷺ is itself the first primary harbinger of the approaching Day of Resurrection.
+* **Key Lessons & Takeaways:**
+The advent of the Final Prophet Muhammad ﷺ is itself the first primary harbinger of the approaching Day of Resurrection.
+
 
 ---
 
@@ -432,11 +480,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «لَا تَقُومُ السَّاعَةُ حَتَّى تَخْرُجَ نَارٌ مِنْ أَرْضِ الْحِجَازِ تُضِيءُ أَعْنَاقَ الْإِبِلِ بِبُصْرَى».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (7118), Sahih Muslim (2902) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (7118), Sahih Muslim (2902) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. دعاء الكرب: لا إله إلا الله العظيم الحليم، لا إله إلا الله رب العرش العظيم، لا إله إلا الله رب السماوات ورب الأرض ورب العرش الكريم.
-2. إفراد الله بالتعظيم والتوحيد عند اشتداد الخطوب والأزمات.
+1. نبوءة خروج نار عظيمة من أرض الحجاز تضيء لها أعناق الإبل ببصرى الشام، وقد تحققت سنة 654 هـ.
+2. برهان ساطع من دلائل النبوة ومعجزاتها الغيبية المشاهدة عبر التاريخ الإسلامي الموثق.
+
+
 
 </div>
 
@@ -449,7 +499,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (7118), Sahih Muslim (2902) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (7118), Sahih Muslim (2902) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** An exact fulfilled prophecy which historically occurred in 654 AH (1256 CE) when volcanic lava illuminated the Syrian horizons.
+* **Key Lessons & Takeaways:**
+An exact fulfilled prophecy which historically occurred in 654 AH (1256 CE) when volcanic lava illuminated the Syrian horizons.
+
 
 ---
 
@@ -464,11 +516,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «لَا تَقُومُ السَّاعَةُ حَتَّى يُبْعَثَ دَجَّالُونَ كَذَّابُونَ، قَرِيبٌ مِنْ ثَلَاثِينَ، كُلُّهُمْ يَزْعُمُ أَنَّهُ رَسُولُ اللَّهِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3609), Sahih Muslim (157) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3609), Sahih Muslim (157) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. لا إله إلا أنت سبحانك إني كنت من الظالمين؛ دعوة ذي النون ما دعا بها مسلم في كربة إلا فرج الله عنه.
-2. التوحيد والتسبيح والاعتراف بالذنب مفاتيح تفريج كل شدة ومأزق.
+1. خروج نحو ثلاثين دجالاً كذاباً قبل قيام الساعة كلهم يزعم كذباً وزوراً أنه نبي مرسل من عند الله.
+2. عقيدة ختم النبوة بمحمد ﷺ تدمغ كل دعوى نبوة لاحقة بالدجل والكفر المبين وتكذيب صريح القرآن.
+
+
 
 </div>
 
@@ -481,7 +535,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3609), Sahih Muslim (157) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3609), Sahih Muslim (157) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Warning against theological cults and false claimants to revelation following the finality of Muhammad's ﷺ prophethood.
+* **Key Lessons & Takeaways:**
+Warning against theological cults and false claimants to revelation following the finality of Muhammad's ﷺ prophethood.
+
 
 ---
 
@@ -496,11 +552,13 @@
 > عَنْ حُذَيْفَةَ بْنِ أَسِيدٍ الْغِفَارِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: اطَّلَعَ النَّبِيُّ صلى الله عليه وسلم عَلَيْنَا وَنَحْنُ نَتَذَاكَرُ، فَقَالَ: «مَا تَذَاكَرُونَ؟» قَالُوا: نَذْكُرُ السَّاعَةَ. قَالَ: «إِنَّهَا لَنْ تَقُومَ حَتَّى تَرَوْنَ قَبْلَهَا عَشْرَ آيَاتٍ: فَذَكَرَ الدُّخَانَ، وَالدَّجَّالَ، وَالدَّابَّةَ، وَطُلُوعَ الشَّمْسِ مِنْ مَغْرِبِهَا، وَنُزُولَ عِيسَى ابْنِ مَرْيَمَ، وَيَأْجُوجَ وَمَأْجُوجَ، وَثَلَاثَةَ خُسُوفٍ: خَسْفٌ بِالْمَشْرِقِ، وَخَسْفٌ بِالْمَغْرِبِ، وَخَسْفٌ بِجَزِيرَةِ الْعَرَبِ، وَآخِرُ ذَلِكَ نَارٌ تَخْرُجُ مِنَ الْيَمَنِ تَطْرُدُ النَّاسَ إِلَى مَحْشَرِهِمْ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2901) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2901) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اللهم اكفني بحلالك عن حرامك وأغنني بفضلك عمن سواك لدفع الديون وجلب الغنى والبركة.
-2. القناعة بالحلال والاستغناء بالله يفتحان أبواب الرزق الواسع.
+1. بيان الآيات العشر الكبرى التي تعقبها القيامة: الدخان، والدجال، والدابة، وطلوع الشمس من مغربها.
+2. نزول عيسى بن مريم، وخروج يأجوج ومأجوج، وثلاثة خسوف، ونار اليمن التي تحشر الناس.
+
+
 
 </div>
 
@@ -513,7 +571,9 @@
 * **Companion Narrator:** Narrated by Hudhayfah ibn Asid al-Ghifari (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2901) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2901) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Comprehensive enumeration of the ultimate major cosmic and terrestrial signs heralding the end of terrestrial history.
+* **Key Lessons & Takeaways:**
+Comprehensive enumeration of the ultimate major cosmic and terrestrial signs heralding the end of terrestrial history.
+
 
 ---
 
@@ -528,11 +588,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي النَّاسِ فَأَثْنَى عَلَى اللَّهِ بِمَا هُوَ أَهْلُهُ، ثُمَّ ذَكَرَ الدَّجَّالَ فَقَالَ: «إِنِّي لَأُنْذِرُكُمُوهُ، وَمَا مِنْ نَبِيٍّ إِلَّا وَقَدْ أَنْذَرَهُ قَوْمَهُ، وَلَكِنِّي سَأَقُولُ لَكُمْ فِيهِ قَوْلًا لَمْ يَقُلْهُ نَبِيٌّ لِقَوْمِهِ: إِنَّهُ أَعْوَرُ، وَإِنَّ اللَّهَ لَيْسَ بِأَعْوَرَ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (7127), Sahih Muslim (2930) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (7127), Sahih Muslim (2930) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. أسأل الله العظيم رب العرش العظيم أن يشفيك؛ سبع مرات عند عيادة المريض.
-2. فضل عيادة المرضى والدعاء لهم بالشفاء العاجل.
+1. تحذير جميع الأنبياء لأممهم من فتنة المسيح الدجال لعظم شره وخوارقه الشيطانية المضللة.
+2. الحجة العقلية الدامغة في إبطال ألوهية الدجال: أنه أعور العين، والله تعالى منزه عن العور والنقص.
+
+
 
 </div>
 
@@ -545,7 +607,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (7127), Sahih Muslim (2930) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (7127), Sahih Muslim (2930) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The decisive theological distinction disproving the False Messiah's claim to divinity: the Creator is free from physical defect.
+* **Key Lessons & Takeaways:**
+The decisive theological distinction disproving the False Messiah's claim to divinity: the Creator is free from physical defect.
+
 
 ---
 
@@ -560,11 +624,13 @@
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ النَّبِيُّ صلى الله عليه وسلم: «مَا بُعِثَ نَبِيٌّ إِلَّا أَنْذَرَ أُمَّتَهُ الْأَعْوَرَ الْكَذَّابَ، أَلَا إِنَّهُ أَعْوَرُ، وَإِنَّ رَبَّكُمْ لَيْسَ بِأَعْوَرَ، وَإِنَّ بَيْنَ عَيْنَيْهِ مَكْتُوبٌ كَافِرٌ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (7131), Sahih Muslim (2933) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (7131), Sahih Muslim (2933) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إن لله ما أخذ وله ما أعطى وكل شيء عنده بأجل مسمى فلتصبر ولتحتسب عند المصائب.
-2. استحضار ملكية الله المطلقة للأنفس والأموال وتهوين المصاب.
+1. صفة الدجال الخَلْقية وكتابة كلمة (كـ فـ ر) بين عينيه يقرؤها كل مؤمن كاتب أو غير كاتب.
+2. توفيق الله لأهل الإيمان والبصيرة لكشف زيف الدجال وضلاله ولو فتن به خلق كثير من الجهال.
+
+
 
 </div>
 
@@ -577,7 +643,9 @@
 * **Companion Narrator:** Narrated by Anas ibn Malik (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (7131), Sahih Muslim (2933) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (7131), Sahih Muslim (2933) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** True believers endowed with spiritual insight will immediately recognize the falsehood of the Dajjal regardless of his supernatural illusions.
+* **Key Lessons & Takeaways:**
+True believers endowed with spiritual insight will immediately recognize the falsehood of the Dajjal regardless of his supernatural illusions.
+
 
 ---
 
@@ -592,11 +660,13 @@
 > عَنْ حُذَيْفَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ فِي الدَّجَّالِ: «إِنَّ مَعَهُ مَاءً وَنَارًا، فَنَارُهُ مَاءٌ بَارِدٌ، وَمَاؤُهُ نَارٌ، فَلَا تَهْلِكُوا».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (7136), Sahih Muslim (2934) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (7136), Sahih Muslim (2934) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إنا لله وإنا إليه راجعون، اللهم آجرني في مصيبتي واخلف لي خيراً منها.
-2. الاسترجاع عند البلاء يخلف الله به خيراً عظيماً في الدنيا والآخرة.
+1. خوارق الدجال الشيطانية: جنته نار محرقة، وناره ماء بارد عذب زلال، فينبغي للمؤمن الثبات.
+2. التحذير من الانخداع بالمظاهر البراقة والفتن المعكوسة التي يروجها أعداء الدين في آخر الزمان.
+
+
 
 </div>
 
@@ -609,7 +679,9 @@
 * **Companion Narrator:** Narrated by Hudhayfah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (7136), Sahih Muslim (2934) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (7136), Sahih Muslim (2934) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Worldly temptations presented by deceivers are inverted; what seems like suffering for the truth is actual bliss, and what appears pleasant is destruction.
+* **Key Lessons & Takeaways:**
+Worldly temptations presented by deceivers are inverted; what seems like suffering for the truth is actual bliss, and what appears pleasant is destruction.
+
 
 ---
 
@@ -624,11 +696,13 @@
 > عَنْ أَبِي الدَّرْدَاءِ رَضِيَ اللَّهُ عَنْهُ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ: «مَنْ حَفِظَ عَشْرَ آيَاتٍ مِنْ أَوَّلِ سُورَةِ الْكَهْفِ عُصِمَ مِنَ الدَّجَّالِ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (809) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (809) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. سبحان الذي يسبح الرعد بحمده والملائكة من خيفته عند سماع صوت الرعد.
-2. استشعار عظمة الله وجلاله وخوف الملائكة من هيبته سبحانه.
+1. عصمة من حفظ عشر آيات من أول سورة الكهف من فتنة الدجال العظمى ببركة التوحيد واليقين.
+2. فضل مدارسة سورة الكهف وتدبر معانيها الإيمانية الحصينة في صد الشبهات والشهوات والفتن.
+
+
 
 </div>
 
@@ -641,7 +715,9 @@
 * **Companion Narrator:** Narrated by Abu ad-Darda' (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (809) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (809) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Internalizing the profound monotheistic meanings and stories of steadfast youth in Surah Al-Kahf grants divine spiritual immunity against deception.
+* **Key Lessons & Takeaways:**
+Internalizing the profound monotheistic meanings and stories of steadfast youth in Surah Al-Kahf grants divine spiritual immunity against deception.
+
 
 ---
 
@@ -656,11 +732,13 @@
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «لَيْسَ مِنْ بَلَدٍ إِلَّا سَيَطَؤُهُ الدَّجَّالُ، إِلَّا مَكَّةَ وَالْمَدِينَةَ، لَيْسَ لَهُ مِنْ نِقَابِهَا نَقْبٌ إِلَّا عَلَيْهِ الْمَلَائِكَةُ صَافِّينَ يَحْرُسُونَهَا...».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (1881), Sahih Muslim (2943) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (1881), Sahih Muslim (2943) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اللهم صيباً نافعاً عند نزول المطر؛ سؤال البركة والنفع بالغيث.
-2. وقت نزول المطر من مواطن إجابة الدعاء ونزول الرحمة.
+1. صيانة مكة المكرمة والمدينة المنورة وحمايتهما بالملائكة الصافين على نقابهما من دخول الدجال.
+2. رجفان المدينة ثلاث رجفات لإخراج كل منافق وكافر منها وبقاء الخلص الأتقياء في حرم رسول الله ﷺ.
+
+
 
 </div>
 
@@ -673,7 +751,9 @@
 * **Companion Narrator:** Narrated by Anas ibn Malik (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (1881), Sahih Muslim (2943) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (1881), Sahih Muslim (2943) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The two Holy Sanctuaries are divinely shielded by angelic armies from the physical entry of the False Messiah.
+* **Key Lessons & Takeaways:**
+The two Holy Sanctuaries are divinely shielded by angelic armies from the physical entry of the False Messiah.
+
 
 ---
 
@@ -688,11 +768,13 @@
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «يَخْرُجُ الدَّجَّالُ فَيَتَوَجَّهُ قِبَلَهُ رَجُلٌ مِنَ الْمُؤْمِنِينَ... فَيَقُولُ: أَشْهَدُ أَنَّكَ الدَّجَّالُ الَّذِي حَدَّثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم حَدِيثَهُ... فَيَقْتُلُهُ ثُمَّ يُحْيِيهِ... فَيَقُولُ: وَاللَّهِ مَا كُنْتُ فِيكَ أَشَدَّ بَصِيرَةً مِنِّي الْيَوْمَ! فَيُرِيدُ الدَّجَّالُ أَنْ يَقْتُلَهُ فَلَا يُسَلَّطُ عَلَيْهِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (1882), Sahih Muslim (2938) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (1882), Sahih Muslim (2938) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اللهم أهله علينا بالأمن والإيمان والسلامة والإسلام ربي وربك الله عند رؤية الهلال.
-2. ربط بدايات الشهور بالدعاء بالسلامة والاستقامة على الحق.
+1. خروج أفضل الناس وأعظمهم شهادة لجهاد الدجال وتكذيبه في وجهه دون خوف من بطشه وجبروته.
+2. عجز الدجال عن إعادة قتل ذلك الشاب المؤمن بعد إحيائه، وانكشاف عجزه وضعفه أمام الملأ.
+
+
 
 </div>
 
@@ -705,7 +787,9 @@
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (1882), Sahih Muslim (2938) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (1882), Sahih Muslim (2938) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The pinnacle of courage is speaking absolute truth in the face of the ultimate tyrant; prophetic knowledge empowers believers against all fear.
+* **Key Lessons & Takeaways:**
+The pinnacle of courage is speaking absolute truth in the face of the ultimate tyrant; prophetic knowledge empowers believers against all fear.
+
 
 ---
 
@@ -720,11 +804,13 @@
 > عَنِ النَّوَّاسِ بْنِ سَمْعَانَ رَضِيَ اللَّهُ عَنْهُ، فِي حَدِيثِ الدَّجَّالِ الطَّوِيلِ، قَالَ: «إِذْ بَعَثَ اللَّهُ الْمَسِيحَ ابْنَ مَرْيَمَ، فَيَنْزِلُ عِنْدَ الْمَنَارَةِ الْبَيْضَاءِ شَرْقِيَّ دِمَشْقَ، بَيْنَ مَهْرُودَتَيْنِ، وَاضِعًا كَفَّيْهِ عَلَى أَجْنِحَةِ مَلَكَيْنِ... فَيَطْلُبُهُ حَتَّى يُدْرِكَهُ بِبَابِ لُدٍّ فَيَقْتُلُهُ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2937) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2937) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ذهب الظمأ وابتلت العروق وثبت الأجر إن شاء الله عند الإفطار.
-2. التمتع بنعمة الطعام بعد الصيام مع اليقين بثبوت الأجر الجزيل.
+1. نزول نبي الله عيسى بن مريم عليه السلام عند المنارة البيضاء شرقي دمشق واضعاً كفيه على أجنحة ملكين.
+2. ملاحقة عيسى للمسيح الدجال حتى يدركه عند باب لد بفلسطين فيقتله بحربته وتطهير الأرض من فتنته.
+
+
 
 </div>
 
@@ -737,7 +823,9 @@
 * **Companion Narrator:** Narrated by An-Nawwas ibn Sam'an (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2937) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2937) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Definitive creedal affirmation of the physical descent of Prophet 'Isa to eradicate falsehood and establish global divine justice.
+* **Key Lessons & Takeaways:**
+Definitive creedal affirmation of the physical descent of Prophet 'Isa to eradicate falsehood and establish global divine justice.
+
 
 ---
 
@@ -752,11 +840,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «وَالَّذِي نَفْسِي بِيَدِهِ، لَيُوشِكَنَّ أَنْ يَنْزِلَ فِيكُمُ ابْنُ مَرْيَمَ حَكَمًا عَدْلًا، فَيَكْسِرَ الصَّلِيبَ، وَيَقْتُلَ الْخِنْزِيرَ، وَيَضَعَ الْجِزْيَةَ، وَيَفِيضَ الْمَالُ حَتَّى لَا يَقْبَلَهُ أَحَدٌ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2222), Sahih Muslim (155) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2222), Sahih Muslim (155) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الحمد لله الذي كساني هذا الثوب ورزقنيه من غير حول مني ولا قوة؛ غفر له ما تقدم من ذنبه.
-2. شكر المنعم على نعمة اللباس والستر وتجريد الحول والقوة لله.
+1. حكم عيسى بن مريم عليه السلام بشريعة محمد ﷺ حكماً مقسطاً عادلاً، وكسره للصليب وقتله للخنزير.
+2. فيضان المال والبركات ونزول السلام والرخاء الشامل في الأرض حتى لا يقبل أحد الصدقة لغنى الناس.
+
+
 
 </div>
 
@@ -769,7 +859,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2222), Sahih Muslim (155) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2222), Sahih Muslim (155) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** 'Isa will judge strictly by the Quran and the Shari'ah of Muhammad ﷺ, destroying theological falsehoods and establishing universal peace.
+* **Key Lessons & Takeaways:**
+'Isa will judge strictly by the Quran and the Shari'ah of Muhammad ﷺ, destroying theological falsehoods and establishing universal peace.
+
 
 ---
 
@@ -784,11 +876,13 @@
 > عَنْ زَيْنَبَ بِنْتِ جَحْشٍ رَضِيَ اللَّهُ عَنْهَا، أَنَّ النَّبِيَّ صلى الله عليه وسلم اسْتَيْقَظَ مِنْ نَوْمِهِ مُحْمَرًّا وَجْهُهُ يَقُولُ: «لَا إِلَهَ إِلَّا اللَّهُ، وَيْلٌ لِلْعَرَبِ مِنْ شَرٍّ قَدِ اقْتَرَبَ، فُتِحَ الْيَوْمَ مِنْ رَدْمِ يَأْجُوجَ وَمَأْجُوجَ مِثْلُ هَذِهِ»، وَعَقَدَ بَيْنَ إِصْبَعَيْهِ الْإِبْهَامِ وَالَّتِي تَلِيهَا.
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3346), Sahih Muslim (2880) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3346), Sahih Muslim (2880) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. باسمك ربي وضعت جنبي وبك أرفعه، إن أمسكت نفسي فارحمها وإن أرسلتها فاحفظها بما تحفظ به عبادك الصالحين.
-2. تفويض الروح إلى بارئها عند النوم والاطمئنان بحفظه سبحانه.
+1. خروج يأجوج ومأجوج من وراء الردم وإفسادهم العريض في الأرض كأحد أشراط الساعة الكبرى.
+2. كثرة عددهم واندفاعهم من كل حدب ينسلون حتى يشرب أولهم بحيرة طبرية ولا يطيق أحد قتالهم.
+
+
 
 </div>
 
@@ -816,11 +910,13 @@
 > عَنِ النَّوَّاسِ بْنِ سَمْعَانَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ اللَّهَ يُوحِي إِلَى عِيسَى: «إِنِّي قَدْ أَخْرَجْتُ عِبَادًا لِي لَا يَدَانِ لِأَحَدٍ بِقِتَالِهِمْ، فَحَرِّزْ عِبَادِي إِلَى الطُّورِ... فَيَرْغَبُ نَبِيُّ اللَّهِ عِيسَى وَأَصْحَابُهُ إِلَى اللَّهِ، فَيُرْسِلُ اللَّهُ عَلَيْهِمُ النَّغَفَ فِي رِقَابِهِمْ، فَيُصْبِحُونَ فَرْسَى كَمَوْتِ نَفْسٍ وَاحِدَةٍ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2937) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2937) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الحمد لله الذي أحيانا بعد ما أماتنا وإليه النشور عند الاستيقاظ.
-2. استقبال الصباح الجديد بحمد الله على منحة الحياة والاستعداد للبعث.
+1. لجوء نبي الله عيسى والمؤمنين إلى جبل الطور وتضرعهم إلى الله تعالى لكشف كرب يأجوج ومأجوج.
+2. هلاك يأجوج ومأجوج بنغف يرسله الله في رقابهم، ثم تطهير الأرض من جيفهم بمطر عام مبارك.
+
+
 
 </div>
 
@@ -833,7 +929,9 @@
 * **Companion Narrator:** Narrated by An-Nawwas ibn Sam'an (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2937) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2937) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** No earthly military might can stand against divine decree; victory is achieved through sincere reliance and supplication to Allah.
+* **Key Lessons & Takeaways:**
+No earthly military might can stand against divine decree; victory is achieved through sincere reliance and supplication to Allah.
+
 
 ---
 
@@ -848,11 +946,13 @@
 > عَنِ النَّوَّاسِ بْنِ سَمْعَانَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم: «...ثُمَّ يُرْسِلُ اللَّهُ مَطَرًا فَيَغْسِلُ الْأَرْضَ... ثُمَّ يُقَالُ لِلْأَرْضِ: أَنْبِتِي ثَمَرَتَكِ، وَرُدِّي بَرَكَتَكِ، فَيَوْمَئِذٍ تَأْكُلُ الْعِصَابَةُ مِنَ الرُّمَّانَةِ وَيَسْتَظِلُّونَ بِقِحْفِهَا، وَيُبَارَكُ فِي الرِّسْلِ...».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2937) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2937) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اللهم لك الحمد أنت نور السماوات والأرض ومن فيهن، ولك الحمد أنت قيوم السماوات والأرض ومن فيهن؛ دعاء قيام الليل.
-2. الثناء المطلق على الله بأسمائه وصفاته قبل الشروع في التهجد.
+1. خروج المهدي من أهل بيت النبي ﷺ من ولد فاطمة يواطئ اسمه اسم النبي ﷺ واسم أبيه اسم أبيه.
+2. ملء المهدي الأرض قسطاً وعدلاً بعدما ملئت جوراً وظلماً، واجتماع كلمة المسلمين تحت رايته المباركة.
+
+
 
 </div>
 
@@ -865,7 +965,9 @@
 * **Companion Narrator:** Narrated by An-Nawwas ibn Sam'an (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2937) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2937) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** The golden era of earth under the reign of 'Isa will witness unprecedented cosmic barakah, security, and agricultural abundance.
+* **Key Lessons & Takeaways:**
+The golden era of earth under the reign of 'Isa will witness unprecedented cosmic barakah, security, and agricultural abundance.
+
 
 ---
 
@@ -880,11 +982,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «لَا تَقُومُ السَّاعَةُ حَتَّى تَطْلُعَ الشَّمْسُ مِنْ مَغْرِبِهَا، فَإِذَا طَلَعَتْ وَرَآهَا النَّاسُ آمَنُوا أَجْمَعُونَ، فَذَلِكَ حِينَ ﴿لَا يَنْفَعُ نَفْسًا إِيمَانُهَا لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا﴾».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (4635), Sahih Muslim (157) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (4635), Sahih Muslim (157) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. التمسك بالكتاب والسنة بفهم السلف الصالح هو سفينة النجاة وعصمة الأمة من كل تفرق وضلال.
-2. لزوم جماعة المسلمين ورفض الابتداع والأهواء المفرقة.
+1. إمامة رجل من هذه الأمة بالمسلمين ونزول عيسى بن مريم عليه السلام مؤتماً به ومصلياً خلفه.
+2. تكريم الله لهذه الأمة المحمدية الشريفة بجعل أئمتها من خيارها حتى مع حضور نبي من أولي العزم.
+
+
 
 </div>
 
@@ -897,7 +1001,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (4635), Sahih Muslim (157) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (4635), Sahih Muslim (157) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The rising of the sun from the west permanently seals the cosmic portal of repentance; faith accepted is only that exercised before this conclusive sign.
+* **Key Lessons & Takeaways:**
+The rising of the sun from the west permanently seals the cosmic portal of repentance; faith accepted is only that exercised before this conclusive sign.
+
 
 ---
 
@@ -912,11 +1018,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «ثَلَاثٌ إِذَا خَرَجْنَ لَا يَنْفَعُ نَفْسًا إِيمَانُهَا لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا: طُلُوعُ الشَّمْسِ مِنْ مَغْرِبِهَا، وَالدَّجَّالُ، وَدَابَّةُ الْأَرْضِ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (158) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (158) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. عظمة شريعة الإسلام وشمولها لجميع مناحي الحياة: العقيدة، والعبادة، والمعاملة، والأخلاق.
-2. دوام الاستقامة على هدي النبي ﷺ حتى الممات لنيل الشفاعة والحوض والخلود في الجنان.
+1. طلوع الشمس من مغربها آية كونية إيذاناً بإغلاق باب التوبة تماماً إلى يوم القيامة.
+2. لا ينفع نفساً إيمانها لم تكن آمنت من قبل أو كسبت في إيمانها خيراً إذا طلعت الشمس من مغربها.
+
+
 
 </div>
 
@@ -929,7 +1037,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (158) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (158) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** True faith requires belief in the unseen; when catastrophic cosmic realities become physically undeniable, test-based repentance ceases.
+* **Key Lessons & Takeaways:**
+True faith requires belief in the unseen; when catastrophic cosmic realities become physically undeniable, test-based repentance ceases.
+
 
 ---
 
@@ -944,11 +1054,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «إِنَّ اللَّهَ يَبْعَثُ رِيحًا مِنَ الْيَمَنِ، أَلْيَنَ مِنَ الْحَرِيرِ، فَلَا تَدَعُ أَحَدًا فِي قَلْبِهِ مِثْقَالُ حَبَّةٍ - أَوْ مِثْقَالُ ذَرَّةٍ - مِنْ إِيمَانٍ إِلَّا قَبَضَتْهُ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (117) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (117) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الحث على نشر العلم والسنة وتبليغها للأجيال: 'نضر الله امرأً سمع مقالتي فوعاها فأداها كما سمعها'.
-2. الأمانة العلمية في نقل الحديث النبوي الشريف والتثبت في روايته.
+1. خروج دابة الأرض في الضحى تسم الناس على خراطيمهم وتميز المؤمن من الكافر بعلامة ظاهرة.
+2. تجريد أهل النفاق والباطل من أقنعتهم وإعلان الحق الصريح الذي لا مرية فيه قبل مباغتة الحساب.
+
+
 
 </div>
 
@@ -961,7 +1073,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (117) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (117) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Divine mercy ensures that genuine believers are spared experiencing the terrifying final destruction of the universe.
+* **Key Lessons & Takeaways:**
+Divine mercy ensures that genuine believers are spared experiencing the terrifying final destruction of the universe.
+
 
 ---
 
@@ -976,11 +1090,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «لَا تَقُومُ السَّاعَةُ إِلَّا عَلَى شِرَارِ النَّاسِ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2949) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2949) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. البركة في البكور وفي التبكير في طلب العلم والمعاش والعمل الصالح.
-2. اغتنام ساعات الصباح الأولى في الإنجاز والإنتاج والعبادة.
+1. إرسال الله تعالى ريحاً طيبة لينة ألين من الحرير تقبض أرواح كل من في قلبه مثقال ذرة من إيمان.
+2. بقاء شرار الخلق وعتاتهم يتواثبون في الأرض تهارج الحمر والبهائم، وعليهم وحدهم تقوم الساعة.
+
+
 
 </div>
 
@@ -993,7 +1109,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn Mas'ud (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2949) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2949) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** The apocalyptic finale of the cosmos will only be witnessed by those who have utterly abandoned morality and monotheism.
+* **Key Lessons & Takeaways:**
+The apocalyptic finale of the cosmos will only be witnessed by those who have utterly abandoned morality and monotheism.
+
 
 ---
 
@@ -1008,11 +1126,13 @@
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «لَا تَقُومُ السَّاعَةُ حَتَّى لَا يُقَالَ فِي الْأَرْضِ: اللَّهُ، اللَّهُ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (148) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (148) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. المسلم للمسلم كالبنيان يشد بعضه بعضاً في الشدائد والملمات.
-2. إرساء قواعد التكافل الاجتماعي والتراحم والتعاطف بين أفراد الأمة.
+1. هدم ذي السويقتين من الحبشة للكعبة المشرفة حجراً حجراً وتجريدها من كسوتها وزينتها في آخر الزمان.
+2. رفع القرآن الكريم وخلو الأرض من بيت الله ومن التوحيد قبل حلول النفخة الصاعقة الكبرى.
+
+
 
 </div>
 
@@ -1025,7 +1145,9 @@
 * **Companion Narrator:** Narrated by Anas ibn Malik (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (148) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (148) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** The existence and preservation of the universe are anchored in the remembrance and worship of Allah; when dhikr ceases completely, cosmic destruction commences.
+* **Key Lessons & Takeaways:**
+The existence and preservation of the universe are anchored in the remembrance and worship of Allah; when dhikr ceases completely, cosmic destruction commences.
+
 
 ---
 
@@ -1040,11 +1162,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «يُخَرِّبُ الْكَعْبَةَ ذُو السُّوَيْقَتَيْنِ مِنَ الْحَبَشَةِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (1591), Sahih Muslim (2909) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (1591), Sahih Muslim (2909) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إنما الأعمال بالخواتيم؛ فليجتهد المسلم في حسن العمل وسؤال الله حسن الختام.
-2. الحذر من العجب بالعمل والاعتماد على فضل الله ورحمته.
+1. خروج نار عظيمة من قعر عدن باليمن تحشر الناس وتبيت معهم حيث باتوا وتقيل معهم حيث قالوا.
+2. حشر الناس إلى أرض الشام قبل الصعق الأخير وهي آخر العلامات الكبرى المذكورة في السنة.
+
+
 
 </div>
 
@@ -1057,7 +1181,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (1591), Sahih Muslim (2909) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (1591), Sahih Muslim (2909) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** At the very close of earthly time after the passing of all believers, the Sacred House will be demolished stone by stone.
+* **Key Lessons & Takeaways:**
+At the very close of earthly time after the passing of all believers, the Sacred House will be demolished stone by stone.
+
 
 ---
 
@@ -1072,11 +1198,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «مَا بَيْنَ النَّفْخَتَيْنِ أَرْبَعُونَ». قَالُوا: يَا أَبَا هُرَيْرَةَ، أَرْبَعُونَ يَوْمًا؟ قَالَ: أَبَيْتُ، قَالُوا: أَرْبَعُونَ شَهْرًا؟ قَالَ: أَبَيْتُ، قَالُوا: أَرْبَعُونَ سَنَةً؟ قَالَ: أَبَيْتُ، «ثُمَّ يُنْزِلُ اللَّهُ مِنَ السَّمَاءِ مَاءً فَيَنْبُتُونَ كَمَا يَنْبُتُ الْبَقْلُ، لَيْسَ مِنَ الْإِنْسَانِ شَيْءٌ إِلَّا يَبْلَى، إِلَّا عَظْمًا وَاحِدًا وَهُوَ عَجْبُ الذَّنَبِ، وَمِنْهُ يُرَكَّبُ الْخَلْقُ يَوْمَ الْقِيَامَةِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (4651), Sahih Muslim (2955) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (4651), Sahih Muslim (2955) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من أحب لقاء الله أحب الله لقاءه، ومن كره لقاء الله كره الله لقاءه.
-2. شوق المؤمن إلى لقاء ربه ونعيم الآخرة واستبشاره عند نزول ملك الموت.
+1. فضل بلاد الشام في آخر الزمان وأنها أرض المحشر والمنشر وعقر دار المؤمنين وأجنادهم.
+2. لزوم الشام عند وقوع الفتن الكبرى لضمان الفسطاط الإيماني المأمون ببركة دعاء النبي ﷺ.
+
+
 
 </div>
 
@@ -1089,7 +1217,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (4651), Sahih Muslim (2955) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (4651), Sahih Muslim (2955) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Absolute bodily resurrection is an unquestionable certainty; every soul will be re-created from its primal seed.
+* **Key Lessons & Takeaways:**
+Absolute bodily resurrection is an unquestionable certainty; every soul will be re-created from its primal seed.
+
 
 ---
 
@@ -1104,11 +1234,13 @@
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: «يُحْشَرُ النَّاسُ يَوْمَ الْقِيَامَةِ حُفَاةً عُرَاةً غُرْلًا»، قُلْتُ: يَا رَسُولَ اللَّهِ، النِّسَاءُ وَالرِّجَالُ جَمِيعًا يَنْظُرُ بَعْضُهُمْ إِلَى بَعْضٍ؟! قَالَ: «يَا عَائِشَةُ، الْأَمْرُ أَشَدُّ مِنْ أَنْ يَنْظُرَ بَعْضُهُمْ إِلَى بَعْضٍ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (6527), Sahih Muslim (2859) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (6527), Sahih Muslim (2859) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. تحريم الظلم بكل صوره: 'يا عبادي إني حرمت الظلم على نفسي وجعلته بينكم محرماً فلا تظالموا'.
-2. افتقار الخلق التام إلى هداية الله ورزقه ومغفرته في كل شأن.
+1. النفخ في الصور نفخة الصعق الأولى فيهلك كل من في السموات والأرض إلا من شاء الله.
+2. النفخة الثانية للبعث والنشور وقيام الخلائق جميعاً من قبورهم شاخصة أبصارهم لرب العالمين.
+
+
 
 </div>
 
@@ -1121,7 +1253,9 @@
 * **Companion Narrator:** Narrated by 'A'ishah (may Allah be pleased with her)
 * **Canonical Reference:** Sahih al-Bukhari (6527), Sahih Muslim (2859) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (6527), Sahih Muslim (2859) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The overwhelming awe and gravity of the Day of Judgment completely obliterate all worldly physical instincts.
+* **Key Lessons & Takeaways:**
+The overwhelming awe and gravity of the Day of Judgment completely obliterate all worldly physical instincts.
+
 
 ---
 
@@ -1136,11 +1270,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «سَبْعَةٌ يُظِلُّهُمُ اللَّهُ فِي ظِلِّهِ يَوْمَ لَا ظِلَّ إِلَّا ظِلُّهُ: إِمَامٌ عَادِلٌ، وَشَابٌّ نَشَأَ فِي عِبَادَةِ اللَّهِ، وَرَجُلٌ قَلْبُهُ مُعَلَّقٌ فِي الْمَسَاجِدِ، وَرَجُلَانِ تَحَابَّا فِي اللَّهِ اجْتَمَعَا عَلَيْهِ وَتَفَرَّقَا عَلَيْهِ، وَرَجُلٌ دَعَتْهُ امْرَأَةٌ ذَاتُ مَنْصِبٍ وَجَمَالٍ فَقَالَ: إِنِّي أَخَافُ اللَّهَ، وَرَجُلٌ تَصَدَّقَ بِصَدَقَةٍ فَأَخْفَاهَا حَتَّى لَا تَعْلَمَ شِمَالُهُ مَا تُنْفِقُ يَمِينُهُ، وَرَجُلٌ ذَكَرَ اللَّهَ خَالِيًا فَفَاضَتْ عَيْنَاهُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (660), Sahih Muslim (1031) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (660), Sahih Muslim (1031) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. يا عبادي لو أن أولكم وآخركم وإنسكم وجنكم كانوا على أتقى قلب رجل واحد منكم ما زاد ذلك في ملكي شيئاً.
-2. كمال غنى الله المطلق عن طاعات العباد وتنزهه عن حاجتهم.
+1. حشر الخلائق يوم القيامة حفاة عراة غرلاً (غير مختونين) كما بدأ الله أول خلق يعيده.
+2. شدة هول الموقف وذهول النفوس؛ فالأمر أعظم وأفدح من أن ينظر أحد إلى عورة أحد من شدة الكرب.
+
+
 
 </div>
 
@@ -1153,7 +1289,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (660), Sahih Muslim (1031) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (660), Sahih Muslim (1031) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Cultivating supreme piety, secret charity, justice, and sincere devotion earns divine sanctuary beneath the Throne on the Day of Terror.
+* **Key Lessons & Takeaways:**
+Cultivating supreme piety, secret charity, justice, and sincere devotion earns divine sanctuary beneath the Throne on the Day of Terror.
+
 
 ---
 
@@ -1168,11 +1306,13 @@
 > عَنِ الْمِقْدَادِ بْنِ الْأَسْوَدِ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: «تُدْنَى الشَّمْسُ يَوْمَ الْقِيَامَةِ مِنَ الْخَلْقِ حَتَّى تَكُونَ مِنْهُمْ كَمِقْدَارِ مِيلٍ، فَيَكُونُ النَّاسُ عَلَى قَدْرِ أَعْمَالِهِمْ فِي الْعَرَقِ، فَمِنْهُمْ مَنْ يَكُونُ إِلَى كَعْبَيْهِ، وَمِنْهُمْ مَنْ يَكُونُ إِلَى رُكْبَتَيْهِ، وَمِنْهُمْ مَنْ يَكُونُ إِلَى حَقْوَيْهِ، وَمِنْهُمْ مَنْ يُلْجِمُهُ الْعَرَقُ إِلْجَامًا».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2864) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2864) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. يا عبادي إنما هي أعمالكم أحصيها لكم ثم أوفيكم إياها؛ فمن وجد خيراً فليحمد الله، ومن وجد غير ذلك فلا يلومن إلا نفسه.
-2. دقة الحساب وعدالة الجزاء الإلهي يوم القيامة.
+1. أول الخلائق يُكسى يوم القيامة هو خليل الرحمن إبراهيم عليه السلام لفضله وسابقته وخلته.
+2. مكانة إبراهيم العظيمة عند الله وشهادة نبينا محمد ﷺ له بالسبق والتكريم في ذلك المشهد الرهيب.
+
+
 
 </div>
 
@@ -1185,7 +1325,9 @@
 * **Companion Narrator:** Narrated by Al-Miqdad ibn al-Aswad (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2864) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2864) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Deeds directly determine one's spiritual comfort and standing during the prolonged standing on Judgment Day.
+* **Key Lessons & Takeaways:**
+Deeds directly determine one's spiritual comfort and standing during the prolonged standing on Judgment Day.
+
 
 ---
 
@@ -1200,11 +1342,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «إِنَّ اللَّهَ يُدْنِي الْمُؤْمِنَ فَيَضَعُ عَلَيْهِ كَنَفَهُ وَيَسْتُرُهُ، فَيَقُولُ: أَتَعْرِفُ ذَنْبَ كَذَا؟ أَتَعْرِفُ ذَنْبَ كَذَا؟ فَيَقُولُ: نَعَمْ أَيْ رَبِّ، حَتَّى إِذَا قَرَّرَهُ بِذُنُوبِهِ وَرَأَى فِي نَفْسِهِ أَنَّهُ هَلَكَ، قَالَ: سَتَرْتُهَا عَلَيْكَ فِي الدُّنْيَا، وَأَنَا أَغْفِرُهَا لَكَ الْيَوْمَ، فَيُعْطَى كِتَابَ حَسَنَاتِهِ...».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2441), Sahih Muslim (2768) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2441), Sahih Muslim (2768) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الإكثار من الصلاة على النبي ﷺ ليلة الجمعة ويوم الجمعة؛ فإن صلاتكم معروضة عليّ.
-2. رد السلام من النبي ﷺ على كل من يسلم عليه في كل مكان وزمان.
+1. دنو الشمس من رؤوس الخلائق يوم القيامة بمقدار ميل ومضاعفة حرارتها على أهل المحشر.
+2. غرق الناس في عرقهم على قدر أعمالهم وذنوبهم: فمنهم إلى كعبيه، ومنهم إلى ركبتيه، ومنهم من يلجمه إلجاماً.
+
+
 
 </div>
 
@@ -1217,7 +1361,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (2441), Sahih Muslim (2768) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2441), Sahih Muslim (2768) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The boundless mercy of Allah towards the sincere, penitent believer whose sins are concealed and permanently pardoned.
+* **Key Lessons & Takeaways:**
+The boundless mercy of Allah towards the sincere, penitent believer whose sins are concealed and permanently pardoned.
+
 
 ---
 
@@ -1232,11 +1378,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «لَتُؤَدُّنَّ الْحُقُوقَ إِلَى أَهْلِهَا يَوْمَ الْقِيَامَةِ، حَتَّى يُقَادَ لِلشَّاةِ الْجَلْحَاءِ مِنَ الشَّاةِ الْقَرْنَاءِ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2582) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2582) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. فضل عمارة المساجد بالصلاة والذكر والاعتكاف: 'أحب البلاد إلى الله مساجدها وأبغض البلاد إلى الله أسواقها'.
-2. المساجد بيوت الله ومحاضن الهداية والسكينة في الأرض.
+1. ظلال عرش الرحمن السبعة يوم لا ظل إلا ظله: الإمام العادل، والشاب الناشئ في عبادة الله، ورجل قلبه معلق بالمساجد.
+2. فضل إخفاء الصدقة والعفة عن الفواحش والبكاء من خشية الله والحب الخالص في جلال الله.
+
+
 
 </div>
 
@@ -1249,7 +1397,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2582) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2582) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Absolute universal justice: not a single ounce of injustice committed in this world will go unredressed before the Divine Court.
+* **Key Lessons & Takeaways:**
+Absolute universal justice: not a single ounce of injustice committed in this world will go unredressed before the Divine Court.
+
 
 ---
 
@@ -1264,11 +1414,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «أَتَدْرُونَ مَا الْمُفْلِسُ؟» قَالُوا: الْمُفْلِسُ فِينَا مَنْ لَا دِرْهَمَ لَهُ وَلَا مَتَاعَ. فَقَالَ: «إِنَّ الْمُفْلِسَ مِنْ أُمَّتِي يَأْتِي يَوْمَ الْقِيَامَةِ بِصَلَاةٍ وَصِيَامٍ وَزَكَاةٍ، وَيَأْتِي قَدْ شَتَمَ هَذَا، وَقَذَفَ هَذَا، وَأَكَلَ مَالَ هَذَا، وَسَفَكَ دَمَ هَذَا، وَضَرَبَ هَذَا، فَيُعْطَى هَذَا مِنْ حَسَنَاتِهِ، وَهَذَا مِنْ حَسَنَاتِهِ، فَإِنْ فَنِيَتْ حَسَنَاتُهُ قَبْلَ أَنْ يُقْضَى مَا عَلَيْهِ، أُخِذَ مِنْ خَطَايَاهُمْ فَطُرِحَتْ عَلَيْهِ، ثُمَّ طُرِحَ فِي النَّارِ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2581) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2581) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من غدا إلى المسجد أو راح أعد الله له نزلاً في الجنة كلما غدا أو راح.
-2. الاستكثار من التردد على المساجد لأداء الصلوات في جماعة.
+1. الشفاعة العظمى للنبي ﷺ في فصل القضاء بعد تراجع آدم ونوح وإبراهيم وموسى وعيسى عليهم السلام.
+2. سجود النبي ﷺ تحت العرش وفتحه عليه بمحامد لم يفتح بها على أحد، وإكرامه بقوله تعالى: 'سل تُعطَ واشفع تُشفَّع'.
+
+
 
 </div>
 
@@ -1281,7 +1433,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (2581) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2581) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Ritual worship without moral integrity and respect for human rights can lead to total spiritual bankruptcy on the Day of Judgment.
+* **Key Lessons & Takeaways:**
+Ritual worship without moral integrity and respect for human rights can lead to total spiritual bankruptcy on the Day of Judgment.
+
 
 ---
 
@@ -1296,11 +1450,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ فِي حَدِيثِ الرُّؤْيَةِ الطَّوِيلِ: «...وَيُضْرَبُ الصِّرَاطُ بَيْنَ ظَهْرَيْ جَهَنَّمَ، فَأَكُونُ أَنَا وَأُمَّتِي أَوَّلَ مَنْ يُجِيزُ، وَلَا يَتَكَلَّمُ يَوْمَئِذٍ إِلَّا الرُّسُلُ، وَدَعْوَى الرُّسُلِ يَوْمَئِذٍ: اللَّهُمَّ سَلِّمْ سَلِّمْ، وَفِيهِ كَلَالِيبُ مِثْلُ شَوْكِ السَّعْدَانِ... تَخْطَفُ النَّاسَ بِأَعْمَالِهِمْ...».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (806), Sahih Muslim (182) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (806), Sahih Muslim (182) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. صلاة الجماعة تفضل صلاة الفذ بسبع وعشرين درجة.
-2. عظيم مضاعفة الأجر في صلاة الجماعة ووحدة صفوف المسلمين.
+1. نصب الصراط على متن جهنم وهو دحض مزلة أدق من الشعرة وأحد من السيف يمر الناس عليه بأعمالهم.
+2. مرور المؤمنين كالبرق وكالريح وكأجاويد الخيل، وسقوط المفرطين الظالمين في دركات الجحيم.
+
+
 
 </div>
 
@@ -1313,7 +1469,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (806), Sahih Muslim (182) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (806), Sahih Muslim (182) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Every human will traverse the Bridge over Hell; speed and safety in crossing correspond directly to adherence to the straight path (Sirat al-Mustaqim) in this life.
+* **Key Lessons & Takeaways:**
+Every human will traverse the Bridge over Hell; speed and safety in crossing correspond directly to adherence to the straight path (Sirat al-Mustaqim) in this life.
+
 
 ---
 
@@ -1328,11 +1486,13 @@
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «يَخْرُجُ مِنَ النَّارِ مَنْ قَالَ: لَا إِلَهَ إِلَّا اللَّهُ، وَفِي قَلْبِهِ وَزْنُ شَعِيرَةٍ مِنْ خَيْرٍ، وَيَخْرُجُ مِنَ النَّارِ مَنْ قَالَ: لَا إِلَهَ إِلَّا اللَّهُ، وَفِي قَلْبِهِ وَزْنُ بُرَّةٍ مِنْ خَيْرٍ، وَيَخْرُجُ مِنَ النَّارِ مَنْ قَالَ: لَا إِلَهَ إِلَّا اللَّهُ، وَفِي قَلْبِهِ وَزْنُ ذَرَّةٍ مِنْ خَيْرٍ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (44), Sahih Muslim (193) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (44), Sahih Muslim (193) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. بشر المشائين في الظلم إلى المساجد بالنور التام يوم القيامة.
-2. فضيلة حضور صلاتي الفجر والعشاء في المسجد في ظلمة الليل.
+1. دعاء الرسل على الصراط: 'اللهم سلم سلم' لشدة الهول وعظم الخطاطيف والكلاليب المأمورة بالخطف.
+2. نجاة من تمسك بالحق والتوحيد وخفة ميزانه بالحسنات الصالحة المخلصة لله تعالى.
+
+
 
 </div>
 
@@ -1345,7 +1505,9 @@
 * **Companion Narrator:** Narrated by Anas ibn Malik (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (44), Sahih Muslim (193) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (44), Sahih Muslim (193) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Sincere Tawhid (pure monotheism) guarantees eventual deliverance from Hellfire; no soul with an atom of faith will remain in Hell eternally.
+* **Key Lessons & Takeaways:**
+Sincere Tawhid (pure monotheism) guarantees eventual deliverance from Hellfire; no soul with an atom of faith will remain in Hell eternally.
+
 
 ---
 
@@ -1360,11 +1522,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «إِنِّي لَأَعْلَمُ آخِرَ أَهْلِ النَّارِ خُرُوجًا مِنْهَا، وَآخِرَ أَهْلِ الْجَنَّةِ دُخُولًا الْجَنَّةَ: رَجُلٌ يَخْرُجُ مِنَ النَّارِ حَبْوًا، فَيَقُولُ اللَّهُ لَهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ... فَيَقُولُ اللَّهُ: لَكَ ذَلِكَ وَعَشَرَةُ أَمْثَالِهِ، فَيَقُولُ: أَتَسْخَرُ بِي - أَوْ تَضْحَكُ بِي - وَأَنْتَ الْمَلِكُ؟! قَالَ: فَلَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ضَحِكَ حَتَّى بَدَتْ نَوَاجِذُهُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (6571), Sahih Muslim (186) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (6571), Sahih Muslim (186) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ما اجتمع قوم يذكرون الله إلا حفتهم الملائكة وغشيتهم الرحمة ونزلت عليهم السكينة وذكرهم الله فيمن عنده.
-2. فضل مجالس الذكر والعلم وأنها رياض الجنة في الدنيا.
+1. وزن الأعمال والنيات بميزان حقيقي عادل ذي كفتين ولسان لا يظلم مثقال حبة من خردل.
+2. ثقل كلمتي: 'سبحان الله وبحمده، سبحان الله العظيم' في الميزان وأنهما خفيفتان على اللسان حبيبتان للرحمن.
+
+
 
 </div>
 
@@ -1377,7 +1541,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn Mas'ud (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (6571), Sahih Muslim (186) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (6571), Sahih Muslim (186) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The lowest rank in Paradise is ten times the wealth, expanse, and beauty of the entire planet earth from beginning to end.
+* **Key Lessons & Takeaways:**
+The lowest rank in Paradise is ten times the wealth, expanse, and beauty of the entire planet earth from beginning to end.
+
 
 ---
 
@@ -1392,11 +1558,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «قَالَ اللَّهُ تَعَالَى: أَعْدَدْتُ لِعِبَادِيَ الصَّالِحِينَ مَا لَا عَيْنٌ رَأَتْ، وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ، وَاقْرَءُوا إِنْ شِئْتُمْ: ﴿فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ﴾».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (3244), Sahih Muslim (2824) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (3244), Sahih Muslim (2824) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إذا مررتم برياض الجنة فارتعوا؛ قالوا: وما رياض الجنة؟ قال: حلق الذكر والعلم.
-2. الحرص على حضور دروس العلم النافع ومجالس الخير.
+1. تطاير الصحف وأخذ الكتب باليمين والشمال ونداء السعداء: ﴿هاؤم اقرءوا كتابيه﴾.
+2. فضل الحساب اليسير وهو العرض، والتحذير من مناقشة الحساب؛ فمن نوقش الحساب عُذّب.
+
+
 
 </div>
 
@@ -1409,7 +1577,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (3244), Sahih Muslim (2824) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (3244), Sahih Muslim (2824) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** The bliss of Paradise surpasses all human imagination; eternal joy awaits those who strive sincerely in this fleeting life.
+* **Key Lessons & Takeaways:**
+The bliss of Paradise surpasses all human imagination; eternal joy awaits those who strive sincerely in this fleeting life.
+
 
 ---
 
@@ -1424,11 +1594,13 @@
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ وَأَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «يُنَادِي مُنَادٍ: إِنَّ لَكُمْ أَنْ تَصِحُّوا فَلَا تَسْقَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَحْيَوْا فَلَا تَمُوتُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَشِبُّوا فَلَا تَهْرَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَنْعَمُوا فَلَا تَبْأَسُوا أَبَدًا».
 
 * **التَّخْرِيجُ:** Sahih Muslim (2837) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (2837) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. هم القوم لا يشقى بهم جليسهم؛ بركة صحبة الصالحين ونيل الرحمة والمغفرة بمجرد مجالستهم.
-2. فضل صحبة الأخيار والابتعاد عن قرناء السوء.
+1. ستر الله تعالى على عبده المؤمن في الخلوة وتقريره بذنوبه ثم قوله الكريم: 'سترتها عليك في الدنيا وأنا أغفرها لك اليوم'.
+2. سعة مغفرة الله وفضله لأهل التوحيد والإخلاص وحمايتهم من الفضيحة على رؤوس الأشهاد.
+
+
 
 </div>
 
@@ -1441,7 +1613,9 @@
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri and Abu Hurairah (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih Muslim (2837) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (2837) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Paradise completely eliminates the mortal vulnerabilities of sickness, aging, grief, anxiety, and death.
+* **Key Lessons & Takeaways:**
+Paradise completely eliminates the mortal vulnerabilities of sickness, aging, grief, anxiety, and death.
+
 
 ---
 
@@ -1456,11 +1630,13 @@
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «يُجَاءُ بِالْمَوْتِ يَوْمَ الْقِيَامَةِ كَأَنَّهُ كَبْشٌ أَمْلَحُ، فَيُوقَفُ بَيْنَ الْجَنَّةِ وَالنَّارِ، فَيُقَالُ: يَا أَهْلَ الْجَنَّةِ هَلْ تَعْرِفُونَ هَذَا؟ فَيَشْرَئِبُّونَ وَيَنْظُرُونَ وَيَقُولُونَ: نَعَمْ هَذَا الْمَوْتُ، ثُمَّ يُقَالُ: يَا أَهْلَ النَّارِ هَلْ تَعْرِفُونَ هَذَا؟ فَيَشْرَئِبُّونَ وَيَنْظُرُونَ وَيَقُولُونَ: نَعَمْ هَذَا الْمَوْتُ، فَيُؤْمَرُ بِهِ فَيُذْبَحُ، ثُمَّ يُقَالُ: يَا أَهْلَ الْجَنَّةِ خُلُودٌ فَلَا مَوْتَ، وَيَا أَهْلَ النَّارِ خُلُودٌ فَلَا مَوْتَ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (4730), Sahih Muslim (2849) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (4730), Sahih Muslim (2849) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. المرء مع من أحب يوم القيامة؛ أعظم بشرى للمؤمنين بمرافقة النبي ﷺ وصحابته بمحبتهم الصادقة.
-2. محبة أولياء الله وأهل طاعته وسيلة لنيل درجاتهم العلى.
+1. القصاص العادل بين الخلائق يوم القيامة حتى يقاد للشاة الجلحاء من الشاة القرناء التي نطحتها في الدنيا.
+2. حرمة الظلم بين العباد وأن كل مظلمة ستؤدى حتماً إلى صاحبها قبل دخول الجنة أو النار.
+
+
 
 </div>
 
@@ -1473,7 +1649,9 @@
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (4730), Sahih Muslim (2849) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (4730), Sahih Muslim (2849) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Total, irrevocable permanence of the afterlife; death itself is extinguished, confirming eternal joy for the believers and perpetual agony for the obstinate disbelievers.
+* **Key Lessons & Takeaways:**
+Total, irrevocable permanence of the afterlife; death itself is extinguished, confirming eternal joy for the believers and perpetual agony for the obstinate disbelievers.
+
 
 ---
 
@@ -1488,11 +1666,13 @@
 > عَنْ جَرِيرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُ قَالَ: كُنَّا جُلُوسًا عِنْدَ النَّبِيِّ صلى الله عليه وسلم، إِذْ نَظَرَ إِلَى الْقَمَرِ لَيْلَةَ الْبَدْرِ قَالَ: «إِنَّكُمْ سَتَرَوْنَ رَبَّكُمْ كَمَا تَرَوْنَ هَذَا الْقَمَرَ، لَا تُضَامُونَ فِي رُؤْيَتِهِ، فَإِنِ اسْتَطَعْتُمْ أَنْ لَا تُغْلَبُوا عَلَى صَلَاةٍ قَبْلَ طُلُوعِ الشَّمْسِ وَصَلَاةٍ قَبْلَ غُرُوبِهَا فَافْعَلُوا»، ثُمَّ قَرَأَ: ﴿وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ﴾.
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (554), Sahih Muslim (633) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (554), Sahih Muslim (633) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. أوثق عرى الإيمان: الحب في الله والبغض في الله.
-2. إخلاص الموالاة والمعاداة لله ولدينه وتجريد القلب من الأهواء الدنيوية.
+1. المفلس الحقيقي من يأتي يوم القيامة بصلاة وصيام وزكاة ويأتي وقد شتم هذا وقذف هذا وأكل مال هذا.
+2. فناء حسنات الظالم بنقلها إلى المظلومين، فإن فنيت أُخذ من سيئاتهم فطُرحت عليه ثم طُرح في النار.
+
+
 
 </div>
 
@@ -1505,7 +1685,9 @@
 * **Companion Narrator:** Narrated by Jarir ibn 'Abdullah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (554), Sahih Muslim (633) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (554), Sahih Muslim (633) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Beholding the Divine Countenance of Allah the Almighty is the ultimate, unmatched crown of bliss in the Gardens of Eternity.
+* **Key Lessons & Takeaways:**
+Beholding the Divine Countenance of Allah the Almighty is the ultimate, unmatched crown of bliss in the Gardens of Eternity.
+
 
 ---
 
@@ -1520,11 +1702,13 @@
 > عَنْ صُهَيْبٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «إِذَا دَخَلَ أَهْلُ الْجَنَّةِ الْجَنَّةَ، قَالَ: يَقُولُ اللَّهُ تَبَارَكَ وَتَعَالَى: تُرِيدُونَ شَيْئًا أَزِيدُكُمْ؟ فَيَقُولُونَ: أَلَمْ تُبَيِّضْ وُجُوهَنَا؟ أَلَمْ تُدْخِلْنَا الْجَنَّةَ وَتُنَجِّنَا مِنَ النَّارِ؟ قَالَ: فَيَكْشِفُ الْحِجَابَ، فَمَا أُعْطُوا شَيْئًا أَحَبَّ إِلَيْهِمْ مِنَ النَّظَرِ إِلَى رَبِّهِمْ عَزَّ وَجَلَّ»، ثُمَّ تَلَا هَذِهِ الْآيَةَ: ﴿لِلَّذِينَ أَحْسَنُوا الْحُسْنَى وَزِيَادَةٌ﴾.
 
 * **التَّخْرِيجُ:** Sahih Muslim (181) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (181) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. وجبت محبتي للمتحابين فيّ، والمتجالسين فيّ، والمتزاورين فيّ، والمتباذلين فيّ.
-2. علو شأن الأخوة الإيمانية الخالصة في استحقاق محبة الرحمن ورضوانه.
+1. شفاعة النبي ﷺ والملائكة والشهداء والصالحين في إخراج عصاة الموحدين من النار بعد امحاء ذنوبهم.
+2. إخراج الله تعالى برحمته الواسعة من النار كل من قال لا إله إلا الله وكان في قلبه أدنى أدنى مثقال حبة من خردل من إيمان.
+
+
 
 </div>
 
@@ -1537,7 +1721,9 @@
 * **Companion Narrator:** Narrated by Suhayb (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (181) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (181) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** All bodily, material, and spiritual rewards of Paradise pale in comparison to the sublime ecstasy of gazing upon Allah the Most High.
+* **Key Lessons & Takeaways:**
+All bodily, material, and spiritual rewards of Paradise pale in comparison to the sublime ecstasy of gazing upon Allah the Most High.
+
 
 ---
 
@@ -1552,11 +1738,13 @@
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «إِنَّ اللَّهَ يَقُولُ لِأَهْلِ الْجَنَّةِ: يَا أَهْلَ الْجَنَّةِ، فَيَقُولُونَ: لَبَّيْكَ رَبَّنَا وَسَعْدَيْكَ، وَالْخَيْرُ فِي يَدَيْكَ، فَيَقُولُ: هَلْ رَضِيتُمْ؟ فَيَقُولُونَ: وَمَا لَنَا لَا نَرْضَى يَا رَبِّ وَقَدْ أَعْطَيْتَنَا مَا لَمْ تُعْطِ أَحَدًا مِنْ خَلْقِكَ! فَيَقُولُ: أَلَا أُعْطِيكُمْ أَفْضَلَ مِنْ ذَلِكَ؟ فَيَقُولُونَ: يَا رَبِّ، وَأَيُّ شَيْءٍ أَفْضَلُ مِنْ ذَلِكَ؟! فَيَقُولُ: أُحِلُّ عَلَيْكُمْ رِضْوَانِي فَلَا أَسْخَطُ عَلَيْكُمْ بَعْدَهُ أَبَدًا».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (6549), Sahih Muslim (2829) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (6549), Sahih Muslim (2829) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. المتحابون في جلالي لهم منابر من نور يغبطهم النبيون والشهداء يوم القيامة.
-2. المنزلة الرفيعة والضياء العظيم الذي يناله المخلصون في محبة إخوانهم لله.
+1. ذبح الموت على هيئة كبش أملح بين الجنة والنار والنداء الخالد: 'يا أهل الجنة خلود فلا موت، ويا أهل النار خلود فلا موت'.
+2. تمام النعيم والبهجة الأبدية لأهل الجنة، وكمال الحسرة واليأس القاطع لأهل النار وخلود الفريقين في دارهما.
+
+
 
 </div>
 
@@ -1569,7 +1757,9 @@
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (6549), Sahih Muslim (2829) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (6549), Sahih Muslim (2829) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Attaining the perpetual, everlasting Pleasure of Allah Almighty is the supreme pinnacle of existence, sealing the believers in eternal peace and unconditional divine love.
+* **Key Lessons & Takeaways:**
+Attaining the perpetual, everlasting Pleasure of Allah Almighty is the supreme pinnacle of existence, sealing the believers in eternal peace and unconditional divine love.
+
 
 ---
 
@@ -1584,11 +1774,12 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ، حَبِيبَتَانِ إِلَى الرَّحْمَنِ: سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (7563 — the final Hadith of Sahih al-Bukhari), Sahih Muslim (2694) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (7563 — the final Hadith of Sahih al-Bukhari), Sahih Muslim (2694) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ختام هذا المصنف المبارك بالحمد والثناء على الله تعالى، والصلاة والسلام على نبينا محمد ﷺ خير البرية.
-2. استمساك المسلم بهذا الكنز الجامع (1001 حديث صحيح) علماً وعملاً ونشراً وهداية لنيل الفوز العظيم في الدنيا والآخرة.
+1. أعظم نعيم أهل الجنة على الإطلاق: النظر إلى وجه الله الكريم ورضوانه الأكبر الذي لا سخط بعده أبداً.
+2. تكامل النعيم الروحي والقلبي برؤية الرب الرحيم: ﴿وجوه يومئذ ناضرة إلى ربها ناظرة﴾ مسك ختام الكتاب وأعظم غايات الإيمان.
+
 
 </div>
 

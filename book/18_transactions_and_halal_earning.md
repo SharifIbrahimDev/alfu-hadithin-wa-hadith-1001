@@ -1,4 +1,4 @@
-﻿# Chapter 18: Book of Transactions, Halal Earning & Financial Integrity
+# Chapter 18: Book of Transactions, Halal Earning & Financial Integrity
 # كِتَابُ الْمُعَامَلَاتِ وَالْبُيُوعِ وَالْكَسْبِ الْحَلَالِ
 
 ---
@@ -16,11 +16,13 @@
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «التَّاجِرُ الصَّدُوقُ الأَمِينُ مَعَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (1209), Sunan ad-Darimi (2539) — Maktaba Shamela. Grading: Sahih li-Ghayrihi (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (1209), Sunan ad-Darimi (2539) — Maktaba Shamela. Grading: Sahih li-Ghayrihi (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ لِغَيْرِهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. لموضع سوط أحدكم في الجنة خير من الدنيا وما عليها.
-2. هوان الدنيا أمام أبسط مساحة ونعيم في الفردوس الأعلى.
+1. التاجر الصدوق الأمين مع النبيين والصديقين والشهداء يوم القيامة لجهاده نفسه في لزوم الأمانة.
+2. عظمة الصدق في التجارة ومراقبة الله في البيع والشراء وعدم كتمان العيوب أو البخس.
+
+
 
 </div>
 
@@ -33,7 +35,9 @@
 * **Companion Narrator:** Narrated by Abu Sa'id al-Khudri (may Allah be pleased with him)
 * **Canonical Reference:** Sunan at-Tirmidhi (1209), Sunan ad-Darimi (2539) — Maktaba Shamela. Grading: Sahih li-Ghayrihi (Al-Albani).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (1209), Sunan ad-Darimi (2539) — Maktaba Shamela. Grading: Sahih li-Ghayrihi (Al-Albani)**
-* **Key Lessons & Takeaways:** Engaging in trade with scrupulous honesty, truthfulness, and transparency elevates commercial enterprise into high worship, ranking the ethical merchant alongside the spiritual elite of humanity.
+* **Key Lessons & Takeaways:**
+Engaging in trade with scrupulous honesty, truthfulness, and transparency elevates commercial enterprise into high worship, ranking the ethical merchant alongside the spiritual elite of humanity.
+
 
 ---
 
@@ -48,11 +52,13 @@
 > عَنْ رَافِعِ بْنِ خَدِيجٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قِيلَ: يَا رَسُولَ اللَّهِ، أَيُّ الْكَسْبِ أَطْيَبُ؟ قَالَ: «عَمَلُ الرَّجُلِ بِيَدِهِ، وَكُلُّ بَيْعٍ مَبْرُورٍ».
 
 * **التَّخْرِيجُ:** Musnad Ahmad (17265), Al-Mustadrak 'ala al-Sahihayn by al-Hakim (2160) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih at-Targhib 1691).
-* **الْحُكْمُ:** Musnad Ahmad (17265), Al-Mustadrak 'ala al-Sahihayn by al-Hakim (2160) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih at-Targhib 1691).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إن أهل الجنة ليتراءون أهل الغرف من فوقهم كما تتراءون الكوكب الدري الغابر في الأفق من المشرق أو المغرب لتفاضل ما بينهم.
-2. التنافس في الأعمال الصالحة لنيل أعلى منازل الغرفات العلى.
+1. فضل العمل باليد والحرص على كسب الحلال الطيب، وأنه سنة أنبياء الله ورسله عليهم السلام.
+2. فضل البيع المبرور الخالي من الغش والخديعة والربا وسائر المحرمات.
+
+
 
 </div>
 
@@ -65,7 +71,9 @@
 * **Companion Narrator:** Narrated by Rafi' ibn Khadij (may Allah be pleased with him)
 * **Canonical Reference:** Musnad Ahmad (17265), Al-Mustadrak 'ala al-Sahihayn by al-Hakim (2160) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih at-Targhib 1691).
 * **Scholarly Grading:** **Musnad Ahmad (17265), Al-Mustadrak 'ala al-Sahihayn by al-Hakim (2160) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih at-Targhib 1691)**
-* **Key Lessons & Takeaways:** Islam honors productive physical labor, trade craftsmanship, and ethical commerce that avoids deception and unlawful exploitation.
+* **Key Lessons & Takeaways:**
+Islam honors productive physical labor, trade craftsmanship, and ethical commerce that avoids deception and unlawful exploitation.
+
 
 ---
 
@@ -80,11 +88,13 @@
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «رَحِمَ اللَّهُ رَجُلًا سَمْحًا إِذَا بَاعَ، وَإِذَا اشْتَرَى، وَإِذَا اقْتَضَى».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2076) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih al-Bukhari (2076) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. أدنى أهل الجنة منزلة يُعطى مثل الدنيا وعشرة أمثالها معها؛ فيقول: رضيت رب رضيت رب!
-2. سعة فضل الله الذي لا ينفد ولا تحيط به العقول.
+1. حث الإسلام على التسامح واليسر واللين في المعاملات المالية بيعاً وشراءً وقضاءً واقتضاءً.
+2. استحقاق المتعامل السمح لرحمة الله تعالى ومغفرته في الدنيا والآخرة جزاء يسره على عباد الله.
+
+
 
 </div>
 
@@ -97,7 +107,9 @@
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (2076) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih al-Bukhari (2076) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Generosity, kindness, and flexibility in financial transactions invite special divine mercy and ease in this life and the Hereafter.
+* **Key Lessons & Takeaways:**
+Generosity, kindness, and flexibility in financial transactions invite special divine mercy and ease in this life and the Hereafter.
+
 
 ---
 
@@ -112,11 +124,13 @@
 > عَنْ حَكِيمِ بْنِ حِزَامٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا - أَوْ قَالَ: حَتَّى يَتَفَرَّقَا - فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا، وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2079), Sahih Muslim (1532) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2079), Sahih Muslim (1532) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إن أهل الجنة يأكلون فيها ويشربون ولا يتفلون ولا يبولون ولا يتغوطون ولا يمتخطون؛ طعامهم جشاء ورشح كرشح المسك، يُلهمون التسبيح والتحميد كما يُلهمون النفس.
-2. تحول التسبيح والذكر في الجنة إلى تلذذ روحي وغذاء دائم بلا كلفة.
+1. إثبات خيار المجلس للمتبايعين ما لم يتفرقا بأبدانهما رعاية لمصلحتهما وتمام رضاهما.
+2. بركة الصدق والبيان وإظهار العيوب في البيع، وأن الكتمان والكذب ممحقة للبركة والرزق.
+
+
 
 </div>
 
@@ -129,7 +143,9 @@
 * **Companion Narrator:** Narrated by Hakim ibn Hizam (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2079), Sahih Muslim (1532) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2079), Sahih Muslim (1532) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Barakah in commercial wealth is tied directly to radical transparency and truthfulness; concealing product flaws drains the divine blessing out of any monetary profit.
+* **Key Lessons & Takeaways:**
+Barakah in commercial wealth is tied directly to radical transparency and truthfulness; concealing product flaws drains the divine blessing out of any monetary profit.
+
 
 ---
 
@@ -144,11 +160,13 @@
 > عَنِ النُّعْمَانِ بْنِ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: «إِنَّ الْحَلَالَ بَيِّنٌ، وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَهُمَا مُشْتَبِهَاتٌ لَا يَعْلَمُهُنَّ كَثِيرٌ مِنَ النَّاسِ، فَمَنِ اتَّقَى الشُّبُهَاتِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ، وَمَنْ وَقَعَ فِي الشُّبُهَاتِ وَقَعَ فِي الْحَرَامِ، كَالرَّاعِي يَرْعَى حَوْلَ الْحِمَى يُوشِكُ أَنْ يَرْتَعَ فِيهِ...».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (52), Sahih Muslim (1599) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (52), Sahih Muslim (1599) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ينادي منادٍ في أهل الجنة: إن لكم أن تصحوا فلا تسقموا أبداً، وإن لكم أن تحيوا فلا تموتوا أبداً، وإن لكم أن تشبوا فلا تهرموا أبداً، وإن لكم أن تنعموا فلا تبتئسوا أبداً.
-2. كمال الأمان ودوام الصحة والشباب والسعادة الأبدية.
+1. الحلال بيّن والحرام بيّن، وبينهما أمور مشتبهات لا يعلمها كثير من الناس.
+2. مشروعية الورع والابتعاد عن الشبهات استبراءً للدين والعرض، وحماية القلب من الفساد.
+
+
 
 </div>
 
@@ -161,7 +179,9 @@
 * **Companion Narrator:** Narrated by An-Nu'man ibn Bashir (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (52), Sahih Muslim (1599) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (52), Sahih Muslim (1599) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** A Muslim avoids questionable contracts, ambiguous financial schemes, and borderline earnings to preserve spiritual purity and reputation.
+* **Key Lessons & Takeaways:**
+A Muslim avoids questionable contracts, ambiguous financial schemes, and borderline earnings to preserve spiritual purity and reputation.
+
 
 ---
 
@@ -176,11 +196,13 @@
 > عَنِ الْحَسَنِ بْنِ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: حَفِظْتُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم: «دَعْ مَا يَرِيبُكَ إِلَى مَا لَا يَرِيبُكَ، فَإِنَّ الصِّدْقَ طُمَأْنِينَةٌ، وَإِنَّ الْكَذِبَ رِيبَةٌ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (2518), Sunan an-Nasa'i (5711) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (2518), Sunan an-Nasa'i (5711) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إن في الجنة لسوقاً يأتونها كل جمعة فتهب ريح الشمال فتحثو في وجوههم وثيابهم فيزدادون حسناً وجمالاً، فيرجعون إلى أهليهم فيقولون لهم: والله لقد ازددتم بعدنا حسناً وجمالاً.
-2. التجدد الدائم في الجمال والبهاء والنعيم في دار الخلود.
+1. قاعدة نبوية جليلة في السلوك والمعاملات: دع ما يريبك إلى ما لا يريبك.
+2. الصدق طمأنينة وسكينة في القلب، والكذب والشبهة ريبة وقلق واضطراب.
+
+
 
 </div>
 
@@ -193,7 +215,9 @@
 * **Companion Narrator:** Narrated by Al-Hasan ibn 'Ali (may Allah be pleased with them both)
 * **Canonical Reference:** Sunan at-Tirmidhi (2518), Sunan an-Nasa'i (5711) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (2518), Sunan an-Nasa'i (5711) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** Conscientiousness (Wara') requires relinquishing suspicious transactions or gray-area contracts in favor of unambiguous, unblemished halal income.
+* **Key Lessons & Takeaways:**
+Conscientiousness (Wara') requires relinquishing suspicious transactions or gray-area contracts in favor of unambiguous, unblemished halal income.
+
 
 ---
 
@@ -208,11 +232,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَرَّ عَلَى صُبْرَةِ طَعَامٍ، فَأَدْخَلَ يَدَهُ فِيهَا فَنَالَتْ أَصَابِعُهُ بَلَلًا، فَقَالَ: «مَا هَذَا يَا صَاحِبَ الطَّعَامِ؟» قَالَ: أَصَابَتْهُ السَّمَاءُ يَا رَسُولَ اللَّهِ. قَالَ: «أَفَلَا جَعَلْتَهُ فَوْقَ الطَّعَامِ كَيْ يَرَاهُ النَّاسُ؟ مَنْ غَشَّ فَلَيْسَ مِنِّي».
 
 * **التَّخْرِيجُ:** Sahih Muslim (102) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (102) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. يقول الله تبارك وتعالى لأهل الجنة: يا أهل الجنة! فيقولون: لبيك ربنا وسعديك والخير في يديك، فيقول: هل رضيتم؟ فيقولون: وما لنا لا نرضى وقد أعطيتنا ما لم تعطِ أحداً من خلقك! فيقول: أحل عليكم رضواني فلا أسخط عليكم بعده أبداً.
-2. رضوان الله تعالى هو الغاية العظمى وأكبر النعيم على الإطلاق.
+1. تحريم الغش والخديعة في البيع والشراء وكافة المعاملات المالية والشؤون الحياتية.
+2. وجوب النصح والبيان وإظهار عيوب السلع، وأن الغاش قد برئ من هدي النبي ﷺ وسنته.
+
+
 
 </div>
 
@@ -225,7 +251,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (102) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (102) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Concealing damaged goods, manipulating packaging, or misleading consumers violates Islamic ethics and removes one from the Prophetic standard of conduct.
+* **Key Lessons & Takeaways:**
+Concealing damaged goods, manipulating packaging, or misleading consumers violates Islamic ethics and removes one from the Prophetic standard of conduct.
+
 
 ---
 
@@ -240,11 +268,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «يَأْتِي عَلَى النَّاسِ زَمَانٌ، لَا يُبَالِي الْمَرْءُ مَا أَخَذَ مِنْهُ، أَمِنَ الْحَلَالِ أَمْ مِنَ الْحَرَامِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2059) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih al-Bukhari (2059) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إذا دخل أهل الجنة الجنة نادى منادٍ: يا أهل الجنة إن لكم عند الله موعداً يريد أن ينجزكموه! فيكشف الحجاب فما أعطوا شيئاً أحب إليهم من النظر إلى وجه ربهم عز وجل: {لِلَّذِينَ أَحْسَنُوا الْحُسْنَى وَزِيَادَةٌ}.
-2. النظر إلى وجه الله الكريم هو قرة عين المؤمنين وأعظم لذة في الوجود.
+1. التحذير النبوي الشديد من فساد الزمان بضعف الورع واستحلال المكاسب المحرمة.
+2. واجب المسلم مراقبة مصادر دخله وتطهير أمواله ومطعمه ومشربه من كل درهم خبيث.
+
+
 
 </div>
 
@@ -257,7 +287,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2059) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih al-Bukhari (2059) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** A warning against material greed overcoming moral boundaries; a true believer constantly audits their revenue streams regardless of prevailing societal corruption.
+* **Key Lessons & Takeaways:**
+A warning against material greed overcoming moral boundaries; a true believer constantly audits their revenue streams regardless of prevailing societal corruption.
+
 
 ---
 
@@ -272,11 +304,13 @@
 > عَنْ جَابِرٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: «لَعَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم آكِلَ الرِّبَا، وَمُؤْكِلَهُ، وَكَاتِبَهُ، وَشَاهِدَيْهِ»، وَقَالَ: «هُمْ سَوَاءٌ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (1598) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (1598) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إنكم سترون ربكم عياناً كما ترون هذا القمر لا تضامون في رؤيته؛ فإن استطعتم ألا تُغلبوا على صلاة قبل طلوع الشمس وقبل غروبها (الفجر والعصر) فافعلوا.
-2. إثبات رؤية الله تعالى بالأبصار في الآخرة، والمحافظة على صلاتي البردين لنيل هذا الشرف.
+1. غلظ تحريم الربا وأنه من أعظم الموبقات الجالبة للعنة الله ورسوله ﷺ.
+2. اشتراك الكاتب والشاهدين والوسيط في الإثم والوزر مع آكل الربا وموكله لتعاونهم على الإثم.
+
+
 
 </div>
 
@@ -289,7 +323,9 @@
 * **Companion Narrator:** Narrated by Jabir (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (1598) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (1598) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Riba is among the most destructive sins; culpability extends beyond the primary beneficiary to facilitators, underwriters, and contract scribes.
+* **Key Lessons & Takeaways:**
+Riba is among the most destructive sins; culpability extends beyond the primary beneficiary to facilitators, underwriters, and contract scribes.
+
 
 ---
 
@@ -304,11 +340,13 @@
 > عَنْ عُبَادَةَ بْنِ الصَّامِتِ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «الذَّهَبُ بِالذَّهَبِ، وَالْفِضَّةُ بِالْفِضَّةِ، وَالْبُرُّ بِالْبُرِّ، وَالشَّعِيرُ بِالشَّعِيرِ، وَالتَّمْرُ بِالتَّمْرِ، وَالْمِلْحُ بِالْمِلْحِ، مِثْلًا بِمِثْلٍ، سَوَاءً بِسَوَاءٍ، يَدًا بِيَدٍ، فَإِذَا اخْتَلَفَتْ هَذِهِ الْأَصْنَافُ فَبِيعُوا كَيْفَ شِئْتُمْ إِذَا كَانَ يَدًا بِيَدٍ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (1587) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (1587) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ناركم هذه التي يوقد ابن آدم جزء واحد من سبعين جزءاً من حر جهنم؛ فضلت عليها بتسعة وستين جزءاً كلها مثل حرها.
-2. عظمة عذاب جهنم وشدة لهيبها ووجوب الحذر من أسباب سخط الله.
+1. بيان الأصناف الربوية الستة وضوابط بيعها جنساً بجنس مثلاً بمثل يداً بيد منعاً لربا الفضل.
+2. اشتراط التقابض الفوري يداً بيد عند اختلاف الجنس واتحاد العلة منعاً لربا النسيئة.
+
+
 
 </div>
 
@@ -321,7 +359,9 @@
 * **Companion Narrator:** Narrated by 'Ubadah ibn as-Samit (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (1587) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (1587) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Establishing the foundational economic jurisprudence against interest by requiring exact equivalence and prompt spot settlement in primary commodities and currencies.
+* **Key Lessons & Takeaways:**
+Establishing the foundational economic jurisprudence against interest by requiring exact equivalence and prompt spot settlement in primary commodities and currencies.
+
 
 ---
 
@@ -336,11 +376,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: «نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الْحَصَاةِ، وَعَنْ بَيْعِ الْغَرَرِ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (1513) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (1513) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. اشتكت النار إلى ربها فقالت: رب أكل بعضي بعضاً! فأذن لها بنفسين: نفس في الشتاء ونفس في الصيف؛ فأشد ما تجدون من الحر وأشد ما تجدون من الزمهرير.
-2. تذكر عذاب جهنم عند اشتداد الحر والبرد واللجوء إلى الله تعالى.
+1. النهي الجازم عن بيع الغرر والمجهول والمخاطرات التي تشتمل على الجهالة والميسر.
+2. اشتراط معلومية المعقود عليه وصفاً وقدراً وثمناً وأجلاً منعاً للنزاع والخصومات.
+
+
 
 </div>
 
@@ -353,7 +395,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (1513) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (1513) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Contracts must have transparent specifications of price, quantity, quality, and deliverability, completely void of speculation or deceptive gambles.
+* **Key Lessons & Takeaways:**
+Contracts must have transparent specifications of price, quantity, quality, and deliverability, completely void of speculation or deceptive gambles.
+
 
 ---
 
@@ -368,11 +412,13 @@
 > عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: «نَهَى النَّبِيُّ صلى الله عليه وسلم عَنِ النَّجْشِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2142), Sahih Muslim (1516) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2142), Sahih Muslim (1516) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. لو أن قطرة من الزقوم قطرت في دار الدنيا لأفسدت على أهل الأرض معايشهم؛ فكيف بمن يكون طعامه الزقوم!
-2. التحذير من طعام أهل النار وشرابهم الحميم والغساق والصديد.
+1. تحريم النجش وهو الزيادة في ثمن السلعة ممن لا يريد شراءها ليغر غيره ويخدعه.
+2. حماية الأسواق من التضليل المصطنع والمضاربات الوهمية والتلاعب بالأسعار.
+
+
 
 </div>
 
@@ -385,7 +431,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (2142), Sahih Muslim (1516) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2142), Sahih Muslim (1516) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Shilling, fake online reviews, deceptive price gouging, and collusive bidding are strictly unlawful in Islamic commercial jurisprudence.
+* **Key Lessons & Takeaways:**
+Shilling, fake online reviews, deceptive price gouging, and collusive bidding are strictly unlawful in Islamic commercial jurisprudence.
+
 
 ---
 
@@ -400,11 +448,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «لَا تَلَقَّوُا الرُّكْبَانَ لِلْبَيْعِ، وَلَا يَبِعْ بَعْضُكُمْ عَلَى بَيْعِ بَعْضٍ، وَلَا تَنَاجَشُوا، وَلَا يَبِعْ حَاضِرٌ لِبَادٍ...».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2150), Sahih Muslim (1515) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2150), Sahih Muslim (1515) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إن أهون أهل النار عذاباً يوم القيامة لرجل يُوضع في أخمص قدميه جمرتان يغلي منهما دماغه كما يغلي المرجل، ما يرى أن أحداً أشد منه عذاباً وإنه لأهونهم عذاباً.
-2. شدة أهوال العذاب في نار جهنم حتى لأدنى المعذبين.
+1. النهي عن تلقي الركبان وجلب السلع قبل وصولها إلى السوق حتى يعلم البائعون الأسعار الحقيقية.
+2. تحريم تصرية الإبل والغنم وخداع المشتري بحبس اللبن، وثبوت الخيار للمشتري.
+
+
 
 </div>
 
@@ -417,7 +467,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2150), Sahih Muslim (1515) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2150), Sahih Muslim (1515) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Protecting market participants from information asymmetry ensures fair price discovery and prevents middlemen from exploiting unaware producers.
+* **Key Lessons & Takeaways:**
+Protecting market participants from information asymmetry ensures fair price discovery and prevents middlemen from exploiting unaware producers.
+
 
 ---
 
@@ -432,11 +484,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «لَا يَبِعِ الرَّجُلُ عَلَى بَيْعِ أَخِيهِ، وَلَا يَخْطُبْ عَلَى خِطْبَةِ أَخِيهِ، إِلَّا أَنْ يَأْذَنَ لَهُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2139), Sahih Muslim (1412) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2139), Sahih Muslim (1412) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ضرس الكافر في النار مثل أُحد وغلظ جلده مسيرة ثلاثة أيام ليذوق العذاب.
-2. تضخيم أجساد الكفار في النار لزيادة استشعار العذاب والجزاء العادل.
+1. النهي عن بيع المسلم على بيع أخيه وسومه على سومه بعد استقرار الرضا بين المتعاقدين.
+2. إشاعة المودة والأخوة بين المسلمين وسد كل باب يولد الشحناء والبغضاء والتحاسد.
+
+
 
 </div>
 
@@ -449,7 +503,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (2139), Sahih Muslim (1412) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2139), Sahih Muslim (1412) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Commercial ethics require fraternal goodwill; poaching customers or sabotaging finalized negotiations fosters malice and social enmity.
+* **Key Lessons & Takeaways:**
+Commercial ethics require fraternal goodwill; poaching customers or sabotaging finalized negotiations fosters malice and social enmity.
+
 
 ---
 
@@ -464,11 +520,13 @@
 > عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: غَلَا السِّعْرُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالُوا: يَا رَسُولَ اللَّهِ، سَعِّرْ لَنَا. فَقَالَ: «إِنَّ اللَّهَ هُوَ الْمُسَعِّرُ، الْقَابِضُ الْبَاسِطُ الرَّازِقُ، وَإِنِّي لَأَرْجُو أَنْ أَلْقَى رَبِّي وَلَيْسَ أَحَدٌ مِنْكُمْ يَطْلُبُنِي بِمَظْلَمَةٍ فِي دَمٍ وَلَا مَالٍ».
 
 * **التَّخْرِيجُ:** Sunan Abi Dawud (3451), Sunan at-Tirmidhi (1314) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan Abi Dawud (3451), Sunan at-Tirmidhi (1314) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. يُؤتى بأنعم أهل الدنيا من أهل النار يوم القيامة فيُصبغ في النار صبغة واحدة ثم يُقال: يا ابن آدم هل رأيت خيراً قط؟ هل مر بك نعيم قط؟ فيقول: لا والله يا رب! ويُؤتى بأشد الناس بؤساً في الدنيا من أهل الجنة فيُصبغ صبغة في الجنة فيُقال: هل رأيت بؤساً قط؟ فيقول: لا والله يا رب ما مر بي بؤس قط ولا رأيت شدة قط!
-2. غمسة واحدة في الجنة تنسي كل آلام الدنيا، وغمسة في النار تمحو كل لذائذها الزائفة.
+1. التسعير من أمر الله تعالى في الأصل، والمسعر الحقيقي القابض الباسط الرزاق هو الله سبحانه.
+2. تحريم فرض أسعار جبرية تضر بالتجار إذا كان الارتفاع ناتجاً عن قلة العرض الطبيعي.
+
+
 
 </div>
 
@@ -481,7 +539,9 @@
 * **Companion Narrator:** Narrated by Anas ibn Malik (may Allah be pleased with him)
 * **Canonical Reference:** Sunan Abi Dawud (3451), Sunan at-Tirmidhi (1314) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan Abi Dawud (3451), Sunan at-Tirmidhi (1314) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** Arbitrary price fixing without necessity inflicts injustice on suppliers; fair market supply and demand should operate organically without coercive interference.
+* **Key Lessons & Takeaways:**
+Arbitrary price fixing without necessity inflicts injustice on suppliers; fair market supply and demand should operate organically without coercive interference.
+
 
 ---
 
@@ -496,11 +556,13 @@
 > عَنْ مَعْمَرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ: «لَا يَحْتَكِرُ إِلَّا خَاطِئٌ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (1605) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (1605) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. يؤتى بالموت يوم القيامة كهيئة كبش أملح فيُذبح بين الجنة والنار، ثم يُنادى: يا أهل الجنة خلود فلا موت، ويا أهل النار خلود فلا موت؛ فيزداد أهل الجنة فرحاً إلى فرحهم وأهل النار حزناً إلى حزنهم.
-2. يقين الخلود الأبدي الذي لا ينقطع لأهل النعيم وأهل الجحيم.
+1. تحريم الاحتكار في الأقوات والسلع الأساسية التي يحتاج إليها الناس لرفع الأسعار عليهم.
+2. المحتكر خاطئ آثم يضيق على عباد الله، والجالب الميسر مرزوق مأجور بفضل الله.
+
+
 
 </div>
 
@@ -513,7 +575,9 @@
 * **Companion Narrator:** Narrated by Ma'mar ibn 'Abdullah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (1605) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (1605) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Hoarding essential foods, medicines, and life staples to exploit public desperation is a grave transgression in Islamic law.
+* **Key Lessons & Takeaways:**
+Hoarding essential foods, medicines, and life staples to exploit public desperation is a grave transgression in Islamic law.
+
 
 ---
 
@@ -528,11 +592,13 @@
 > عَنْ حَكِيمِ بْنِ حِزَامٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قُلْتُ: يَا رَسُولَ اللَّهِ، يَأْتِينِي الرَّجُلُ فَيُرِيدُ مِنِّي الْبَيْعَ لَيْسَ عِنْدِي، أَفَأَبْتَاعُهُ لَهُ مِنَ السُّوقِ؟ قَالَ: «لَا تَبِعْ مَا لَيْسَ عِنْدَكَ».
 
 * **التَّخْرِيجُ:** Sunan Abi Dawud (3503), Sunan at-Tirmidhi (1232), Sunan an-Nasa'i (4613) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan Abi Dawud (3503), Sunan at-Tirmidhi (1232), Sunan an-Nasa'i (4613) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إن رحمتي سبقت غضبي؛ كُتب ذلك في كتاب عند الله فوق العرش.
-2. سعة الرحمة الإلهية وإحاطتها بجميع الخلائق.
+1. النهي الصريح عن أن يبيع الإنسان ما ليس عنده وما لا يملك، لتفادي العجز عن التسليم.
+2. وجوب تملك السلعة وقبضها الشرعي قبل إعادة التصرف فيها بالبيع والربح.
+
+
 
 </div>
 
@@ -545,7 +611,9 @@
 * **Companion Narrator:** Narrated by Hakim ibn Hizam (may Allah be pleased with him)
 * **Canonical Reference:** Sunan Abi Dawud (3503), Sunan at-Tirmidhi (1232), Sunan an-Nasa'i (4613) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan Abi Dawud (3503), Sunan at-Tirmidhi (1232), Sunan an-Nasa'i (4613) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** It is impermissible to finalize a binding sale of a specific commodity before owning and taking legal constructive possession of it, preventing risk and non-delivery disputes.
+* **Key Lessons & Takeaways:**
+It is impermissible to finalize a binding sale of a specific commodity before owning and taking legal constructive possession of it, preventing risk and non-delivery disputes.
+
 
 ---
 
@@ -560,11 +628,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم «نَهَى عَنْ بَيْعِ الثِّمَارِ حَتَّى يَبْدُوَ صَلَاحُهَا، نَهَى الْبَائِعَ وَالْمُبْتَاعَ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2194), Sahih Muslim (1534) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2194), Sahih Muslim (1534) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. جعل الله الرحمة مائة جزء؛ فأنزل في الأرض جزءاً واحداً فبه يتراحم الخلق حتى ترفع الدابة حافرها عن ولدها خشية أن تصيبه، وأخر تسعة وتسعين جزءاً يرحم بها عباده يوم القيامة.
-2. عظمة رحمة الله يوم القيامة ومغفرته للمؤمنين الموحدين.
+1. النهي عن بيع الثمار والزروع قبل بدو صلاحها وأمنها من العاهات والآفات الطبيعية.
+2. منع أكل أموال الناس بالباطل وحماية رؤوس أموال المشترين من المخاطرة بالجوائح.
+
+
 
 </div>
 
@@ -577,7 +647,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (2194), Sahih Muslim (1534) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2194), Sahih Muslim (1534) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Eliminating agricultural risks and crop failures before maturity protects capital and eliminates unnecessary commercial litigation.
+* **Key Lessons & Takeaways:**
+Eliminating agricultural risks and crop failures before maturity protects capital and eliminates unnecessary commercial litigation.
+
 
 ---
 
@@ -592,11 +664,13 @@
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَدِمَ النَّبِيُّ صلى الله عليه وسلم الْمَدِينَةَ وَهُمْ يُسْلِفُونَ بِالتَّمْرِ السَّنَتَيْنِ وَالثَّلَاثَ، فَقَالَ: «مَنْ أَسْلَفَ فِي شَيْءٍ فَفِي كَيْلٍ مَعْلُومٍ، وَوَزْنٍ مَعْلُومٍ، إِلَى أَجَلٍ مَعْلُومٍ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2240), Sahih Muslim (1604) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2240), Sahih Muslim (1604) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الله أرحم بعباده من هذه بولدها (لما رأى امرأة في السبي تضم طفلها وترضعه).
-2. اطمئنان قلب المؤمن بسعة حنان الخالق ولطفه بعباده التائبين.
+1. جواز بيع السلم بالضوابط الشرعية: في كيل معلوم ووزن معلوم إلى أجل معلوم.
+2. تيسير التمويل الإسلامي للمزارعين والتجار مع اشتراط الانضباط التام في الأوصاف والآجال.
+
+
 
 </div>
 
@@ -609,7 +683,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (2240), Sahih Muslim (1604) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2240), Sahih Muslim (1604) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Forward financing (Salam) is permissible provided the specifications, quantity, and exact date of delivery are unambiguously defined at the inception of the contract.
+* **Key Lessons & Takeaways:**
+Forward financing (Salam) is permissible provided the specifications, quantity, and exact date of delivery are unambiguously defined at the inception of the contract.
+
 
 ---
 
@@ -624,11 +700,13 @@
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِأَصْحَابِ الْكَيْلِ وَالْوَزْنِ: «إِنَّكُمْ قَدْ وُلِّيتُمْ أَمْرَيْنِ هَلَكَتْ فِيهِمَا الْأُمَمُ السَّالِفَةُ قَبْلَكُمْ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (1217), Sunan Ibn Majah (2223) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 2062).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (1217), Sunan Ibn Majah (2223) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 2062).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. يخرج من النار من قال لا إله إلا الله وفي قلبه وزن شعيرة أو خردلة أو ذرة من إيمان بالشفاعة.
-2. فضل التوحيد وأنه ينجي صاحبه في النهاية من الخلود في نار جهنم.
+1. وجوب إيفاء الكيل والميزان بالقسط والعدل والتحذير من التطفيف فيهما.
+2. الأمانة في الموازين من أسباب البركة في الرزق، والتطفيف جالب للمحق والهلاك للأمم.
+
+
 
 </div>
 
@@ -641,7 +719,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (may Allah be pleased with them both)
 * **Canonical Reference:** Sunan at-Tirmidhi (1217), Sunan Ibn Majah (2223) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 2062).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (1217), Sunan Ibn Majah (2223) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 2062)**
-* **Key Lessons & Takeaways:** Defrauding in weights and metrics undermines civil trust and invites divine retribution; honesty in measuring is an inviolable duty.
+* **Key Lessons & Takeaways:**
+Defrauding in weights and metrics undermines civil trust and invites divine retribution; honesty in measuring is an inviolable duty.
+
 
 ---
 
@@ -656,11 +736,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «مَنْ أَقَالَ مُسْلِمًا أَقَالَهُ اللَّهُ عَثْرَتَهُ يَوْمَ الْقِيَامَةِ».
 
 * **التَّخْرِيجُ:** Sunan Abi Dawud (3460), Sunan Ibn Majah (2199) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan Abi Dawud (3460), Sunan Ibn Majah (2199) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. شفاعة النبي ﷺ نائلة إن شاء الله من مات من أمتي لا يشرك بالله شيئاً.
-2. البشارة العظمى لأهل التوحيد الخالص بشفاعة رسول الله ﷺ.
+1. فضل إقالة النادم في البيع وقبول رد السلعة رفقاً بالمشتري وتفريجاً لهمه.
+2. جزاء من أقال مسلماً أن يقيل الله عثرته ويغفر زلته يوم القيامة جزاء إحسانه.
+
+
 
 </div>
 
@@ -673,7 +755,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sunan Abi Dawud (3460), Sunan Ibn Majah (2199) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan Abi Dawud (3460), Sunan Ibn Majah (2199) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** Magnanimity in accepting merchandise returns from remorseful customers brings divine pardon on the Day of Judgment.
+* **Key Lessons & Takeaways:**
+Magnanimity in accepting merchandise returns from remorseful customers brings divine pardon on the Day of Judgment.
+
 
 ---
 
@@ -688,11 +772,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: «الْحَلِفُ مُنَفِّقَةٌ لِلسِّلْعَةِ، مُمْحِقَةٌ لِلْبَرَكَةِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2087), Sahih Muslim (1606) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2087), Sahih Muslim (1606) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. لكل نبي دعوة مستجابة فتعجل كل نبي دعوته وإني اختبأت دعوتي شفاعة لأمتي يوم القيامة.
-2. شفقة النبي ﷺ العظيمة وإيثاره لأمته بالدعوة المستجابة في أصعب المواقف.
+1. النهي عن الحلف في ترويج السلع وإنفاقها في الأسواق ولو كان الحالف صادقاً.
+2. اليمين منفقة للسلعة في الظاهر ولكنها ممحقة لبركة المال وأسباب نمائه الحقيقي.
+
+
 
 </div>
 
@@ -705,7 +791,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2087), Sahih Muslim (1606) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2087), Sahih Muslim (1606) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Using solemn oaths in marketing to coax customers into buying destroys divine favor in the business, even if it yields immediate profits.
+* **Key Lessons & Takeaways:**
+Using solemn oaths in marketing to coax customers into buying destroys divine favor in the business, even if it yields immediate profits.
+
 
 ---
 
@@ -720,11 +808,13 @@
 > عَنْ أَبِي ذَرٍّ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «ثَلَاثَةٌ لَا يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ، وَلَا يَنْظُرُ إِلَيْهِمْ، وَلَا يُزَكِّيهِمْ، وَلَهُمْ عَذَابٌ أَلِيمٌ... وَالْمُنَفِّقُ سِلْعَتَهُ بِالْحَلِفِ الْكَاذِبِ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (106) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (106) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. يقبض الله الأرض يوم القيامة ويطوي السماوات بيمينه ثم يقول: أنا الملك أين ملوك الأرض؟
-2. انفراد الله تعالى بالملك والكبرياء والعظمة وزوال كل ملك دنيوي.
+1. الوعيد الشديد على التاجر الذي ينفق سلعته بالحلف الكاذب واليمين الغموس الفاجرة.
+2. حرمان الحالف كذباً في المعاملات من نظر الله وتزكيته وكلامه يوم القيامة.
+
+
 
 </div>
 
@@ -737,7 +827,9 @@
 * **Companion Narrator:** Narrated by Abu Dharr (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (106) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (106) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** False swearing about cost price, quality, or manufacturing origin is an unforgivable betrayal punishable by complete deprivation of divine grace.
+* **Key Lessons & Takeaways:**
+False swearing about cost price, quality, or manufacturing origin is an unforgivable betrayal punishable by complete deprivation of divine grace.
+
 
 ---
 
@@ -752,11 +844,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «أَعْطُوا الْأَجِيرَ أَجْرَهُ قَبْلَ أَنْ يَجِفَّ عَرَقُهُ».
 
 * **التَّخْرِيجُ:** Sunan Ibn Majah (2443), Shu'ab al-Iman by al-Bayhaqi (4928) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 1055).
-* **الْحُكْمُ:** Sunan Ibn Majah (2443), Shu'ab al-Iman by al-Bayhaqi (4928) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 1055).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. يدنو أحدكم من ربه يوم القيامة حتى يضع عليه كنفه (ستره) فيقرره بذنوبه: أتعرف ذنب كذا؟ فيقول: نعم رب، فيقول: سترتها عليك في الدنيا وأنا أغفرها لك اليوم، ثم يُعطى كتاب حسناته.
-2. ستر الله العظيم على عبده المؤمن ولطفه في الحساب.
+1. وجوب المبادرة إلى إعطاء الأجير حقه وعرقه فور إنجازه العمل من غير مماطلة.
+2. احترام كرامة العمال والمستخدمين وحرمة تأخير أجورهم أو استغلال حاجتهم وضعفهم.
+
+
 
 </div>
 
@@ -769,7 +863,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (may Allah be pleased with them both)
 * **Canonical Reference:** Sunan Ibn Majah (2443), Shu'ab al-Iman by al-Bayhaqi (4928) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 1055).
 * **Scholarly Grading:** **Sunan Ibn Majah (2443), Shu'ab al-Iman by al-Bayhaqi (4928) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 1055)**
-* **Key Lessons & Takeaways:** Prompt compensation of workers is a primary Islamic duty; withholding or delaying employee wages is an egregious abuse of power.
+* **Key Lessons & Takeaways:**
+Prompt compensation of workers is a primary Islamic duty; withholding or delaying employee wages is an egregious abuse of power.
+
 
 ---
 
@@ -784,11 +880,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «قَالَ اللَّهُ تَعَالَى: ثَلَاثَةٌ أَنَا خَصْمُهُمْ يَوْمَ الْقِيَامَةِ: رَجُلٌ أَعْطَى بِي ثُمَّ غَدَرَ، وَرَجُلٌ بَاعَ حُرًّا فَأَكَلَ ثَمَنَهُ، وَرَجُلٌ اسْتَأْجَرَ أَجِيرًا فَاسْتَوْفَى مِنْهُ وَلَمْ يُعْطِهِ أَجْرَهُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2227) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih al-Bukhari (2227) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من نوقش الحساب عُذب؛ قالت عائشة: أليس يقول الله {فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا}؟ قال: إنما ذلك العرض، ولكن من نوقش الحساب عُذب.
-2. سؤال الله الحساب اليسير والعفو والتجاوز عن السيئات.
+1. إعلان الحرب الإلهية والخصومة يوم القيامة على من استأجر أجيراً فاستوفى منه ولم يعطه أجره.
+2. غلظ إثم الغدر بالعهود وبخس العمال وحرية الإنسان وكرامته في شريعة الإسلام.
+
+
 
 </div>
 
@@ -801,7 +899,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2227) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih al-Bukhari (2227) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Denying contracted workers their rightful pay positions the employer as a direct enemy of Allah the Almighty on Judgment Day.
+* **Key Lessons & Takeaways:**
+Denying contracted workers their rightful pay positions the employer as a direct enemy of Allah the Almighty on Judgment Day.
+
 
 ---
 
@@ -816,11 +916,13 @@
 > عَنِ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَ رَضِيَ اللَّهُ عَنْهُ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ: «مَا أَكَلَ أَحَدٌ طَعَامًا قَطُّ خَيْرًا مِنْ أَنْ يَأْكُلَ مِنْ عَمَلِ يَدِهِ، وَإِنَّ نَبِيَّ اللَّهِ دَاوُدَ عَلَيْهِ السَّلَامُ كَانَ يَأْكُلُ مِنْ عَمَلِ يَدِهِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2072) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih al-Bukhari (2072) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. أول ما يُقضى بين الناس يوم القيامة في الدماء لعظم حرمتها وشناعة سفكها بغير حق.
-2. القصاص العادل من كل قطرة دم سفكت ظلماً وعدواناً.
+1. فضل كسب يد الإنسان وأنه أطيب المطاعم وأشرف المكاسب اقتداءً بنبي الله داود عليه السلام.
+2. نبذ الكسل والتواكل، وعلو منزلة السعي في الأرض وعمارة الحياة بالعمل الشريف.
+
+
 
 </div>
 
@@ -833,7 +935,9 @@
 * **Companion Narrator:** Narrated by Al-Miqdam ibn Ma'dikarib (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2072) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih al-Bukhari (2072) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Earning an independent livelihood through honest toil is an honorable prophetic virtue that safeguards personal dignity and spiritual independence.
+* **Key Lessons & Takeaways:**
+Earning an independent livelihood through honest toil is an honorable prophetic virtue that safeguards personal dignity and spiritual independence.
+
 
 ---
 
@@ -848,11 +952,13 @@
 > عَنِ الزُّبَيْرِ بْنِ الْعَوَّامِ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «لَأَنْ يَأْخُذَ أَحَدُكُمْ حَبْلَهُ فَيَأْتِيَ بِحُزْمَةِ حَطَبٍ عَلَى ظَهْرِهِ فَيَبِيعَهَا، فَيَكُفَّ اللَّهُ بِهَا وَجْهَهُ، خَيْرٌ لَهُ مِنْ أَنْ يَسْأَلَ النَّاسَ، أَعْطَوْهُ أَوْ مَنَعُوهُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (1471) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih al-Bukhari (1471) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. لتؤدن الحقوق إلى أهلها يوم القيامة حتى يُقاد للشاة الجلحاء (التي لا قرن لها) من الشاة القرناء.
-2. كمال العدل الإلهي المطلق حتى بين الحيوانات البهيمة.
+1. عزة النفس والتعفف عن سؤال الناس بالاحتطاب والعمل الشاق خير من ذل المسألة والاستجداء.
+2. صيانة الوجه والكرامة الإنسانية بالكدح المشروع مهما كان العمل متواضعاً في أعين الناس.
+
+
 
 </div>
 
@@ -880,11 +986,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «أَيُّهَا النَّاسُ، إِنَّ اللَّهَ طَيِّبٌ لَا يَقْبَلُ إِلَّا طَيِّبًا، وَإِنَّ اللَّهَ أَمَرَ الْمُؤْمِنِينَ بِمَا أَمَرَ بِهِ الْمُرْسَلِينَ... ثُمَّ ذَكَرَ الرَّجُلَ يُطِيلُ السَّفَرَ أَشْعَثَ أَغْبَرَ يَمُدُّ يَدَيْهِ إِلَى السَّمَاءِ: يَا رَبِّ يَا رَبِّ، وَمَطْعَمُهُ حَرَامٌ، وَمَشْرَبُهُ حَرَامٌ، وَمَلْبَسُهُ حَرَامٌ، وَغُذِيَ بِالْحَرَامِ، فَأَنَّى يُسْتَجَابُ لِذَلِكَ!».
 
 * **التَّخْرِيجُ:** Sahih Muslim (1015) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (1015) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. أتدرون ما المفلس؟ المفلس من يأتي يوم القيامة بصلاة وصيام وزكاة، ويأتي وقد شتم هذا، وقذف هذا، وأكل مال هذا، وسفك دم هذا، وضرب هذا؛ فيُعطى هذا من حسناته وهذا من حسناته، فإن فنيت حسناته قبل أن يُقضى ما عليه أُخذ من خطاياهم فطُرحت عليه ثم طُرح في النار.
-2. التحذير الشديد من مظالم العباد وإفلاس الحسنات يوم القيامة.
+1. إن الله تعالى طيب لا يقبل من الأعمال والنفقات إلا ما كان طيباً حلالاً خالصاً.
+2. أثر المال الحرام والمطعم الخبيث في رد الدعاء ومنع الإجابة ولو تحققت أسباب الاستجابة بالسفر والاضطرار.
+
+
 
 </div>
 
@@ -897,7 +1005,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (1015) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (1015) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Consuming unlawfully earned income erects an impenetrable barrier against the acceptance of du'a and righteous deeds.
+* **Key Lessons & Takeaways:**
+Consuming unlawfully earned income erects an impenetrable barrier against the acceptance of du'a and righteous deeds.
+
 
 ---
 
@@ -912,11 +1022,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «مَطْلُ الْغَنِيِّ ظُلْمٌ، وَإِذَا أُتْبِعَ أَحَدُكُمْ عَلَى مَلِيءٍ فَلْيَتَّبِعْ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2287), Sahih Muslim (1564) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2287), Sahih Muslim (1564) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من كانت له مظلمة لأخيه من عرضه أو شيء فليتحلله منه اليوم قبل ألا يكون دينار ولا درهم إن كان له عمل صالح أُخذ منه بقدر مظلمته.
-2. المسارعة إلى تبرئة الذمة ورد الحقوق والاستحلال من المظالم في دار الدنيا.
+1. مطل الغني المقتدر عن سداد ما عليه من ديون ظلم صريح يستوجب المقت والعقوبة.
+2. مشروعية الحوالة واستحباب قبول الدائن لها إذا أحيل على مدين مليء قادر على الوفاء.
+
+
 
 </div>
 
@@ -929,7 +1041,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2287), Sahih Muslim (1564) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2287), Sahih Muslim (1564) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Delaying the settlement of debts when one has the financial capacity to pay is a form of oppression against the creditor.
+* **Key Lessons & Takeaways:**
+Delaying the settlement of debts when one has the financial capacity to pay is a form of oppression against the creditor.
+
 
 ---
 
@@ -944,11 +1058,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَجُلًا أَتَى النَّبِيَّ صلى الله عليه وسلم يَتَقَاضَاهُ بَعِيرًا، فَأَعْطَاهُ سِنًّا فَوْقَ سِنِّهِ، وَقَالَ: «خِيَارُكُمْ أَحْسَنُكُمْ قَضَاءً».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2305), Sahih Muslim (1601) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2305), Sahih Muslim (1601) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إن الله لا ينظر إلى صوركم وأموالكم ولكن ينظر إلى قلوبكم وأعمالكم.
-2. المدار الحقيقي للقبول والرفعة عند الله يقوم على إخلاص النية وطهارة السريرة وصلاح العمل.
+1. عظيم بركة السماحة وحسن القضاء؛ فإن خيار الناس أحسنهم قضاءً للحقوق والديون.
+2. استحباب مكافأة الدائن بزيادة طيبة غير مشروطة عند رد الدين شكراً لمعروفه وإحسانه.
+
+
 
 </div>
 
@@ -961,7 +1077,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2305), Sahih Muslim (1601) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2305), Sahih Muslim (1601) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Voluntarily repaying a debt with something better or with added courtesy—without prior condition—is a noble Islamic mark of integrity.
+* **Key Lessons & Takeaways:**
+Voluntarily repaying a debt with something better or with added courtesy—without prior condition—is a noble Islamic mark of integrity.
+
 
 ---
 
@@ -976,11 +1094,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «مَنْ أَخَذَ أَمْوَالَ النَّاسِ يُرِيدُ أَدَاءَهَا أَدَّى اللَّهُ عَنْهُ، وَمَنْ أَخَذَ يُرِيدُ إِتْلَافَهَا أَتْلَفَهُ اللَّهُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2387) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih al-Bukhari (2387) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. التوبة تجب ما قبلها، والإسلام يهدم ما كان قبله، والهجرة تهدم ما كان قبلها، والحج يهدم ما كان قبله.
-2. البداية الجديدة للمهتدين والتائبين برحمة الله وفضله ومحو كل خطايا الماضي.
+1. فضل صدق النية في الاستدانة مع العزم الجازم على الوفاء، واستحقاق العون والبركة الإلهية.
+2. شؤم سوء النية في أخذ أموال الناس لإتلافها والمماطلة بها، وأنه سبب لهلاك المال والنفس.
+
+
 
 </div>
 
@@ -993,7 +1113,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2387) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih al-Bukhari (2387) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Sincerity of intention in borrowing invites divine financial assistance, whereas fraudulent default brings ruin in both worlds.
+* **Key Lessons & Takeaways:**
+Sincerity of intention in borrowing invites divine financial assistance, whereas fraudulent default brings ruin in both worlds.
+
 
 ---
 
@@ -1008,11 +1130,13 @@
 > عَنْ أَبِي قَتَادَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: «مَنْ سَرَّهُ أَنْ يُنْجِيَهُ اللَّهُ مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ، فَلْيُنَفِّسْ عَنْ مُعْسِرٍ، أَوْ يَضَعْ عَنْهُ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (1563) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (1563) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إذا أحب الله عبداً نادى جبريل: إني أحب فلاناً فأحبه، فيحبه جبريل، ثم ينادي في أهل السماء، ثم يوضع له القبول في الأرض.
-2. محبة الصالحين والقبول في قلوب المؤمنين أثر من آثار محبة الله تعالى للعبد.
+1. فضل إنظار المدين المعسر والتنفيس عنه بإمهاله أو إسقاط بعض دينه أو كله ابتغاء وجه الله.
+2. نجاة من أنظر معسراً أو وضع عنه من كربات يوم القيامة وأهوال الحساب العسير.
+
+
 
 </div>
 
@@ -1025,7 +1149,9 @@
 * **Companion Narrator:** Narrated by Abu Qatadah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih Muslim (1563) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (1563) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Granting payment extensions or debt waivers to insolvent debtors secures deliverance from the terror and hardship of Judgment Day.
+* **Key Lessons & Takeaways:**
+Granting payment extensions or debt waivers to insolvent debtors secures deliverance from the terror and hardship of Judgment Day.
+
 
 ---
 
@@ -1040,11 +1166,13 @@
 > عَنْ حُذَيْفَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم: «أَنَّ رَجُلًا مَاتَ فَدَخَلَ الْجَنَّةَ، فَقِيلَ لَهُ: مَا كُنْتَ تَعْمَلُ؟ قَالَ: إِنِّي كُنْتُ أُبَايِعُ النَّاسَ، فَكُنْتُ أُنْظِرُ الْمُعْسِرَ، وَأَتَجَاوَزُ فِي السِّكَّةِ - أَوِ النَّقْدِ - فَغَفَرَ اللَّهُ لَهُ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2077), Sahih Muslim (1560) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2077), Sahih Muslim (1560) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إذا أبغض الله عبداً نادى جبريل: إني أبغض فلاناً فأبغضه، فيبغضه جبريل، ثم ينادي في أهل السماء، ثم توضع له البغضاء في الأرض.
-2. التحذير من سخط الله والظلم الذي يورث المقت في قلوب الخلق.
+1. سعة رحمة الله بالمتسامحين في التجارة الذين يتجاوزون عن المعسرين ويسامحون في المعاملات.
+2. مغفرة الله لذنوب العبد ببركة عفوه وتجاوزه وتيسيره على الضعفاء والمضطرين.
+
+
 
 </div>
 
@@ -1057,7 +1185,9 @@
 * **Companion Narrator:** Narrated by Hudhayfah (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2077), Sahih Muslim (1560) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2077), Sahih Muslim (1560) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Compassion and flexibility towards struggling customers and debtors earn the ultimate reward of divine forgiveness.
+* **Key Lessons & Takeaways:**
+Compassion and flexibility towards struggling customers and debtors earn the ultimate reward of divine forgiveness.
+
 
 ---
 
@@ -1072,11 +1202,13 @@
 > عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: «مَنْ أَنْظَرَ مُعْسِرًا فَلَهُ بِكُلِّ يَوْمٍ مِثْلِهِ صَدَقَةٌ»، ثُمَّ سَمِعْتُهُ يَقُولُ: «مَنْ أَنْظَرَ مُعْسِرًا فَلَهُ بِكُلِّ يَوْمٍ مِثْلَيْهِ صَدَقَةٌ»، قُلْتُ: يَا رَسُولَ اللَّهِ، سَمِعْتُكَ تَقُولُ كَذَا ثُمَّ كَذَا! قَالَ: «لَهُ بِكُلِّ يَوْمٍ مِثْلِهِ صَدَقَةٌ قَبْلَ أَنْ يَحِلَّ الدَّيْنُ، فَإِذَا حَلَّ الدَّيْنُ فَأَنْظَرَهُ فَلَهُ بِكُلِّ يَوْمٍ مِثْلَيْهِ صَدَقَةٌ».
 
 * **التَّخْرِيجُ:** Musnad Ahmad (23046), Sunan Ibn Majah (2418) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 6187).
-* **الْحُكْمُ:** Musnad Ahmad (23046), Sunan Ibn Majah (2418) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 6187).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من التمس رضا الله بسخط الناس رضي الله عنه وأرضى عنه الناس، ومن التمس رضا الناس بسخط الله سخط الله عليه وأسخط عليه الناس.
-2. تقديم طاعة الخالق وإخلاص القصد له دون مبالاة بمدح الناس أو ذمهم.
+1. عظم أجر إنظار المعسر؛ فله بكل يوم مثل دينه صدقة قبل حلول الأجل، ومثلاه بعد حلوله.
+2. مضاعفة الثواب والأجر للدائن الصابر على المحتاجين في كل لحظة تأخير وتيسير.
+
+
 
 </div>
 
@@ -1089,7 +1221,9 @@
 * **Companion Narrator:** Narrated by Buraydah ibn al-Hasib (may Allah be pleased with him)
 * **Canonical Reference:** Musnad Ahmad (23046), Sunan Ibn Majah (2418) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 6187).
 * **Scholarly Grading:** **Musnad Ahmad (23046), Sunan Ibn Majah (2418) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 6187)**
-* **Key Lessons & Takeaways:** Showing patience to struggling borrowers generates compounding spiritual rewards equivalent to massive daily charitable donations.
+* **Key Lessons & Takeaways:**
+Showing patience to struggling borrowers generates compounding spiritual rewards equivalent to massive daily charitable donations.
+
 
 ---
 
@@ -1104,11 +1238,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «يُغْفَرُ لِلشَّهِيدِ كُلُّ ذَنْبٍ إِلَّا الدَّيْنَ».
 
 * **التَّخْرِيجُ:** Sahih Muslim (1886) — Maktaba Shamela. Grading: Sahih (صحيح).
-* **الْحُكْمُ:** Sahih Muslim (1886) — Maktaba Shamela. Grading: Sahih (صحيح).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من راءى راءى الله به، ومن سَمَّع سَمَّع الله به يوم القيامة وفضحه على رؤوس الأشهاد.
-2. خطورة الرياء وحب الشهرة وضرورة إخفاء الأعمال الصالحة قدر الإمكان.
+1. خطورة الدين وحرمة حقوق العباد، وأن الشهادة في سبيل الله تكفر كل ذنب إلا الدين.
+2. وجوب المسارعة إلى إبراء الذمة من الديون ورد المظالم المالية إلى أهلها قبل انقضاء الأجل.
+
+
 
 </div>
 
@@ -1121,7 +1257,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Amr ibn al-'As (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih Muslim (1886) — Maktaba Shamela. Grading: Sahih (صحيح).
 * **Scholarly Grading:** **Sahih Muslim (1886) — Maktaba Shamela. Grading: Sahih (صحيح)**
-* **Key Lessons & Takeaways:** Financial liabilities owed to fellow humans are not automatically expunged even by the ultimate sacrifice of martyrdom; restitution of people's rights is mandatory.
+* **Key Lessons & Takeaways:**
+Financial liabilities owed to fellow humans are not automatically expunged even by the ultimate sacrifice of martyrdom; restitution of people's rights is mandatory.
+
 
 ---
 
@@ -1136,11 +1274,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «نَفْسُ الْمُؤْمِنِ مُعَلَّقَةٌ بِدَيْنِهِ حَتَّى يُقْضَى عَنْهُ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (1078), Sunan Ibn Majah (2413) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (1078), Sunan Ibn Majah (2413) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ثلاث مهلكات: شح مطاع، وهوى متبع، وإعجاب المرء بنفسه؛ وثلاث منجيات: تقوى الله في السر والعلن، والقول بالحق في الرضا والغضب، والقصد في الفقر والغنى.
-2. معالم النجاة الروحية والسلوكية في مدرسة النبوة.
+1. تحذير نبوي بليغ من التساهل في الديون؛ فإن نفس المؤمن تظل معلقة ومحبوسة عن كرامتها حتى يُقضى عنه دينه.
+2. وجوب مبادرة الورثة وأولياء الميت إلى سداد ديونه وتطهير ذمته قبل قسمة التركات.
+
+
 
 </div>
 
@@ -1153,7 +1293,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sunan at-Tirmidhi (1078), Sunan Ibn Majah (2413) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (1078), Sunan Ibn Majah (2413) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** Heirs and executors must prioritize discharging the deceased's debts before distributing inheritances, freeing their soul for divine bliss.
+* **Key Lessons & Takeaways:**
+Heirs and executors must prioritize discharging the deceased's debts before distributing inheritances, freeing their soul for divine bliss.
+
 
 ---
 
@@ -1168,11 +1310,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: «نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعَتَيْنِ فِي بَيْعَةٍ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (1231), Sunan Abi Dawud (3502), Sunan an-Nasa'i (4632) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (1231), Sunan Abi Dawud (3502), Sunan an-Nasa'i (4632) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الحبة السوداء شفاء من كل داء إلا السام (الموت).
-2. التداوي بالطب النبوي الطبيعي المبارك والأخذ بأسباب الشفاء.
+1. النهي عن بيعتين في بيعة لما فيه من الغرر والجهالة المؤدية إلى منازعات أو التستر على الربا.
+2. اشتراط وضوح بنود العقود المالية وتحديد الثمن والأجل بصورة جازمة لا لبس فيها.
+
+
 
 </div>
 
@@ -1185,7 +1329,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Sunan at-Tirmidhi (1231), Sunan Abi Dawud (3502), Sunan an-Nasa'i (4632) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (1231), Sunan Abi Dawud (3502), Sunan an-Nasa'i (4632) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** Contracts must have clearly settled single terms without ambiguous conditional pricing that conceals usury or causes uncertainty.
+* **Key Lessons & Takeaways:**
+Contracts must have clearly settled single terms without ambiguous conditional pricing that conceals usury or causes uncertainty.
+
 
 ---
 
@@ -1200,11 +1346,13 @@
 > عَنْ أَبِي مَسْعُودٍ الْأَنْصَارِيِّ رَضِيَ اللَّهُ عَنْهُ: «أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ ثَمَنِ الْكَلْبِ، وَمَهْرِ الْبَغِيِّ، وَحُلْوَانِ الْكَاهِنِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2237), Sahih Muslim (1561) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2237), Sahih Muslim (1561) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الشفاء في ثلاثة: شرطة محجم، أو شربة عسل، أو كية نار، وأنا أنهى أمتي عن الكي.
-2. فضل التداوي بالحجامة والعسل ومنافعها الطبية العظيمة للأبدان.
+1. تحريم المكاسب الخبيثة: ثمن الكلب وحلوان الكاهن والعراف ومهر البغي وأجرة الفواحش.
+2. وجوب تنقية الأموال والتجارات من كل كسب مبني على الخرافة والباطل والمنكرات.
+
+
 
 </div>
 
@@ -1217,7 +1365,9 @@
 * **Companion Narrator:** Narrated by Abu Mas'ud al-Ansari (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (2237), Sahih Muslim (1561) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2237), Sahih Muslim (1561) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Revenue generated from immoral services, superstitious deception, or impure commodities is intrinsically filth (Khabith) and strictly unlawful.
+* **Key Lessons & Takeaways:**
+Revenue generated from immoral services, superstitious deception, or impure commodities is intrinsically filth (Khabith) and strictly unlawful.
+
 
 ---
 
@@ -1232,11 +1382,13 @@
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ عَامَ الْفَتْحِ وَهُوَ بِمَكَّةَ: «إِنَّ اللَّهَ وَرَسُولَهُ حَرَّمَ بَيْعَ الْخَمْرِ، وَالْمَيْتَةِ، وَالْخِنْزِيرِ، وَالْأَصْنَامِ...».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2236), Sahih Muslim (1581) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2236), Sahih Muslim (1581) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. ما أنزل الله داء إلا أنزل له دواء؛ علمه من علمه وجهله من جهله.
-2. فتح آفاق البحث الطبي والعلاجي وبث الأمل في الشفاء من كل الأمراض.
+1. تحريم بيع الخمر والميتة والخنزير والأصنام وسائر الأعيان النجسة والمحرمة لذاتها.
+2. بطلان حيل المستحلين للمحرمات بتغيير أسمائها أو إذابة شحومها؛ فإذا حرم الله شيئاً حرم ثمنه.
+
+
 
 </div>
 
@@ -1249,7 +1401,9 @@
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (2236), Sahih Muslim (1581) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2236), Sahih Muslim (1581) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Any substance or object that is fundamentally prohibited for use or consumption is also strictly forbidden to commercialize, sell, or trade.
+* **Key Lessons & Takeaways:**
+Any substance or object that is fundamentally prohibited for use or consumption is also strictly forbidden to commercialize, sell, or trade.
+
 
 ---
 
@@ -1264,11 +1418,13 @@
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «إِنَّ اللَّهَ إِذَا حَرَّمَ عَلَى قَوْمٍ أَكْلَ شَيْءٍ حَرَّمَ عَلَيْهِمْ ثَمَنَهُ».
 
 * **التَّخْرِيجُ:** Sunan Abi Dawud (3488), Musnad Ahmad (2673) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan Abi Dawud (3488), Musnad Ahmad (2673) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. تداووا عباد الله ولا تتداووا بحرام؛ فإن الله لم يجعل شفاءكم فيما حرم عليكم.
-2. حظر استعمال الأدوية المحرمة كالخمور والنجاسات والاعتماد على الحلال المباح.
+1. قاعدة فقهية جليلة في المعاملات: إذا حرّم الله على قوم أكل شيء أو استعماله حرّم عليهم ثمنه.
+2. بطلان العقود التجارية الواردة على المحرمات وحرمة الانتفاع بعوائدها وأرباحها المالية.
+
+
 
 </div>
 
@@ -1281,7 +1437,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (may Allah be pleased with them both)
 * **Canonical Reference:** Sunan Abi Dawud (3488), Musnad Ahmad (2673) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan Abi Dawud (3488), Musnad Ahmad (2673) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** A foundational legal maxim in Islamic finance: it is impermissible to profit financially from what the Lawgiver has declared intrinsically harmful and prohibited.
+* **Key Lessons & Takeaways:**
+A foundational legal maxim in Islamic finance: it is impermissible to profit financially from what the Lawgiver has declared intrinsically harmful and prohibited.
+
 
 ---
 
@@ -1296,11 +1454,13 @@
 > عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا: «أَنَّ النَّبِيَّ صلى الله عليه وسلم اشْتَرَى طَعَامًا مِنْ يَهُودِيٍّ إِلَى أَجَلٍ، وَرَهَنَهُ دِرْعًا مِنْ حَدِيدٍ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2068), Sahih Muslim (1603) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2068), Sahih Muslim (1603) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الكمأة من المن وماؤها شفاء للعين.
-2. الفوائد الطبية العلاجية للأطعمة والأعشاب الطبيعية التي امتن الله بها.
+1. مشروعية الرهن لتوثيق الديون وحفظ حقوق الدائنين في السفر والحضر.
+2. جواز المعاملة المالية المشروعة مع أهل الكتاب في البيع والشراء والرهن بما لا يخالف الشرع.
+
+
 
 </div>
 
@@ -1313,7 +1473,9 @@
 * **Companion Narrator:** Narrated by 'A'ishah (may Allah be pleased with her)
 * **Canonical Reference:** Sahih al-Bukhari (2068), Sahih Muslim (1603) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2068), Sahih Muslim (1603) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Securing loans with physical collateral is permissible in Islamic transactions, as is dealing fairly in business with non-Muslims.
+* **Key Lessons & Takeaways:**
+Securing loans with physical collateral is permissible in Islamic transactions, as is dealing fairly in business with non-Muslims.
+
 
 ---
 
@@ -1328,11 +1490,13 @@
 > عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: «الْمُسْلِمُونَ شُرَكَاءُ فِي ثَلَاثٍ: فِي الْمَاءِ، وَالْكَلَإِ، وَالنَّارِ، وَثَمَنُهُ حَرَامٌ».
 
 * **التَّخْرِيجُ:** Sunan Abi Dawud (3477), Sunan Ibn Majah (2472) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 6701).
-* **الْحُكْمُ:** Sunan Abi Dawud (3477), Sunan Ibn Majah (2472) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 6701).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. التلبينة (حساء دقيق الشعير بالعسل) مجمة لفؤاد المريض تذهب ببعض الحزن.
-2. الغذاء الصحي الذي يعالج الضغوط النفسية ويقوي البدن عند المصائب.
+1. الناس شركاء في ثلاثة: في الماء والكلأ والنار؛ صيانةً للمرافق العامة وحاجات المعاش الأساسية.
+2. تحريم احتكار الموارد المائية والمراعي الطبيعية ومنع الناس من الانتفاع المجاني بها.
+
+
 
 </div>
 
@@ -1345,7 +1509,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Abbas (may Allah be pleased with them both)
 * **Canonical Reference:** Sunan Abi Dawud (3477), Sunan Ibn Majah (2472) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 6701).
 * **Scholarly Grading:** **Sunan Abi Dawud (3477), Sunan Ibn Majah (2472) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 6701)**
-* **Key Lessons & Takeaways:** Basic life essentials and natural common resources belong communally to society and must never be private-monopolized to deprive the vulnerable.
+* **Key Lessons & Takeaways:**
+Basic life essentials and natural common resources belong communally to society and must never be private-monopolized to deprive the vulnerable.
+
 
 ---
 
@@ -1360,11 +1526,13 @@
 > عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: «إِذَا تَبَايَعْتُمْ بِالْعِينَةِ، وَأَخَذْتُمْ أَذْنَابَ الْبَقَرِ، وَرَضِيتُمْ بِالزَّرْعِ، وَتَرَكْتُمُ الْجِهَادَ، سَلَّطَ اللَّهُ عَلَيْكُمْ ذُلًّا لَا يَنْزِعُهُ حَتَّى تَرْجِعُوا إِلَى دِينِكُمْ».
 
 * **التَّخْرِيجُ:** Sunan Abi Dawud (3462), Musnad Ahmad (5562) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan Abi Dawud (3462), Musnad Ahmad (5562) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. من تصبح بسبع تمرات عجوة لم يضره ذلك اليوم سم ولا سحر.
-2. بركة تمر المدينة المنورة والعجوة والتحصن بالسنن الوقائية.
+1. التحذير النبوي الشديد من التحايل على الربا ببيع العينة والرضا بالزرع وترك الجهاد في سبيل الله.
+2. تسليط الذل والهوان على الأمة إذا انشغلت بالدنيا والتحيل على المحرمات حتى تراجع دينها.
+
+
 
 </div>
 
@@ -1377,7 +1545,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Umar (may Allah be pleased with them both)
 * **Canonical Reference:** Sunan Abi Dawud (3462), Musnad Ahmad (5562) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan Abi Dawud (3462), Musnad Ahmad (5562) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** Resorting to legal subterfuges (Hiyal) to legitimize interest contracts and prioritizing material comfort over religious defense invites communal weakness and disgrace.
+* **Key Lessons & Takeaways:**
+Resorting to legal subterfuges (Hiyal) to legitimize interest contracts and prioritizing material comfort over religious defense invites communal weakness and disgrace.
+
 
 ---
 
@@ -1392,11 +1562,13 @@
 > عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «مَنِ اشْتَرَى سَرِقَةً وَهُوَ يَعْلَمُ أَنَّهَا سَرِقَةٌ، فَقَدِ اشْتَرَكَ فِي عَارِهَا وَإِثْمِهَا».
 
 * **التَّخْرِيجُ:** Al-Mustadrak 'ala al-Sahihayn by al-Hakim (2253), Sunan al-Bayhaqi (10834) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 6185).
-* **الْحُكْمُ:** Al-Mustadrak 'ala al-Sahihayn by al-Hakim (2253), Sunan al-Bayhaqi (10834) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 6185).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الرقية الشرعية بالقرآن والأدعية المأثورة: 'بسم الله أرقيك من كل شيء يؤذيك من شر كل نفس أو عين حاسد الله يشفيك'.
-2. الاستشفاء بكلام الله وأسمائه مع التوكل التام على الشافي سبحانه.
+1. تحريم شراء المال المغصوب أو المسروق ممن يعلم غصبه وسرقته لاشتراكه في الإثم والعدوان.
+2. وجوب إنكار المنكر المالي وعدم تشجيع اللصوص والغاصبين على ترويج منهوباتهم في الأسواق.
+
+
 
 </div>
 
@@ -1409,7 +1581,9 @@
 * **Companion Narrator:** Narrated by Abu Hurairah (may Allah be pleased with him)
 * **Canonical Reference:** Al-Mustadrak 'ala al-Sahihayn by al-Hakim (2253), Sunan al-Bayhaqi (10834) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 6185).
 * **Scholarly Grading:** **Al-Mustadrak 'ala al-Sahihayn by al-Hakim (2253), Sunan al-Bayhaqi (10834) — Maktaba Shamela. Grading: Sahih (Al-Albani, Sahih al-Jami' 6185)**
-* **Key Lessons & Takeaways:** Knowingly buying stolen, illicit, or unlawfully confiscated goods makes the buyer an active accessory to theft and corruption.
+* **Key Lessons & Takeaways:**
+Knowingly buying stolen, illicit, or unlawfully confiscated goods makes the buyer an active accessory to theft and corruption.
+
 
 ---
 
@@ -1424,11 +1598,13 @@
 > عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا قَالَ: «لَعَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم الرَّاشِيَ وَالْمُرْتَشِيَ».
 
 * **التَّخْرِيجُ:** Sunan Abi Dawud (3580), Sunan at-Tirmidhi (1337), Sunan Ibn Majah (2313) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan Abi Dawud (3580), Sunan at-Tirmidhi (1337), Sunan Ibn Majah (2313) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. العين حق، ولو كان شيء سابق القدر لسبقته العين؛ وإذا استُغسلتم فاغسلوا.
-2. إثبات تأثير العين والحسد والتوجيه بالتستر والدعاء بالبركة (ما شاء الله لا قوة إلا بالله) والاغتسال لمن أصاب غيره.
+1. لعن رسول الله ﷺ الراشي والمرتشي في الحكم والقضاء والوظائف العامة لإفسادهما الذمم والعدالة.
+2. حرمة الرشوة وتجريم الوساطات المشبوهة التي تهضم الحقوق وتمكن الظالمين من رقاب الضعفاء.
+
+
 
 </div>
 
@@ -1441,7 +1617,9 @@
 * **Companion Narrator:** Narrated by 'Abdullah ibn 'Amr (may Allah be pleased with them both)
 * **Canonical Reference:** Sunan Abi Dawud (3580), Sunan at-Tirmidhi (1337), Sunan Ibn Majah (2313) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan Abi Dawud (3580), Sunan at-Tirmidhi (1337), Sunan Ibn Majah (2313) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** Bribery corrupts judicial and administrative systems, robs deserving citizens of their rights, and incurs direct expulsion from divine mercy.
+* **Key Lessons & Takeaways:**
+Bribery corrupts judicial and administrative systems, robs deserving citizens of their rights, and incurs direct expulsion from divine mercy.
+
 
 ---
 
@@ -1456,11 +1634,13 @@
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: «قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم بِالشُّفْعَةِ فِي كُلِّ مَا لَمْ يُقْسَمْ، فَإِذَا وَقَعَتِ الْحُدُودُ وَصُرِّفَتِ الطُّرُقُ فَلَا شُفْعَةَ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2213), Sahih Muslim (1608) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2213), Sahih Muslim (1608) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الرقى والتمائم والتولة شرك (إذا كانت بغير أسماء الله أو بألفاظ مجهولة أو طلاسم سحرية).
-2. حماية التوحيد من الشعوذة والدجل والتعلق بغير الله تعالى.
+1. ثبوت حق الشفعة للشريك في كل ما لم يقسم من أرض وعقار دفعاً لضرر الشريك الدخيل.
+2. فإذا وقعت الحدود وصُرّفت الطرق وحددت المعالم زال حق الشفعة وانفرد كل مالك بملكه.
+
+
 
 </div>
 
@@ -1473,7 +1653,9 @@
 * **Companion Narrator:** Narrated by Jabir ibn 'Abdullah (may Allah be pleased with them both)
 * **Canonical Reference:** Sahih al-Bukhari (2213), Sahih Muslim (1608) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (2213), Sahih Muslim (1608) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Pre-emption safeguards existing co-owners from suffering harm or undesirable partners in joint real estate.
+* **Key Lessons & Takeaways:**
+Pre-emption safeguards existing co-owners from suffering harm or undesirable partners in joint real estate.
+
 
 ---
 
@@ -1488,11 +1670,13 @@
 > عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ لُقَطَةِ الذَّهَبِ أَوِ الْوَرِقِ، فَقَالَ: «اعْرِفْ وِكَاءَهَا وَعِفَاصَهَا، ثُمَّ عَرِّفْهَا سَنَةً، فَإِنْ لَمْ تُعْرَفْ فَاسْتَنْفِقْهَا، وَلْتَكُنْ وَدِيعَةً عِنْدَكَ، فَإِنْ جَاءَ طَالِبُهَا يَوْمًا مِنَ الدَّهْرِ فَأَدِّهَا إِلَيْهِ».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (2426), Sahih Muslim (1722) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (2426), Sahih Muslim (1722) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. جواز الرقية الشرعية ما لم تكن شركاً؛ 'اعرضوا عليّ رقاكم لا بأس بالرقى ما لم يكن فيه شرك'.
-2. الرقية المباحة تكون بكلام الله، وبأسمائه، وباللسان العربي المفهوم، مع اعتقاد أن الشافي هو الله.
+1. أحكام اللقطة ووجوب تعريفها سنة كاملة في مجامع الناس حفظاً لأمانة أموال المسلمين.
+2. حفظ اللقطة وعفاصها ووكائها، وجواز الانتفاع بها بعد مضي الحول مع ضمان رد مثلها إذا جاء صاحبها.
+
+
 
 </div>
 
@@ -1520,11 +1704,13 @@
 > عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ رَضِيَ اللَّهُ عَنْهُ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اسْتَعْمَلَ ابْنَ اللُّتْبِيَّةِ عَلَى الصَّدَقَةِ، فَلَمَّا قَدِمَ قَالَ: هَذَا لَكُمْ وَهَذَا أُهْدِيَ لِي. فَقَامَ النَّبِيُّ صلى الله عليه وسلم فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ: «مَا بَالُ عَامِلٍ أَبْعَثُهُ فَيَقُولُ: هَذَا لَكُمْ وَهَذَا أُهْدِيَ لِي! أَفَلَا قَعَدَ فِي بَيْتِ أَبِيهِ أَوْ فِي بَيْتِ أُمِّهِ حَتَّى يَنْظُرَ أَيُهْدَى إِلَيْهِ أَمْ لَا؟!».
 
 * **التَّخْرِيجُ:** Sahih al-Bukhari (7174), Sahih Muslim (1832) — Muttafaqun 'Alayh (متفق عليه).
-* **الْحُكْمُ:** Sahih al-Bukhari (7174), Sahih Muslim (1832) — Muttafaqun 'Alayh (متفق عليه).
+* **الْحُكْمُ:** مُتَّفَقٌ عَلَيْهِ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. مسح المريض باليد اليمنى والدعاء له: 'أذهب الباس رب الناس واشفِ أنت الشافي لا شفاء إلا شفاؤك شفاءً لا يغادر سقماً'.
-2. الجمع بين اللمسة الحانية والتضرع الصادق للرب الرحيم.
+1. هدايا العمال والمسؤولين غلول وخيانة؛ تحريم استغلال النفوذ والمنصب لتحقيق مكاسب شخصية.
+2. ترسيخ مبدأ النزاهة الإدارية والمالية ومحاسبة الموظفين والأمناء على كل درهم زائد عن أجرهم.
+
+
 
 </div>
 
@@ -1537,7 +1723,9 @@
 * **Companion Narrator:** Narrated by Abu Humayd as-Sa'idi (may Allah be pleased with him)
 * **Canonical Reference:** Sahih al-Bukhari (7174), Sahih Muslim (1832) — Muttafaqun 'Alayh (متفق عليه).
 * **Scholarly Grading:** **Sahih al-Bukhari (7174), Sahih Muslim (1832) — Muttafaqun 'Alayh (متفق عليه)**
-* **Key Lessons & Takeaways:** Public servants, corporate procurement agents, and auditors are forbidden from accepting gifts associated with their official position, as it constitutes corrupt breach of trust (Ghulul).
+* **Key Lessons & Takeaways:**
+Public servants, corporate procurement agents, and auditors are forbidden from accepting gifts associated with their official position, as it constitutes corrupt breach of trust (Ghulul).
+
 
 ---
 
@@ -1552,11 +1740,13 @@
 > عَنْ عَمْرِو بْنِ عَوْفٍ الْمُزَنِيِّ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: «الصُّلْحُ جَائِزٌ بَيْنَ الْمُسْلِمِينَ، إِلَّا صُلْحًا حَرَّمَ حَلَالًا، أَوْ أَحَلَّ حَرَامًا، وَالْمُسْلِمُونَ عَلَى شُرُوطِهِمْ، إِلَّا شَرْطًا حَرَّمَ حَلَالًا، أَوْ أَحَلَّ حَرَامًا».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (1352), Sunan Abi Dawud (3594) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (1352), Sunan Abi Dawud (3594) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. إذا اشتكى العبد عضواً من جسده فليضع يده عليه وليقل: 'بسم الله' ثلاثاً، و'أعوذ بالله وقدرته من شر ما أجد وأحاذر' سبع مرات.
-2. العلاج الروحي الذاتي السهل الذي يعلم المسلم كيف يرقي نفسه مباشرة.
+1. المسلمون عند شروطهم إلا شرطاً أحل حراماً أو حرّم حلالاً، ووجوب الوفاء بالعهود التعاقدية.
+2. بطلان الشروط المخالفة لكتاب الله وسنة رسوله ﷺ وإن تكررت في العقود والاتفاقيات.
+
+
 
 </div>
 
@@ -1569,7 +1759,9 @@
 * **Companion Narrator:** Narrated by 'Amr ibn 'Awf al-Muzani (may Allah be pleased with him)
 * **Canonical Reference:** Sunan at-Tirmidhi (1352), Sunan Abi Dawud (3594) — Maktaba Shamela. Grading: Sahih (Al-Albani).
 * **Scholarly Grading:** **Sunan at-Tirmidhi (1352), Sunan Abi Dawud (3594) — Maktaba Shamela. Grading: Sahih (Al-Albani)**
-* **Key Lessons & Takeaways:** Pacta sunt servanda: Muslims must scrupulously fulfill business terms, service-level agreements, and covenants unless they contradict clear Islamic law.
+* **Key Lessons & Takeaways:**
+Pacta sunt servanda: Muslims must scrupulously fulfill business terms, service-level agreements, and covenants unless they contradict clear Islamic law.
+
 
 ---
 
@@ -1584,11 +1776,12 @@
 > عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ فِي خُطْبَتِهِ عَامَ حَجَّةِ الْوَدَاعِ: «الْعَارِيَّةُ مُؤَدَّاةٌ، وَالْمِنْحَةُ مَرْدُودَةٌ، وَالدَّيْنُ مَقْضِيٌّ، وَالزَّعِيمُ غَارِمٌ».
 
 * **التَّخْرِيجُ:** Sunan at-Tirmidhi (1265), Sunan Abi Dawud (3565) — Maktaba Shamela. Grading: Sahih (Al-Albani).
-* **الْحُكْمُ:** Sunan at-Tirmidhi (1265), Sunan Abi Dawud (3565) — Maktaba Shamela. Grading: Sahih (Al-Albani).
+* **الْحُكْمُ:** صَحِيحٌ
 
 * **الْفَوَائِدُ وَالْعِبَرُ:**
-1. الحمى من فيح جهنم فأبردوها بالماء البارد.
-2. الهدي النبوي العلمي في استخدام الكمادات المائية الباردة لخفض درجات الحرارة المرتفعة.
+1. وجوب رد الأمانات والحقوق: العارية مؤداة، والمنحة مردودة، والدين مقضي، والزعيم غارم وضامن.
+2. شمولية المسؤولية المالية والأخلاقية في الإسلام لضمان الثقة وحفظ أموال الناس من التلف والضياع.
+
 
 </div>
 
